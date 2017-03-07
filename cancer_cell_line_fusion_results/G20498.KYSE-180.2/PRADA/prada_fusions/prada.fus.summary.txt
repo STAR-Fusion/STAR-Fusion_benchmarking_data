@@ -1,0 +1,1 @@
+Gene_A	Gene_B	A_chr	B_chr	A_strand	B_strand	Discordant_n	JSR_n	perfectJSR_n	Junc_n	Position_Consist	Junction

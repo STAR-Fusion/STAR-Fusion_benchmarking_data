@@ -1,0 +1,2 @@
+Gene_A	Gene_B	A_chr	B_chr	A_strand	B_strand	Discordant_n	JSR_n	perfectJSR_n	Junc_n	Position_Consist	Junction	Identity	Align_Len	Evalue	BitScore
+ACTB	ACTG1	7	17	-1	-1	17	2	2	2	PARTIALLY	ACTB:7:5567912_ACTG1:17:79478134,1|ACTB:7:5567635_ACTG1:17:79477859,1	91.19	1135	0.0	1597

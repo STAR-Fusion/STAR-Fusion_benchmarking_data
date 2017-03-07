@@ -1,0 +1,7 @@
+"sample","fusion genes","chrom1","base1","chrom2","base2","gap (kb)","spanning pairs","spanning reads","inframe","aligns","rearrangement","contig","contig break","classification","known"
+"jaffa-direct","H3F3B:GNB1","chr17",73775839,"chr1",1736020,Inf,"0",238,FALSE,TRUE,TRUE,"Locus_1315_Transcript_19/24_Confidence_0.197_Length_4574",2689,"MediumConfidence","-"
+"jaffa-direct","RP11-96H19.1:RP11-446N19.1","chr12",46781755,"chr12",47046173,264.428,"-",9,FALSE,TRUE,FALSE,"Locus_19870_Transcript_1/5_Confidence_0.400_Length_367",261,"MediumConfidence","-"
+"jaffa-direct","PPP1R12C:PPP6R1","chr19",55610152,"chr19",55758477,148.324,"0",2,TRUE,TRUE,TRUE,"Locus_1582_Transcript_8/10_Confidence_0.352_Length_4020",693,"MediumConfidence","-"
+"jaffa-direct","RPS3:MT-CYB","chr11",75111826,"chrM",15488,Inf,"1",95,NA,FALSE,TRUE,"Locus_682_Transcript_16/42_Confidence_0.064_Length_2484",2007,"LowConfidence","-"
+"jaffa-direct","NPTXR:RPL21","chr22",39218052,"chr13",27827900,Inf,"1",7,NA,FALSE,TRUE,"Locus_578_Transcript_11/23_Confidence_0.216_Length_2124",1499,"LowConfidence","-"
+"jaffa-direct","CBX3P2:CBX3","chr18",2652656,"chr7",26251283,Inf,"1",2,NA,FALSE,TRUE,"Locus_2201_Transcript_36/39_Confidence_0.176_Length_2441",741,"LowConfidence","-"

@@ -1,0 +1,2 @@
+"sample","fusion genes","chrom1","base1","chrom2","base2","gap (kb)","spanning pairs","spanning reads","inframe","aligns","rearrangement","contig","contig break","classification","known"
+"jaffa-direct","TRIO:EXOC4","chr5",14287172,"chr7",132973676,Inf,"-",1,TRUE,TRUE,TRUE,"Locus_26196_Transcript_2/2_Confidence_0.000_Length_197",118,"MediumConfidence","-"

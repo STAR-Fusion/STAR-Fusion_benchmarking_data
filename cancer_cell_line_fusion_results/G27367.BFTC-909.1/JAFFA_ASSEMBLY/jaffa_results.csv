@@ -1,0 +1,7 @@
+"sample","fusion genes","chrom1","base1","chrom2","base2","gap (kb)","spanning pairs","spanning reads","inframe","aligns","rearrangement","contig","contig break","classification","known"
+"jaffa-direct","CTB-55O6.12:FAM195B","chr19",14266291,"chr17",79782430,Inf,"0",6,FALSE,TRUE,TRUE,"Locus_6576_Transcript_2/5_Confidence_0.533_Length_1275",884,"MediumConfidence","-"
+"jaffa-direct","MCM9:ASF1A","chr6",119232815,"chr6",119221931,10.885,"-",2,TRUE,TRUE,TRUE,"Locus_7658_Transcript_3/4_Confidence_0.148_Length_632",102,"MediumConfidence","-"
+"jaffa-direct","ARHGAP31:CBLB","chr3",119013851,"chr3",105423017,13590.835,"-",1,FALSE,TRUE,TRUE,"Locus_6878_Transcript_6/9_Confidence_0.034_Length_355",146,"MediumConfidence","-"
+"jaffa-direct","MCU:C3orf33","chr10",74628621,"chr3",155520380,Inf,"-",1,TRUE,TRUE,TRUE,"Locus_4571_Transcript_5/6_Confidence_0.081_Length_1102",973,"MediumConfidence","-"
+"jaffa-direct","PITPNB:MINA","chr22",28290543,"chr3",97686476,Inf,"-",1,TRUE,TRUE,TRUE,"Locus_4561_Transcript_5/13_Confidence_0.369_Length_4066",159,"MediumConfidence","-"
+"jaffa-direct","RP11-345P4.7:NSF","chr1",1604749,"chr17",44799514,Inf,"1",5,NA,FALSE,TRUE,"Locus_461_Transcript_27/50_Confidence_0.093_Length_1484",614,"LowConfidence","-"

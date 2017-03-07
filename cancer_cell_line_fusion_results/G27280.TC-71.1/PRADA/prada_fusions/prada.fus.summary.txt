@@ -1,0 +1,2 @@
+Gene_A	Gene_B	A_chr	B_chr	A_strand	B_strand	Discordant_n	JSR_n	perfectJSR_n	Junc_n	Position_Consist	Junction	Identity	Align_Len	Evalue	BitScore
+EWSR1	FLI1	22	11	1	1	22	45	5	2	PARTIALLY	EWSR1:22:29683123_FLI1:11:128675261,44|EWSR1:22:29683123_FLI1:11:128679052,1	92.86	14	4.5	21.1

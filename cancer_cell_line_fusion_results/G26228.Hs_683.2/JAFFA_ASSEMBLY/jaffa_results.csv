@@ -1,0 +1,4 @@
+"sample","fusion genes","chrom1","base1","chrom2","base2","gap (kb)","spanning pairs","spanning reads","inframe","aligns","rearrangement","contig","contig break","classification","known"
+"jaffa-direct","RP11-155G15.2:RP11-1E3.1","chr5",96767604,"chr5",97004255,236.654,"0",2,FALSE,TRUE,FALSE,"Locus_23650_Transcript_1/1_Confidence_0.500_Length_600",323,"MediumConfidence","-"
+"jaffa-direct","TMLHE:CLIC2","chrX",154842453,"chrX",154528458,313.999,"-",1,FALSE,TRUE,FALSE,"Locus_4415_Transcript_1/2_Confidence_0.200_Length_619",90,"MediumConfidence","-"
+"jaffa-direct","PPP1R14B:MRPS9","chr11",64012706,"chr2",105654538,Inf,"1",36,NA,FALSE,TRUE,"Locus_3589_Transcript_5/6_Confidence_0.486_Length_2327",606,"LowConfidence","-"

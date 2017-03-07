@@ -1,0 +1,2 @@
+Gene_A	Gene_B	A_chr	B_chr	A_strand	B_strand	Discordant_n	JSR_n	perfectJSR_n	Junc_n	Position_Consist	Junction	Identity	Align_Len	Evalue	BitScore
+EFNA5	IKBKB	5	8	-1	1	2	2	2	1	PARTIALLY	EFNA5:5:107006190_IKBKB:8:42147674,2	100.00	12	2.0	22.9

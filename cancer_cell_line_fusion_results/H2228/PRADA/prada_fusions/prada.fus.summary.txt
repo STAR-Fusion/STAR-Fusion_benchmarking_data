@@ -1,0 +1,2 @@
+Gene_A	Gene_B	A_chr	B_chr	A_strand	B_strand	Discordant_n	JSR_n	perfectJSR_n	Junc_n	Position_Consist	Junction	Identity	Align_Len	Evalue	BitScore
+AC009053.1	PDPR	16	16	-1	1	4	3	3	2	PARTIALLY	AC009053.1:16:74385938_PDPR:16:70166054,2|AC009053.1:16:74385938_PDPR:16:70165205,1	98.42	761	0.0	1319

@@ -1,0 +1,7 @@
+"sample","fusion genes","chrom1","base1","chrom2","base2","gap (kb)","spanning pairs","spanning reads","inframe","aligns","rearrangement","contig","contig break","classification","known"
+"jaffa-direct","BSG:NFIX","chr19",580782,"chr19",13135835,12555.058,"15",12,TRUE,TRUE,FALSE,"Locus_1088_Transcript_44/66_Confidence_0.370_Length_5991",509,"HighConfidence","Yes"
+"jaffa-direct","PPP1R12A:SEPT10","chr12",80211174,"chr2",110343415,Inf,"1",1,TRUE,TRUE,TRUE,"Locus_6266_Transcript_4/4_Confidence_0.000_Length_500",379,"HighConfidence","Yes"
+"jaffa-direct","INIP:C5","chr9",115478741,"chr9",123719646,8240.903,"0",3,TRUE,TRUE,TRUE,"Locus_4833_Transcript_2/5_Confidence_0.429_Length_335",219,"MediumConfidence","-"
+"jaffa-direct","NOTCH1:NUP214","chr9",139438476,"chr9",134062676,5375.801,"-",1,TRUE,TRUE,TRUE,"Locus_163_Transcript_98/117_Confidence_0.054_Length_3183",76,"MediumConfidence","Yes"
+"jaffa-direct","NPRL2:NOLC1","chr3",50385841,"chr10",103912161,Inf,"-",1,FALSE,TRUE,TRUE,"Locus_6089_Transcript_6/7_Confidence_0.600_Length_2416",94,"MediumConfidence","-"
+"jaffa-direct","UBB:UBC","chr17",16286030,"chr12",125396331,Inf,"129",6,NA,FALSE,TRUE,"Locus_1990_Transcript_10/11_Confidence_0.550_Length_560",142,"LowConfidence","-"

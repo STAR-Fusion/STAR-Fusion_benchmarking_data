@@ -1,0 +1,2 @@
+Gene_A	Gene_B	A_chr	B_chr	A_strand	B_strand	Discordant_n	JSR_n	perfectJSR_n	Junc_n	Position_Consist	Junction	Identity	Align_Len	Evalue	BitScore
+SSH2	STK11	17	19	-1	1	13	31	23	2	PARTIALLY	SSH2:17:28256956_STK11:19:1218416,20|SSH2:17:28175867_STK11:19:1218416,11	100.00	12	3.8	22.9

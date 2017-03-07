@@ -1,0 +1,2 @@
+"sample","fusion genes","chrom1","base1","chrom2","base2","gap (kb)","spanning pairs","spanning reads","inframe","aligns","rearrangement","contig","contig break","classification","known"
+"jaffa-direct","SSH2:STK11","chr17",28256956,"chr19",1218416,Inf,8,23,FALSE,TRUE,TRUE,"Locus_7420_Transcript_2/2_Confidence_0.455_Length_1677",348,"HighConfidence","-"

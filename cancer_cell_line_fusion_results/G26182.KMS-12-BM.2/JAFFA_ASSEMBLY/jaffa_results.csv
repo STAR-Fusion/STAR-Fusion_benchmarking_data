@@ -1,0 +1,5 @@
+"sample","fusion genes","chrom1","base1","chrom2","base2","gap (kb)","spanning pairs","spanning reads","inframe","aligns","rearrangement","contig","contig break","classification","known"
+"jaffa-direct","C17orf76-AS1:TTBK2","chr17",16342728,"chr15",43132631,Inf,"-",12,FALSE,TRUE,TRUE,"Locus_1866_Transcript_9/9_Confidence_0.076_Length_1257",170,"MediumConfidence","-"
+"jaffa-direct","DENND1A:CLIP1","chr9",126519982,"chr12",122865105,Inf,"-",3,FALSE,TRUE,TRUE,"Locus_5664_Transcript_1/8_Confidence_0.139_Length_1126",137,"MediumConfidence","-"
+"jaffa-direct","CALR:UBA3","chr19",13054652,"chr3",69129524,Inf,"1",61,NA,FALSE,TRUE,"Locus_479_Transcript_12/20_Confidence_0.153_Length_3471",1244,"LowConfidence","-"
+"jaffa-direct","RP11-152F13.7:CSPG4P8","chr15",82974085,"chr15",82765751,208.334,"3",4,NA,FALSE,TRUE,"Locus_2004_Transcript_8/15_Confidence_0.510_Length_2247",1242,"LowConfidence","-"

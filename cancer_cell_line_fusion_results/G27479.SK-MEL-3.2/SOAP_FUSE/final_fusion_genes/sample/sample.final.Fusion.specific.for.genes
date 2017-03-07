@@ -1,0 +1,8 @@
+up_gene	up_chr	up_strand	up_Genome_pos	up_loc	dw_gene	dw_chr	dw_strand	dw_Genome_pos	dw_loc	Span_reads_num	Junc_reads_num	Fusion_Type	down_fusion_part_frame-shift_or_not
+CANX	chr5	+	179153741	M	PTMA	chr2	+	232576635	M	2	3	INTERCHR-SS	inframe-shift
+CLN6	chr15	-	68501975	E	CALML4	chr15	-	68492019	E	5	1	INTRACHR-SS-OGO-0GAP	frame-shift
+FTO	chr16	+	53738141	E	RSPRY1	chr16	+	57269036	E	5	28	INTRACHR-SS-OGO-49GAP	frame-shift
+MKLN1-AS1	chr7	-	130630479	E	MIR29B1	chr7	-	130596911	E	2	2	INTRACHR-SS-OGO-1GAP	NA
+PRKAA1	chr5	-	40764616	E	TTC33	chr5	-	40747121	E	1	2	INTRACHR-SS-OGO-0GAP	frame-shift
+SDF4	chr1	-	1164207	M	MIR4461	chr5	-	134264007	M	2	3	INTERCHR-SS	NA
+SUMO3	chr21	-	46226817	M	UBE2G2	chr21	-	46208010	E	2	3	INTRACHR-SS-OGO-0GAP	NA
