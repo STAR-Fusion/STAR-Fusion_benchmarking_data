@@ -125,6 +125,8 @@ sub score_and_plot {
         $cmd .= " --allow_paralogs $benchmark_data_basedir/resources/paralog_clusters.dat ";
     }
 
+    $cmd .= " > $target_input_file.scored";
+    
     &process_cmd($cmd);
 
 
