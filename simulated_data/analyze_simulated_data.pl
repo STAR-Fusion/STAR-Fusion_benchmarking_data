@@ -2,6 +2,7 @@
 
 use strict;
 use warnings;
+use Carp;
 use FindBin;
 use Cwd;
 use File::Basename;
@@ -57,12 +58,7 @@ my $fusion_annotator_basedir = $ENV{FUSION_ANNOTATOR};
 
 main: {
 
-    my $pipeliner = new Pipeliner(-verbose => 2, -log => 'pipe.log');
-    my $checkpoint_dir = cwd() . "/_checkpoints";
-    unless (-d $checkpoint_dir) {
-        mkdir $checkpoint_dir or die "Error, cannot mkdir $checkpoint_dir";
-    }
-    $pipeliner->set_checkpoint_dir($checkpoint_dir);
+    my $pipeliner = &init_pipeliner();
     
     ## create file listing
     my $cmd = "find ./samples -type f | $benchmark_data_basedir/util/make_file_listing_input_table.pl > fusion_result_file_listing.dat";
@@ -96,13 +92,13 @@ main: {
     ######  Scoring of fusions #######
     
     # score strictly
-    &score_and_plot("preds.collected.gencode_mapped.wAnnot.filt", $sim_truth_set, 'analyze_strict', { allow_reverse_fusion => 0, allow_paralogs => 0 } );
+    &score_and_plot_replicates("preds.collected.gencode_mapped.wAnnot.filt", $sim_truth_set, 'analyze_strict', { allow_reverse_fusion => 0, allow_paralogs => 0 } );
     
     # score allow reverse fusion
-    &score_and_plot("preds.collected.gencode_mapped.wAnnot.filt", $sim_truth_set, 'analyze_allow_reverse', { allow_reverse_fusion => 1, allow_paralogs => 0 } );
+    &score_and_plot_replicates("preds.collected.gencode_mapped.wAnnot.filt", $sim_truth_set, 'analyze_allow_reverse', { allow_reverse_fusion => 1, allow_paralogs => 0 } );
 
     # score allow reverse and allow for paralog-equivalence
-    &score_and_plot("preds.collected.gencode_mapped.wAnnot.filt", $sim_truth_set, 'analyze_allow_rev_and_paralogs', { allow_reverse_fusion => 1, allow_paralogs => 1 } );
+    &score_and_plot_replicates("preds.collected.gencode_mapped.wAnnot.filt", $sim_truth_set, 'analyze_allow_rev_and_paralogs', { allow_reverse_fusion => 1, allow_paralogs => 1 } );
     
     
     exit(0);
@@ -112,7 +108,7 @@ main: {
 
 
 ####
-sub score_and_plot {
+sub score_and_plot_replicates {
     my ($input_file, $truth_set, $analysis_token, $analysis_settings_href) = @_;
     
     $input_file = &ensure_full_path($input_file);
@@ -128,28 +124,43 @@ sub score_and_plot {
     
     
     my %sample_to_truth = &parse_truth_set($truth_set);
-    my %sample_to_fusion_preds = &parse_fusion_preds("../$input_file");
 
+    my $preds_header = "";
+    my %sample_to_fusion_preds = &parse_fusion_preds($input_file, \$preds_header); # updates hte preds_header value to header of file.
+    
     
     foreach my $sample_type (keys %sample_to_truth) {
         my $sample_checkpoint = "$sample_type.ok";
         if (! -e $sample_checkpoint) {
-            &examine_sample($sample_type, $sample_to_truth{$sample_type}, $sample_to_fusion_preds{$sample_type}, $analysis_settings_href);
+            &examine_sample($sample_type, $sample_to_truth{$sample_type}, $sample_to_fusion_preds{$sample_type}, $analysis_settings_href, $preds_header);
             &process_cmd("touch $sample_checkpoint");
         }
     }
     
-    chdir $base_workdir or die "Error, cannot cd back to $base_workdir";
     
     ## generate summary accuracy box plots
+    
+    my $pipeliner = &init_pipeliner();
+
+    my $cmd = 'find . -regex ".*.scored.PR.AUC" -exec cat {} \\; > all.AUC.dat';
+    $pipeliner->add_commands(new Command($cmd, "gather_AUC.ok"));
+    
+    $cmd = "$benchmark_toolkit_basedir/plotters/AUC_boxplot.from_single_summary_AUC_file.Rscript all.AUC.dat";
+    $pipeliner->add_commands(new Command($cmd, "boxplot_rep_aucs.ok"));
+    
+    $pipeliner->run();
 
 
+    
+    chdir $base_workdir or die "Error, cannot cd back to $base_workdir";
+    
+    
     return;
 }
     
 ####
 sub examine_sample {
-    my ($sample_type, $sample_truth_href, $sample_to_fusion_preds_text, $analysis_settings_href) = @_;
+    my ($sample_type, $sample_truth_href, $sample_to_fusion_preds_text, $analysis_settings_href, $preds_header) = @_;
 
     my $basedir = cwd();
 
@@ -175,6 +186,7 @@ sub examine_sample {
                 
         {
             open (my $ofh, ">$fusion_preds_file") or die "Error, cannot write to $fusion_preds_file";
+            print $ofh $preds_header;
             print $ofh $sample_to_fusion_preds_text;
             close $ofh;
         }
@@ -184,13 +196,8 @@ sub examine_sample {
 
 
     ## run analysis pipeline
-    my $pipeliner = new Pipeliner(-verbose => 2, -cmds_log => 'pipe.log');
-    my $checkpoint_dir = cwd() . "/_checkpoints";
-    unless (-d $checkpoint_dir) {
-        mkdir $checkpoint_dir or die "Error, cannot mkdir $checkpoint_dir";
-    }
-    $pipeliner->set_checkpoint_dir($checkpoint_dir);
-    
+    my $pipeliner = &init_pipeliner();
+
     ##################
     # score TP, FP, FN
     
@@ -224,7 +231,7 @@ sub examine_sample {
     $pipeliner->add_commands(new Command($cmd, "pr.ok"));
 
     # plot PR  curve
-    $cmd = "$benchmark_toolkit_basedir/plotters/plotPRcurves.R $fusion_preds_file.scored.PR";
+    $cmd = "$benchmark_toolkit_basedir/plotters/plotPRcurves.R $fusion_preds_file.scored.PR $fusion_preds_file.scored.PR.plot.pdf";
     $pipeliner->add_commands(new Command($cmd, "plot_pr.ok"));
     
     # plot AUC barplot
@@ -238,5 +245,65 @@ sub examine_sample {
         
     return;
         
+}
+
+sub parse_truth_set {
+    my ($tp_fusions_file) = @_;
+
+    my %sample_to_truth;
+
+    open(my $fh, $tp_fusions_file) or die "Error, cannot open file $tp_fusions_file";
+    while (<$fh>) {
+        chomp;
+        my $full_fusion_name = $_;
+
+        my ($sample_name, $core_fusion_name) = split(/\|/, $full_fusion_name);
+
+        $sample_to_truth{$sample_name}->{$full_fusion_name} = 1;
+    }
+    close $fh;
+
+    return(%sample_to_truth);
+
+}
+
+
+####
+sub parse_fusion_preds {
+    my ($preds_file, $preds_header_sref) = @_;
+
+    my %sample_to_preds;
+    {
+        open (my $fh, $preds_file) or confess "Error, cannot open file $preds_file";
+        my $header = <$fh>;
+        unless ($header =~ /^sample/) {
+            confess "Error, didn't parse expected header from file: $preds_file";
+        }
+        $$preds_header_sref = $header;
+        
+        while (<$fh>) {
+            my $line = $_;
+            my @x = split(/\t/);
+            my $sample_name = $x[0];
+            $sample_to_preds{$sample_name} .= $line;
+        }
+        close $fh;
+    }
+
+    return(%sample_to_preds);
+}
+
+
+####
+sub init_pipeliner {
+    
+    my $pipeliner = new Pipeliner(-verbose => 2, -cmds_log => 'pipe.log');
+    my $checkpoint_dir = cwd() . "/_checkpoints";
+    unless (-d $checkpoint_dir) {
+        mkdir $checkpoint_dir or die "Error, cannot mkdir $checkpoint_dir";
+    }
+    $pipeliner->set_checkpoint_dir($checkpoint_dir);
+
+    return($pipeliner);
 }
 
