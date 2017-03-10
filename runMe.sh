@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -ev
+set -e
 
 
 ## Run analyses first for the simulated data and then for the cancer cell line data.
