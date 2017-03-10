@@ -33,11 +33,14 @@ unless ($ENV{FUSION_ANNOTATOR}) {
     }
 }
 
+unless ($ENV{TRINITY_HOME}) {
+    die "Error, must specify env var TRINITY_HOME to trinity base installation directory";
+}
+
 
 if (basename(cwd()) !~ /^sim_(50|101)/) {
     die "Error, must run this while in the sim_50 or sim_101 directory.";
 }
-
 
 
 my $usage = "\n\n\tusage: $0  sim.truth.dat sim.fusion_TPM_values.dat\n\n";
@@ -53,7 +56,7 @@ $sim_fusion_TPM_values = &ensure_full_path($sim_fusion_TPM_values);
 my $benchmark_data_basedir = "$FindBin::Bin/..";
 my $benchmark_toolkit_basedir = $ENV{FUSION_SIMULATOR} . "/benchmarking";
 my $fusion_annotator_basedir = $ENV{FUSION_ANNOTATOR};
-
+my $trinity_home = $ENV{TRINITY_HOME};
 
 
 main: {
@@ -73,7 +76,6 @@ main: {
         . " preds.collected "
         . " $benchmark_data_basedir/resources/genes.coords "
         . " $benchmark_data_basedir/resources/genes.aliases "
-        . " $sim_truth_set "
         . " > preds.collected.gencode_mapped ";
 
     $pipeliner->add_commands(new Command($cmd, "gencode_mapped.ok"));
@@ -92,13 +94,25 @@ main: {
     ######  Scoring of fusions #######
     
     # score strictly
-    &score_and_plot_replicates("preds.collected.gencode_mapped.wAnnot.filt", $sim_truth_set, 'analyze_strict', { allow_reverse_fusion => 0, allow_paralogs => 0 } );
+    &score_and_plot_replicates("preds.collected.gencode_mapped.wAnnot.filt", 
+                               $sim_truth_set, 
+                               $sim_fusion_TPM_values,
+                               'analyze_strict', 
+                               { allow_reverse_fusion => 0, allow_paralogs => 0 } );
     
     # score allow reverse fusion
-    &score_and_plot_replicates("preds.collected.gencode_mapped.wAnnot.filt", $sim_truth_set, 'analyze_allow_reverse', { allow_reverse_fusion => 1, allow_paralogs => 0 } );
+    &score_and_plot_replicates("preds.collected.gencode_mapped.wAnnot.filt", 
+                               $sim_truth_set, 
+                               $sim_fusion_TPM_values,
+                               'analyze_allow_reverse', 
+                               { allow_reverse_fusion => 1, allow_paralogs => 0 } );
 
     # score allow reverse and allow for paralog-equivalence
-    &score_and_plot_replicates("preds.collected.gencode_mapped.wAnnot.filt", $sim_truth_set, 'analyze_allow_rev_and_paralogs', { allow_reverse_fusion => 1, allow_paralogs => 1 } );
+    &score_and_plot_replicates("preds.collected.gencode_mapped.wAnnot.filt", 
+                               $sim_truth_set, 
+                               $sim_fusion_TPM_values,
+                               'analyze_allow_rev_and_paralogs', 
+                               { allow_reverse_fusion => 1, allow_paralogs => 1 } );
     
     
     exit(0);
@@ -109,7 +123,7 @@ main: {
 
 ####
 sub score_and_plot_replicates {
-    my ($input_file, $truth_set, $analysis_token, $analysis_settings_href) = @_;
+    my ($input_file, $truth_set, $fusion_TPMs, $analysis_token, $analysis_settings_href, ) = @_;
     
     $input_file = &ensure_full_path($input_file);
         
@@ -147,14 +161,24 @@ sub score_and_plot_replicates {
     
     $cmd = "$benchmark_toolkit_basedir/plotters/AUC_boxplot.from_single_summary_AUC_file.Rscript all.AUC.dat";
     $pipeliner->add_commands(new Command($cmd, "boxplot_rep_aucs.ok"));
-    
+
+    $cmd = 'find . -regex ".*.scored" -exec cat {} \\; > all.scored';
+    $pipeliner->add_commands(new Command($cmd, "gather_scores.ok"));
+
+    $cmd = "$benchmark_toolkit_basedir/fusion_preds_sensitivity_vs_expr.avg_replicates.pl all.scored $fusion_TPMs > all.scored.sensitivity_vs_expr.dat";
+    $pipeliner->add_commands(new Command($cmd, "sens_vs_expr.avg_reps.ok"));
+
+    $cmd = "$trinity_home/Analysis/DifferentialExpression/PtR  "
+        . " -m all.scored.sensitivity_vs_expr.dat "
+        . " --heatmap "
+        . " --sample_clust none "
+        . " --heatmap_colorscheme 'black,yellow'";
+    $pipeliner->add_commands(new Command($cmd, "sens_expr_heatmap.ok"));
+        
     $pipeliner->run();
-
-
     
     chdir $base_workdir or die "Error, cannot cd back to $base_workdir";
-    
-    
+        
     return;
 }
     
