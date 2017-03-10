@@ -1,0 +1,15 @@
+ChimPipe
+ChimeraScan
+EricScript
+FusionCatcher
+FusionHunter
+InFusion
+JAFFA-Assembly
+JAFFA-Direct
+MapSplice
+PRADA
+SOAP-fuse
+STAR-Fusion
+TopHat-Fusion
+deFuse
+nFuse

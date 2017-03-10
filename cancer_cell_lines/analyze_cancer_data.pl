@@ -77,9 +77,16 @@ main: {
     # filter HLA and mitochondrial features
     $cmd = "$benchmark_toolkit_basedir/filter_collected_preds.pl preds.collected.gencode_mapped.wAnnot > preds.collected.gencode_mapped.wAnnot.filt";
     $pipeliner->add_commands(new Command($cmd, "filter_fusion_annot.ok"));
+    
+    # generate and plot correlation matrix for predicted fusions by prog
+    $cmd = "$benchmark_toolkit_basedir/fusion_preds_to_matrix.pl preds.collected.gencode_mapped.wAnnot.filt > preds.collected.gencode_mapped.wAnnot.filt.matrix";
+    $pipeliner->add_commands(new Command($cmd, "pred_cor_matrix.ok"));
 
+    $cmd = "$trinity_home/Analysis/DifferentialExpression/PtR  -m preds.collected.gencode_mapped.wAnnot.filt.matrix --binary --sample_cor_matrix --heatmap_colorscheme 'black,yellow' ";
+    $pipeliner->add_commands(new Command($cmd, "pred_cor_matrix_plot.ok"));
+    
     # capture counts of progs agree:
-    $cmd = "$benchmark_toolkit_basedir/collected_preds_to_fusion_prog_support_listing.pl preds.collected.gencode_mapped.wAnnot.filt > preds.collected.gencode_mapped.wAnnot.filt.byProgAgree";
+    $cmd = "$benchmark_toolkit_basedir/collected_preds_to_fusion_prog_support_listing.pl preds.collected.gencode_mapped.wAnnot.filt progs_select.txt > preds.collected.gencode_mapped.wAnnot.filt.byProgAgree";
     $pipeliner->add_commands(new Command($cmd, "byProgAgree.ok"));
     
     $pipeliner->run();
@@ -136,7 +143,7 @@ sub score_and_plot {
                                 { allow_paralogs => 0, unsure_fusions => $min_agree_unsure_set },
                                 { allow_paralogs => 1, unsure_fusions => $min_agree_unsure_set } ) {
 
-        &evaluate_predictions($input_file, $min_agree_truth_set, $settings_href);
+        &evaluate_predictions($min_agree, $input_file, $min_agree_truth_set, $settings_href);
 
     }
 
@@ -147,9 +154,10 @@ sub score_and_plot {
 
 ####
 sub evaluate_predictions {
-    my ($input_file, $min_agree, $analysis_settings_href) = @_;
+    my ($min_agree, $input_file, $min_agree_truth_set, $analysis_settings_href) = @_;
 
     my $output_filename = "min_${min_agree}";
+    my $checkpoint_token = "min_${min_agree}";
     {
         my @analysis_token_pts;
         if ($analysis_settings_href->{allow_paralogs}) {
@@ -161,6 +169,7 @@ sub evaluate_predictions {
         if (@analysis_token_pts) {
             my $analysis_token = join("_", @analysis_token_pts);
             $output_filename .= ".$analysis_token";
+            $checkpoint_token .= ".$analysis_token";
         }
     }
     $output_filename .= ".results";
@@ -171,7 +180,7 @@ sub evaluate_predictions {
     ##################
     # score TP, FP, FN
     
-    my $cmd = "$benchmark_toolkit_basedir/fusion_preds_to_TP_FP_FN.pl --truth_fusions $min_agree --fusion_preds $input_file";
+    my $cmd = "$benchmark_toolkit_basedir/fusion_preds_to_TP_FP_FN.pl --truth_fusions $min_agree_truth_set --fusion_preds $input_file";
 
     $cmd .= " --allow_reverse_fusion "; # always do this here. Sim data shows it's important for some progs.
     
@@ -185,32 +194,32 @@ sub evaluate_predictions {
 
     $cmd .= " > $output_filename.scored";
 
-    $pipeliner->add_commands(new Command($cmd, "tp_fp_fn.ok"));
+    $pipeliner->add_commands(new Command($cmd, "$checkpoint_token.tp_fp_fn.ok"));
 
     ##############
     # generate ROC
     
     $cmd = "$benchmark_toolkit_basedir/all_TP_FP_FN_to_ROC.pl $output_filename.scored > $output_filename.scored.ROC"; 
-    $pipeliner->add_commands(new Command($cmd, "roc.ok"));
+    $pipeliner->add_commands(new Command($cmd, "$checkpoint_token.roc.ok"));
     
     # plot ROC
     $cmd = "$benchmark_toolkit_basedir/plotters/plot_ROC.Rscript $output_filename.scored.ROC";
-    $pipeliner->add_commands(new Command($cmd, "plot_roc.ok"));
+    $pipeliner->add_commands(new Command($cmd, "$checkpoint_token.plot_roc.ok"));
 
     ###################################
     # convert to Precision-Recall curve
 
     $cmd = "$benchmark_toolkit_basedir/calc_PR.py --in_ROC $output_filename.scored.ROC --out_PR $output_filename.scored.PR | sort -k2,2gr > $output_filename.scored.PR.AUC";
-    $pipeliner->add_commands(new Command($cmd, "pr.ok"));
-
-    # plot PR  curve
+    $pipeliner->add_commands(new Command($cmd, "$checkpoint_token.pr.ok"));
+    
+    # plot PR curve
     $cmd = "$benchmark_toolkit_basedir/plotters/plotPRcurves.R $output_filename.scored.PR $output_filename.scored.PR.plot.pdf";
-    $pipeliner->add_commands(new Command($cmd, "plot_pr.ok"));
+    $pipeliner->add_commands(new Command($cmd, "$checkpoint_token.plot_pr.ok"));
     
     # plot AUC barplot
     $cmd = "$benchmark_toolkit_basedir/plotters/AUC_barplot.Rscript $output_filename.scored.PR.AUC";
-    $pipeliner->add_commands(new Command($cmd, "plot_pr_auc_barplot.ok"));
-
+    $pipeliner->add_commands(new Command($cmd, "$checkpoint_token.plot_pr_auc_barplot.ok"));
+    
     $pipeliner->run();
 
     return;
