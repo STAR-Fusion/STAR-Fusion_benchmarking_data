@@ -28,15 +28,18 @@ while (<STDIN>) {
     chomp;
     my $filename = $_;
 
-    $filename =~ m|/samples/([^/]+)/([^/]+)/| or die "Error, cannot decipher path: $filename";
-
-    my $sample_name = $1;
-    my $prog = $2;
-
-    my $proper_progname = $converter{$prog} or die "Error, cannot find proper prog name for $prog";
+    if ($filename =~ m|/samples/([^/]+)/([^/]+)/|) {
         
-    print join("\t", $sample_name, $proper_progname, $filename) . "\n";
-    
+        my $sample_name = $1;
+        my $prog = $2;
+        
+        my $proper_progname = $converter{$prog} or die "Error, cannot find proper prog name for $prog";
+        
+        print join("\t", $sample_name, $proper_progname, $filename) . "\n";
+    }
+    else {
+        print STDERR "WARNING: couldn't decipher filename $filename as fusion result file\n";
+    }
 }
 
 
