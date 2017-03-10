@@ -1,9 +1,11 @@
 #!/bin/bash
 
-dirs=(sim_101 sim_50)
+set -ev
+
+dirs=(sim_50 sim_101)
 
 # run analyses separately for the sim_50 and sim_101 data
-for dir in $dirs
+for dir in ${dirs[*]}
 do
     cd $dir
     ./runMe.sh
