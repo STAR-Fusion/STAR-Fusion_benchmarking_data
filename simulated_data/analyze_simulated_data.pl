@@ -114,6 +114,19 @@ main: {
                                'analyze_allow_rev_and_paralogs', 
                                { allow_reverse_fusion => 1, allow_paralogs => 1 } );
     
+
+
+
+    ## Compare TP and FP before and after paralog-equiv
+
+    $cmd = "$benchmark_toolkit_basedir/plotters/plot_before_vs_after_filt_TP_FP_compare.Rscript "
+        . " __analyze_allow_reverse/all.scored.ROC.best.dat "
+        . " __analyze_allow_rev_and_paralogs/all.scored.ROC.best.dat ";
+    
+    $pipeliner->add_commands(new Command($cmd, "before_vs_after_okPara.ok"));
+
+    $pipeliner->run();
+    
     
     exit(0);
     
@@ -125,7 +138,7 @@ main: {
 sub score_and_plot_replicates {
     my ($input_file, $truth_set, $fusion_TPMs, $analysis_token, $analysis_settings_href, ) = @_;
     
-    $input_file = &ensure_full_path($input_file);
+    $input_file = &ensure_full_path($input_file); # the predictions
         
     my $base_workdir = cwd();
 
@@ -142,6 +155,9 @@ sub score_and_plot_replicates {
     my $preds_header = "";
     my %sample_to_fusion_preds = &parse_fusion_preds($input_file, \$preds_header); # updates hte preds_header value to header of file.
     
+
+    ####################################
+    ## Examine each replicate separately
     
     foreach my $sample_type (keys %sample_to_truth) {
         my $sample_checkpoint = "$sample_type.ok";
@@ -151,7 +167,8 @@ sub score_and_plot_replicates {
         }
     }
     
-    
+
+    ######################################
     ## generate summary accuracy box plots
     
     my $pipeliner = &init_pipeliner();
@@ -165,6 +182,13 @@ sub score_and_plot_replicates {
     $cmd = 'find . -regex ".*.scored" -exec cat {} \\; > all.scored';
     $pipeliner->add_commands(new Command($cmd, "gather_scores.ok"));
 
+    $pipeliner->run();
+
+    
+    &ROC_and_PR("all.scored");
+        
+    # examine sensitivity vs. expression level
+    
     $cmd = "$benchmark_toolkit_basedir/fusion_preds_sensitivity_vs_expr.avg_replicates.pl all.scored $fusion_TPMs > all.scored.sensitivity_vs_expr.dat";
     $pipeliner->add_commands(new Command($cmd, "sens_vs_expr.avg_reps.ok"));
 
@@ -218,12 +242,10 @@ sub examine_sample {
         &process_cmd("touch $prep_inputs_checkpoint");
     }
 
-
-    ## run analysis pipeline
-    my $pipeliner = &init_pipeliner();
-
     ##################
     # score TP, FP, FN
+
+    my $pipeliner = &init_pipeliner();
     
     my $cmd = "$benchmark_toolkit_basedir/fusion_preds_to_TP_FP_FN.pl --truth_fusions $sample_TP_fusions_file --fusion_preds $fusion_preds_file";
     
@@ -237,36 +259,53 @@ sub examine_sample {
     $cmd .= " > $fusion_preds_file.scored";
 
     $pipeliner->add_commands(new Command($cmd, "tp_fp_fn.ok"));
+    
+    $pipeliner->run();
+    
+    
+    &ROC_and_PR("$fusion_preds_file.scored");
+    
+
+    chdir $basedir or die "Error, cannot cd back to $basedir";
+
+    return;
+
+}
+ 
+   
+####
+sub ROC_and_PR {
+    my ($preds_scored) = @_;
+
+    ## run analysis pipeline
+    my $pipeliner = &init_pipeliner();
 
     ##############
     # generate ROC
     
-    $cmd = "$benchmark_toolkit_basedir/all_TP_FP_FN_to_ROC.pl $fusion_preds_file.scored > $fusion_preds_file.scored.ROC"; 
+    my $cmd = "$benchmark_toolkit_basedir/all_TP_FP_FN_to_ROC.pl $preds_scored > $preds_scored.ROC"; 
     $pipeliner->add_commands(new Command($cmd, "roc.ok"));
     
     # plot ROC
-    $cmd = "$benchmark_toolkit_basedir/plotters/plot_ROC.Rscript $fusion_preds_file.scored.ROC";
+    $cmd = "$benchmark_toolkit_basedir/plotters/plot_ROC.Rscript $preds_scored.ROC";
     $pipeliner->add_commands(new Command($cmd, "plot_roc.ok"));
 
     ###################################
     # convert to Precision-Recall curve
 
-    $cmd = "$benchmark_toolkit_basedir/calc_PR.py --in_ROC $fusion_preds_file.scored.ROC --out_PR $fusion_preds_file.scored.PR | sort -k2,2gr > $fusion_preds_file.scored.PR.AUC";
+    $cmd = "$benchmark_toolkit_basedir/calc_PR.py --in_ROC $preds_scored.ROC --out_PR $preds_scored.PR | sort -k2,2gr > $preds_scored.PR.AUC";
     $pipeliner->add_commands(new Command($cmd, "pr.ok"));
 
     # plot PR  curve
-    $cmd = "$benchmark_toolkit_basedir/plotters/plotPRcurves.R $fusion_preds_file.scored.PR $fusion_preds_file.scored.PR.plot.pdf";
+    $cmd = "$benchmark_toolkit_basedir/plotters/plotPRcurves.R $preds_scored.PR $preds_scored.PR.plot.pdf";
     $pipeliner->add_commands(new Command($cmd, "plot_pr.ok"));
     
     # plot AUC barplot
-    $cmd = "$benchmark_toolkit_basedir/plotters/AUC_barplot.Rscript $fusion_preds_file.scored.PR.AUC";
+    $cmd = "$benchmark_toolkit_basedir/plotters/AUC_barplot.Rscript $preds_scored.PR.AUC";
     $pipeliner->add_commands(new Command($cmd, "plot_pr_auc_barplot.ok"));
 
     $pipeliner->run();
 
-    
-    chdir $basedir or die "Error, cannot cd back to $basedir";
-        
     return;
         
 }
