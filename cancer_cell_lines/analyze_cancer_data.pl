@@ -99,7 +99,22 @@ main: {
     foreach my $min_agree (@min_agree_truth) {
         &score_and_plot("preds.collected.gencode_mapped.wAnnot.filt", "preds.collected.gencode_mapped.wAnnot.filt.byProgAgree", $min_agree);
     }
-        
+
+
+    ########################
+    ## Summarize all results
+
+    $cmd = "find __min_* -regex \".*PR.AUC\" | tee auc_files.list";
+    $pipeliner->add_commands(new Command($cmd, "get_auc_files_list.ok"));
+
+    $cmd = "$benchmark_data_basedir/util/capture_PR_AUC_for_plotting.pl auc_files.list > all.auc.dat";
+    $pipeliner->add_commands(new Command($cmd, "all_auc_dat.ok"));
+
+    $cmd = "$benchmark_data_basedir/util/plot_all_auc_barplots.Rscript";
+    $pipeliner->add_commands(new Command($cmd, "plot_all_auc_barplots.ok"));
+
+    $pipeliner->run();
+    
     exit(0);
     
     
