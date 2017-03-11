@@ -293,7 +293,7 @@ sub ROC_and_PR {
     ###################################
     # convert to Precision-Recall curve
 
-    $cmd = "$benchmark_toolkit_basedir/calc_PR.py --in_ROC $preds_scored.ROC --out_PR $preds_scored.PR | sort -k2,2gr > $preds_scored.PR.AUC";
+    $cmd = "$benchmark_toolkit_basedir/calc_PR.py --in_ROC $preds_scored.ROC --out_PR $preds_scored.PR | sort -k2,2gr | tee $preds_scored.PR.AUC";
     $pipeliner->add_commands(new Command($cmd, "pr.ok"));
 
     # plot PR  curve

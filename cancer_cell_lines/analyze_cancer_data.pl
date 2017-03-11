@@ -224,7 +224,7 @@ sub evaluate_predictions {
     ###################################
     # convert to Precision-Recall curve
     
-    $cmd = "$benchmark_toolkit_basedir/calc_PR.py --in_ROC $output_filename.scored.ROC --min_read_support 3 --out_PR $output_filename.scored.PR | sort -k2,2gr > $output_filename.scored.PR.AUC";
+    $cmd = "$benchmark_toolkit_basedir/calc_PR.py --in_ROC $output_filename.scored.ROC --min_read_support 3 --out_PR $output_filename.scored.PR | sort -k2,2gr | tee $output_filename.scored.PR.AUC";
     $pipeliner->add_commands(new Command($cmd, "$checkpoint_token.pr.ok"));
     
     # plot PR curve
