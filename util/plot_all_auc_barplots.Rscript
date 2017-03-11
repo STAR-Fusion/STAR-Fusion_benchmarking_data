@@ -12,6 +12,11 @@ par(mar=c(2,2,2,2))
 
 dt = data.table(data)
 
+prognames = levels(dt[,progname])
+
+colors = rainbow(length(prognames))
+names(colors) = prognames
+
 for (mt in c(2,3,4,5)) {
  	for (iu in c(0,1)) {
     	for (okp in c(0,1)) {
@@ -19,7 +24,8 @@ for (mt in c(2,3,4,5)) {
 			mini_dt = dt[min_thresh==mt & ignoreUnsure==iu & okpara==okp,]
             mini_dt = mini_dt[order(-auc),]
             print(mini_dt)
-            barplot(mini_dt[,auc], names.arg=mini_dt[,progname], las=2, cex.axis=0.5, cex.names=0.5)
+            ordered_prognames = mini_dt[,progname]
+            barplot(mini_dt[,auc], names.arg=ordered_prognames, las=2, cex.axis=0.5, cex.names=0.5, col=colors[ordered_prognames])
             
         }
     }
