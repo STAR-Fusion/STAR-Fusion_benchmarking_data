@@ -3,7 +3,7 @@
 set -ev
 
 
-dirs=(simulated_data cancer_cell_lines) 
+dirs=(simulated_data cancer_cell_lines runtime_analysis) 
 
 for dir in ${dirs[*]}
 do
