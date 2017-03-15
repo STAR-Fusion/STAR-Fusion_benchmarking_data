@@ -122,17 +122,17 @@ This adds the lists of Gencode genes that map to each of the predicted fusion pa
 Below, we refer to the set of Gencode genes mapped to any gene X as gencode_mapped(X).
 
 
-4.  Adding annotation to fusion partners:
+##### 4.  Adding annotation to fusion partners:
 
 Our FusionAnnotator script was used to add basic meta data to the fusion predictions, primarily to identify genes of mitochondrial origin and to flag those predictions involving sequence-similar sequences (BLASTN, E<1e-3) and genes on the same chromosome and within 100kb are flagged as 'neighbors'.
 
     ${FUSION_ANNOTATOR}/FusionAnnotator --annotate preds.collected.gencode_mapped  -C 2 > preds.collected.gencode_mapped.wAnnot
 
-5.  Consistent filtering of all fusion predictions
+##### 5.  Consistent filtering of all fusion predictions
 
 All predictions regardless of prediction method were filtered consistently to remove any fusion pairs identified as sequence-similar, neighbors, involving genes of mitochondrial origin, or involving HLA genes (which often contain discordantly mapped reads due to the naturally high sequence diversity in those genomic regions).
 
-6.  Scoring of fusion predictions
+##### 6.  Scoring of fusion predictions
 
 The fusion predictions for each method and sample were scored accordingly:
 
@@ -212,7 +212,7 @@ If the same fusion prediction shows up multiple times (actually or 'effectively'
 
 You'll also see two additional columns: 'explanation' and 'selected_fusion'. Explanation provides a short description of why the classification was assigned as observed, and 'selected_fusion' identifies the 'truth set' fusion that is being assigned here, which is particularly useful when the predicted fusion is being treated as a proxy for the truth set fusion.
 
-###### 7.  ROC curves are computed based on TP, FP, FN, and minimum evidence thresholds.
+##### 7.  ROC curves are computed based on TP, FP, FN, and minimum evidence thresholds.
 
 ROC curves are computed like so:
 
@@ -247,7 +247,7 @@ and are formatted as follows:
     ...
 
 
-###### 8.  Precision-Recall (PR) curves and PR-AUC
+##### 8.  Precision-Recall (PR) curves and PR-AUC
 
 Precision-Recall (PR) curves and PR-AUC are computed from the ROC file like so:
 
