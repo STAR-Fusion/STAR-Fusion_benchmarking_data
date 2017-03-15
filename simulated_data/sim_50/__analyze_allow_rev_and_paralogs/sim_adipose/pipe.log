@@ -1,0 +1,5 @@
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/all_TP_FP_FN_to_ROC.pl fusion_preds.txt.scored > fusion_preds.txt.scored.ROC
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/plotters/plot_ROC.Rscript fusion_preds.txt.scored.ROC
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/calc_PR.py --in_ROC fusion_preds.txt.scored.ROC --out_PR fusion_preds.txt.scored.PR | sort -k2,2gr | tee fusion_preds.txt.scored.PR.AUC
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/plotters/plotPRcurves.R fusion_preds.txt.scored.PR fusion_preds.txt.scored.PR.plot.pdf
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/plotters/AUC_barplot.Rscript fusion_preds.txt.scored.PR.AUC

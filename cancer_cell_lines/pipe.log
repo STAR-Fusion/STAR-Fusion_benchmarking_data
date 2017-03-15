@@ -1,0 +1,11 @@
+find ./samples -type f | /ahg/regev/users/bhaas/seq/bhaas/GIT/CTAT_FUSIONS/STAR-Fusion_benchmarking_data/cancer_cell_lines/../util/make_file_listing_input_table.pl > fusion_result_file_listing.dat
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/collect_preds.pl fusion_result_file_listing.dat > preds.collected
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/map_gene_symbols_to_gencode.pl  preds.collected  /ahg/regev/users/bhaas/seq/bhaas/GIT/CTAT_FUSIONS/STAR-Fusion_benchmarking_data/cancer_cell_lines/../resources/genes.coords  /ahg/regev/users/bhaas/seq/bhaas/GIT/CTAT_FUSIONS/STAR-Fusion_benchmarking_data/cancer_cell_lines/../resources/genes.aliases  > preds.collected.gencode_mapped 
+~/GITHUB/CTAT_FUSIONS/FusionAnnotator/FusionAnnotator --annotate preds.collected.gencode_mapped  -C 2 > preds.collected.gencode_mapped.wAnnot
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/filter_collected_preds.pl preds.collected.gencode_mapped.wAnnot > preds.collected.gencode_mapped.wAnnot.filt
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/fusion_preds_to_matrix.pl preds.collected.gencode_mapped.wAnnot.filt > preds.collected.gencode_mapped.wAnnot.filt.matrix
+/home/unix/bhaas/GITHUB/trinityrnaseq/Analysis/DifferentialExpression/PtR  -m preds.collected.gencode_mapped.wAnnot.filt.matrix --binary --sample_cor_matrix --heatmap_colorscheme 'black,yellow' 
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/collected_preds_to_fusion_prog_support_listing.pl preds.collected.gencode_mapped.wAnnot.filt progs_select.txt > preds.collected.gencode_mapped.wAnnot.filt.byProgAgree
+find __min_* -regex ".*PR.AUC" | tee auc_files.list
+/ahg/regev/users/bhaas/seq/bhaas/GIT/CTAT_FUSIONS/STAR-Fusion_benchmarking_data/cancer_cell_lines/../util/capture_PR_AUC_for_plotting.pl auc_files.list > all.auc.dat
+/ahg/regev/users/bhaas/seq/bhaas/GIT/CTAT_FUSIONS/STAR-Fusion_benchmarking_data/cancer_cell_lines/../util/plot_all_auc_barplots.Rscript

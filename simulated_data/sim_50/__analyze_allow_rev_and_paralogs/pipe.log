@@ -1,0 +1,4 @@
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/all_TP_FP_FN_to_ROC.pl all.scored > all.scored.ROC
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/plotters/plot_ROC.Rscript all.scored.ROC
+/home/unix/bhaas/GITHUB/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/fusion_preds_sensitivity_vs_expr.avg_replicates.pl all.scored /ahg/regev/users/bhaas/seq/bhaas/GIT/CTAT_FUSIONS/STAR-Fusion_benchmarking_data/simulated_data/sim_50/sim_50.fusion_TPM_values.dat > all.scored.sensitivity_vs_expr.dat
+/home/unix/bhaas/GITHUB/trinityrnaseq/Analysis/DifferentialExpression/PtR   -m all.scored.sensitivity_vs_expr.dat  --heatmap  --sample_clust none  --heatmap_colorscheme 'black,yellow'

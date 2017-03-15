@@ -1,0 +1,6 @@
+find ./samples -type f | /ahg/regev/users/bhaas/seq/bhaas/GIT/CTAT_FUSIONS/STAR-Fusion_benchmarking_data/simulated_data/../util/make_file_listing_input_table.pl > fusion_result_file_listing.dat
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/collect_preds.pl fusion_result_file_listing.dat > preds.collected
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/map_gene_symbols_to_gencode.pl  preds.collected  /ahg/regev/users/bhaas/seq/bhaas/GIT/CTAT_FUSIONS/STAR-Fusion_benchmarking_data/simulated_data/../resources/genes.coords  /ahg/regev/users/bhaas/seq/bhaas/GIT/CTAT_FUSIONS/STAR-Fusion_benchmarking_data/simulated_data/../resources/genes.aliases  > preds.collected.gencode_mapped 
+~/GITHUB/CTAT_FUSIONS/FusionAnnotator/FusionAnnotator --annotate preds.collected.gencode_mapped  -C 2 > preds.collected.gencode_mapped.wAnnot
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/filter_collected_preds.pl preds.collected.gencode_mapped.wAnnot > preds.collected.gencode_mapped.wAnnot.filt
+/home/unix/bhaas/GITHUB/CTAT_FUSIONS/FusionSimulatorToolkit/benchmarking/plotters/plot_before_vs_after_filt_TP_FP_compare.Rscript  __analyze_allow_reverse/all.scored.ROC.best.dat  __analyze_allow_rev_and_paralogs/all.scored.ROC.best.dat 
