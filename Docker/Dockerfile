@@ -46,14 +46,6 @@ RUN Rscript -e 'source("http://bioconductor.org/biocLite.R");library(BiocInstall
 RUN Rscript -e 'source("http://bioconductor.org/biocLite.R");library(BiocInstaller); biocLite("qvalue", dep = TRUE)'
 
 
-#######
-# Install STAR-Fusion benchmark data
-
-RUN git clone https://github.com/STAR-Fusion/STAR-Fusion_benchmarking_data.git && \
-    cd STAR-Fusion_benchmarking_data && \
-    git checkout d7ef620
-
-
 ########
 # Install Trinity (just for plotting utilities)
 
@@ -81,6 +73,14 @@ RUN git clone https://github.com/FusionAnnotator/FusionAnnotator.git && \
     make
 
 ENV FUSION_ANNOTATOR ${SRC}/FusionAnnotator
+
+
+#######
+# Install STAR-Fusion benchmark data
+
+RUN git clone https://github.com/STAR-Fusion/STAR-Fusion_benchmarking_data.git && \
+    cd STAR-Fusion_benchmarking_data && \
+    git checkout 674ab23
 
 
 COPY run_eval.sh /
