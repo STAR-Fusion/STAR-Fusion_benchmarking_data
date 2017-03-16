@@ -46,6 +46,9 @@ my @targets_and_dests = (
     ["cancer_cell_lines/all.auc.dat.pdf", "figs_for_paper/cell_lines/min_4.accuracy_scoring_collage.pdf"],
 
 
+    ["cancer_cell_lines/preds.collected.gencode_mapped.wAnnot.filt.matrix.binary.sample_cor_matrix.pdf",
+     "figs_for_paper/cell_lines/all_prediction_correlation_matrix.pdf"],
+    
     # runtime analysis
     ["runtime_analysis/all_progs_cancer/runtimes.txt.boxplot.pdf", "figs_for_paper/runtimes/cell_line_runtimes.boxplot.pdf"],
     

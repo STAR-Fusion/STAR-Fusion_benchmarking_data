@@ -51,7 +51,7 @@ RUN Rscript -e 'source("http://bioconductor.org/biocLite.R");library(BiocInstall
 
 RUN git clone https://github.com/STAR-Fusion/STAR-Fusion_benchmarking_data.git && \
     cd STAR-Fusion_benchmarking_data && \
-    git checkout b447418
+    git checkout d7ef620
 
 
 ########
