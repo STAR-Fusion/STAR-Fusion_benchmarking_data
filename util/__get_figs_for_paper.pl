@@ -12,7 +12,9 @@ chdir $basedir or die "Error, cannot cd to $basedir";
 # make the dir structure
 my @dirs = ("sim", "cell_lines", "runtimes");
 foreach my $dir (@dirs) {
-    &process_cmd("mkdir -p figs_for_paper/$dir");
+    unless (-d $dir) {
+        &process_cmd("mkdir -p figs_for_paper/$dir");
+    }
 }
 
 my @targets_and_dests = ( 
@@ -24,7 +26,7 @@ my @targets_and_dests = (
     ["simulated_data/sim_101/__analyze_allow_reverse/all.scored.sensitivity_vs_expr.dat.genes_vs_samples_heatmap.pdf",
      "figs_for_paper/sim_101.sens_vs_expr.heatmap.pdf"],
     
-    ["STAR-Fusion_benchmarking_data//simulated_data/sim_101/__analyze_allow_rev_and_paralogs/all.scored.ROC.best.dat.before_vs_after.pdf",
+    ["simulated_data/sim_101/__analyze_allow_rev_and_paralogs/all.scored.ROC.best.dat.before_vs_after.pdf",
      "figs_for_paper/sim/sim101.before_vs_after_paraEquiv.pdf"],
 
     ["simulated_data/sim_50/__analyze_allow_rev_and_paralogs/all.scored.ROC.best.dat.before_vs_after.pdf",
