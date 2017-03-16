@@ -49,20 +49,26 @@ RUN Rscript -e 'source("http://bioconductor.org/biocLite.R");library(BiocInstall
 #######
 # Install STAR-Fusion benchmark data
 
-RUN git clone https://github.com/STAR-Fusion/STAR-Fusion_benchmarking_data.git
+RUN git clone https://github.com/STAR-Fusion/STAR-Fusion_benchmarking_data.git && \
+    cd STAR-Fusion_benchmarking_data && \
+    git checkout b447418
 
 
 ########
 # Install Trinity (just for plotting utilities)
 
-RUN git clone https://github.com/trinityrnaseq/trinityrnaseq.git
+RUN git clone https://github.com/trinityrnaseq/trinityrnaseq.git && \
+    cd trinityrnaseq && \
+    git checkout 1603d80 
 
 ENV TRINITY_HOME ${SRC}/trinityrnaseq
 
 ########
 # Install benchmarking utilities
 
-RUN git clone https://github.com/FusionSimulatorToolkit/FusionSimulatorToolkit.git
+RUN git clone https://github.com/FusionSimulatorToolkit/FusionSimulatorToolkit.git && \
+    cd FusionSimulatorToolkit && \
+    git checkout abe0d40
 
 ENV FUSION_SIMULATOR ${SRC}/FusionSimulatorToolkit
 
@@ -71,6 +77,7 @@ ENV FUSION_SIMULATOR ${SRC}/FusionSimulatorToolkit
 
 RUN git clone https://github.com/FusionAnnotator/FusionAnnotator.git && \
     cd FusionAnnotator && \
+    git checkout 6e6c3b4 && \
     make
 
 ENV FUSION_ANNOTATOR ${SRC}/FusionAnnotator
