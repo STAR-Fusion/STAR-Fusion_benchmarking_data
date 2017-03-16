@@ -14,3 +14,9 @@ do
     cd ../
 done
 
+
+
+# gather main and supp. figures for paper
+
+./util/__get_figs_for_paper.pl .
+
