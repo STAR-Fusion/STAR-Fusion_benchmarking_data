@@ -2,7 +2,7 @@ prog	before_TP	before_FP	after_TP	after_FP
 STAR-Fusion	STAR-Fusion	2295	49	2334	2
 nFuse	nFuse	2164	121	2191	71
 TopHat-Fusion	TopHat-Fusion	2108	145	2122	30
-InFusion	InFusion	2045	77	2068	10
+InFusion	InFusion	2044	77	2068	10
 MapSplice	MapSplice	1967	16	1974	5
 deFuse	deFuse	2038	146	2064	69
 JAFFA-Direct	JAFFA-Direct	2099	229	2158	48

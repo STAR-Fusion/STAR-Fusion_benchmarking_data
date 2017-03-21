@@ -1,7 +1,7 @@
 prog	min_sum_frags	TP	FP	FN	TPR	PPV	F1	FDR
 STAR-Fusion	2	464	11	36	0.93	0.98	0.954	0.02
 nFuse	7	434	25	66	0.87	0.95	0.908	0.05
-InFusion	5	426	19	74	0.85	0.96	0.902	0.04
+InFusion	5	425	19	75	0.85	0.96	0.902	0.04
 ChimPipe	3	414	8	86	0.83	0.98	0.899	0.02
 MapSplice	3	403	1	97	0.81	1	0.895	0
 TopHat-Fusion	2	415	30	85	0.83	0.93	0.877	0.07
