@@ -12,3 +12,5 @@ do
     cd ../
 done
 
+rm -rf ./figs_for_paper
+

@@ -195,8 +195,8 @@ sub score_and_plot_replicates {
     $cmd = "$trinity_home/Analysis/DifferentialExpression/PtR  "
         . " -m all.scored.sensitivity_vs_expr.dat "
         . " --heatmap "
-        . " --sample_clust none "
-        . " --heatmap_colorscheme 'black,yellow'";
+        . " --sample_clust none --gene_clust ward "
+        . " --heatmap_colorscheme 'black,purple,yellow'";
     $pipeliner->add_commands(new Command($cmd, "sens_expr_heatmap.ok"));
         
     $pipeliner->run();
