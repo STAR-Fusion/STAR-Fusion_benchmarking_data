@@ -3002,436 +3002,436 @@ NA-TP	sim5_reads	STAR-Fusion	MEF2BNB--MYH13	2	0	MEF2BNB-MEF2B,MEF2B,RFXANK,MEF2B
 NA-TP	sim5_reads	STAR-Fusion	MEF2B--MYH13	2	0	MEF2BNB-MEF2B,MEF2B,RFXANK,MEF2BNB	RP11-401O9.4,MYH13,RP11-401O9.3	already scored STAR-Fusion,sim5_reads|MEF2BNB--MYH13 as TP (para of sim5_reads|MEF2B--MYH13)	.
 TP	sim5_reads	STAR-Fusion	CEP57L1--ROGDI	2	0	CEP57L1	ROGDI	first encounter of TP STAR-Fusion,sim5_reads|CEP57L1--ROGDI	sim5_reads|CEP57L1--ROGDI
 TP	sim5_reads	STAR-Fusion	CDPF1--NCK2	2	0	CDPF1	NCK2,AC009505.2	first encounter of TP STAR-Fusion,sim5_reads|CDPF1--NCK2	sim5_reads|CDPF1--NCK2
-TP	sim5_reads	TopHat-Fusion	PLCB2--EIF2AK1	319	1600	PLCB2,ANKRD63,PLCB2-AS1	ANKRD61,RN7SL851P,AIMP2,RNU6-218P,EIF2AK1	first encounter of TP TopHat-Fusion,sim5_reads|PLCB2--ANKRD61	sim5_reads|PLCB2--ANKRD61
-TP	sim5_reads	TopHat-Fusion	DNAJC25-GNG10--TMEM74B	302	1594	GNG10,DNAJC25,DNAJC25-GNG10	TMEM74B	first encounter of TP TopHat-Fusion,sim5_reads|DNAJC25--TMEM74B (para of sim5_reads|DNAJC25-GNG10--TMEM74B)	sim5_reads|DNAJC25--TMEM74B
-TP	sim5_reads	TopHat-Fusion	A1CF--ORAI1	252	1471	A1CF,ASAH2B,RP11-449O16.2	ORAI1	first encounter of TP TopHat-Fusion,sim5_reads|A1CF--ORAI1	sim5_reads|A1CF--ORAI1
-TP	sim5_reads	TopHat-Fusion	YLPM1--E2F7	237	1485	RP11-316E14.6,YLPM1,PROX2	E2F7	first encounter of TP TopHat-Fusion,sim5_reads|YLPM1--E2F7	sim5_reads|YLPM1--E2F7
-TP	sim5_reads	TopHat-Fusion	FANCM--MAT2B	244	1425	FANCM	MAT2B	first encounter of TP TopHat-Fusion,sim5_reads|FANCM--MAT2B	sim5_reads|FANCM--MAT2B
-TP	sim5_reads	TopHat-Fusion	CPNE2--RNF165	238	1428	CPNE2	RNF165	first encounter of TP TopHat-Fusion,sim5_reads|CPNE2--RNF165	sim5_reads|CPNE2--RNF165
-TP	sim5_reads	TopHat-Fusion	SCRT1--STAG1	190	1460	SCRT1	RNU6-1284P,PCCB,RNY4P4,HMGN1P10,RP11-102M11.1,STAG1,RNU6-789P,RNU7-198P	first encounter of TP TopHat-Fusion,sim5_reads|SCRT1--STAG1	sim5_reads|SCRT1--STAG1
-TP	sim5_reads	TopHat-Fusion	KLC4--MMP21	221	1394	KLC4,RP11-387M24.5,MRPL2,CUL7	MMP21	first encounter of TP TopHat-Fusion,sim5_reads|KLC4--MMP21	sim5_reads|KLC4--MMP21
-TP	sim5_reads	TopHat-Fusion	FDX1--ELAVL1	236	1377	FDX1	CTD-2325M2.1,RP11-886P16.6,RPS28,CTD-3020H12.3,RAB11B-AS1,MIR4999,KANK3,FBN3,AC010323.1,RAB11B,MARCH2,ANGPTL4,HNRNPM,NDUFA7,CTD-3020H12.4,CD320,ELAVL1,CCL25,CTD-2550O8.7,CTD-3193O13.14,CERS4	first encounter of TP TopHat-Fusion,sim5_reads|FDX1--ELAVL1	sim5_reads|FDX1--ELAVL1
-TP	sim5_reads	TopHat-Fusion	FCER1A--RFTN2	193	1412	FCER1A	RFTN2	first encounter of TP TopHat-Fusion,sim5_reads|FCER1A--RFTN2	sim5_reads|FCER1A--RFTN2
-TP	sim5_reads	TopHat-Fusion	ACSBG2--PROSC	275	1264	ACSBG2,CTC-503J8.2,RFX2	PROSC	first encounter of TP TopHat-Fusion,sim5_reads|ACSBG2--PROSC	sim5_reads|ACSBG2--PROSC
-TP	sim5_reads	TopHat-Fusion	EEA1--KRT24	173	1311	PLEKHG7,RP11-603K19.1,HNRNPA1P50,EEA1	KRT24	first encounter of TP TopHat-Fusion,sim5_reads|EEA1--KRT24	sim5_reads|EEA1--KRT24
-TP	sim5_reads	TopHat-Fusion	AKTIP--CSF1R	254	1226	AKTIP,RBL2	CTB-13H5.1,CSF1R	first encounter of TP TopHat-Fusion,sim5_reads|AKTIP--CSF1R	sim5_reads|AKTIP--CSF1R
-TP	sim5_reads	TopHat-Fusion	POLG--PPBP	181	1269	POLG,FANCI	PPBP	first encounter of TP TopHat-Fusion,sim5_reads|POLG--PPBP	sim5_reads|POLG--PPBP
-TP	sim5_reads	TopHat-Fusion	MSRA--CYP11B1	140	1303	AC023385.1,RP11-212F11.1,MSRA	GML,CYP11B1	first encounter of TP TopHat-Fusion,sim5_reads|MSRA--CYP11B1	sim5_reads|MSRA--CYP11B1
-TP	sim5_reads	TopHat-Fusion	ATXN7L1--NDST2	205	1217	ATXN7L1,CTA-351J1.1	RP11-574K11.31,NDST2	first encounter of TP TopHat-Fusion,sim5_reads|ATXN7L1--NDST2	sim5_reads|ATXN7L1--NDST2
-TP	sim5_reads	TopHat-Fusion	YTHDF3--KLHL33	201	1144	YTHDF3	KLHL33	first encounter of TP TopHat-Fusion,sim5_reads|YTHDF3--KLHL33	sim5_reads|YTHDF3--KLHL33
-TP	sim5_reads	TopHat-Fusion	ZNF229--GLRA2	210	1127	CTC-512J12.4,ZNF229	GLRA2	first encounter of TP TopHat-Fusion,sim5_reads|ZNF229--GLRA2	sim5_reads|ZNF229--GLRA2
-TP	sim5_reads	TopHat-Fusion	GYPA--GAL3ST3	171	1159	GYPA,RP11-673E1.4,GYPB	GAL3ST3	first encounter of TP TopHat-Fusion,sim5_reads|GYPA--GAL3ST3	sim5_reads|GYPA--GAL3ST3
-TP	sim5_reads	TopHat-Fusion	DYRK1B--KIAA1199	147	1178	DYRK1B	MESDC2,KIAA1199,RP11-351M8.2,MIR549,RP11-351M8.1	first encounter of TP TopHat-Fusion,sim5_reads|DYRK1B--KIAA1199	sim5_reads|DYRK1B--KIAA1199
-TP	sim5_reads	TopHat-Fusion	ZNF816--KDM4D	231	1065	ZNF321P,ZNF816-ZNF321P,CTD-2620I22.1,ZNF816	KDM4D	first encounter of TP TopHat-Fusion,sim5_reads|ZNF816--KDM4D	sim5_reads|ZNF816--KDM4D
-TP	sim5_reads	TopHat-Fusion	SLC5A10--TRMT10A	171	1114	AC090286.4,FAM83G,RP11-28B23.1,SLC5A10,GRAP	MTTP,TRMT10A	first encounter of TP TopHat-Fusion,sim5_reads|SLC5A10--TRMT10A	sim5_reads|SLC5A10--TRMT10A
-TP	sim5_reads	TopHat-Fusion	PCDHGA1--ZNF296	195	1069	PCDHGA7,PCDHGA1,PCDHGC5,PCDHGB4,PCDHGC4,RN7SL68P,PCDHGA10,PCDHGA5,PCDHGB2,PCDHGA9,PCDHGA12,PCDHGA4,PCDHGA2,PCDHGB7,PCDHGB8P,PCDHGA8,PCDHGA11,PCDHGB6,PCDHGB3,PCDHGC3,PCDHGA6,PCDHGB1,PCDHGA3	ZNF296,CTB-179K24.3	first encounter of TP TopHat-Fusion,sim5_reads|PCDHGB2--ZNF296 (para of sim5_reads|PCDHGA1--ZNF296)	sim5_reads|PCDHGB2--ZNF296
-TP	sim5_reads	TopHat-Fusion	FA2H--SULT2A1	187	1051	AC009132.1,FA2H	SULT2A1	first encounter of TP TopHat-Fusion,sim5_reads|FA2H--SULT2A1	sim5_reads|FA2H--SULT2A1
-TP	sim5_reads	TopHat-Fusion	ACTR8--ARHGEF9	139	1087	ACTR8,AC012467.1	ARHGEF9,MIR1468,BTF3P8,ARHGEF9-IT1	first encounter of TP TopHat-Fusion,sim5_reads|ACTR8--ARHGEF9	sim5_reads|ACTR8--ARHGEF9
-TP	sim5_reads	TopHat-Fusion	RP11-290H9.4--UBASH3A	162	1043	RP11-290H9.4,EFCAB13,ITGB3	UBASH3A,RNU6-1149P	first encounter of TP TopHat-Fusion,sim5_reads|ITGB3--UBASH3A (para of sim5_reads|RP11-290H9.4--UBASH3A)	sim5_reads|ITGB3--UBASH3A
-TP	sim5_reads	TopHat-Fusion	KIAA0355--DNAJC28	176	1005	KIAA0355,RPL29P33,AC010504.2	DNAJC28	first encounter of TP TopHat-Fusion,sim5_reads|KIAA0355--DNAJC28	sim5_reads|KIAA0355--DNAJC28
-TP	sim5_reads	TopHat-Fusion	TMEM212--PCK2	196	963	TMEM212-AS1,TMEM212,TMEM212-IT1	PCK2,NRL	first encounter of TP TopHat-Fusion,sim5_reads|TMEM212--PCK2	sim5_reads|TMEM212--PCK2
-TP	sim5_reads	TopHat-Fusion	CCNC--ANKDD1A	197	948	CCNC,RP1-199J3.7	ANKDD1A,AC069368.3	first encounter of TP TopHat-Fusion,sim5_reads|CCNC--ANKDD1A	sim5_reads|CCNC--ANKDD1A
-TP	sim5_reads	TopHat-Fusion	NDUFAB1--TLK1	136	1008	NDUFAB1	TLK1,RP11-464D20.6,TLK2,RP11-464D20.2	first encounter of TP TopHat-Fusion,sim5_reads|NDUFAB1--TLK1	sim5_reads|NDUFAB1--TLK1
-TP	sim5_reads	TopHat-Fusion	C1QTNF9--TCEAL5	182	957	C1QTNF9,AL359736.1,C1QTNF9-AS1,RP11-307N16.6	TCEAL5	first encounter of TP TopHat-Fusion,sim5_reads|C1QTNF9--TCEAL5	sim5_reads|C1QTNF9--TCEAL5
-TP	sim5_reads	TopHat-Fusion	TSTA3--ATP6V1B2	192	942	TSTA3	ATP6V1B2	first encounter of TP TopHat-Fusion,sim5_reads|TSTA3--ATP6V1B2	sim5_reads|TSTA3--ATP6V1B2
-TP	sim5_reads	TopHat-Fusion	PPP3CA--C9ORF47	133	991	PPP3CA,MIR1255A,PPP3CB,RP11-137L10.6,AP001816.1	C9orf47,S1PR3	first encounter of TP TopHat-Fusion,sim5_reads|PPP3CA--C9ORF47	sim5_reads|PPP3CA--C9ORF47
-TP	sim5_reads	TopHat-Fusion	ESPNL--FAM69A	170	948	ESPNL	RP11-386I23.1,SNORA51,RPL5,SNORA66,FAM69A,SNORD21	first encounter of TP TopHat-Fusion,sim5_reads|ESPNL--FAM69A	sim5_reads|ESPNL--FAM69A
-TP	sim5_reads	TopHat-Fusion	MEX3A--LYRM9	178	939	AL355388.1,MEX3A	RP1-66C13.4,RP11-138P22.1,LYRM9	first encounter of TP TopHat-Fusion,sim5_reads|MEX3A--LYRM9	sim5_reads|MEX3A--LYRM9
-TP	sim5_reads	TopHat-Fusion	COG2--OSTF1	163	950	COG2	OSTF1	first encounter of TP TopHat-Fusion,sim5_reads|COG2--OSTF1	sim5_reads|COG2--OSTF1
-TP	sim5_reads	TopHat-Fusion	DUOXA2--ZBTB1	144	968	DUOXA2,DUOX2,DUOXA1	RP11-973N13.4,ZBTB1,ZBTB25	first encounter of TP TopHat-Fusion,sim5_reads|DUOXA2--ZBTB1	sim5_reads|DUOXA2--ZBTB1
-NA-TP	sim5_reads	TopHat-Fusion	C1QTNF9B--TCEAL5	131	957	MIPEP,C1QTNF9B-AS1,C1QTNF9B	TCEAL5	already scored TopHat-Fusion,sim5_reads|C1QTNF9--TCEAL5 as TP (para of sim5_reads|C1QTNF9B--TCEAL5)	.
-TP	sim5_reads	TopHat-Fusion	RP11-208N14.4--LAMC3	130	903	RTP1,RP11-208N14.4	LAMC3,SNORA31	first encounter of TP TopHat-Fusion,sim5_reads|RTP1--LAMC3 (para of sim5_reads|RP11-208N14.4--LAMC3)	sim5_reads|RTP1--LAMC3
-TP	sim5_reads	TopHat-Fusion	AGA--CD1E	164	862	AGA	CD1E	first encounter of TP TopHat-Fusion,sim5_reads|AGA--CD1E	sim5_reads|AGA--CD1E
-TP	sim5_reads	TopHat-Fusion	SCNN1G--GLYCTK-AS1	126	877	CTC-391G2.1,SCNN1G	GLYCTK-AS1,GLYCTK,MIR135A1	first encounter of TP TopHat-Fusion,sim5_reads|GLYCTK--SCNN1G (para of sim5_reads|GLYCTK-AS1--SCNN1G)	sim5_reads|GLYCTK--SCNN1G
-TP	sim5_reads	TopHat-Fusion	GLB1L2--AC009133.20	136	815	GLB1L2	AC009133.20,AC009133.12,MAZ,AC009133.14,PAGR1,PRRT2	first encounter of TP TopHat-Fusion,sim5_reads|PAGR1--GLB1L2 (para of sim5_reads|AC009133.20--GLB1L2)	sim5_reads|PAGR1--GLB1L2
-TP	sim5_reads	TopHat-Fusion	LMCD1--CPT1C	51	858	AC034187.2,LMCD1-AS1,LINC00312,LMCD1	CPT1C	first encounter of TP TopHat-Fusion,sim5_reads|LMCD1--CPT1C	sim5_reads|LMCD1--CPT1C
-TP	sim5_reads	TopHat-Fusion	RGS21--CD1D	113	774	RGS21	CD1D	first encounter of TP TopHat-Fusion,sim5_reads|RGS21--CD1D	sim5_reads|RGS21--CD1D
-TP	sim5_reads	TopHat-Fusion	CLCN2--MED13L	115	753	EIF2B5,CLCN2,FAM131A	RP11-493P1.2,MED13L,RP11-115H15.2,RNU6-1188P,MIR620,AC060226.1,RP11-115H15.1	first encounter of TP TopHat-Fusion,sim5_reads|CLCN2--MED13L	sim5_reads|CLCN2--MED13L
-TP	sim5_reads	TopHat-Fusion	ENDOV--RAB20	135	729	CTD-2047H16.4,ENDOV,MIR4730	RAB20	first encounter of TP TopHat-Fusion,sim5_reads|ENDOV--RAB20	sim5_reads|ENDOV--RAB20
-TP	sim5_reads	TopHat-Fusion	SLX4--TMX3	92	768	SLX4,RP11-461A8.1	CCDC102B,TMX3	first encounter of TP TopHat-Fusion,sim5_reads|SLX4--TMX3	sim5_reads|SLX4--TMX3
-TP	sim5_reads	TopHat-Fusion	RFX4--RAB11B	105	750	RP11-144F15.1,RP11-482D24.3,RFX4,RP11-482D24.2	RAB11B-AS1,RAB11B	first encounter of TP TopHat-Fusion,sim5_reads|RFX4--RAB11B	sim5_reads|RFX4--RAB11B
-TP	sim5_reads	TopHat-Fusion	DNAJC3--AGFG1	49	804	MTCYBP3,DNAJC3,snR65,MTND5P2,MTND6P18	AGFG1,MIR5703	first encounter of TP TopHat-Fusion,sim5_reads|DNAJC3--AGFG1	sim5_reads|DNAJC3--AGFG1
-TP	sim5_reads	TopHat-Fusion	SPATA25--KLK4	7	829	SPATA25	KLK4	first encounter of TP TopHat-Fusion,sim5_reads|SPATA25--KLK4	sim5_reads|SPATA25--KLK4
-TP	sim5_reads	TopHat-Fusion	FGF2--TSPAN14	119	711	RP11-170N16.2,NUDT6,FGF2,AC021205.1,RP11-170N16.3	TSPAN14,RP11-137H2.4	first encounter of TP TopHat-Fusion,sim5_reads|FGF2--TSPAN14	sim5_reads|FGF2--TSPAN14
-TP	sim5_reads	TopHat-Fusion	TNFSF12--TAF12	96	720	TNFSF12,TNFSF13,TNFSF12-TNFSF13	RAB42,TAF12	first encounter of TP TopHat-Fusion,sim5_reads|TNFSF12--TAF12	sim5_reads|TNFSF12--TAF12
-TP	sim5_reads	TopHat-Fusion	PTF1A--AP003068.23	134	674	PTF1A	CAPN1,AP003068.23	first encounter of TP TopHat-Fusion,sim5_reads|PTF1A--AP003068.23	sim5_reads|PTF1A--AP003068.23
-TP	sim5_reads	TopHat-Fusion	IQCF2--FCGR2A	49	753	IQCF2	FCGR2B,RP11-25K21.1,FCGR2A,RP11-25K21.6	first encounter of TP TopHat-Fusion,sim5_reads|IQCF2--FCGR2A	sim5_reads|IQCF2--FCGR2A
-TP	sim5_reads	TopHat-Fusion	MRM1--GSKIP	118	681	MRM1	GSKIP,ATG2B,RNU2-33P	first encounter of TP TopHat-Fusion,sim5_reads|MRM1--GSKIP	sim5_reads|MRM1--GSKIP
-TP	sim5_reads	TopHat-Fusion	PLA2G3--NDUFC2-KCTD14	113	679	PLA2G3	NDUFC2-KCTD14,THRSP,NDUFC2,RP11-7I15.4,KCTD14	first encounter of TP TopHat-Fusion,sim5_reads|PLA2G3--KCTD14	sim5_reads|PLA2G3--KCTD14
-TP	sim5_reads	TopHat-Fusion	SCMH1--C12ORF60	92	685	RP4-635E8.1,SCMH1	RP11-233G1.4,C12orf60,MGP,ART4,SMCO3	first encounter of TP TopHat-Fusion,sim5_reads|SCMH1--ART4 (para of sim5_reads|SCMH1--RP11-233G1.4)	sim5_reads|SCMH1--ART4
-TP	sim5_reads	TopHat-Fusion	NTSR2--TRIM59	103	662	NTSR2,AC110754.3	SMC4,RNU7-136P,RP11-227J5.3,RP11-432B6.3,TRIM59	first encounter of TP TopHat-Fusion,sim5_reads|NTSR2--TRIM59	sim5_reads|NTSR2--TRIM59
-TP	sim5_reads	TopHat-Fusion	MRC2--DHCR24	112	641	MRC2,RNU6-446P	DHCR24,RP11-67L3.5	first encounter of TP TopHat-Fusion,sim5_reads|MRC2--DHCR24	sim5_reads|MRC2--DHCR24
-TP	sim5_reads	TopHat-Fusion	C2ORF83--CTD-2207O23.3	85	654	AC064853.2,C2orf83,AC064853.3	ARHGEF18,CTD-2207O23.3,CTB-133G6.2,CTB-133G6.1	first encounter of TP TopHat-Fusion,sim5_reads|C2ORF83--ARHGEF18 (para of sim5_reads|C2ORF83--CTD-2207O23.3)	sim5_reads|C2ORF83--ARHGEF18
-TP	sim5_reads	TopHat-Fusion	NOX5--FLJ27365	68	661	RP11-809H16.4,RP11-809H16.2,SPESP1,NOX5,RP11-809H16.3	C22orf26,RP6-109B7.2,MIR4763,FLJ27365,MIRLET7B,RP6-109B7.4,RP6-109B7.3,MIR3619,MIRLET7A3	first encounter of TP TopHat-Fusion,sim5_reads|NOX5--FLJ27365	sim5_reads|NOX5--FLJ27365
-TP	sim5_reads	TopHat-Fusion	UTF1--SLC35F1	94	635	UTF1	RP11-632C17__A.1,SLC35F1	first encounter of TP TopHat-Fusion,sim5_reads|UTF1--SLC35F1	sim5_reads|UTF1--SLC35F1
-TP	sim5_reads	TopHat-Fusion	MFF--FLYWCH1	102	619	MFF,AC097662.2	FLYWCH1,LA16c-321D4.2,LA16c-321D4.1	first encounter of TP TopHat-Fusion,sim5_reads|MFF--FLYWCH1	sim5_reads|MFF--FLYWCH1
-TP	sim5_reads	TopHat-Fusion	MIEF2--ULK3	127	591	MIEF2	ULK3	first encounter of TP TopHat-Fusion,sim5_reads|MIEF2--ULK3	sim5_reads|MIEF2--ULK3
-TP	sim5_reads	TopHat-Fusion	COL6A6--USH2A	69	646	COL6A6	USH2A,RP5-1099E6.3,RP11-22M7.2,RP5-1111A8.3,MRPS18BP1,SNORD116	first encounter of TP TopHat-Fusion,sim5_reads|COL6A6--USH2A	sim5_reads|COL6A6--USH2A
-TP	sim5_reads	TopHat-Fusion	GJD4--SORD	86	609	RP11-425A6.5,GJD4	RP11-109D20.2,SORD,RP11-109D20.1	first encounter of TP TopHat-Fusion,sim5_reads|GJD4--SORD	sim5_reads|GJD4--SORD
-TP	sim5_reads	TopHat-Fusion	SIRT6--RP11-573D15.8	112	581	SIRT6	RP11-795A2.3,HRG,RP11-573D15.6,RP11-573D15.8,RNU6-1105P,FETUB,DNAJB11,PSMD10P2,RP11-134F2.2,RP11-795A2.2,KNG1,AHSG	first encounter of TP TopHat-Fusion,sim5_reads|KNG1--SIRT6 (para of sim5_reads|RP11-573D15.8--SIRT6)	sim5_reads|KNG1--SIRT6
-TP	sim5_reads	TopHat-Fusion	IRGQ--ZNF326	84	593	IRGQ,L34079.2	GEMIN8P4,ZNF326	first encounter of TP TopHat-Fusion,sim5_reads|IRGQ--ZNF326	sim5_reads|IRGQ--ZNF326
-FP	sim5_reads	TopHat-Fusion	OPRL1--KIF24	76	569	C20orf201,OPRL1	SERPINH1P1,AL353662.4,RNU2-50P,UBAP1,RP11-571F15.3,KIF24	first encounter of FP fusion TopHat-Fusion,sim5_reads|OPRL1--KIF24	.
-TP	sim5_reads	TopHat-Fusion	CCDC173--ZNF428	130	513	AC016772.4,CCDC173	ZNF428,SRRM5	first encounter of TP TopHat-Fusion,sim5_reads|CCDC173--ZNF428	sim5_reads|CCDC173--ZNF428
-TP	sim5_reads	TopHat-Fusion	WDR37--RPL5	106	523	WDR37	RPL5,SNORA66,SNORD21	first encounter of TP TopHat-Fusion,sim5_reads|WDR37--RPL5	sim5_reads|WDR37--RPL5
-TP	sim5_reads	TopHat-Fusion	RP11-96C23.5--TTC12	101	526	AGAP11,RP11-96C23.15,RP11-96C23.5,ADIRF-AS1,RP11-96C23.10,RP11-96C23.14,ADIRF,RP11-96C23.11,BMS1P3	TTC12,RP11-159N11.4	first encounter of TP TopHat-Fusion,sim5_reads|ADIRF--TTC12 (para of sim5_reads|RP11-96C23.15--TTC12)	sim5_reads|ADIRF--TTC12
-TP	sim5_reads	TopHat-Fusion	GPHA2--MZB1	65	559	GPHA2,PPP2R5B	MZB1	first encounter of TP TopHat-Fusion,sim5_reads|GPHA2--MZB1	sim5_reads|GPHA2--MZB1
-TP	sim5_reads	TopHat-Fusion	TM4SF2--UGT3A2	84	534	XK,FTH1P27,AF241726.4,TSPAN7,PRRG1,SYTL5,MIR548AJ2,AL121578.5,FTH1P19,FAM47DP,AL121578.7,TDGF1P1,TM4SF2,LANCL3,AL121578.2,RNU7-7P,RNU6-49P,CYBB,RP13-43E11.1,CXorf27,SRPX,AF241726.2,SNORA31,RP11-357K9.2,FTLP16,RPGR,OTC,DYNLT3	UGT3A2	first encounter of TP TopHat-Fusion,sim5_reads|TM4SF2--UGT3A2	sim5_reads|TM4SF2--UGT3A2
-TP	sim5_reads	TopHat-Fusion	SART3--NLRP3	79	527	SART3,FICD	NLRP3	first encounter of TP TopHat-Fusion,sim5_reads|SART3--NLRP3	sim5_reads|SART3--NLRP3
-TP	sim5_reads	TopHat-Fusion	KCND1--CAMK4	50	545	KCND1	AC010468.2,CAMK4,CTC-499J9.1	first encounter of TP TopHat-Fusion,sim5_reads|KCND1--CAMK4	sim5_reads|KCND1--CAMK4
-TP	sim5_reads	TopHat-Fusion	SDR9C7--GPLD1	80	489	SDR9C7	ALDH5A1,MRS2,GPLD1	first encounter of TP TopHat-Fusion,sim5_reads|SDR9C7--GPLD1	sim5_reads|SDR9C7--GPLD1
-TP	sim5_reads	TopHat-Fusion	RASSF9--SF3A2	93	474	RASSF9	SF3A2,PLEKHJ1	first encounter of TP TopHat-Fusion,sim5_reads|RASSF9--SF3A2	sim5_reads|RASSF9--SF3A2
-TP	sim5_reads	TopHat-Fusion	PYGM--ZNF679	64	501	PYGM	VN1R38P,MTND3P2,RP11-165H4.3,TRIM60P17,RP11-3N2.5,ZNF679,VN1R37P,ZNF727,RP11-321E8.4,MTND1P2,RP11-3N2.8,RP11-165H4.2,MTND2P4,RP11-468B6.1,MTND4P2,RP11-3N2.13,RP11-3N2.7,GUSBP6,RP11-3N2.11,RP11-3N2.9	first encounter of TP TopHat-Fusion,sim5_reads|PYGM--ZNF679	sim5_reads|PYGM--ZNF679
-TP	sim5_reads	TopHat-Fusion	ALOX12B--CCDC69	59	492	AC129492.6,ALOX12B	GM2A,CCDC69	first encounter of TP TopHat-Fusion,sim5_reads|CCDC69--AC129492.6 (para of sim5_reads|CCDC69--ALOX12B)	sim5_reads|CCDC69--AC129492.6
-TP	sim5_reads	TopHat-Fusion	RP11-317J19.1--TMEM129	46	503	RP11-317J19.1,PTP4A1P6,ME3	TMEM129	first encounter of TP TopHat-Fusion,sim5_reads|TMEM129--ME3	sim5_reads|TMEM129--ME3
-NA-TP	sim5_reads	TopHat-Fusion	NDUFAB1--TLK1P1	0	536	NDUFAB1	TLK1P1	already scored TopHat-Fusion,sim5_reads|NDUFAB1--TLK1 as TP (para of sim5_reads|NDUFAB1--TLK1P1)	.
-TP	sim5_reads	TopHat-Fusion	N6AMT1--KLHDC10	63	470	N6AMT1	KLHDC10	first encounter of TP TopHat-Fusion,sim5_reads|N6AMT1--KLHDC10	sim5_reads|N6AMT1--KLHDC10
-TP	sim5_reads	TopHat-Fusion	HEG1--GLRA4	82	448	HEG1	GLRA4,TMEM31	first encounter of TP TopHat-Fusion,sim5_reads|HEG1--TMEM31 (para of sim5_reads|HEG1--GLRA4)	sim5_reads|HEG1--TMEM31
-TP	sim5_reads	TopHat-Fusion	PRKRA--EBF3	94	435	PRKRA,DFNB59,AC009948.5	MIR4297,EBF3	first encounter of TP TopHat-Fusion,sim5_reads|PRKRA--EBF3	sim5_reads|PRKRA--EBF3
-TP	sim5_reads	TopHat-Fusion	TUBB3--MPP6	59	453	AC092143.1,RP11-566K11.4,MC1R,TUBB3	CTA-298G8.1,CTA-298G8.2,MPP6	first encounter of TP TopHat-Fusion,sim5_reads|MC1R--MPP6	sim5_reads|MC1R--MPP6
-TP	sim5_reads	TopHat-Fusion	SLC5A5--DNPH1	76	434	SLC5A5	DNPH1	first encounter of TP TopHat-Fusion,sim5_reads|SLC5A5--DNPH1	sim5_reads|SLC5A5--DNPH1
-TP	sim5_reads	TopHat-Fusion	PCDHA1--EPB41L1	86	420	PCDHAC1,PCDHA13,PCDHA4,PCDHA2,PCDHA11,PCDHA9,PCDHA14,PCDHAC2,PCDHA12,AC005609.1,PCDHA7,PCDHA10,PCDHA5,PCDHA3,PCDHA1,PCDHA8,PCDHA6	AL121895.1,RP11-234K24.3,EPB41L1	first encounter of TP TopHat-Fusion,sim5_reads|PCDHA10--EPB41L1 (para of sim5_reads|PCDHA1--EPB41L1)	sim5_reads|PCDHA10--EPB41L1
-TP	sim5_reads	TopHat-Fusion	NLRX1--CDC5L	65	440	NLRX1	MIR4642,CDC5L,AL133262.1	first encounter of TP TopHat-Fusion,sim5_reads|NLRX1--CDC5L	sim5_reads|NLRX1--CDC5L
-TP	sim5_reads	TopHat-Fusion	RRP1B--TIGD4	63	402	PDXK,RRP1B,CSTB	TIGD4	first encounter of TP TopHat-Fusion,sim5_reads|RRP1B--TIGD4	sim5_reads|RRP1B--TIGD4
-TP	sim5_reads	TopHat-Fusion	PPP5C--AGPS	55	404	AC007193.8,PPP5C,AC007193.9	AGPS,NFE2L2,AC074286.1	first encounter of TP TopHat-Fusion,sim5_reads|PPP5C--AGPS	sim5_reads|PPP5C--AGPS
-TP	sim5_reads	TopHat-Fusion	LCT--ADAMTS20	73	378	LCT,AC011893.3	ADAMTS20	first encounter of TP TopHat-Fusion,sim5_reads|LCT--ADAMTS20	sim5_reads|LCT--ADAMTS20
-TP	sim5_reads	TopHat-Fusion	FADS6--HOXD3	65	380	FADS6	RP11-387A1.5,HOXD-AS2,HOXD4,HOXD-AS1,MIR10B,HOXD3	first encounter of TP TopHat-Fusion,sim5_reads|FADS6--HOXD3	sim5_reads|FADS6--HOXD3
-TP	sim5_reads	TopHat-Fusion	SIGLEC9--ADORA3	66	358	SIGLEC9	RAP1A,RNU6-792P,ADORA3	first encounter of TP TopHat-Fusion,sim5_reads|SIGLEC9--ADORA3	sim5_reads|SIGLEC9--ADORA3
-TP	sim5_reads	TopHat-Fusion	CHST13--CSGALNACT2	42	363	CHST13,C3orf22	CSGALNACT2	first encounter of TP TopHat-Fusion,sim5_reads|CHST13--CSGALNACT2	sim5_reads|CHST13--CSGALNACT2
-TP	sim5_reads	TopHat-Fusion	FRG1--SLIRP	127	268	FRG1	C14orf178,SLIRP,SNW1	first encounter of TP TopHat-Fusion,sim5_reads|FRG1--SLIRP	sim5_reads|FRG1--SLIRP
-TP	sim5_reads	TopHat-Fusion	LRRTM4--ZNF304	2	389	AC079117.3,RNA5SP98,AC079117.1,AC079117.2,LRRTM4	CTC-444N24.13,ZNF304	first encounter of TP TopHat-Fusion,sim5_reads|LRRTM4--ZNF304	sim5_reads|LRRTM4--ZNF304
-TP	sim5_reads	TopHat-Fusion	AC009892.10--DYNLRB1	70	317	LILRB1,AC009892.10	DYNLRB1	first encounter of TP TopHat-Fusion,sim5_reads|AC009892.10--DYNLRB1	sim5_reads|AC009892.10--DYNLRB1
-TP	sim5_reads	TopHat-Fusion	C1QA--C11ORF1	68	319	C1QA	ALG9,FDXACB1,C11orf1	first encounter of TP TopHat-Fusion,sim5_reads|C1QA--C11ORF1	sim5_reads|C1QA--C11ORF1
-TP	sim5_reads	TopHat-Fusion	PTHLH--C20ORF194	51	334	PTHLH,RP11-993B23.3	RN7SL839P,AL117334.1,RNU6-1019P,U3,UBE2V1P1,C20orf194	first encounter of TP TopHat-Fusion,sim5_reads|PTHLH--C20ORF194	sim5_reads|PTHLH--C20ORF194
-TP	sim5_reads	TopHat-Fusion	YIPF5--CHST3	50	329	YIPF5	CHST3	first encounter of TP TopHat-Fusion,sim5_reads|YIPF5--CHST3	sim5_reads|YIPF5--CHST3
-TP	sim5_reads	TopHat-Fusion	LILRB3--PPP1R11	25	344	CTB-83J4.1,LILRA6,AC010492.2,LILRB3,RPS9	RNF39,PPP1R11	first encounter of TP TopHat-Fusion,sim5_reads|LILRB3--PPP1R11	sim5_reads|LILRB3--PPP1R11
-TP	sim5_reads	TopHat-Fusion	USP43--NT5DC1	45	324	RP11-55L4.2,USP43,RP11-55L4.1	NT5DC1,RP3-486I3.5,AL121963.1,NIP7P3,COL10A1	first encounter of TP TopHat-Fusion,sim5_reads|COL10A1--USP43 (para of sim5_reads|AL121963.1--USP43)	sim5_reads|COL10A1--USP43
-TP	sim5_reads	TopHat-Fusion	TTK--FRMPD3	53	312	TTK	FRMPD3,FRMPD3-AS1	first encounter of TP TopHat-Fusion,sim5_reads|TTK--FRMPD3	sim5_reads|TTK--FRMPD3
-TP	sim5_reads	TopHat-Fusion	MTL5--TBX22	46	316	MTL5	TBX22	first encounter of TP TopHat-Fusion,sim5_reads|MTL5--TBX22	sim5_reads|MTL5--TBX22
-TP	sim5_reads	TopHat-Fusion	ZNF223--DGCR14	84	278	ZNF284,RNU6-902P,ZNF223,ZNF222	DGCR14,TSSK2	first encounter of TP TopHat-Fusion,sim5_reads|ZNF223--DGCR14	sim5_reads|ZNF223--DGCR14
-TP	sim5_reads	TopHat-Fusion	CBLN1--RMI1	50	311	CBLN1	RMI1	first encounter of TP TopHat-Fusion,sim5_reads|CBLN1--RMI1	sim5_reads|CBLN1--RMI1
-TP	sim5_reads	TopHat-Fusion	GOLGA7--KIAA1432	29	329	GOLGA7	ERMP1,RP11-207C16.4,KIAA1432	first encounter of TP TopHat-Fusion,sim5_reads|GOLGA7--KIAA1432	sim5_reads|GOLGA7--KIAA1432
-TP	sim5_reads	TopHat-Fusion	TTYH2--TNK1	54	295	CTD-2514K5.4,TTYH2	TMEM256-PLSCR3,TNK1,C17orf61-PLSCR3	first encounter of TP TopHat-Fusion,sim5_reads|TTYH2--TNK1	sim5_reads|TTYH2--TNK1
-TP	sim5_reads	TopHat-Fusion	RELL1--PLA2R1	43	300	C4orf19,RELL1	PLA2R1	first encounter of TP TopHat-Fusion,sim5_reads|RELL1--PLA2R1	sim5_reads|RELL1--PLA2R1
-TP	sim5_reads	TopHat-Fusion	C1ORF54--AIF1L	38	297	APH1A,C1orf54	AIF1L	first encounter of TP TopHat-Fusion,sim5_reads|C1ORF54--AIF1L	sim5_reads|C1ORF54--AIF1L
-TP	sim5_reads	TopHat-Fusion	DHPS--INMT-FAM188B	45	287	DHPS,WDR83	INMT-FAM188B,AC004691.5,FAM188B,INMT,AQP1	first encounter of TP TopHat-Fusion,sim5_reads|DHPS--AQP1 (para of sim5_reads|DHPS--INMT-FAM188B)	sim5_reads|DHPS--AQP1
-TP	sim5_reads	TopHat-Fusion	VSTM2B--INPP5J	52	278	CTC-525D6.2,VSTM2B	RP3-412A9.12,INPP5J,SELM	first encounter of TP TopHat-Fusion,sim5_reads|VSTM2B--INPP5J	sim5_reads|VSTM2B--INPP5J
-TP	sim5_reads	TopHat-Fusion	DPYSL4--CDKN2A	49	274	DPYSL4	RP11-145E5.5,CDKN2B-AS1,CDKN2A	first encounter of TP TopHat-Fusion,sim5_reads|DPYSL4--CDKN2A	sim5_reads|DPYSL4--CDKN2A
-TP	sim5_reads	TopHat-Fusion	SEC23A--UBA6	63	256	RP11-545M17.3,SEC23A,RP11-545M17.2,RP11-545M17.1	UBA6,RP11-17P16.2	first encounter of TP TopHat-Fusion,sim5_reads|SEC23A--UBA6	sim5_reads|SEC23A--UBA6
-TP	sim5_reads	TopHat-Fusion	ZNF567--ZNF280D	38	278	ZNF567,ZNF850	RP11-31H5.1,ZNF280D	first encounter of TP TopHat-Fusion,sim5_reads|ZNF567--ZNF280D	sim5_reads|ZNF567--ZNF280D
-NA-TP	sim5_reads	TopHat-Fusion	LILRA6--PPP1R11	0	310	RNU6-1307P,LILRA4,LILRB2,CTB-83J4.1,AC008746.12,LAIR2,LAIR1,AC098789.1,AC008984.2,AC008746.10,AC009892.2,AC008746.3,LILRA6,AC010518.3,LILRA2,KIR3DX1,CTD-2587H19.3,AC008746.5,AC008984.7,LENG9,LENG8,CTD-2337J16.1,LILRA5,AC010492.2,AC010492.5,AC008984.5,AC009892.5,LILRB1,CTD-2587H19.1,LILRB3,AC009892.1,AC008746.9,CDC42EP5,LILRA1,LILRB5,AC008984.6,AC010492.4,TTYH1,LILRA3,VN1R104P,CTB-83J4.2,CTD-2587H19.2,LENG8-AS1,RPS9,MIR4752	RNF39,PPP1R11	already scored TopHat-Fusion,sim5_reads|LILRB3--PPP1R11 as TP (para of sim5_reads|LILRA6--PPP1R11)	.
-TP	sim5_reads	TopHat-Fusion	FNDC1--SLC6A18	41	265	FNDC1,FNDC1-IT1,RP11-13P5.2	SLC6A18	first encounter of TP TopHat-Fusion,sim5_reads|FNDC1--SLC6A18	sim5_reads|FNDC1--SLC6A18
-TP	sim5_reads	TopHat-Fusion	ASXL1--CHCHD10	106	200	ASXL1	MMP11,CHCHD10,C22orf15	first encounter of TP TopHat-Fusion,sim5_reads|ASXL1--CHCHD10	sim5_reads|ASXL1--CHCHD10
-TP	sim5_reads	TopHat-Fusion	HAGHL--PRRT3-AS1	55	237	HAGHL,NARFL,CCDC78	PRRT3,PRRT3-AS1	first encounter of TP TopHat-Fusion,sim5_reads|PRRT3--HAGHL (para of sim5_reads|PRRT3-AS1--HAGHL)	sim5_reads|PRRT3--HAGHL
-TP	sim5_reads	TopHat-Fusion	ASB10--TGIF2-C20ORF24	47	238	ASB10	C20orf24,RP5-977B1.11,TGIF2-C20orf24,TGIF2,SLA2	first encounter of TP TopHat-Fusion,sim5_reads|ASB10--TGIF2 (para of sim5_reads|ASB10--TGIF2-C20ORF24)	sim5_reads|ASB10--TGIF2
-TP	sim5_reads	TopHat-Fusion	PSMD1--IKBKE	34	244	RNU1-93P,HTR2B,PSMD1	C1orf147,IKBKE	first encounter of TP TopHat-Fusion,sim5_reads|PSMD1--IKBKE	sim5_reads|PSMD1--IKBKE
-TP	sim5_reads	TopHat-Fusion	WDR62--TLR7	45	232	WDR62	TLR7	first encounter of TP TopHat-Fusion,sim5_reads|WDR62--TLR7	sim5_reads|WDR62--TLR7
-TP	sim5_reads	TopHat-Fusion	THAP5--CCR6	40	234	THAP5,PNPLA8,DNAJB9	CCR6,RP11-517H2.6,FGFR1OP	first encounter of TP TopHat-Fusion,sim5_reads|THAP5--CCR6	sim5_reads|THAP5--CCR6
-TP	sim5_reads	TopHat-Fusion	ARHGEF39--ABCB4	48	206	ARHGEF39,CA9,CCDC107,RN7SL22P	ABCB4	first encounter of TP TopHat-Fusion,sim5_reads|ARHGEF39--ABCB4	sim5_reads|ARHGEF39--ABCB4
-TP	sim5_reads	TopHat-Fusion	TCIRG1--GDI2	37	202	RP11-802E16.3,TCIRG1	NRBF2P5,GDI1,GDI2,RP11-318E3.9	first encounter of TP TopHat-Fusion,sim5_reads|TCIRG1--GDI2	sim5_reads|TCIRG1--GDI2
-TP	sim5_reads	TopHat-Fusion	KATNA1--PCDH15	24	215	KATNA1	RP11-598C10.2,RP11-168O22.1,RNU6-687P,RP11-257I14.1,MTRNR2L5,PCDH15,MIR548F1,RP11-598C10.1,AC013737.1,NEFMP1,RP11-264A11.1	first encounter of TP TopHat-Fusion,sim5_reads|KATNA1--PCDH15	sim5_reads|KATNA1--PCDH15
-TP	sim5_reads	TopHat-Fusion	ARID5A--LYPD1	34	202	ARID5A	LYPD1,AC010974.3,GPR39	first encounter of TP TopHat-Fusion,sim5_reads|ARID5A--LYPD1	sim5_reads|ARID5A--LYPD1
-TP	sim5_reads	TopHat-Fusion	C14ORF39--TRMT2A	34	200	RP11-1042B17.3,SALL4P7,RBM8B,SIX6,C14orf39,GNRHR2P1	RANBP1,DGCR8,AC006547.8,TRMT2A	first encounter of TP TopHat-Fusion,sim5_reads|C14ORF39--TRMT2A	sim5_reads|C14ORF39--TRMT2A
-TP	sim5_reads	TopHat-Fusion	DDX19A--NUDT5	24	207	DDX19B,DDX19A,RP11-529K1.2,RP11-529K1.3	CDC123,NUDT5,SEC61A2	first encounter of TP TopHat-Fusion,sim5_reads|DDX19A--NUDT5	sim5_reads|DDX19A--NUDT5
-TP	sim5_reads	TopHat-Fusion	OSER1--SCN8A	35	193	OSER1	RP11-923I11.3,HNRNPA3P10,SCN8A,AC068987.1	first encounter of TP TopHat-Fusion,sim5_reads|OSER1--SCN8A	sim5_reads|OSER1--SCN8A
-TP	sim5_reads	TopHat-Fusion	CPXM1--HOXC4	36	192	CPXM1	AC012531.25,MIR615,HOXC5,HOXC4,RP11-834C11.12,RP11-834C11.14,HOXC6	first encounter of TP TopHat-Fusion,sim5_reads|CPXM1--HOXC4	sim5_reads|CPXM1--HOXC4
-TP	sim5_reads	TopHat-Fusion	IGF1--VSX2	20	203	IGF1	VSX2	first encounter of TP TopHat-Fusion,sim5_reads|IGF1--VSX2	sim5_reads|IGF1--VSX2
-NA-TP	sim5_reads	TopHat-Fusion	DDX19B--NUDT5	11	207	DDX19B,DDX19A,RP11-529K1.2,RP11-529K1.3	CDC123,NUDT5,SEC61A2	already scored TopHat-Fusion,sim5_reads|DDX19A--NUDT5 as TP (para of sim5_reads|DDX19B--NUDT5)	.
-TP	sim5_reads	TopHat-Fusion	CDK13--MTFR1L	20	191	CDK13	AL020996.1,RP1-317E23.6,RP1-317E23.3,RP1-317E23.7,AUNIP,MTFR1L	first encounter of TP TopHat-Fusion,sim5_reads|CDK13--MTFR1L	sim5_reads|CDK13--MTFR1L
-TP	sim5_reads	TopHat-Fusion	KIF2C--PRDM2	25	184	KIF2C,RP11-269F19.2	PRDM2	first encounter of TP TopHat-Fusion,sim5_reads|KIF2C--PRDM2	sim5_reads|KIF2C--PRDM2
-TP	sim5_reads	TopHat-Fusion	ULBP1--PAM	31	177	ULBP1	PAM	first encounter of TP TopHat-Fusion,sim5_reads|ULBP1--PAM	sim5_reads|ULBP1--PAM
-TP	sim5_reads	TopHat-Fusion	RP11-263K19.4--WDR33	18	190	THBS3,RP11-263K19.4,MIR92B	RNY4P7,WDR33,SFT2D3	first encounter of TP TopHat-Fusion,sim5_reads|THBS3--WDR33 (para of sim5_reads|RP11-263K19.4--WDR33)	sim5_reads|THBS3--WDR33
-TP	sim5_reads	TopHat-Fusion	TOX4--FAM169B	9	197	RAB2B,TOX4,METTL3	FAM169B,RP11-719C20.1	first encounter of TP TopHat-Fusion,sim5_reads|RAB2B--FAM169B (para of sim5_reads|TOX4--FAM169B)	sim5_reads|RAB2B--FAM169B
-TP	sim5_reads	TopHat-Fusion	LRIG2--TRPM3	29	174	RLIMP2,LRIG2	Metazoa_SRP,MIR204,RP11-141J10.2,TRPM3,PIGUP1,RP11-141J10.1	first encounter of TP TopHat-Fusion,sim5_reads|LRIG2--TRPM3	sim5_reads|LRIG2--TRPM3
-TP	sim5_reads	TopHat-Fusion	PRRG2--EDNRB	27	165	NOSIP,PRRG2	RN7SL810P,RNF219-AS1,EDNRB,RP11-318G21.4	first encounter of TP TopHat-Fusion,sim5_reads|PRRG2--EDNRB	sim5_reads|PRRG2--EDNRB
-TP	sim5_reads	TopHat-Fusion	SEC1P--ZBTB10	25	166	SEC1P,CA11,NTN5	ZBTB10	first encounter of TP TopHat-Fusion,sim5_reads|NTN5--ZBTB10 (para of sim5_reads|SEC1P--ZBTB10)	sim5_reads|NTN5--ZBTB10
-TP	sim5_reads	TopHat-Fusion	IGLL5--AKAP12	31	157	LL22NC03-84E4.11,IGLV3-10,IGLV3-2,IGLJ1,IGLV3-12,IGLV3-7,hsa-mir-5571,IGLL5,IGL@,IGLV3-16,IGLV3-15,IGLC6,MIR650,IGLV3-1,LL22NC03-24A12.8,IGLV2-18,IGLV2-14,IGLV2-5,IGLC1,IGLV3-6,D87007.1,IGLV2-11,IGLV2-8,D87024.1,D87015.1,IGLV3-17,IGLV3-13,D86998.1,IGLV3-9,IGLV3-4,LL22NC03-84E4.8,IGLV4-3	RNU6-1247P,AKAP12,RNY4P20,RN7SKP268	first encounter of TP TopHat-Fusion,sim5_reads|IGLL5--AKAP12	sim5_reads|IGLL5--AKAP12
-TP	sim5_reads	TopHat-Fusion	FMR1--CYB5R2	30	145	FMR1-IT1,FMR1	CYB5R2	first encounter of TP TopHat-Fusion,sim5_reads|FMR1--CYB5R2	sim5_reads|FMR1--CYB5R2
-TP	sim5_reads	TopHat-Fusion	TSC22D2--WDR96	20	155	TSC22D2	WDR96,MIR609	first encounter of TP TopHat-Fusion,sim5_reads|TSC22D2--WDR96	sim5_reads|TSC22D2--WDR96
-TP	sim5_reads	TopHat-Fusion	TMEM61--ACOX3	25	147	RP11-12C17.2,TMEM61	TRMT44,ACOX3,RNA5SP152	first encounter of TP TopHat-Fusion,sim5_reads|TMEM61--ACOX3	sim5_reads|TMEM61--ACOX3
-TP	sim5_reads	TopHat-Fusion	IFIT3--ALPL	19	148	LIPA,IFIT3	ALPL	first encounter of TP TopHat-Fusion,sim5_reads|IFIT3--ALPL	sim5_reads|IFIT3--ALPL
-TP	sim5_reads	TopHat-Fusion	TRPC7--ALS2CL	18	147	TRPC7-AS2,TRPC7,TRPC7-AS1,HSPD1P18	ALS2CL	first encounter of TP TopHat-Fusion,sim5_reads|TRPC7--ALS2CL	sim5_reads|TRPC7--ALS2CL
-TP	sim5_reads	TopHat-Fusion	DUS3L--CXORF57	18	147	DUS3L,CTB-54O9.9	MIR548AN,CXorf57	first encounter of TP TopHat-Fusion,sim5_reads|DUS3L--CXORF57	sim5_reads|DUS3L--CXORF57
-TP	sim5_reads	TopHat-Fusion	ASIP--BAMBI	16	148	RP4-785G19.5,ASIP,XPOTP1,RP4-785G19.2	BAMBI	first encounter of TP TopHat-Fusion,sim5_reads|ASIP--BAMBI	sim5_reads|ASIP--BAMBI
-TP	sim5_reads	TopHat-Fusion	PCDHGA1--CSN2	14	148	PCDHGA7,PCDHGA1,PCDHGC5,PCDHGB4,PCDHGC4,RN7SL68P,PCDHGA10,PCDHGA5,PCDHGB2,PCDHGA9,PCDHGA12,PCDHGA4,PCDHGA2,PCDHGB7,PCDHGB8P,PCDHGA8,PCDHGA11,PCDHGB6,PCDHGB3,PCDHGC3,PCDHGA6,PCDHGB1,PCDHGA3	CSN2	first encounter of TP TopHat-Fusion,sim5_reads|PCDHGB1--CSN2 (para of sim5_reads|PCDHGA1--CSN2)	sim5_reads|PCDHGB1--CSN2
-TP	sim5_reads	TopHat-Fusion	ATG3--MEOX2	17	143	SLC35A5,ATG3	MEOX2,AC005550.3	first encounter of TP TopHat-Fusion,sim5_reads|ATG3--MEOX2	sim5_reads|ATG3--MEOX2
-TP	sim5_reads	TopHat-Fusion	NXPH1--IGHM	26	133	NXPH1	IGHV3-7,IGHD6-6,IGHD2-21,IGHD1-26,IGHD5-12,IGHD2-15,AL122127.1,IGHD4-4,AL122127.3,IGHJ3,IGHVIII-5-2,IGHV1-12,IGHD4-11,IGHD5-18,IGHV3-15,IGHD3-22,IGHJ6,IGHV3-6,IGH@,SLC20A1P2,AL122127.5,IGHD5-5,IGHV1-14,IGHV2-10,hsa-mir-4538,IGHD3-16,IGHV3-13,IGHM,IGHD5-24,AB019440.1,IGHV1-18,IGHV3-21,IGHV3-19,IGHD3-3,IGHD6-25,IGHJ2,IGHD1-14,IGHJ1P,IGHD6-13,IGHVIII-2-1,IGHV1-3,hsa-mir-4539,IGHVII-1-1,AB019441.29,AL122127.4,IGHD3-9,AL122127.2,AL122127.25,IGHV3-16,hsa-mir-4537,ADAM6,IGHVIII-5-1,IGHVII-15-1,IGHD2-2,IGHJ4,IGHD1-20,IGHJ2P,IGHV1-8,IGHD4-17,IGHJ3P,IGHV4-4,IGHD1-1,IGHJ5,IGHVIII-11-1,AB019440.50,KIAA0125,IGHVIII-13-1,IGHD3-10,IGHD6-19,IGHV3-11,IGHD1-7,IGHD7-27,IGHV3-20,IGHV1-2,IGHV2-5,IGHD4-23,IGHJ1,IGHV1-17,IGHV6-1,IGHVII-20-1,IGHV3-9,IGHD2-8,IGHVIII-16-1	first encounter of TP TopHat-Fusion,sim5_reads|NXPH1--IGHM	sim5_reads|NXPH1--IGHM
-TP	sim5_reads	TopHat-Fusion	LIN7A--COX7A2L	19	138	MIR618,MIR617,RP11-299A16.1,LIN7A,ACSS3	COX7A2L	first encounter of TP TopHat-Fusion,sim5_reads|LIN7A--COX7A2L	sim5_reads|LIN7A--COX7A2L
-TP	sim5_reads	TopHat-Fusion	KDM4C--RC3H2	17	136	RP11-403H13.1,RP11-390F4.9,RP11-390F4.3,KDM4C,SNRPEP2,RP11-390F4.8	SNORD90,RC3H2	first encounter of TP TopHat-Fusion,sim5_reads|KDM4C--RC3H2	sim5_reads|KDM4C--RC3H2
-TP	sim5_reads	TopHat-Fusion	C20ORF141--SLC38A8	26	122	TMEM239,C20orf141	RNA5SP432,SLC38A8	first encounter of TP TopHat-Fusion,sim5_reads|TMEM239--SLC38A8 (para of sim5_reads|C20ORF141--SLC38A8)	sim5_reads|TMEM239--SLC38A8
-TP	sim5_reads	TopHat-Fusion	DOCK3--TMEM55B	8	137	ZNF652P1,ST13P14,RP11-804H8.5,RP11-646D13.1,DOCK3	TMEM55B,APEX1	first encounter of TP TopHat-Fusion,sim5_reads|DOCK3--TMEM55B	sim5_reads|DOCK3--TMEM55B
-TP	sim5_reads	TopHat-Fusion	PRB4--C19ORF67	13	130	TAS2R43,TAS2R30,TAS2R63P,RP11-785H5.1,RP11-673D15.7,PRH1,RNU6-676P,PRH2,TAS2R46,TAS2R19,TAS2R12,PRR4,TAS2R67P,PRB3,TAS2R14,TAS2R31,RP11-785H5.2,TAS2R42,TAS2R64P,RP11-711K1.8,TAS2R18,AC018630.1,TAS2R13,RP11-144O23.20,PRB4,TAS2R15,TAS2R50,TAS2R20	C19orf67	first encounter of TP TopHat-Fusion,sim5_reads|PRB4--C19ORF67	sim5_reads|PRB4--C19ORF67
-TP	sim5_reads	TopHat-Fusion	ACER2--AKAP11	11	132	ACER2	AKAP11	first encounter of TP TopHat-Fusion,sim5_reads|ACER2--AKAP11	sim5_reads|ACER2--AKAP11
-TP	sim5_reads	TopHat-Fusion	CRYBB1--SERF1A	40	101	CRYBB1	SERF1A,SERF1B	first encounter of TP TopHat-Fusion,sim5_reads|CRYBB1--SERF1A	sim5_reads|CRYBB1--SERF1A
-NA-TP	sim5_reads	TopHat-Fusion	CRYBB1--SERF1B	39	101	CRYBB1	SERF1A,SERF1B	already scored TopHat-Fusion,sim5_reads|CRYBB1--SERF1A as TP (para of sim5_reads|CRYBB1--SERF1B)	.
-TP	sim5_reads	TopHat-Fusion	NMUR2--PYCARD	26	109	NMUR2	C16orf98,PYCARD	first encounter of TP TopHat-Fusion,sim5_reads|NMUR2--PYCARD	sim5_reads|NMUR2--PYCARD
-TP	sim5_reads	TopHat-Fusion	RP11-968A15.8--MRPS18A	18	117	NFE2,COPZ1,RP11-968A15.2,MIR148B,RNU6-950P,RP11-968A15.8,CBX5,RN7SL744P,HNRNPA1	MRPS18A,RSPH9	first encounter of TP TopHat-Fusion,sim5_reads|NFE2--MRPS18A	sim5_reads|NFE2--MRPS18A
-TP	sim5_reads	TopHat-Fusion	ARMC5--PTGER2	15	118	RP11-452L6.5,ARMC5	PTGER2	first encounter of TP TopHat-Fusion,sim5_reads|ARMC5--PTGER2	sim5_reads|ARMC5--PTGER2
-TP	sim5_reads	TopHat-Fusion	SUV39H1--FAM179A	20	110	SUV39H1,AF196970.3	FAM179A,C2orf71	first encounter of TP TopHat-Fusion,sim5_reads|SUV39H1--FAM179A	sim5_reads|SUV39H1--FAM179A
-TP	sim5_reads	TopHat-Fusion	AP4B1--PFKFB3	11	116	AP4B1-AS1,DCLRE1B,AP4B1	RP11-414H17.5,PFKFB3,MIR3155A,RN7SKP78	first encounter of TP TopHat-Fusion,sim5_reads|AP4B1--PFKFB3	sim5_reads|AP4B1--PFKFB3
-TP	sim5_reads	TopHat-Fusion	C1QL2--TUB	16	108	C1QL2	RP11-236J17.6,RIC3,TUB,RP11-236J17.5	first encounter of TP TopHat-Fusion,sim5_reads|C1QL2--TUB	sim5_reads|C1QL2--TUB
-TP	sim5_reads	TopHat-Fusion	LEPR--EIF3F	21	101	RP11-430H12.2,LEPR,LEPROT,RP4-630A11.3	EIF3F,COX6CP5	first encounter of TP TopHat-Fusion,sim5_reads|LEPR--EIF3F	sim5_reads|LEPR--EIF3F
-TP	sim5_reads	TopHat-Fusion	SECISBP2--PBX3	10	111	SECISBP2	RP11-423C15.3,PBX3	first encounter of TP TopHat-Fusion,sim5_reads|SECISBP2--PBX3	sim5_reads|SECISBP2--PBX3
-TP	sim5_reads	TopHat-Fusion	EDEM2--SMARCA1	16	103	RP4-614O4.12,AL121753.1,RP4-614O4.11,RNA5SP483,EDEM2,MT1P3,MMP24-AS1,MMP24,SNORD56,PROCR	SMARCA1	first encounter of TP TopHat-Fusion,sim5_reads|SMARCA1--MMP24 (para of sim5_reads|SMARCA1--EDEM2)	sim5_reads|SMARCA1--MMP24
-TP	sim5_reads	TopHat-Fusion	MTNR1A--ZNF630-AS1	12	106	RP11-215A19.2,MTNR1A,RNU6-1055P,F11-AS1	ZNF630,ZNF630-AS1	first encounter of TP TopHat-Fusion,sim5_reads|MTNR1A--ZNF630	sim5_reads|MTNR1A--ZNF630
-TP	sim5_reads	TopHat-Fusion	HMX3--FAM181A	22	92	HMX3	FAM181A-AS1,FAM181A	first encounter of TP TopHat-Fusion,sim5_reads|HMX3--FAM181A	sim5_reads|HMX3--FAM181A
-TP	sim5_reads	TopHat-Fusion	SLC34A3--PCDHAC2	29	82	SLC34A3	PCDHAC1,PCDHA13,PCDHA4,PCDHA2,PCDHA11,PCDHA9,PCDHAC2,PCDHA12,PCDHA7,PCDHA10,PCDHA5,PCDHA3,PCDHA1,PCDHA8,PCDHA6	first encounter of TP TopHat-Fusion,sim5_reads|SLC34A3--PCDHA12 (para of sim5_reads|SLC34A3--PCDHAC2)	sim5_reads|SLC34A3--PCDHA12
-TP	sim5_reads	TopHat-Fusion	ZFP90--PTTG1IP	24	85	RNU4-36P,ZFP90,RP11-615I2.1	PTTG1IP	first encounter of TP TopHat-Fusion,sim5_reads|ZFP90--PTTG1IP	sim5_reads|ZFP90--PTTG1IP
-TP	sim5_reads	TopHat-Fusion	C4ORF21--LILRB4	12	97	LARP7,RP11-402J6.1,RP11-402J6.3,C4orf21	LILRB4,VN1R105P,AC009892.9	first encounter of TP TopHat-Fusion,sim5_reads|C4ORF21--LILRB4	sim5_reads|C4ORF21--LILRB4
-TP	sim5_reads	TopHat-Fusion	H2AFJ--ADIG	13	89	H2AFJ	ADIG	first encounter of TP TopHat-Fusion,sim5_reads|H2AFJ--ADIG	sim5_reads|H2AFJ--ADIG
-FP	sim5_reads	TopHat-Fusion	ZNF589--RP11-968A15.8	0	101	NME6,MRPS18AP1,FCF1P2,ZNF589	NFE2,COPZ1,RP11-968A15.2,MIR148B,RNU6-950P,RP11-968A15.8,CBX5,RN7SL744P,HNRNPA1	first encounter of FP fusion TopHat-Fusion,sim5_reads|ZNF589--RP11-968A15.8	.
-TP	sim5_reads	TopHat-Fusion	VEZF1--GSC	22	79	VEZF1	GSC	first encounter of TP TopHat-Fusion,sim5_reads|VEZF1--GSC	sim5_reads|VEZF1--GSC
-TP	sim5_reads	TopHat-Fusion	RNGTT--GUCY1A3	11	89	SNORA73,RNGTT	GUCY1A3,RP11-588K22.2	first encounter of TP TopHat-Fusion,sim5_reads|RNGTT--GUCY1A3	sim5_reads|RNGTT--GUCY1A3
-TP	sim5_reads	TopHat-Fusion	ANO5--ARHGAP11A	11	84	ANO5,CTD-3064C13.1	ARHGAP11A,AC123768.4	first encounter of TP TopHat-Fusion,sim5_reads|ANO5--ARHGAP11A	sim5_reads|ANO5--ARHGAP11A
-TP	sim5_reads	TopHat-Fusion	CHRNA3--ZNF610	12	83	CHRNA5,CHRNA3	ZNF610,CTD-2525I3.6	first encounter of TP TopHat-Fusion,sim5_reads|CHRNA3--ZNF610	sim5_reads|CHRNA3--ZNF610
-TP	sim5_reads	TopHat-Fusion	TRIM2--SYP	15	80	TRIM2,RNU6-1196P,ANXA2P1	SYP-AS1,SYP	first encounter of TP TopHat-Fusion,sim5_reads|TRIM2--SYP	sim5_reads|TRIM2--SYP
-TP	sim5_reads	TopHat-Fusion	TBC1D3H--PPP4R4	16	78	TBC1D3H,CCL4L2,TBC1D3C,TBC1D3G,CCL3L1,RNU6-1192P,CTB-91J4.3	PPP4R4	first encounter of TP TopHat-Fusion,sim5_reads|CCL3L1--PPP4R4	sim5_reads|CCL3L1--PPP4R4
-NA-TP	sim5_reads	TopHat-Fusion	CCL3L3--PPP4R4	16	78	TBC1D3H,CCL3L3,TBC1D3C,CCL3L1,AC131056.3	PPP4R4	already scored TopHat-Fusion,sim5_reads|CCL3L1--PPP4R4 as TP (para of sim5_reads|CCL3L3--PPP4R4)	.
-TP	sim5_reads	TopHat-Fusion	SYNJ1--ZFP64	13	81	AP000275.64,SYNJ1	ERP29P1,ZFP64	first encounter of TP TopHat-Fusion,sim5_reads|SYNJ1--ZFP64	sim5_reads|SYNJ1--ZFP64
-TP	sim5_reads	TopHat-Fusion	PUS1--IZUMO3	15	79	PUS1,RP11-417L19.4	IZUMO3	first encounter of TP TopHat-Fusion,sim5_reads|PUS1--IZUMO3	sim5_reads|PUS1--IZUMO3
-TP	sim5_reads	TopHat-Fusion	TRIM40--FRA10AC1	13	76	TRIM40	FRA10AC1	first encounter of TP TopHat-Fusion,sim5_reads|TRIM40--FRA10AC1	sim5_reads|TRIM40--FRA10AC1
-TP	sim5_reads	TopHat-Fusion	P2RX3--AP5B1	12	77	P2RX3,AP000781.1	AP001266.1,AP5B1	first encounter of TP TopHat-Fusion,sim5_reads|P2RX3--AP5B1	sim5_reads|P2RX3--AP5B1
-NA-TP	sim5_reads	TopHat-Fusion	THAP5P1--CCR6	1	87	THAP5P1	CCR6,RP11-517H2.6,FGFR1OP	already scored TopHat-Fusion,sim5_reads|THAP5--CCR6 as TP (para of sim5_reads|THAP5P1--CCR6)	.
-TP	sim5_reads	TopHat-Fusion	AC104794.4--DSEL	9	78	AC104794.4	CTD-2541J13.2,RP11-638L3.1,DSEL	first encounter of TP TopHat-Fusion,sim5_reads|AC104794.4--DSEL	sim5_reads|AC104794.4--DSEL
-TP	sim5_reads	TopHat-Fusion	CCDC109B--SLC6A14	3	84	CASP6,HIGD1AP14,CCDC109B	SLC6A14	first encounter of TP TopHat-Fusion,sim5_reads|CCDC109B--SLC6A14	sim5_reads|CCDC109B--SLC6A14
-TP	sim5_reads	TopHat-Fusion	RP11-333E1.1--MAGEB18	16	71	RP11-333E1.2,RP11-333E1.1,SCIMP	MAGEB18	first encounter of TP TopHat-Fusion,sim5_reads|SCIMP--MAGEB18 (para of sim5_reads|RP11-333E1.1--MAGEB18)	sim5_reads|SCIMP--MAGEB18
-TP	sim5_reads	TopHat-Fusion	BST1--PDZRN4	11	75	BST1,RP11-115L11.1,FAM200B	RP11-413B19.2,PDZRN4	first encounter of TP TopHat-Fusion,sim5_reads|BST1--PDZRN4	sim5_reads|BST1--PDZRN4
-TP	sim5_reads	TopHat-Fusion	KLK15--NEUROD4	12	70	AC011523.2,KLK15	NEUROD4	first encounter of TP TopHat-Fusion,sim5_reads|KLK15--NEUROD4	sim5_reads|KLK15--NEUROD4
-TP	sim5_reads	TopHat-Fusion	ADAD1--C1QTNF4	11	67	ADAD1	C1QTNF4	first encounter of TP TopHat-Fusion,sim5_reads|ADAD1--C1QTNF4	sim5_reads|ADAD1--C1QTNF4
-TP	sim5_reads	TopHat-Fusion	ARNTL2--ZNF548	5	72	RP11-165P7.1,ARNTL2	AC004076.7,AC003002.4,ZNF548,AC003002.6	first encounter of TP TopHat-Fusion,sim5_reads|ARNTL2--AC003002.4	sim5_reads|ARNTL2--AC003002.4
-TP	sim5_reads	TopHat-Fusion	CETP--BRD3	13	64	CETP	LINC00094,RP11-374P20.4,BRD3	first encounter of TP TopHat-Fusion,sim5_reads|CETP--BRD3	sim5_reads|CETP--BRD3
-TP	sim5_reads	TopHat-Fusion	C1ORF158--ECE2	12	64	C1orf158	EIF2B5,ECE2,CAMK2N2	first encounter of TP TopHat-Fusion,sim5_reads|CAMK2N2--C1ORF158 (para of sim5_reads|ECE2--C1ORF158)	sim5_reads|CAMK2N2--C1ORF158
-TP	sim5_reads	TopHat-Fusion	PBDC1--C19ORF47	24	51	PBDC1	C19orf47,PLD3	first encounter of TP TopHat-Fusion,sim5_reads|PBDC1--C19ORF47	sim5_reads|PBDC1--C19ORF47
-TP	sim5_reads	TopHat-Fusion	GAS8--CEP63	9	66	GAS8,DBNDD1,C16orf3,URAHP	ANAPC13,RP11-445J14.1,CEP63	first encounter of TP TopHat-Fusion,sim5_reads|GAS8--CEP63	sim5_reads|GAS8--CEP63
-TP	sim5_reads	TopHat-Fusion	MAP3K19--FAM219A	18	57	MAP3K19	FAM219A,DNAI1	first encounter of TP TopHat-Fusion,sim5_reads|MAP3K19--FAM219A	sim5_reads|MAP3K19--FAM219A
-TP	sim5_reads	TopHat-Fusion	ICOSLG--UGT2B7	15	60	ICOSLG	UGT2B7,RP13-644M16.5	first encounter of TP TopHat-Fusion,sim5_reads|ICOSLG--UGT2B7	sim5_reads|ICOSLG--UGT2B7
-TP	sim5_reads	TopHat-Fusion	UBD--SRPX	13	59	GABBR1,UBD	TM4SF2,RP13-43E11.1,SRPX	first encounter of TP TopHat-Fusion,sim5_reads|UBD--SRPX	sim5_reads|UBD--SRPX
-TP	sim5_reads	TopHat-Fusion	RAF1--NRIP2	10	59	RAF1,MKRN2	ITFG2,NRIP2	first encounter of TP TopHat-Fusion,sim5_reads|RAF1--NRIP2	sim5_reads|RAF1--NRIP2
-TP	sim5_reads	TopHat-Fusion	RHPN2--DSCAM	7	62	CTC-461H2.2,RHPN2	SNORA51,DSCAM-IT1,AF064863.1,DSCAM-AS1,DSCAM,MIR4760	first encounter of TP TopHat-Fusion,sim5_reads|RHPN2--DSCAM	sim5_reads|RHPN2--DSCAM
-TP	sim5_reads	TopHat-Fusion	PTPN9--CLDN18	7	62	CTD-2323K18.2,AC105036.1,CTD-2323K18.1,PTPN9,CTD-2323K18.3	RP11-461M2.2,CLDN18	first encounter of TP TopHat-Fusion,sim5_reads|PTPN9--CLDN18	sim5_reads|PTPN9--CLDN18
-TP	sim5_reads	TopHat-Fusion	DBH--SSBP1	12	56	DBH,DBH-AS1	TAS2R3,TAS2R4,WEE2-AS1,TAS2R6,SSBP1	first encounter of TP TopHat-Fusion,sim5_reads|DBH--SSBP1	sim5_reads|DBH--SSBP1
-TP	sim5_reads	TopHat-Fusion	YRDC--KCNH7	11	57	C1orf122,YRDC	GCA,AC007740.1,KCNH7,RNA5SP109	first encounter of TP TopHat-Fusion,sim5_reads|YRDC--KCNH7	sim5_reads|YRDC--KCNH7
-TP	sim5_reads	TopHat-Fusion	PCED1A--FKBP8	8	58	VPS16,PCED1A	AC005387.3,FKBP8,AC005387.2	first encounter of TP TopHat-Fusion,sim5_reads|PCED1A--FKBP8	sim5_reads|PCED1A--FKBP8
-TP	sim5_reads	TopHat-Fusion	RHAG--KIAA0753	9	56	RHAG	RNA5SP435,KIAA0753,TXNDC17	first encounter of TP TopHat-Fusion,sim5_reads|RHAG--KIAA0753	sim5_reads|RHAG--KIAA0753
-TP	sim5_reads	TopHat-Fusion	ARL3--ISG20	15	48	ARL3	ISG20	first encounter of TP TopHat-Fusion,sim5_reads|ARL3--ISG20	sim5_reads|ARL3--ISG20
-TP	sim5_reads	TopHat-Fusion	CAD--KAT2B	8	55	DFFB,AL691523.1,CAD	KAT2B,MIR3135A	first encounter of TP TopHat-Fusion,sim5_reads|CAD--KAT2B	sim5_reads|CAD--KAT2B
-TP	sim5_reads	TopHat-Fusion	PHYHIPL--DLX2	6	53	FAM13C,PHYHIPL	DLX2	first encounter of TP TopHat-Fusion,sim5_reads|PHYHIPL--DLX2	sim5_reads|PHYHIPL--DLX2
-TP	sim5_reads	TopHat-Fusion	SPAG8--ZNF300	4	54	AL133410.1,NPR2,SPAG8	IRGM,ZNF300	first encounter of TP TopHat-Fusion,sim5_reads|SPAG8--ZNF300	sim5_reads|SPAG8--ZNF300
-TP	sim5_reads	TopHat-Fusion	NUTM2E--GRASP	15	43	NUTM2E	GRASP	first encounter of TP TopHat-Fusion,sim5_reads|NUTM2B--GRASP (para of sim5_reads|NUTM2E--GRASP)	sim5_reads|NUTM2B--GRASP
-NA-TP	sim5_reads	TopHat-Fusion	RP11-119F19.2--GRASP	15	43	NUTM2B,RP11-119F19.2,RP11-182L21.5,BEND3P3,RP11-506M13.3	GRASP	already scored TopHat-Fusion,sim5_reads|NUTM2B--GRASP as TP	.
-TP	sim5_reads	TopHat-Fusion	ABCD2--CCR2	9	49	ABCD2	CCR2	first encounter of TP TopHat-Fusion,sim5_reads|ABCD2--CCR2	sim5_reads|ABCD2--CCR2
-TP	sim5_reads	TopHat-Fusion	ANO1--KXD1	13	45	ANO1,RP11-805J14.3,ANO1-AS1	KXD1,AC005253.2,AC005253.4	first encounter of TP TopHat-Fusion,sim5_reads|ANO1--KXD1	sim5_reads|ANO1--KXD1
-TP	sim5_reads	TopHat-Fusion	LRIT3--COG5	0	57	LRIT3	CTB-20D2.1,GPR22,DUS4L,HBP1,COG5,AC004492.1	first encounter of TP TopHat-Fusion,sim5_reads|LRIT3--GPR22	sim5_reads|LRIT3--GPR22
-TP	sim5_reads	TopHat-Fusion	NLRP7--CDT1	8	48	NLRP7,NLRP2,CTC-550B14.8	CDT1	first encounter of TP TopHat-Fusion,sim5_reads|NLRP7--CDT1	sim5_reads|NLRP7--CDT1
-TP	sim5_reads	TopHat-Fusion	CYP2C19--CTB-171A8.1	6	48	MTND4P19,CYP2C19,CYP2C18	CEACAM16,IGSF23,CEACAM19,CTB-171A8.1,PVR	first encounter of TP TopHat-Fusion,sim5_reads|CYP2C19--CEACAM19	sim5_reads|CYP2C19--CEACAM19
-TP	sim5_reads	TopHat-Fusion	KIR3DX1--IL1R2	8	43	KIR3DX1	IL1R2	first encounter of TP TopHat-Fusion,sim5_reads|KIR3DX1--IL1R2	sim5_reads|KIR3DX1--IL1R2
-TP	sim5_reads	TopHat-Fusion	EPPIN-WFDC6--PXDNL	3	48	EPPIN-WFDC6,EPPIN,RP3-461P17.6,HSPD1P21,WFDC6	RP11-11C20.1,PXDNL,RP11-401H2.1,RP11-119N19.1	first encounter of TP TopHat-Fusion,sim5_reads|EPPIN--PXDNL (para of sim5_reads|EPPIN-WFDC6--PXDNL)	sim5_reads|EPPIN--PXDNL
-TP	sim5_reads	TopHat-Fusion	KCNK17--FBXO6	9	42	KCNK17	FBXO6	first encounter of TP TopHat-Fusion,sim5_reads|KCNK17--FBXO6	sim5_reads|KCNK17--FBXO6
-TP	sim5_reads	TopHat-Fusion	THG1L--DOK4	10	40	AC026407.1,THG1L	DOK4,POLR2C	first encounter of TP TopHat-Fusion,sim5_reads|THG1L--DOK4	sim5_reads|THG1L--DOK4
-TP	sim5_reads	TopHat-Fusion	CTSB--ZNF485	6	44	CTSB,RP11-589N15.2	ZNF485	first encounter of TP TopHat-Fusion,sim5_reads|CTSB--ZNF485	sim5_reads|CTSB--ZNF485
-TP	sim5_reads	TopHat-Fusion	RSPH6A--PCMT1	4	45	RSPH6A	PCMT1,RP11-350J20.4,RP11-350J20.5,NUP43	first encounter of TP TopHat-Fusion,sim5_reads|RSPH6A--PCMT1	sim5_reads|RSPH6A--PCMT1
-TP	sim5_reads	TopHat-Fusion	GDA--LAG3	12	37	GDA	LAG3	first encounter of TP TopHat-Fusion,sim5_reads|GDA--LAG3	sim5_reads|GDA--LAG3
-TP	sim5_reads	TopHat-Fusion	RP11-18I14.10--GLIPR2	8	40	RP11-18I14.10,C10orf95	GLIPR2	first encounter of TP TopHat-Fusion,sim5_reads|GLIPR2--C10ORF95 (para of sim5_reads|GLIPR2--RP11-18I14.10)	sim5_reads|GLIPR2--C10ORF95
-TP	sim5_reads	TopHat-Fusion	ARSJ--SPN	9	39	RP11-26P13.2,ARSJ	SPN,QPRT	first encounter of TP TopHat-Fusion,sim5_reads|ARSJ--SPN	sim5_reads|ARSJ--SPN
-TP	sim5_reads	TopHat-Fusion	GZMA--C1QL3	13	34	GZMA	C1QL3	first encounter of TP TopHat-Fusion,sim5_reads|GZMA--C1QL3	sim5_reads|GZMA--C1QL3
-TP	sim5_reads	TopHat-Fusion	SSR3--IL12B	6	41	SSR3	RNU4ATAC2P,AC008697.1,IL12B	first encounter of TP TopHat-Fusion,sim5_reads|SSR3--IL12B	sim5_reads|SSR3--IL12B
-TP	sim5_reads	TopHat-Fusion	DAGLA--HDAC11	6	40	RP11-467L20.10,DAGLA	HDAC11,HDAC11-AS1	first encounter of TP TopHat-Fusion,sim5_reads|DAGLA--HDAC11	sim5_reads|DAGLA--HDAC11
-TP	sim5_reads	TopHat-Fusion	EPB41L4B--ZNF771	10	36	EPB41L4B,MTND2P11,RNU6-984P,AL358815.1	SNORA42,ZNF771,DCTPP1	first encounter of TP TopHat-Fusion,sim5_reads|EPB41L4B--ZNF771	sim5_reads|EPB41L4B--ZNF771
-TP	sim5_reads	TopHat-Fusion	SAMD5--NAPEPLD	4	41	RP11-307P5.1,SAMD5	RPL19P12,NAPEPLD,ARMC10	first encounter of TP TopHat-Fusion,sim5_reads|SAMD5--NAPEPLD	sim5_reads|SAMD5--NAPEPLD
-NA-TP	sim5_reads	TopHat-Fusion	LEPR--AP003900.6	0	43	RP11-430H12.2,LEPR,LEPROT,RP4-630A11.3	AP003900.6,EIF3FP1	already scored TopHat-Fusion,sim5_reads|LEPR--EIF3F as TP (para of sim5_reads|LEPR--EIF3FP1)	.
-TP	sim5_reads	TopHat-Fusion	CCL25--SPA17	6	37	CCL25	SPA17,SIAE	first encounter of TP TopHat-Fusion,sim5_reads|CCL25--SPA17	sim5_reads|CCL25--SPA17
-TP	sim5_reads	TopHat-Fusion	C16ORF78--MAP3K2	3	39	C16orf78	MAP3K2,RNU6-1147P	first encounter of TP TopHat-Fusion,sim5_reads|C16ORF78--MAP3K2	sim5_reads|C16ORF78--MAP3K2
-TP	sim5_reads	TopHat-Fusion	SON--NPY	4	38	DONSON,SON,AP000304.1,GART	NPY	first encounter of TP TopHat-Fusion,sim5_reads|SON--NPY	sim5_reads|SON--NPY
-TP	sim5_reads	TopHat-Fusion	OLFML1--MYO10	3	38	CTD-2516F10.2,OLFML1	RNA5SP179,MYO10,CTB-55B8.1	first encounter of TP TopHat-Fusion,sim5_reads|OLFML1--MYO10	sim5_reads|OLFML1--MYO10
-TP	sim5_reads	TopHat-Fusion	SIGLEC8--TTC40	6	35	SIGLEC8	TTC40	first encounter of TP TopHat-Fusion,sim5_reads|SIGLEC8--TTC40	sim5_reads|SIGLEC8--TTC40
-TP	sim5_reads	TopHat-Fusion	RAB11FIP4--RAB34	9	32	MIR4724,RAB11FIP4,RN7SL79P,RN7SL45P	RAB34	first encounter of TP TopHat-Fusion,sim5_reads|RAB11FIP4--RAB34	sim5_reads|RAB11FIP4--RAB34
-TP	sim5_reads	TopHat-Fusion	PTGR1--COX6C	11	30	LRRC37A5P,RP11-16L21.7,PTGR1,ZNF483	COX6C,VPS13B	first encounter of TP TopHat-Fusion,sim5_reads|PTGR1--COX6C	sim5_reads|PTGR1--COX6C
-TP	sim5_reads	TopHat-Fusion	GBA3--HABP4	5	35	CDC42P6,GBA3	HABP4,CDC14B	first encounter of TP TopHat-Fusion,sim5_reads|GBA3--HABP4	sim5_reads|GBA3--HABP4
-TP	sim5_reads	TopHat-Fusion	VCL--KIAA0556	0	39	RP11-417O11.5,RP11-178G16.4,RP11-178G16.5,VCL	CTD-2049O4.1,KIAA0556,AC016597.1,AC002551.1	first encounter of TP TopHat-Fusion,sim5_reads|VCL--KIAA0556	sim5_reads|VCL--KIAA0556
-TP	sim5_reads	TopHat-Fusion	REPS1--ZIC3	9	30	REPS1,ECT2L	ZIC3	first encounter of TP TopHat-Fusion,sim5_reads|REPS1--ZIC3	sim5_reads|REPS1--ZIC3
-TP	sim5_reads	TopHat-Fusion	ZAR1--RPGRIP1	2	36	ZAR1,FRYL	RPGRIP1	first encounter of TP TopHat-Fusion,sim5_reads|ZAR1--RPGRIP1	sim5_reads|ZAR1--RPGRIP1
-TP	sim5_reads	TopHat-Fusion	PAPOLG--APOM	1	36	PAPOLG	APOM,BAG6	first encounter of TP TopHat-Fusion,sim5_reads|PAPOLG--APOM	sim5_reads|PAPOLG--APOM
-TP	sim5_reads	TopHat-Fusion	ATP6AP2--GPC1	9	28	ATP6AP2	MIR149,AC110619.2,AC110619.1,GPC1	first encounter of TP TopHat-Fusion,sim5_reads|ATP6AP2--GPC1	sim5_reads|ATP6AP2--GPC1
-TP	sim5_reads	TopHat-Fusion	SULF2--AC018755.1	6	31	CTD-2653D5.1,NCOA3,SULF2	AC018755.2,LINC00085,AC018755.1,MIR99B,MIRLET7E,hsa-mir-125a,MIR125A	first encounter of TP TopHat-Fusion,sim5_reads|SULF2--AC018755.1	sim5_reads|SULF2--AC018755.1
-TP	sim5_reads	TopHat-Fusion	PDZRN3--BRD2	3	33	PDZRN3,PDZRN3-AS1,RNU7-119P	XXbac-BPG181M17.6,HLA-DMA,BRD2,BRD2-IT1	first encounter of TP TopHat-Fusion,sim5_reads|PDZRN3--BRD2	sim5_reads|PDZRN3--BRD2
-NA-TP	sim5_reads	TopHat-Fusion	RP11-143P4.2--GSC	0	33	VEZF1P1,RP11-143P4.2	GSC	already scored TopHat-Fusion,sim5_reads|VEZF1--GSC as TP (para of sim5_reads|VEZF1P1--GSC)	.
-TP	sim5_reads	TopHat-Fusion	NR3C2--AKNA	5	28	NR3C2,RP11-76G10.1	AKNA,RP11-9M16.2	first encounter of TP TopHat-Fusion,sim5_reads|NR3C2--AKNA	sim5_reads|NR3C2--AKNA
-TP	sim5_reads	TopHat-Fusion	CLMN--SNIP1	5	28	CLMN,CTD-2240H23.2,RP11-725G5.3	SNIP1,FTH1P1	first encounter of TP TopHat-Fusion,sim5_reads|CLMN--SNIP1	sim5_reads|CLMN--SNIP1
-TP	sim5_reads	TopHat-Fusion	C9ORF135--FIS1	7	26	RN7SL570P,C9orf135	FIS1	first encounter of TP TopHat-Fusion,sim5_reads|C9ORF135--FIS1	sim5_reads|C9ORF135--FIS1
-TP	sim5_reads	TopHat-Fusion	SLC33A1--MLNR	6	27	SLC33A1	MLNR	first encounter of TP TopHat-Fusion,sim5_reads|SLC33A1--MLNR	sim5_reads|SLC33A1--MLNR
-TP	sim5_reads	TopHat-Fusion	SLC10A1--C17ORF103	5	28	SLC10A1	C17orf103	first encounter of TP TopHat-Fusion,sim5_reads|SLC10A1--C17ORF103	sim5_reads|SLC10A1--C17ORF103
-TP	sim5_reads	TopHat-Fusion	RABEPK--MMP17	7	26	RABEPK	MMP17	first encounter of TP TopHat-Fusion,sim5_reads|RABEPK--MMP17	sim5_reads|RABEPK--MMP17
-TP	sim5_reads	TopHat-Fusion	MAOA--CDC6	1	31	MAOA	CDC6,CTD-2267D19.6	first encounter of TP TopHat-Fusion,sim5_reads|MAOA--CDC6	sim5_reads|MAOA--CDC6
-TP	sim5_reads	TopHat-Fusion	TBC1D29--AGO1	4	28	RP11-218M11.6,RP11-271K11.1,TBC1D29	RP4-789D17.5,AGO1,RP4-789D17.4	first encounter of TP TopHat-Fusion,sim5_reads|TBC1D29--AGO1	sim5_reads|TBC1D29--AGO1
-TP	sim5_reads	TopHat-Fusion	TMPRSS3--CD164	5	26	TMPRSS4,TMPRSS4-AS1,TMPRSS3	CD164	first encounter of TP TopHat-Fusion,sim5_reads|TMPRSS3--CD164	sim5_reads|TMPRSS3--CD164
-TP	sim5_reads	TopHat-Fusion	CA2--SUN5	3	28	RP11-317J10.2,CA2	SUN5	first encounter of TP TopHat-Fusion,sim5_reads|CA2--SUN5	sim5_reads|CA2--SUN5
-TP	sim5_reads	TopHat-Fusion	ADRA1B--PDPK1	7	23	ADRA1B,GAPDHP40	RP11-20I23.13,RP11-20I23.11,RP11-20I23.8,PDPK1,CTD-3126B10.1,RP11-20I23.6,RP11-20I23.7	first encounter of TP TopHat-Fusion,sim5_reads|ADRA1B--PDPK1	sim5_reads|ADRA1B--PDPK1
-NA-TP	sim5_reads	TopHat-Fusion	ADRA1B--PDPK2	7	23	ADRA1B,GAPDHP40	AC141586.5,PDPK2	already scored TopHat-Fusion,sim5_reads|ADRA1B--PDPK1 as TP (para of sim5_reads|ADRA1B--PDPK2)	.
-TP	sim5_reads	TopHat-Fusion	NAIF1--TADA2A	4	26	SLC25A25,NAIF1	CTC-421K24.1,TADA2A,RP11-378E13.4	first encounter of TP TopHat-Fusion,sim5_reads|NAIF1--TADA2A	sim5_reads|NAIF1--TADA2A
-TP	sim5_reads	TopHat-Fusion	PABPC1L--NDUFB3	4	26	TOMM34,PABPC1L	FAM126B,NDUFB3,RNU6-1206P	first encounter of TP TopHat-Fusion,sim5_reads|PABPC1L--NDUFB3	sim5_reads|PABPC1L--NDUFB3
-TP	sim5_reads	TopHat-Fusion	CBLN3--CYP2W1	3	25	CBLN3,KHNYN	CYP2W1	first encounter of TP TopHat-Fusion,sim5_reads|CBLN3--CYP2W1	sim5_reads|CBLN3--CYP2W1
-TP	sim5_reads	TopHat-Fusion	RNF219-AS1--PFDN6	6	22	RN7SL810P,POU4F1,RNF219-AS1,TCEB1P23,EDNRB,RNY3P3,RPL31P54,LINC00446,RP11-52L5.6,RP11-318G21.4,RNF219,SRGNP1,LINC01069,RP11-203P2.2	WDR46,PFDN6,RGL2	first encounter of TP TopHat-Fusion,sim5_reads|POU4F1--PFDN6	sim5_reads|POU4F1--PFDN6
-TP	sim5_reads	TopHat-Fusion	ERI3--WASF3	1	26	ERI3-IT1,AL390776.1,ERI3	WASF3-AS1,WASF3,RPS3AP44	first encounter of TP TopHat-Fusion,sim5_reads|ERI3--WASF3	sim5_reads|ERI3--WASF3
-TP	sim5_reads	TopHat-Fusion	SH3RF3--HOXB3	5	22	SH3RF3,MIR4266,SNRPGP9,MIR4265	MIR10A,HOXB3,HOXB5,HOXB-AS2,HOXB4,HOXB-AS1,HOXB6,HOXB-AS3	first encounter of TP TopHat-Fusion,sim5_reads|SH3RF3--HOXB3	sim5_reads|SH3RF3--HOXB3
-TP	sim5_reads	TopHat-Fusion	ANK1--PATL2	6	20	MIR486,RN7SL149P,RP11-930P14.2,ANK1,RP11-930P14.1	PATL2	first encounter of TP TopHat-Fusion,sim5_reads|ANK1--PATL2	sim5_reads|ANK1--PATL2
-TP	sim5_reads	TopHat-Fusion	HS3ST5--ZNF467	0	25	RPSAP43,HS3ST5,AL136446.1,RNA5SP213,RP3-399L15.3	ZNF467	first encounter of TP TopHat-Fusion,sim5_reads|HS3ST5--ZNF467	sim5_reads|HS3ST5--ZNF467
-TP	sim5_reads	TopHat-Fusion	VKORC1--TRH	1	24	ZNF646,VKORC1,RP11-196G11.1,PRSS53	TRH	first encounter of TP TopHat-Fusion,sim5_reads|VKORC1--TRH	sim5_reads|VKORC1--TRH
-TP	sim5_reads	TopHat-Fusion	ELOVL3--ZADH2	1	24	ELOVL3	ZADH2	first encounter of TP TopHat-Fusion,sim5_reads|ELOVL3--ZADH2	sim5_reads|ELOVL3--ZADH2
-TP	sim5_reads	TopHat-Fusion	TEAD4--UMODL1	7	18	TEAD4	UMODL1,C21orf128	first encounter of TP TopHat-Fusion,sim5_reads|C21ORF128--TEAD4 (para of sim5_reads|UMODL1--TEAD4)	sim5_reads|C21ORF128--TEAD4
-TP	sim5_reads	TopHat-Fusion	CST11--MFSD2A	6	19	CST11	MFSD2A,RP3-342P20.2	first encounter of TP TopHat-Fusion,sim5_reads|CST11--MFSD2A	sim5_reads|CST11--MFSD2A
-TP	sim5_reads	TopHat-Fusion	HERC1--RASGEF1C	2	22	RP11-317G6.1,HERC1	RASGEF1C	first encounter of TP TopHat-Fusion,sim5_reads|HERC1--RASGEF1C	sim5_reads|HERC1--RASGEF1C
-TP	sim5_reads	TopHat-Fusion	DAND5--MAN1A2	2	21	DAND5	MAN1A2	first encounter of TP TopHat-Fusion,sim5_reads|DAND5--MAN1A2	sim5_reads|DAND5--MAN1A2
-TP	sim5_reads	TopHat-Fusion	VENTX--PRR25	4	19	VENTX	PRR25	first encounter of TP TopHat-Fusion,sim5_reads|VENTX--PRR25	sim5_reads|VENTX--PRR25
-TP	sim5_reads	TopHat-Fusion	ADK--BCL2L2-PABPN1	1	21	RAB5CP1,TIMM9P1,MRPL35P3,POLR3DP1,RP11-312P12.3,RPSAP6,ADK,RP11-46O21.2	BCL2L2,PABPN1,BCL2L2-PABPN1,AL049829.1	first encounter of TP TopHat-Fusion,sim5_reads|ADK--PABPN1	sim5_reads|ADK--PABPN1
-TP	sim5_reads	TopHat-Fusion	RIBC1--AL021546.6	4	18	RIBC1,SMC1A	TRIAP1,COX6A1,RPL31P52,AL021546.6,GATC	first encounter of TP TopHat-Fusion,sim5_reads|RIBC1--AL021546.6	sim5_reads|RIBC1--AL021546.6
-TP	sim5_reads	TopHat-Fusion	LOXL3--TRIM13	4	18	DOK1,LOXL3,HTRA2	TRIM13,KCNRG,MIR3613	first encounter of TP TopHat-Fusion,sim5_reads|LOXL3--KCNRG (para of sim5_reads|LOXL3--TRIM13)	sim5_reads|LOXL3--KCNRG
-TP	sim5_reads	TopHat-Fusion	SSBP3--RP11-488C13.6	8	13	SSBP3-AS1,MRPL37,SSBP3,RP5-997D24.3	VASH1,RP11-488C13.6,RP11-488C13.7	first encounter of TP TopHat-Fusion,sim5_reads|SSBP3--VASH1 (para of sim5_reads|SSBP3--RP11-488C13.6)	sim5_reads|SSBP3--VASH1
-TP	sim5_reads	TopHat-Fusion	AP5M1--PPP2R2C	4	17	EXOC5,AP5M1	PPP2R2C	first encounter of TP TopHat-Fusion,sim5_reads|AP5M1--PPP2R2C	sim5_reads|AP5M1--PPP2R2C
-TP	sim5_reads	TopHat-Fusion	C4ORF6--SLC6A7	0	20	C4orf6	SLC6A7,CAMK2A	first encounter of TP TopHat-Fusion,sim5_reads|C4ORF6--SLC6A7	sim5_reads|C4ORF6--SLC6A7
-TP	sim5_reads	TopHat-Fusion	ODF1--AFMID	0	20	ODF1	AFMID	first encounter of TP TopHat-Fusion,sim5_reads|ODF1--AFMID	sim5_reads|ODF1--AFMID
-TP	sim5_reads	TopHat-Fusion	COL6A3--LRRC20	0	20	COL6A3	LRRC20	first encounter of TP TopHat-Fusion,sim5_reads|COL6A3--LRRC20	sim5_reads|COL6A3--LRRC20
-TP	sim5_reads	TopHat-Fusion	RNFT2--PMVK	1	18	RNU6-558P,RNFT2,RP11-407P2.1	PMVK	first encounter of TP TopHat-Fusion,sim5_reads|RNFT2--PMVK	sim5_reads|RNFT2--PMVK
-TP	sim5_reads	TopHat-Fusion	LSM4--CLDN2	1	18	LSM4	CLDN2,RIPPLY1,MORC4	first encounter of TP TopHat-Fusion,sim5_reads|LSM4--CLDN2	sim5_reads|LSM4--CLDN2
-TP	sim5_reads	TopHat-Fusion	RRBP1--GPR133	2	17	RRBP1	RP11-243M5.1,RP11-76C10.5,GPR133,AC078925.1,RP11-76C10.2	first encounter of TP TopHat-Fusion,sim5_reads|RRBP1--GPR133	sim5_reads|RRBP1--GPR133
-TP	sim5_reads	TopHat-Fusion	MEI1--VTA1	2	17	RNU6ATAC22P,HMGN2P10,MEI1	VTA1	first encounter of TP TopHat-Fusion,sim5_reads|MEI1--VTA1	sim5_reads|MEI1--VTA1
-TP	sim5_reads	TopHat-Fusion	CD302--DRAXIN	3	16	MARCH7,CD302,LY75-CD302,LY75	DRAXIN	first encounter of TP TopHat-Fusion,sim5_reads|CD302--DRAXIN	sim5_reads|CD302--DRAXIN
-FP	sim5_reads	TopHat-Fusion	RP11-454C18.2--ZNF679	0	18	RP11-64D22.1,AADACL2,AADAC,RP11-454C18.2,RP11-64D22.2,SUCNR1,RP11-64D22.5	VN1R38P,MTND3P2,RP11-165H4.3,TRIM60P17,RP11-3N2.5,ZNF679,VN1R37P,ZNF727,RP11-321E8.4,MTND1P2,RP11-3N2.8,RP11-165H4.2,MTND2P4,RP11-468B6.1,MTND4P2,RP11-3N2.13,RP11-3N2.7,GUSBP6,RP11-3N2.11,RP11-3N2.9	first encounter of FP fusion TopHat-Fusion,sim5_reads|RP11-454C18.2--ZNF679	.
-TP	sim5_reads	TopHat-Fusion	CALD1--FCRLA	2	16	CALD1	FCRLA	first encounter of TP TopHat-Fusion,sim5_reads|CALD1--FCRLA	sim5_reads|CALD1--FCRLA
-TP	sim5_reads	TopHat-Fusion	CADM3--SAP18	4	13	CTA-134P22.2,DARC,CADM3,RNA5SP60	SAP18,RN7SL80P	first encounter of TP TopHat-Fusion,sim5_reads|CADM3--SAP18	sim5_reads|CADM3--SAP18
-TP	sim5_reads	TopHat-Fusion	TMPRSS11B--ZNF487	6	11	TMPRSS11B,RP11-646E20.6	ZNF487,RNU7-193P	first encounter of TP TopHat-Fusion,sim5_reads|TMPRSS11B--ZNF487	sim5_reads|TMPRSS11B--ZNF487
-TP	sim5_reads	TopHat-Fusion	POLE3--FAM188A	2	15	C9orf43,POLE3	FAM188A	first encounter of TP TopHat-Fusion,sim5_reads|POLE3--FAM188A	sim5_reads|POLE3--FAM188A
-TP	sim5_reads	TopHat-Fusion	MAP7D3--LBR	3	14	MAP7D3	AC092811.1,LBR	first encounter of TP TopHat-Fusion,sim5_reads|MAP7D3--LBR	sim5_reads|MAP7D3--LBR
-TP	sim5_reads	TopHat-Fusion	CHDH--CXORF28	0	16	CHDH,CACNA1D	CXorf28	first encounter of TP TopHat-Fusion,sim5_reads|CHDH--CXORF28	sim5_reads|CHDH--CXORF28
-TP	sim5_reads	TopHat-Fusion	RAP2A--LINC00908	2	14	RAP2A	LINC00908	first encounter of TP TopHat-Fusion,sim5_reads|RAP2A--LINC00908	sim5_reads|RAP2A--LINC00908
-TP	sim5_reads	TopHat-Fusion	ZNF764--RPL36	5	11	ZNF764,AC002310.13	LONP1,HSD11B1L,RPL36,C19orf70	first encounter of TP TopHat-Fusion,sim5_reads|AC002310.13--C19ORF70 (para of sim5_reads|ZNF764--HSD11B1L)	sim5_reads|AC002310.13--C19ORF70
-TP	sim5_reads	TopHat-Fusion	FCER2--PAEP	4	12	FCER2	PAEP	first encounter of TP TopHat-Fusion,sim5_reads|FCER2--PAEP	sim5_reads|FCER2--PAEP
-TP	sim5_reads	TopHat-Fusion	DGKA--BTC	4	12	WIBG,DGKA	BTC	first encounter of TP TopHat-Fusion,sim5_reads|DGKA--BTC	sim5_reads|DGKA--BTC
-TP	sim5_reads	TopHat-Fusion	FREM3--CHRNA1	2	14	RP13-578N3.3,GUSBP5,FREM3	CHRNA1,AC018890.6	first encounter of TP TopHat-Fusion,sim5_reads|FREM3--CHRNA1	sim5_reads|FREM3--CHRNA1
-TP	sim5_reads	TopHat-Fusion	RP11-454C18.2--ZNF721	13	3	RP11-64D22.1,AADACL2,AADAC,RP11-454C18.2,RP11-64D22.2,SUCNR1,RP11-64D22.5	ZNF721,PIGG,AC092574.2,ABCA11P	first encounter of TP TopHat-Fusion,sim5_reads|ZNF721--SUCNR1	sim5_reads|ZNF721--SUCNR1
-TP	sim5_reads	TopHat-Fusion	MRPL54--CCDC144NL	2	13	MRPL54	RNU6-1178P,RP11-344E13.3,ABHD17AP6,CCDC144NL,RP11-344E13.4	first encounter of TP TopHat-Fusion,sim5_reads|MRPL54--CCDC144NL	sim5_reads|MRPL54--CCDC144NL
-TP	sim5_reads	TopHat-Fusion	SCRN1--PRSS50	3	12	AC007285.6,SCRN1	RP11-427P5.2,PRSS45,PRSS46,PRSS44,PRSS50	first encounter of TP TopHat-Fusion,sim5_reads|SCRN1--PRSS45 (para of sim5_reads|SCRN1--PRSS50)	sim5_reads|SCRN1--PRSS45
-TP	sim5_reads	TopHat-Fusion	NYAP2--FGFR1OP2	3	12	NYAP2	FGFR1OP2	first encounter of TP TopHat-Fusion,sim5_reads|NYAP2--FGFR1OP2	sim5_reads|NYAP2--FGFR1OP2
-TP	sim5_reads	TopHat-Fusion	RP2--C12ORF66	5	10	RP2	C12orf66,RNU6-1009P	first encounter of TP TopHat-Fusion,sim5_reads|RP2--C12ORF66	sim5_reads|RP2--C12ORF66
-TP	sim5_reads	TopHat-Fusion	ECI2--RSPH9	2	13	ECI2,C6orf201,RP3-400B16.4	MRPS18A,RSPH9	first encounter of TP TopHat-Fusion,sim5_reads|ECI2--RSPH9	sim5_reads|ECI2--RSPH9
-TP	sim5_reads	TopHat-Fusion	TOMM40--ZSWIM2	4	11	CTB-129P6.4,TOMM40	ZSWIM2	first encounter of TP TopHat-Fusion,sim5_reads|TOMM40--ZSWIM2	sim5_reads|TOMM40--ZSWIM2
-TP	sim5_reads	TopHat-Fusion	KIAA1257--SEMA3E	1	14	ACAD9,RP11-723O4.6,KIAA1257,EFCC1	SEMA3E,AC079987.2	first encounter of TP TopHat-Fusion,sim5_reads|KIAA1257--SEMA3E	sim5_reads|KIAA1257--SEMA3E
-TP	sim5_reads	TopHat-Fusion	FLG-AS1--LINC00535	0	14	RP1-91G5.3,RP11-107M16.2,HRNR,FLG2,CRNN,FLG,HMGN3P1,FLG-AS1	RNA5SP274,LINC00535,RP11-388K12.1,FAM92A1,AC016885.1,ZNF317P1,RP11-388K12.2	first encounter of TP TopHat-Fusion,sim5_reads|AC016885.1--FLG2	sim5_reads|AC016885.1--FLG2
-TP	sim5_reads	TopHat-Fusion	CTCF--SEC14L4	0	14	CTD-2012K14.6,CTCF,AC009095.4	RP4-539M6.14,SEC14L4	first encounter of TP TopHat-Fusion,sim5_reads|CTCF--SEC14L4	sim5_reads|CTCF--SEC14L4
-TP	sim5_reads	TopHat-Fusion	CXORF66--ZNF683	2	12	CXorf66	ZNF683	first encounter of TP TopHat-Fusion,sim5_reads|CXORF66--ZNF683	sim5_reads|CXORF66--ZNF683
-TP	sim5_reads	TopHat-Fusion	GPR123--MSL3	2	12	AL445199.1,RP13-439H18.4,GPR123	MSL3	first encounter of TP TopHat-Fusion,sim5_reads|GPR123--MSL3	sim5_reads|GPR123--MSL3
-TP	sim5_reads	TopHat-Fusion	NEDD1--PPP1R16B	1	12	NEDD1	RN7SL116P,PPP1R16B	first encounter of TP TopHat-Fusion,sim5_reads|NEDD1--PPP1R16B	sim5_reads|NEDD1--PPP1R16B
-TP	sim5_reads	TopHat-Fusion	KLF16--ATP9A	2	11	KLF16,CTB-31O20.6,CTB-31O20.8	ATP9A,RP5-827A12.2	first encounter of TP TopHat-Fusion,sim5_reads|KLF16--ATP9A	sim5_reads|KLF16--ATP9A
-TP	sim5_reads	TopHat-Fusion	ZNF823--AP000275.65	2	11	CTC-499B15.6,ZNF823	C21orf59,TCP10L,AP000275.65	first encounter of TP TopHat-Fusion,sim5_reads|ZNF823--TCP10L	sim5_reads|ZNF823--TCP10L
-TP	sim5_reads	TopHat-Fusion	MPHOSPH8--SAMD1	5	8	MPHOSPH8,AL354808.1	SAMD1	first encounter of TP TopHat-Fusion,sim5_reads|MPHOSPH8--SAMD1	sim5_reads|MPHOSPH8--SAMD1
-TP	sim5_reads	TopHat-Fusion	LIPI--TTC7B	2	10	ERLEC1P1,LIPI,AP001347.6	RP11-661G16.1,RP11-1078H9.2,RP11-1078H9.5,RP11-661G16.2,CTD-3035D6.1,AL096869.1,TTC7B	first encounter of TP TopHat-Fusion,sim5_reads|LIPI--TTC7B	sim5_reads|LIPI--TTC7B
+TP	sim5_reads	TopHat-Fusion	PLCB2--EIF2AK1	1600	319	PLCB2,ANKRD63,PLCB2-AS1	ANKRD61,RN7SL851P,AIMP2,RNU6-218P,EIF2AK1	first encounter of TP TopHat-Fusion,sim5_reads|PLCB2--ANKRD61	sim5_reads|PLCB2--ANKRD61
+TP	sim5_reads	TopHat-Fusion	DNAJC25-GNG10--TMEM74B	1594	302	GNG10,DNAJC25,DNAJC25-GNG10	TMEM74B	first encounter of TP TopHat-Fusion,sim5_reads|DNAJC25--TMEM74B (para of sim5_reads|DNAJC25-GNG10--TMEM74B)	sim5_reads|DNAJC25--TMEM74B
+TP	sim5_reads	TopHat-Fusion	A1CF--ORAI1	1471	252	A1CF,ASAH2B,RP11-449O16.2	ORAI1	first encounter of TP TopHat-Fusion,sim5_reads|A1CF--ORAI1	sim5_reads|A1CF--ORAI1
+TP	sim5_reads	TopHat-Fusion	YLPM1--E2F7	1485	237	RP11-316E14.6,YLPM1,PROX2	E2F7	first encounter of TP TopHat-Fusion,sim5_reads|YLPM1--E2F7	sim5_reads|YLPM1--E2F7
+TP	sim5_reads	TopHat-Fusion	FANCM--MAT2B	1425	244	FANCM	MAT2B	first encounter of TP TopHat-Fusion,sim5_reads|FANCM--MAT2B	sim5_reads|FANCM--MAT2B
+TP	sim5_reads	TopHat-Fusion	CPNE2--RNF165	1428	238	CPNE2	RNF165	first encounter of TP TopHat-Fusion,sim5_reads|CPNE2--RNF165	sim5_reads|CPNE2--RNF165
+TP	sim5_reads	TopHat-Fusion	SCRT1--STAG1	1460	190	SCRT1	RNU6-1284P,PCCB,RNY4P4,HMGN1P10,RP11-102M11.1,STAG1,RNU6-789P,RNU7-198P	first encounter of TP TopHat-Fusion,sim5_reads|SCRT1--STAG1	sim5_reads|SCRT1--STAG1
+TP	sim5_reads	TopHat-Fusion	KLC4--MMP21	1394	221	KLC4,RP11-387M24.5,MRPL2,CUL7	MMP21	first encounter of TP TopHat-Fusion,sim5_reads|KLC4--MMP21	sim5_reads|KLC4--MMP21
+TP	sim5_reads	TopHat-Fusion	FDX1--ELAVL1	1377	236	FDX1	CTD-2325M2.1,RP11-886P16.6,RPS28,CTD-3020H12.3,RAB11B-AS1,MIR4999,KANK3,FBN3,AC010323.1,RAB11B,MARCH2,ANGPTL4,HNRNPM,NDUFA7,CTD-3020H12.4,CD320,ELAVL1,CCL25,CTD-2550O8.7,CTD-3193O13.14,CERS4	first encounter of TP TopHat-Fusion,sim5_reads|FDX1--ELAVL1	sim5_reads|FDX1--ELAVL1
+TP	sim5_reads	TopHat-Fusion	FCER1A--RFTN2	1412	193	FCER1A	RFTN2	first encounter of TP TopHat-Fusion,sim5_reads|FCER1A--RFTN2	sim5_reads|FCER1A--RFTN2
+TP	sim5_reads	TopHat-Fusion	ACSBG2--PROSC	1264	275	ACSBG2,CTC-503J8.2,RFX2	PROSC	first encounter of TP TopHat-Fusion,sim5_reads|ACSBG2--PROSC	sim5_reads|ACSBG2--PROSC
+TP	sim5_reads	TopHat-Fusion	EEA1--KRT24	1311	173	PLEKHG7,RP11-603K19.1,HNRNPA1P50,EEA1	KRT24	first encounter of TP TopHat-Fusion,sim5_reads|EEA1--KRT24	sim5_reads|EEA1--KRT24
+TP	sim5_reads	TopHat-Fusion	AKTIP--CSF1R	1226	254	AKTIP,RBL2	CTB-13H5.1,CSF1R	first encounter of TP TopHat-Fusion,sim5_reads|AKTIP--CSF1R	sim5_reads|AKTIP--CSF1R
+TP	sim5_reads	TopHat-Fusion	POLG--PPBP	1269	181	POLG,FANCI	PPBP	first encounter of TP TopHat-Fusion,sim5_reads|POLG--PPBP	sim5_reads|POLG--PPBP
+TP	sim5_reads	TopHat-Fusion	MSRA--CYP11B1	1303	140	AC023385.1,RP11-212F11.1,MSRA	GML,CYP11B1	first encounter of TP TopHat-Fusion,sim5_reads|MSRA--CYP11B1	sim5_reads|MSRA--CYP11B1
+TP	sim5_reads	TopHat-Fusion	ATXN7L1--NDST2	1217	205	ATXN7L1,CTA-351J1.1	RP11-574K11.31,NDST2	first encounter of TP TopHat-Fusion,sim5_reads|ATXN7L1--NDST2	sim5_reads|ATXN7L1--NDST2
+TP	sim5_reads	TopHat-Fusion	YTHDF3--KLHL33	1144	201	YTHDF3	KLHL33	first encounter of TP TopHat-Fusion,sim5_reads|YTHDF3--KLHL33	sim5_reads|YTHDF3--KLHL33
+TP	sim5_reads	TopHat-Fusion	ZNF229--GLRA2	1127	210	CTC-512J12.4,ZNF229	GLRA2	first encounter of TP TopHat-Fusion,sim5_reads|ZNF229--GLRA2	sim5_reads|ZNF229--GLRA2
+TP	sim5_reads	TopHat-Fusion	GYPA--GAL3ST3	1159	171	GYPA,RP11-673E1.4,GYPB	GAL3ST3	first encounter of TP TopHat-Fusion,sim5_reads|GYPA--GAL3ST3	sim5_reads|GYPA--GAL3ST3
+TP	sim5_reads	TopHat-Fusion	DYRK1B--KIAA1199	1178	147	DYRK1B	MESDC2,KIAA1199,RP11-351M8.2,MIR549,RP11-351M8.1	first encounter of TP TopHat-Fusion,sim5_reads|DYRK1B--KIAA1199	sim5_reads|DYRK1B--KIAA1199
+TP	sim5_reads	TopHat-Fusion	ZNF816--KDM4D	1065	231	ZNF321P,ZNF816-ZNF321P,CTD-2620I22.1,ZNF816	KDM4D	first encounter of TP TopHat-Fusion,sim5_reads|ZNF816--KDM4D	sim5_reads|ZNF816--KDM4D
+TP	sim5_reads	TopHat-Fusion	SLC5A10--TRMT10A	1114	171	AC090286.4,FAM83G,RP11-28B23.1,SLC5A10,GRAP	MTTP,TRMT10A	first encounter of TP TopHat-Fusion,sim5_reads|SLC5A10--TRMT10A	sim5_reads|SLC5A10--TRMT10A
+TP	sim5_reads	TopHat-Fusion	PCDHGA1--ZNF296	1069	195	PCDHGA7,PCDHGA1,PCDHGC5,PCDHGB4,PCDHGC4,RN7SL68P,PCDHGA10,PCDHGA5,PCDHGB2,PCDHGA9,PCDHGA12,PCDHGA4,PCDHGA2,PCDHGB7,PCDHGB8P,PCDHGA8,PCDHGA11,PCDHGB6,PCDHGB3,PCDHGC3,PCDHGA6,PCDHGB1,PCDHGA3	ZNF296,CTB-179K24.3	first encounter of TP TopHat-Fusion,sim5_reads|PCDHGB2--ZNF296 (para of sim5_reads|PCDHGA1--ZNF296)	sim5_reads|PCDHGB2--ZNF296
+TP	sim5_reads	TopHat-Fusion	FA2H--SULT2A1	1051	187	AC009132.1,FA2H	SULT2A1	first encounter of TP TopHat-Fusion,sim5_reads|FA2H--SULT2A1	sim5_reads|FA2H--SULT2A1
+TP	sim5_reads	TopHat-Fusion	ACTR8--ARHGEF9	1087	139	ACTR8,AC012467.1	ARHGEF9,MIR1468,BTF3P8,ARHGEF9-IT1	first encounter of TP TopHat-Fusion,sim5_reads|ACTR8--ARHGEF9	sim5_reads|ACTR8--ARHGEF9
+TP	sim5_reads	TopHat-Fusion	RP11-290H9.4--UBASH3A	1043	162	RP11-290H9.4,EFCAB13,ITGB3	UBASH3A,RNU6-1149P	first encounter of TP TopHat-Fusion,sim5_reads|ITGB3--UBASH3A (para of sim5_reads|RP11-290H9.4--UBASH3A)	sim5_reads|ITGB3--UBASH3A
+TP	sim5_reads	TopHat-Fusion	KIAA0355--DNAJC28	1005	176	KIAA0355,RPL29P33,AC010504.2	DNAJC28	first encounter of TP TopHat-Fusion,sim5_reads|KIAA0355--DNAJC28	sim5_reads|KIAA0355--DNAJC28
+TP	sim5_reads	TopHat-Fusion	TMEM212--PCK2	963	196	TMEM212-AS1,TMEM212,TMEM212-IT1	PCK2,NRL	first encounter of TP TopHat-Fusion,sim5_reads|TMEM212--PCK2	sim5_reads|TMEM212--PCK2
+TP	sim5_reads	TopHat-Fusion	CCNC--ANKDD1A	948	197	CCNC,RP1-199J3.7	ANKDD1A,AC069368.3	first encounter of TP TopHat-Fusion,sim5_reads|CCNC--ANKDD1A	sim5_reads|CCNC--ANKDD1A
+TP	sim5_reads	TopHat-Fusion	NDUFAB1--TLK1	1008	136	NDUFAB1	TLK1,RP11-464D20.6,TLK2,RP11-464D20.2	first encounter of TP TopHat-Fusion,sim5_reads|NDUFAB1--TLK1	sim5_reads|NDUFAB1--TLK1
+TP	sim5_reads	TopHat-Fusion	C1QTNF9--TCEAL5	957	182	C1QTNF9,AL359736.1,C1QTNF9-AS1,RP11-307N16.6	TCEAL5	first encounter of TP TopHat-Fusion,sim5_reads|C1QTNF9--TCEAL5	sim5_reads|C1QTNF9--TCEAL5
+TP	sim5_reads	TopHat-Fusion	TSTA3--ATP6V1B2	942	192	TSTA3	ATP6V1B2	first encounter of TP TopHat-Fusion,sim5_reads|TSTA3--ATP6V1B2	sim5_reads|TSTA3--ATP6V1B2
+TP	sim5_reads	TopHat-Fusion	PPP3CA--C9ORF47	991	133	PPP3CA,MIR1255A,PPP3CB,RP11-137L10.6,AP001816.1	C9orf47,S1PR3	first encounter of TP TopHat-Fusion,sim5_reads|PPP3CA--C9ORF47	sim5_reads|PPP3CA--C9ORF47
+TP	sim5_reads	TopHat-Fusion	ESPNL--FAM69A	948	170	ESPNL	RP11-386I23.1,SNORA51,RPL5,SNORA66,FAM69A,SNORD21	first encounter of TP TopHat-Fusion,sim5_reads|ESPNL--FAM69A	sim5_reads|ESPNL--FAM69A
+TP	sim5_reads	TopHat-Fusion	MEX3A--LYRM9	939	178	AL355388.1,MEX3A	RP1-66C13.4,RP11-138P22.1,LYRM9	first encounter of TP TopHat-Fusion,sim5_reads|MEX3A--LYRM9	sim5_reads|MEX3A--LYRM9
+TP	sim5_reads	TopHat-Fusion	COG2--OSTF1	950	163	COG2	OSTF1	first encounter of TP TopHat-Fusion,sim5_reads|COG2--OSTF1	sim5_reads|COG2--OSTF1
+TP	sim5_reads	TopHat-Fusion	DUOXA2--ZBTB1	968	144	DUOXA2,DUOX2,DUOXA1	RP11-973N13.4,ZBTB1,ZBTB25	first encounter of TP TopHat-Fusion,sim5_reads|DUOXA2--ZBTB1	sim5_reads|DUOXA2--ZBTB1
+NA-TP	sim5_reads	TopHat-Fusion	C1QTNF9B--TCEAL5	957	131	MIPEP,C1QTNF9B-AS1,C1QTNF9B	TCEAL5	already scored TopHat-Fusion,sim5_reads|C1QTNF9--TCEAL5 as TP (para of sim5_reads|C1QTNF9B--TCEAL5)	.
+TP	sim5_reads	TopHat-Fusion	RP11-208N14.4--LAMC3	903	130	RTP1,RP11-208N14.4	LAMC3,SNORA31	first encounter of TP TopHat-Fusion,sim5_reads|RTP1--LAMC3 (para of sim5_reads|RP11-208N14.4--LAMC3)	sim5_reads|RTP1--LAMC3
+TP	sim5_reads	TopHat-Fusion	AGA--CD1E	862	164	AGA	CD1E	first encounter of TP TopHat-Fusion,sim5_reads|AGA--CD1E	sim5_reads|AGA--CD1E
+TP	sim5_reads	TopHat-Fusion	SCNN1G--GLYCTK-AS1	877	126	CTC-391G2.1,SCNN1G	GLYCTK-AS1,GLYCTK,MIR135A1	first encounter of TP TopHat-Fusion,sim5_reads|GLYCTK--SCNN1G (para of sim5_reads|GLYCTK-AS1--SCNN1G)	sim5_reads|GLYCTK--SCNN1G
+TP	sim5_reads	TopHat-Fusion	GLB1L2--AC009133.20	815	136	GLB1L2	AC009133.20,AC009133.12,MAZ,AC009133.14,PAGR1,PRRT2	first encounter of TP TopHat-Fusion,sim5_reads|PAGR1--GLB1L2 (para of sim5_reads|AC009133.20--GLB1L2)	sim5_reads|PAGR1--GLB1L2
+TP	sim5_reads	TopHat-Fusion	LMCD1--CPT1C	858	51	AC034187.2,LMCD1-AS1,LINC00312,LMCD1	CPT1C	first encounter of TP TopHat-Fusion,sim5_reads|LMCD1--CPT1C	sim5_reads|LMCD1--CPT1C
+TP	sim5_reads	TopHat-Fusion	RGS21--CD1D	774	113	RGS21	CD1D	first encounter of TP TopHat-Fusion,sim5_reads|RGS21--CD1D	sim5_reads|RGS21--CD1D
+TP	sim5_reads	TopHat-Fusion	CLCN2--MED13L	753	115	EIF2B5,CLCN2,FAM131A	RP11-493P1.2,MED13L,RP11-115H15.2,RNU6-1188P,MIR620,AC060226.1,RP11-115H15.1	first encounter of TP TopHat-Fusion,sim5_reads|CLCN2--MED13L	sim5_reads|CLCN2--MED13L
+TP	sim5_reads	TopHat-Fusion	ENDOV--RAB20	729	135	CTD-2047H16.4,ENDOV,MIR4730	RAB20	first encounter of TP TopHat-Fusion,sim5_reads|ENDOV--RAB20	sim5_reads|ENDOV--RAB20
+TP	sim5_reads	TopHat-Fusion	SLX4--TMX3	768	92	SLX4,RP11-461A8.1	CCDC102B,TMX3	first encounter of TP TopHat-Fusion,sim5_reads|SLX4--TMX3	sim5_reads|SLX4--TMX3
+TP	sim5_reads	TopHat-Fusion	RFX4--RAB11B	750	105	RP11-144F15.1,RP11-482D24.3,RFX4,RP11-482D24.2	RAB11B-AS1,RAB11B	first encounter of TP TopHat-Fusion,sim5_reads|RFX4--RAB11B	sim5_reads|RFX4--RAB11B
+TP	sim5_reads	TopHat-Fusion	DNAJC3--AGFG1	804	49	MTCYBP3,DNAJC3,snR65,MTND5P2,MTND6P18	AGFG1,MIR5703	first encounter of TP TopHat-Fusion,sim5_reads|DNAJC3--AGFG1	sim5_reads|DNAJC3--AGFG1
+TP	sim5_reads	TopHat-Fusion	SPATA25--KLK4	829	7	SPATA25	KLK4	first encounter of TP TopHat-Fusion,sim5_reads|SPATA25--KLK4	sim5_reads|SPATA25--KLK4
+TP	sim5_reads	TopHat-Fusion	FGF2--TSPAN14	711	119	RP11-170N16.2,NUDT6,FGF2,AC021205.1,RP11-170N16.3	TSPAN14,RP11-137H2.4	first encounter of TP TopHat-Fusion,sim5_reads|FGF2--TSPAN14	sim5_reads|FGF2--TSPAN14
+TP	sim5_reads	TopHat-Fusion	TNFSF12--TAF12	720	96	TNFSF12,TNFSF13,TNFSF12-TNFSF13	RAB42,TAF12	first encounter of TP TopHat-Fusion,sim5_reads|TNFSF12--TAF12	sim5_reads|TNFSF12--TAF12
+TP	sim5_reads	TopHat-Fusion	PTF1A--AP003068.23	674	134	PTF1A	CAPN1,AP003068.23	first encounter of TP TopHat-Fusion,sim5_reads|PTF1A--AP003068.23	sim5_reads|PTF1A--AP003068.23
+TP	sim5_reads	TopHat-Fusion	IQCF2--FCGR2A	753	49	IQCF2	FCGR2B,RP11-25K21.1,FCGR2A,RP11-25K21.6	first encounter of TP TopHat-Fusion,sim5_reads|IQCF2--FCGR2A	sim5_reads|IQCF2--FCGR2A
+TP	sim5_reads	TopHat-Fusion	MRM1--GSKIP	681	118	MRM1	GSKIP,ATG2B,RNU2-33P	first encounter of TP TopHat-Fusion,sim5_reads|MRM1--GSKIP	sim5_reads|MRM1--GSKIP
+TP	sim5_reads	TopHat-Fusion	PLA2G3--NDUFC2-KCTD14	679	113	PLA2G3	NDUFC2-KCTD14,THRSP,NDUFC2,RP11-7I15.4,KCTD14	first encounter of TP TopHat-Fusion,sim5_reads|PLA2G3--KCTD14	sim5_reads|PLA2G3--KCTD14
+TP	sim5_reads	TopHat-Fusion	SCMH1--C12ORF60	685	92	RP4-635E8.1,SCMH1	RP11-233G1.4,C12orf60,MGP,ART4,SMCO3	first encounter of TP TopHat-Fusion,sim5_reads|SCMH1--ART4 (para of sim5_reads|SCMH1--RP11-233G1.4)	sim5_reads|SCMH1--ART4
+TP	sim5_reads	TopHat-Fusion	NTSR2--TRIM59	662	103	NTSR2,AC110754.3	SMC4,RNU7-136P,RP11-227J5.3,RP11-432B6.3,TRIM59	first encounter of TP TopHat-Fusion,sim5_reads|NTSR2--TRIM59	sim5_reads|NTSR2--TRIM59
+TP	sim5_reads	TopHat-Fusion	MRC2--DHCR24	641	112	MRC2,RNU6-446P	DHCR24,RP11-67L3.5	first encounter of TP TopHat-Fusion,sim5_reads|MRC2--DHCR24	sim5_reads|MRC2--DHCR24
+TP	sim5_reads	TopHat-Fusion	C2ORF83--CTD-2207O23.3	654	85	AC064853.2,C2orf83,AC064853.3	ARHGEF18,CTD-2207O23.3,CTB-133G6.2,CTB-133G6.1	first encounter of TP TopHat-Fusion,sim5_reads|C2ORF83--ARHGEF18 (para of sim5_reads|C2ORF83--CTD-2207O23.3)	sim5_reads|C2ORF83--ARHGEF18
+TP	sim5_reads	TopHat-Fusion	NOX5--FLJ27365	661	68	RP11-809H16.4,RP11-809H16.2,SPESP1,NOX5,RP11-809H16.3	C22orf26,RP6-109B7.2,MIR4763,FLJ27365,MIRLET7B,RP6-109B7.4,RP6-109B7.3,MIR3619,MIRLET7A3	first encounter of TP TopHat-Fusion,sim5_reads|NOX5--FLJ27365	sim5_reads|NOX5--FLJ27365
+TP	sim5_reads	TopHat-Fusion	UTF1--SLC35F1	635	94	UTF1	RP11-632C17__A.1,SLC35F1	first encounter of TP TopHat-Fusion,sim5_reads|UTF1--SLC35F1	sim5_reads|UTF1--SLC35F1
+TP	sim5_reads	TopHat-Fusion	MFF--FLYWCH1	619	102	MFF,AC097662.2	FLYWCH1,LA16c-321D4.2,LA16c-321D4.1	first encounter of TP TopHat-Fusion,sim5_reads|MFF--FLYWCH1	sim5_reads|MFF--FLYWCH1
+TP	sim5_reads	TopHat-Fusion	MIEF2--ULK3	591	127	MIEF2	ULK3	first encounter of TP TopHat-Fusion,sim5_reads|MIEF2--ULK3	sim5_reads|MIEF2--ULK3
+TP	sim5_reads	TopHat-Fusion	COL6A6--USH2A	646	69	COL6A6	USH2A,RP5-1099E6.3,RP11-22M7.2,RP5-1111A8.3,MRPS18BP1,SNORD116	first encounter of TP TopHat-Fusion,sim5_reads|COL6A6--USH2A	sim5_reads|COL6A6--USH2A
+TP	sim5_reads	TopHat-Fusion	GJD4--SORD	609	86	RP11-425A6.5,GJD4	RP11-109D20.2,SORD,RP11-109D20.1	first encounter of TP TopHat-Fusion,sim5_reads|GJD4--SORD	sim5_reads|GJD4--SORD
+TP	sim5_reads	TopHat-Fusion	SIRT6--RP11-573D15.8	581	112	SIRT6	RP11-795A2.3,HRG,RP11-573D15.6,RP11-573D15.8,RNU6-1105P,FETUB,DNAJB11,PSMD10P2,RP11-134F2.2,RP11-795A2.2,KNG1,AHSG	first encounter of TP TopHat-Fusion,sim5_reads|KNG1--SIRT6 (para of sim5_reads|RP11-573D15.8--SIRT6)	sim5_reads|KNG1--SIRT6
+TP	sim5_reads	TopHat-Fusion	IRGQ--ZNF326	593	84	IRGQ,L34079.2	GEMIN8P4,ZNF326	first encounter of TP TopHat-Fusion,sim5_reads|IRGQ--ZNF326	sim5_reads|IRGQ--ZNF326
+FP	sim5_reads	TopHat-Fusion	OPRL1--KIF24	569	76	C20orf201,OPRL1	SERPINH1P1,AL353662.4,RNU2-50P,UBAP1,RP11-571F15.3,KIF24	first encounter of FP fusion TopHat-Fusion,sim5_reads|OPRL1--KIF24	.
+TP	sim5_reads	TopHat-Fusion	CCDC173--ZNF428	513	130	AC016772.4,CCDC173	ZNF428,SRRM5	first encounter of TP TopHat-Fusion,sim5_reads|CCDC173--ZNF428	sim5_reads|CCDC173--ZNF428
+TP	sim5_reads	TopHat-Fusion	WDR37--RPL5	523	106	WDR37	RPL5,SNORA66,SNORD21	first encounter of TP TopHat-Fusion,sim5_reads|WDR37--RPL5	sim5_reads|WDR37--RPL5
+TP	sim5_reads	TopHat-Fusion	RP11-96C23.5--TTC12	526	101	AGAP11,RP11-96C23.15,RP11-96C23.5,ADIRF-AS1,RP11-96C23.10,RP11-96C23.14,ADIRF,RP11-96C23.11,BMS1P3	TTC12,RP11-159N11.4	first encounter of TP TopHat-Fusion,sim5_reads|ADIRF--TTC12 (para of sim5_reads|RP11-96C23.15--TTC12)	sim5_reads|ADIRF--TTC12
+TP	sim5_reads	TopHat-Fusion	GPHA2--MZB1	559	65	GPHA2,PPP2R5B	MZB1	first encounter of TP TopHat-Fusion,sim5_reads|GPHA2--MZB1	sim5_reads|GPHA2--MZB1
+TP	sim5_reads	TopHat-Fusion	TM4SF2--UGT3A2	534	84	XK,FTH1P27,AF241726.4,TSPAN7,PRRG1,SYTL5,MIR548AJ2,AL121578.5,FTH1P19,FAM47DP,AL121578.7,TDGF1P1,TM4SF2,LANCL3,AL121578.2,RNU7-7P,RNU6-49P,CYBB,RP13-43E11.1,CXorf27,SRPX,AF241726.2,SNORA31,RP11-357K9.2,FTLP16,RPGR,OTC,DYNLT3	UGT3A2	first encounter of TP TopHat-Fusion,sim5_reads|TM4SF2--UGT3A2	sim5_reads|TM4SF2--UGT3A2
+TP	sim5_reads	TopHat-Fusion	SART3--NLRP3	527	79	SART3,FICD	NLRP3	first encounter of TP TopHat-Fusion,sim5_reads|SART3--NLRP3	sim5_reads|SART3--NLRP3
+TP	sim5_reads	TopHat-Fusion	KCND1--CAMK4	545	50	KCND1	AC010468.2,CAMK4,CTC-499J9.1	first encounter of TP TopHat-Fusion,sim5_reads|KCND1--CAMK4	sim5_reads|KCND1--CAMK4
+TP	sim5_reads	TopHat-Fusion	SDR9C7--GPLD1	489	80	SDR9C7	ALDH5A1,MRS2,GPLD1	first encounter of TP TopHat-Fusion,sim5_reads|SDR9C7--GPLD1	sim5_reads|SDR9C7--GPLD1
+TP	sim5_reads	TopHat-Fusion	RASSF9--SF3A2	474	93	RASSF9	SF3A2,PLEKHJ1	first encounter of TP TopHat-Fusion,sim5_reads|RASSF9--SF3A2	sim5_reads|RASSF9--SF3A2
+TP	sim5_reads	TopHat-Fusion	PYGM--ZNF679	501	64	PYGM	VN1R38P,MTND3P2,RP11-165H4.3,TRIM60P17,RP11-3N2.5,ZNF679,VN1R37P,ZNF727,RP11-321E8.4,MTND1P2,RP11-3N2.8,RP11-165H4.2,MTND2P4,RP11-468B6.1,MTND4P2,RP11-3N2.13,RP11-3N2.7,GUSBP6,RP11-3N2.11,RP11-3N2.9	first encounter of TP TopHat-Fusion,sim5_reads|PYGM--ZNF679	sim5_reads|PYGM--ZNF679
+TP	sim5_reads	TopHat-Fusion	ALOX12B--CCDC69	492	59	AC129492.6,ALOX12B	GM2A,CCDC69	first encounter of TP TopHat-Fusion,sim5_reads|CCDC69--AC129492.6 (para of sim5_reads|CCDC69--ALOX12B)	sim5_reads|CCDC69--AC129492.6
+TP	sim5_reads	TopHat-Fusion	RP11-317J19.1--TMEM129	503	46	RP11-317J19.1,PTP4A1P6,ME3	TMEM129	first encounter of TP TopHat-Fusion,sim5_reads|TMEM129--ME3	sim5_reads|TMEM129--ME3
+NA-TP	sim5_reads	TopHat-Fusion	NDUFAB1--TLK1P1	536	0	NDUFAB1	TLK1P1	already scored TopHat-Fusion,sim5_reads|NDUFAB1--TLK1 as TP (para of sim5_reads|NDUFAB1--TLK1P1)	.
+TP	sim5_reads	TopHat-Fusion	N6AMT1--KLHDC10	470	63	N6AMT1	KLHDC10	first encounter of TP TopHat-Fusion,sim5_reads|N6AMT1--KLHDC10	sim5_reads|N6AMT1--KLHDC10
+TP	sim5_reads	TopHat-Fusion	HEG1--GLRA4	448	82	HEG1	GLRA4,TMEM31	first encounter of TP TopHat-Fusion,sim5_reads|HEG1--TMEM31 (para of sim5_reads|HEG1--GLRA4)	sim5_reads|HEG1--TMEM31
+TP	sim5_reads	TopHat-Fusion	PRKRA--EBF3	435	94	PRKRA,DFNB59,AC009948.5	MIR4297,EBF3	first encounter of TP TopHat-Fusion,sim5_reads|PRKRA--EBF3	sim5_reads|PRKRA--EBF3
+TP	sim5_reads	TopHat-Fusion	TUBB3--MPP6	453	59	AC092143.1,RP11-566K11.4,MC1R,TUBB3	CTA-298G8.1,CTA-298G8.2,MPP6	first encounter of TP TopHat-Fusion,sim5_reads|MC1R--MPP6	sim5_reads|MC1R--MPP6
+TP	sim5_reads	TopHat-Fusion	SLC5A5--DNPH1	434	76	SLC5A5	DNPH1	first encounter of TP TopHat-Fusion,sim5_reads|SLC5A5--DNPH1	sim5_reads|SLC5A5--DNPH1
+TP	sim5_reads	TopHat-Fusion	PCDHA1--EPB41L1	420	86	PCDHAC1,PCDHA13,PCDHA4,PCDHA2,PCDHA11,PCDHA9,PCDHA14,PCDHAC2,PCDHA12,AC005609.1,PCDHA7,PCDHA10,PCDHA5,PCDHA3,PCDHA1,PCDHA8,PCDHA6	AL121895.1,RP11-234K24.3,EPB41L1	first encounter of TP TopHat-Fusion,sim5_reads|PCDHA10--EPB41L1 (para of sim5_reads|PCDHA1--EPB41L1)	sim5_reads|PCDHA10--EPB41L1
+TP	sim5_reads	TopHat-Fusion	NLRX1--CDC5L	440	65	NLRX1	MIR4642,CDC5L,AL133262.1	first encounter of TP TopHat-Fusion,sim5_reads|NLRX1--CDC5L	sim5_reads|NLRX1--CDC5L
+TP	sim5_reads	TopHat-Fusion	RRP1B--TIGD4	402	63	PDXK,RRP1B,CSTB	TIGD4	first encounter of TP TopHat-Fusion,sim5_reads|RRP1B--TIGD4	sim5_reads|RRP1B--TIGD4
+TP	sim5_reads	TopHat-Fusion	PPP5C--AGPS	404	55	AC007193.8,PPP5C,AC007193.9	AGPS,NFE2L2,AC074286.1	first encounter of TP TopHat-Fusion,sim5_reads|PPP5C--AGPS	sim5_reads|PPP5C--AGPS
+TP	sim5_reads	TopHat-Fusion	LCT--ADAMTS20	378	73	LCT,AC011893.3	ADAMTS20	first encounter of TP TopHat-Fusion,sim5_reads|LCT--ADAMTS20	sim5_reads|LCT--ADAMTS20
+TP	sim5_reads	TopHat-Fusion	FADS6--HOXD3	380	65	FADS6	RP11-387A1.5,HOXD-AS2,HOXD4,HOXD-AS1,MIR10B,HOXD3	first encounter of TP TopHat-Fusion,sim5_reads|FADS6--HOXD3	sim5_reads|FADS6--HOXD3
+TP	sim5_reads	TopHat-Fusion	SIGLEC9--ADORA3	358	66	SIGLEC9	RAP1A,RNU6-792P,ADORA3	first encounter of TP TopHat-Fusion,sim5_reads|SIGLEC9--ADORA3	sim5_reads|SIGLEC9--ADORA3
+TP	sim5_reads	TopHat-Fusion	CHST13--CSGALNACT2	363	42	CHST13,C3orf22	CSGALNACT2	first encounter of TP TopHat-Fusion,sim5_reads|CHST13--CSGALNACT2	sim5_reads|CHST13--CSGALNACT2
+TP	sim5_reads	TopHat-Fusion	FRG1--SLIRP	268	127	FRG1	C14orf178,SLIRP,SNW1	first encounter of TP TopHat-Fusion,sim5_reads|FRG1--SLIRP	sim5_reads|FRG1--SLIRP
+TP	sim5_reads	TopHat-Fusion	LRRTM4--ZNF304	389	2	AC079117.3,RNA5SP98,AC079117.1,AC079117.2,LRRTM4	CTC-444N24.13,ZNF304	first encounter of TP TopHat-Fusion,sim5_reads|LRRTM4--ZNF304	sim5_reads|LRRTM4--ZNF304
+TP	sim5_reads	TopHat-Fusion	AC009892.10--DYNLRB1	317	70	LILRB1,AC009892.10	DYNLRB1	first encounter of TP TopHat-Fusion,sim5_reads|AC009892.10--DYNLRB1	sim5_reads|AC009892.10--DYNLRB1
+TP	sim5_reads	TopHat-Fusion	C1QA--C11ORF1	319	68	C1QA	ALG9,FDXACB1,C11orf1	first encounter of TP TopHat-Fusion,sim5_reads|C1QA--C11ORF1	sim5_reads|C1QA--C11ORF1
+TP	sim5_reads	TopHat-Fusion	PTHLH--C20ORF194	334	51	PTHLH,RP11-993B23.3	RN7SL839P,AL117334.1,RNU6-1019P,U3,UBE2V1P1,C20orf194	first encounter of TP TopHat-Fusion,sim5_reads|PTHLH--C20ORF194	sim5_reads|PTHLH--C20ORF194
+TP	sim5_reads	TopHat-Fusion	YIPF5--CHST3	329	50	YIPF5	CHST3	first encounter of TP TopHat-Fusion,sim5_reads|YIPF5--CHST3	sim5_reads|YIPF5--CHST3
+TP	sim5_reads	TopHat-Fusion	LILRB3--PPP1R11	344	25	CTB-83J4.1,LILRA6,AC010492.2,LILRB3,RPS9	RNF39,PPP1R11	first encounter of TP TopHat-Fusion,sim5_reads|LILRB3--PPP1R11	sim5_reads|LILRB3--PPP1R11
+TP	sim5_reads	TopHat-Fusion	USP43--NT5DC1	324	45	RP11-55L4.2,USP43,RP11-55L4.1	NT5DC1,RP3-486I3.5,AL121963.1,NIP7P3,COL10A1	first encounter of TP TopHat-Fusion,sim5_reads|COL10A1--USP43 (para of sim5_reads|AL121963.1--USP43)	sim5_reads|COL10A1--USP43
+TP	sim5_reads	TopHat-Fusion	TTK--FRMPD3	312	53	TTK	FRMPD3,FRMPD3-AS1	first encounter of TP TopHat-Fusion,sim5_reads|TTK--FRMPD3	sim5_reads|TTK--FRMPD3
+TP	sim5_reads	TopHat-Fusion	MTL5--TBX22	316	46	MTL5	TBX22	first encounter of TP TopHat-Fusion,sim5_reads|MTL5--TBX22	sim5_reads|MTL5--TBX22
+TP	sim5_reads	TopHat-Fusion	ZNF223--DGCR14	278	84	ZNF284,RNU6-902P,ZNF223,ZNF222	DGCR14,TSSK2	first encounter of TP TopHat-Fusion,sim5_reads|ZNF223--DGCR14	sim5_reads|ZNF223--DGCR14
+TP	sim5_reads	TopHat-Fusion	CBLN1--RMI1	311	50	CBLN1	RMI1	first encounter of TP TopHat-Fusion,sim5_reads|CBLN1--RMI1	sim5_reads|CBLN1--RMI1
+TP	sim5_reads	TopHat-Fusion	GOLGA7--KIAA1432	329	29	GOLGA7	ERMP1,RP11-207C16.4,KIAA1432	first encounter of TP TopHat-Fusion,sim5_reads|GOLGA7--KIAA1432	sim5_reads|GOLGA7--KIAA1432
+TP	sim5_reads	TopHat-Fusion	TTYH2--TNK1	295	54	CTD-2514K5.4,TTYH2	TMEM256-PLSCR3,TNK1,C17orf61-PLSCR3	first encounter of TP TopHat-Fusion,sim5_reads|TTYH2--TNK1	sim5_reads|TTYH2--TNK1
+TP	sim5_reads	TopHat-Fusion	RELL1--PLA2R1	300	43	C4orf19,RELL1	PLA2R1	first encounter of TP TopHat-Fusion,sim5_reads|RELL1--PLA2R1	sim5_reads|RELL1--PLA2R1
+TP	sim5_reads	TopHat-Fusion	C1ORF54--AIF1L	297	38	APH1A,C1orf54	AIF1L	first encounter of TP TopHat-Fusion,sim5_reads|C1ORF54--AIF1L	sim5_reads|C1ORF54--AIF1L
+TP	sim5_reads	TopHat-Fusion	DHPS--INMT-FAM188B	287	45	DHPS,WDR83	INMT-FAM188B,AC004691.5,FAM188B,INMT,AQP1	first encounter of TP TopHat-Fusion,sim5_reads|DHPS--AQP1 (para of sim5_reads|DHPS--INMT-FAM188B)	sim5_reads|DHPS--AQP1
+TP	sim5_reads	TopHat-Fusion	VSTM2B--INPP5J	278	52	CTC-525D6.2,VSTM2B	RP3-412A9.12,INPP5J,SELM	first encounter of TP TopHat-Fusion,sim5_reads|VSTM2B--INPP5J	sim5_reads|VSTM2B--INPP5J
+TP	sim5_reads	TopHat-Fusion	DPYSL4--CDKN2A	274	49	DPYSL4	RP11-145E5.5,CDKN2B-AS1,CDKN2A	first encounter of TP TopHat-Fusion,sim5_reads|DPYSL4--CDKN2A	sim5_reads|DPYSL4--CDKN2A
+TP	sim5_reads	TopHat-Fusion	SEC23A--UBA6	256	63	RP11-545M17.3,SEC23A,RP11-545M17.2,RP11-545M17.1	UBA6,RP11-17P16.2	first encounter of TP TopHat-Fusion,sim5_reads|SEC23A--UBA6	sim5_reads|SEC23A--UBA6
+TP	sim5_reads	TopHat-Fusion	ZNF567--ZNF280D	278	38	ZNF567,ZNF850	RP11-31H5.1,ZNF280D	first encounter of TP TopHat-Fusion,sim5_reads|ZNF567--ZNF280D	sim5_reads|ZNF567--ZNF280D
+NA-TP	sim5_reads	TopHat-Fusion	LILRA6--PPP1R11	310	0	RNU6-1307P,LILRA4,LILRB2,CTB-83J4.1,AC008746.12,LAIR2,LAIR1,AC098789.1,AC008984.2,AC008746.10,AC009892.2,AC008746.3,LILRA6,AC010518.3,LILRA2,KIR3DX1,CTD-2587H19.3,AC008746.5,AC008984.7,LENG9,LENG8,CTD-2337J16.1,LILRA5,AC010492.2,AC010492.5,AC008984.5,AC009892.5,LILRB1,CTD-2587H19.1,LILRB3,AC009892.1,AC008746.9,CDC42EP5,LILRA1,LILRB5,AC008984.6,AC010492.4,TTYH1,LILRA3,VN1R104P,CTB-83J4.2,CTD-2587H19.2,LENG8-AS1,RPS9,MIR4752	RNF39,PPP1R11	already scored TopHat-Fusion,sim5_reads|LILRB3--PPP1R11 as TP (para of sim5_reads|LILRA6--PPP1R11)	.
+TP	sim5_reads	TopHat-Fusion	FNDC1--SLC6A18	265	41	FNDC1,FNDC1-IT1,RP11-13P5.2	SLC6A18	first encounter of TP TopHat-Fusion,sim5_reads|FNDC1--SLC6A18	sim5_reads|FNDC1--SLC6A18
+TP	sim5_reads	TopHat-Fusion	ASXL1--CHCHD10	200	106	ASXL1	MMP11,CHCHD10,C22orf15	first encounter of TP TopHat-Fusion,sim5_reads|ASXL1--CHCHD10	sim5_reads|ASXL1--CHCHD10
+TP	sim5_reads	TopHat-Fusion	HAGHL--PRRT3-AS1	237	55	HAGHL,NARFL,CCDC78	PRRT3,PRRT3-AS1	first encounter of TP TopHat-Fusion,sim5_reads|PRRT3--HAGHL (para of sim5_reads|PRRT3-AS1--HAGHL)	sim5_reads|PRRT3--HAGHL
+TP	sim5_reads	TopHat-Fusion	ASB10--TGIF2-C20ORF24	238	47	ASB10	C20orf24,RP5-977B1.11,TGIF2-C20orf24,TGIF2,SLA2	first encounter of TP TopHat-Fusion,sim5_reads|ASB10--TGIF2 (para of sim5_reads|ASB10--TGIF2-C20ORF24)	sim5_reads|ASB10--TGIF2
+TP	sim5_reads	TopHat-Fusion	PSMD1--IKBKE	244	34	RNU1-93P,HTR2B,PSMD1	C1orf147,IKBKE	first encounter of TP TopHat-Fusion,sim5_reads|PSMD1--IKBKE	sim5_reads|PSMD1--IKBKE
+TP	sim5_reads	TopHat-Fusion	WDR62--TLR7	232	45	WDR62	TLR7	first encounter of TP TopHat-Fusion,sim5_reads|WDR62--TLR7	sim5_reads|WDR62--TLR7
+TP	sim5_reads	TopHat-Fusion	THAP5--CCR6	234	40	THAP5,PNPLA8,DNAJB9	CCR6,RP11-517H2.6,FGFR1OP	first encounter of TP TopHat-Fusion,sim5_reads|THAP5--CCR6	sim5_reads|THAP5--CCR6
+TP	sim5_reads	TopHat-Fusion	ARHGEF39--ABCB4	206	48	ARHGEF39,CA9,CCDC107,RN7SL22P	ABCB4	first encounter of TP TopHat-Fusion,sim5_reads|ARHGEF39--ABCB4	sim5_reads|ARHGEF39--ABCB4
+TP	sim5_reads	TopHat-Fusion	TCIRG1--GDI2	202	37	RP11-802E16.3,TCIRG1	NRBF2P5,GDI1,GDI2,RP11-318E3.9	first encounter of TP TopHat-Fusion,sim5_reads|TCIRG1--GDI2	sim5_reads|TCIRG1--GDI2
+TP	sim5_reads	TopHat-Fusion	KATNA1--PCDH15	215	24	KATNA1	RP11-598C10.2,RP11-168O22.1,RNU6-687P,RP11-257I14.1,MTRNR2L5,PCDH15,MIR548F1,RP11-598C10.1,AC013737.1,NEFMP1,RP11-264A11.1	first encounter of TP TopHat-Fusion,sim5_reads|KATNA1--PCDH15	sim5_reads|KATNA1--PCDH15
+TP	sim5_reads	TopHat-Fusion	ARID5A--LYPD1	202	34	ARID5A	LYPD1,AC010974.3,GPR39	first encounter of TP TopHat-Fusion,sim5_reads|ARID5A--LYPD1	sim5_reads|ARID5A--LYPD1
+TP	sim5_reads	TopHat-Fusion	C14ORF39--TRMT2A	200	34	RP11-1042B17.3,SALL4P7,RBM8B,SIX6,C14orf39,GNRHR2P1	RANBP1,DGCR8,AC006547.8,TRMT2A	first encounter of TP TopHat-Fusion,sim5_reads|C14ORF39--TRMT2A	sim5_reads|C14ORF39--TRMT2A
+TP	sim5_reads	TopHat-Fusion	DDX19A--NUDT5	207	24	DDX19B,DDX19A,RP11-529K1.2,RP11-529K1.3	CDC123,NUDT5,SEC61A2	first encounter of TP TopHat-Fusion,sim5_reads|DDX19A--NUDT5	sim5_reads|DDX19A--NUDT5
+TP	sim5_reads	TopHat-Fusion	OSER1--SCN8A	193	35	OSER1	RP11-923I11.3,HNRNPA3P10,SCN8A,AC068987.1	first encounter of TP TopHat-Fusion,sim5_reads|OSER1--SCN8A	sim5_reads|OSER1--SCN8A
+TP	sim5_reads	TopHat-Fusion	CPXM1--HOXC4	192	36	CPXM1	AC012531.25,MIR615,HOXC5,HOXC4,RP11-834C11.12,RP11-834C11.14,HOXC6	first encounter of TP TopHat-Fusion,sim5_reads|CPXM1--HOXC4	sim5_reads|CPXM1--HOXC4
+TP	sim5_reads	TopHat-Fusion	IGF1--VSX2	203	20	IGF1	VSX2	first encounter of TP TopHat-Fusion,sim5_reads|IGF1--VSX2	sim5_reads|IGF1--VSX2
+NA-TP	sim5_reads	TopHat-Fusion	DDX19B--NUDT5	207	11	DDX19B,DDX19A,RP11-529K1.2,RP11-529K1.3	CDC123,NUDT5,SEC61A2	already scored TopHat-Fusion,sim5_reads|DDX19A--NUDT5 as TP (para of sim5_reads|DDX19B--NUDT5)	.
+TP	sim5_reads	TopHat-Fusion	CDK13--MTFR1L	191	20	CDK13	AL020996.1,RP1-317E23.6,RP1-317E23.3,RP1-317E23.7,AUNIP,MTFR1L	first encounter of TP TopHat-Fusion,sim5_reads|CDK13--MTFR1L	sim5_reads|CDK13--MTFR1L
+TP	sim5_reads	TopHat-Fusion	KIF2C--PRDM2	184	25	KIF2C,RP11-269F19.2	PRDM2	first encounter of TP TopHat-Fusion,sim5_reads|KIF2C--PRDM2	sim5_reads|KIF2C--PRDM2
+TP	sim5_reads	TopHat-Fusion	ULBP1--PAM	177	31	ULBP1	PAM	first encounter of TP TopHat-Fusion,sim5_reads|ULBP1--PAM	sim5_reads|ULBP1--PAM
+TP	sim5_reads	TopHat-Fusion	RP11-263K19.4--WDR33	190	18	THBS3,RP11-263K19.4,MIR92B	RNY4P7,WDR33,SFT2D3	first encounter of TP TopHat-Fusion,sim5_reads|THBS3--WDR33 (para of sim5_reads|RP11-263K19.4--WDR33)	sim5_reads|THBS3--WDR33
+TP	sim5_reads	TopHat-Fusion	TOX4--FAM169B	197	9	RAB2B,TOX4,METTL3	FAM169B,RP11-719C20.1	first encounter of TP TopHat-Fusion,sim5_reads|RAB2B--FAM169B (para of sim5_reads|TOX4--FAM169B)	sim5_reads|RAB2B--FAM169B
+TP	sim5_reads	TopHat-Fusion	LRIG2--TRPM3	174	29	RLIMP2,LRIG2	Metazoa_SRP,MIR204,RP11-141J10.2,TRPM3,PIGUP1,RP11-141J10.1	first encounter of TP TopHat-Fusion,sim5_reads|LRIG2--TRPM3	sim5_reads|LRIG2--TRPM3
+TP	sim5_reads	TopHat-Fusion	PRRG2--EDNRB	165	27	NOSIP,PRRG2	RN7SL810P,RNF219-AS1,EDNRB,RP11-318G21.4	first encounter of TP TopHat-Fusion,sim5_reads|PRRG2--EDNRB	sim5_reads|PRRG2--EDNRB
+TP	sim5_reads	TopHat-Fusion	SEC1P--ZBTB10	166	25	SEC1P,CA11,NTN5	ZBTB10	first encounter of TP TopHat-Fusion,sim5_reads|NTN5--ZBTB10 (para of sim5_reads|SEC1P--ZBTB10)	sim5_reads|NTN5--ZBTB10
+TP	sim5_reads	TopHat-Fusion	IGLL5--AKAP12	157	31	LL22NC03-84E4.11,IGLV3-10,IGLV3-2,IGLJ1,IGLV3-12,IGLV3-7,hsa-mir-5571,IGLL5,IGL@,IGLV3-16,IGLV3-15,IGLC6,MIR650,IGLV3-1,LL22NC03-24A12.8,IGLV2-18,IGLV2-14,IGLV2-5,IGLC1,IGLV3-6,D87007.1,IGLV2-11,IGLV2-8,D87024.1,D87015.1,IGLV3-17,IGLV3-13,D86998.1,IGLV3-9,IGLV3-4,LL22NC03-84E4.8,IGLV4-3	RNU6-1247P,AKAP12,RNY4P20,RN7SKP268	first encounter of TP TopHat-Fusion,sim5_reads|IGLL5--AKAP12	sim5_reads|IGLL5--AKAP12
+TP	sim5_reads	TopHat-Fusion	FMR1--CYB5R2	145	30	FMR1-IT1,FMR1	CYB5R2	first encounter of TP TopHat-Fusion,sim5_reads|FMR1--CYB5R2	sim5_reads|FMR1--CYB5R2
+TP	sim5_reads	TopHat-Fusion	TSC22D2--WDR96	155	20	TSC22D2	WDR96,MIR609	first encounter of TP TopHat-Fusion,sim5_reads|TSC22D2--WDR96	sim5_reads|TSC22D2--WDR96
+TP	sim5_reads	TopHat-Fusion	TMEM61--ACOX3	147	25	RP11-12C17.2,TMEM61	TRMT44,ACOX3,RNA5SP152	first encounter of TP TopHat-Fusion,sim5_reads|TMEM61--ACOX3	sim5_reads|TMEM61--ACOX3
+TP	sim5_reads	TopHat-Fusion	IFIT3--ALPL	148	19	LIPA,IFIT3	ALPL	first encounter of TP TopHat-Fusion,sim5_reads|IFIT3--ALPL	sim5_reads|IFIT3--ALPL
+TP	sim5_reads	TopHat-Fusion	TRPC7--ALS2CL	147	18	TRPC7-AS2,TRPC7,TRPC7-AS1,HSPD1P18	ALS2CL	first encounter of TP TopHat-Fusion,sim5_reads|TRPC7--ALS2CL	sim5_reads|TRPC7--ALS2CL
+TP	sim5_reads	TopHat-Fusion	DUS3L--CXORF57	147	18	DUS3L,CTB-54O9.9	MIR548AN,CXorf57	first encounter of TP TopHat-Fusion,sim5_reads|DUS3L--CXORF57	sim5_reads|DUS3L--CXORF57
+TP	sim5_reads	TopHat-Fusion	ASIP--BAMBI	148	16	RP4-785G19.5,ASIP,XPOTP1,RP4-785G19.2	BAMBI	first encounter of TP TopHat-Fusion,sim5_reads|ASIP--BAMBI	sim5_reads|ASIP--BAMBI
+TP	sim5_reads	TopHat-Fusion	PCDHGA1--CSN2	148	14	PCDHGA7,PCDHGA1,PCDHGC5,PCDHGB4,PCDHGC4,RN7SL68P,PCDHGA10,PCDHGA5,PCDHGB2,PCDHGA9,PCDHGA12,PCDHGA4,PCDHGA2,PCDHGB7,PCDHGB8P,PCDHGA8,PCDHGA11,PCDHGB6,PCDHGB3,PCDHGC3,PCDHGA6,PCDHGB1,PCDHGA3	CSN2	first encounter of TP TopHat-Fusion,sim5_reads|PCDHGB1--CSN2 (para of sim5_reads|PCDHGA1--CSN2)	sim5_reads|PCDHGB1--CSN2
+TP	sim5_reads	TopHat-Fusion	ATG3--MEOX2	143	17	SLC35A5,ATG3	MEOX2,AC005550.3	first encounter of TP TopHat-Fusion,sim5_reads|ATG3--MEOX2	sim5_reads|ATG3--MEOX2
+TP	sim5_reads	TopHat-Fusion	NXPH1--IGHM	133	26	NXPH1	IGHV3-7,IGHD6-6,IGHD2-21,IGHD1-26,IGHD5-12,IGHD2-15,AL122127.1,IGHD4-4,AL122127.3,IGHJ3,IGHVIII-5-2,IGHV1-12,IGHD4-11,IGHD5-18,IGHV3-15,IGHD3-22,IGHJ6,IGHV3-6,IGH@,SLC20A1P2,AL122127.5,IGHD5-5,IGHV1-14,IGHV2-10,hsa-mir-4538,IGHD3-16,IGHV3-13,IGHM,IGHD5-24,AB019440.1,IGHV1-18,IGHV3-21,IGHV3-19,IGHD3-3,IGHD6-25,IGHJ2,IGHD1-14,IGHJ1P,IGHD6-13,IGHVIII-2-1,IGHV1-3,hsa-mir-4539,IGHVII-1-1,AB019441.29,AL122127.4,IGHD3-9,AL122127.2,AL122127.25,IGHV3-16,hsa-mir-4537,ADAM6,IGHVIII-5-1,IGHVII-15-1,IGHD2-2,IGHJ4,IGHD1-20,IGHJ2P,IGHV1-8,IGHD4-17,IGHJ3P,IGHV4-4,IGHD1-1,IGHJ5,IGHVIII-11-1,AB019440.50,KIAA0125,IGHVIII-13-1,IGHD3-10,IGHD6-19,IGHV3-11,IGHD1-7,IGHD7-27,IGHV3-20,IGHV1-2,IGHV2-5,IGHD4-23,IGHJ1,IGHV1-17,IGHV6-1,IGHVII-20-1,IGHV3-9,IGHD2-8,IGHVIII-16-1	first encounter of TP TopHat-Fusion,sim5_reads|NXPH1--IGHM	sim5_reads|NXPH1--IGHM
+TP	sim5_reads	TopHat-Fusion	LIN7A--COX7A2L	138	19	MIR618,MIR617,RP11-299A16.1,LIN7A,ACSS3	COX7A2L	first encounter of TP TopHat-Fusion,sim5_reads|LIN7A--COX7A2L	sim5_reads|LIN7A--COX7A2L
+TP	sim5_reads	TopHat-Fusion	KDM4C--RC3H2	136	17	RP11-403H13.1,RP11-390F4.9,RP11-390F4.3,KDM4C,SNRPEP2,RP11-390F4.8	SNORD90,RC3H2	first encounter of TP TopHat-Fusion,sim5_reads|KDM4C--RC3H2	sim5_reads|KDM4C--RC3H2
+TP	sim5_reads	TopHat-Fusion	C20ORF141--SLC38A8	122	26	TMEM239,C20orf141	RNA5SP432,SLC38A8	first encounter of TP TopHat-Fusion,sim5_reads|TMEM239--SLC38A8 (para of sim5_reads|C20ORF141--SLC38A8)	sim5_reads|TMEM239--SLC38A8
+TP	sim5_reads	TopHat-Fusion	DOCK3--TMEM55B	137	8	ZNF652P1,ST13P14,RP11-804H8.5,RP11-646D13.1,DOCK3	TMEM55B,APEX1	first encounter of TP TopHat-Fusion,sim5_reads|DOCK3--TMEM55B	sim5_reads|DOCK3--TMEM55B
+TP	sim5_reads	TopHat-Fusion	PRB4--C19ORF67	130	13	TAS2R43,TAS2R30,TAS2R63P,RP11-785H5.1,RP11-673D15.7,PRH1,RNU6-676P,PRH2,TAS2R46,TAS2R19,TAS2R12,PRR4,TAS2R67P,PRB3,TAS2R14,TAS2R31,RP11-785H5.2,TAS2R42,TAS2R64P,RP11-711K1.8,TAS2R18,AC018630.1,TAS2R13,RP11-144O23.20,PRB4,TAS2R15,TAS2R50,TAS2R20	C19orf67	first encounter of TP TopHat-Fusion,sim5_reads|PRB4--C19ORF67	sim5_reads|PRB4--C19ORF67
+TP	sim5_reads	TopHat-Fusion	ACER2--AKAP11	132	11	ACER2	AKAP11	first encounter of TP TopHat-Fusion,sim5_reads|ACER2--AKAP11	sim5_reads|ACER2--AKAP11
+TP	sim5_reads	TopHat-Fusion	CRYBB1--SERF1A	101	40	CRYBB1	SERF1A,SERF1B	first encounter of TP TopHat-Fusion,sim5_reads|CRYBB1--SERF1A	sim5_reads|CRYBB1--SERF1A
+NA-TP	sim5_reads	TopHat-Fusion	CRYBB1--SERF1B	101	39	CRYBB1	SERF1A,SERF1B	already scored TopHat-Fusion,sim5_reads|CRYBB1--SERF1A as TP (para of sim5_reads|CRYBB1--SERF1B)	.
+TP	sim5_reads	TopHat-Fusion	NMUR2--PYCARD	109	26	NMUR2	C16orf98,PYCARD	first encounter of TP TopHat-Fusion,sim5_reads|NMUR2--PYCARD	sim5_reads|NMUR2--PYCARD
+TP	sim5_reads	TopHat-Fusion	RP11-968A15.8--MRPS18A	117	18	NFE2,COPZ1,RP11-968A15.2,MIR148B,RNU6-950P,RP11-968A15.8,CBX5,RN7SL744P,HNRNPA1	MRPS18A,RSPH9	first encounter of TP TopHat-Fusion,sim5_reads|NFE2--MRPS18A	sim5_reads|NFE2--MRPS18A
+TP	sim5_reads	TopHat-Fusion	ARMC5--PTGER2	118	15	RP11-452L6.5,ARMC5	PTGER2	first encounter of TP TopHat-Fusion,sim5_reads|ARMC5--PTGER2	sim5_reads|ARMC5--PTGER2
+TP	sim5_reads	TopHat-Fusion	SUV39H1--FAM179A	110	20	SUV39H1,AF196970.3	FAM179A,C2orf71	first encounter of TP TopHat-Fusion,sim5_reads|SUV39H1--FAM179A	sim5_reads|SUV39H1--FAM179A
+TP	sim5_reads	TopHat-Fusion	AP4B1--PFKFB3	116	11	AP4B1-AS1,DCLRE1B,AP4B1	RP11-414H17.5,PFKFB3,MIR3155A,RN7SKP78	first encounter of TP TopHat-Fusion,sim5_reads|AP4B1--PFKFB3	sim5_reads|AP4B1--PFKFB3
+TP	sim5_reads	TopHat-Fusion	C1QL2--TUB	108	16	C1QL2	RP11-236J17.6,RIC3,TUB,RP11-236J17.5	first encounter of TP TopHat-Fusion,sim5_reads|C1QL2--TUB	sim5_reads|C1QL2--TUB
+TP	sim5_reads	TopHat-Fusion	LEPR--EIF3F	101	21	RP11-430H12.2,LEPR,LEPROT,RP4-630A11.3	EIF3F,COX6CP5	first encounter of TP TopHat-Fusion,sim5_reads|LEPR--EIF3F	sim5_reads|LEPR--EIF3F
+TP	sim5_reads	TopHat-Fusion	SECISBP2--PBX3	111	10	SECISBP2	RP11-423C15.3,PBX3	first encounter of TP TopHat-Fusion,sim5_reads|SECISBP2--PBX3	sim5_reads|SECISBP2--PBX3
+TP	sim5_reads	TopHat-Fusion	EDEM2--SMARCA1	103	16	RP4-614O4.12,AL121753.1,RP4-614O4.11,RNA5SP483,EDEM2,MT1P3,MMP24-AS1,MMP24,SNORD56,PROCR	SMARCA1	first encounter of TP TopHat-Fusion,sim5_reads|SMARCA1--MMP24 (para of sim5_reads|SMARCA1--EDEM2)	sim5_reads|SMARCA1--MMP24
+TP	sim5_reads	TopHat-Fusion	MTNR1A--ZNF630-AS1	106	12	RP11-215A19.2,MTNR1A,RNU6-1055P,F11-AS1	ZNF630,ZNF630-AS1	first encounter of TP TopHat-Fusion,sim5_reads|MTNR1A--ZNF630	sim5_reads|MTNR1A--ZNF630
+TP	sim5_reads	TopHat-Fusion	HMX3--FAM181A	92	22	HMX3	FAM181A-AS1,FAM181A	first encounter of TP TopHat-Fusion,sim5_reads|HMX3--FAM181A	sim5_reads|HMX3--FAM181A
+TP	sim5_reads	TopHat-Fusion	SLC34A3--PCDHAC2	82	29	SLC34A3	PCDHAC1,PCDHA13,PCDHA4,PCDHA2,PCDHA11,PCDHA9,PCDHAC2,PCDHA12,PCDHA7,PCDHA10,PCDHA5,PCDHA3,PCDHA1,PCDHA8,PCDHA6	first encounter of TP TopHat-Fusion,sim5_reads|SLC34A3--PCDHA12 (para of sim5_reads|SLC34A3--PCDHAC2)	sim5_reads|SLC34A3--PCDHA12
+TP	sim5_reads	TopHat-Fusion	ZFP90--PTTG1IP	85	24	RNU4-36P,ZFP90,RP11-615I2.1	PTTG1IP	first encounter of TP TopHat-Fusion,sim5_reads|ZFP90--PTTG1IP	sim5_reads|ZFP90--PTTG1IP
+TP	sim5_reads	TopHat-Fusion	C4ORF21--LILRB4	97	12	LARP7,RP11-402J6.1,RP11-402J6.3,C4orf21	LILRB4,VN1R105P,AC009892.9	first encounter of TP TopHat-Fusion,sim5_reads|C4ORF21--LILRB4	sim5_reads|C4ORF21--LILRB4
+TP	sim5_reads	TopHat-Fusion	H2AFJ--ADIG	89	13	H2AFJ	ADIG	first encounter of TP TopHat-Fusion,sim5_reads|H2AFJ--ADIG	sim5_reads|H2AFJ--ADIG
+FP	sim5_reads	TopHat-Fusion	ZNF589--RP11-968A15.8	101	0	NME6,MRPS18AP1,FCF1P2,ZNF589	NFE2,COPZ1,RP11-968A15.2,MIR148B,RNU6-950P,RP11-968A15.8,CBX5,RN7SL744P,HNRNPA1	first encounter of FP fusion TopHat-Fusion,sim5_reads|ZNF589--RP11-968A15.8	.
+TP	sim5_reads	TopHat-Fusion	VEZF1--GSC	79	22	VEZF1	GSC	first encounter of TP TopHat-Fusion,sim5_reads|VEZF1--GSC	sim5_reads|VEZF1--GSC
+TP	sim5_reads	TopHat-Fusion	RNGTT--GUCY1A3	89	11	SNORA73,RNGTT	GUCY1A3,RP11-588K22.2	first encounter of TP TopHat-Fusion,sim5_reads|RNGTT--GUCY1A3	sim5_reads|RNGTT--GUCY1A3
+TP	sim5_reads	TopHat-Fusion	ANO5--ARHGAP11A	84	11	ANO5,CTD-3064C13.1	ARHGAP11A,AC123768.4	first encounter of TP TopHat-Fusion,sim5_reads|ANO5--ARHGAP11A	sim5_reads|ANO5--ARHGAP11A
+TP	sim5_reads	TopHat-Fusion	CHRNA3--ZNF610	83	12	CHRNA5,CHRNA3	ZNF610,CTD-2525I3.6	first encounter of TP TopHat-Fusion,sim5_reads|CHRNA3--ZNF610	sim5_reads|CHRNA3--ZNF610
+TP	sim5_reads	TopHat-Fusion	TRIM2--SYP	80	15	TRIM2,RNU6-1196P,ANXA2P1	SYP-AS1,SYP	first encounter of TP TopHat-Fusion,sim5_reads|TRIM2--SYP	sim5_reads|TRIM2--SYP
+TP	sim5_reads	TopHat-Fusion	TBC1D3H--PPP4R4	78	16	TBC1D3H,CCL4L2,TBC1D3C,TBC1D3G,CCL3L1,RNU6-1192P,CTB-91J4.3	PPP4R4	first encounter of TP TopHat-Fusion,sim5_reads|CCL3L1--PPP4R4	sim5_reads|CCL3L1--PPP4R4
+NA-TP	sim5_reads	TopHat-Fusion	CCL3L3--PPP4R4	78	16	TBC1D3H,CCL3L3,TBC1D3C,CCL3L1,AC131056.3	PPP4R4	already scored TopHat-Fusion,sim5_reads|CCL3L1--PPP4R4 as TP (para of sim5_reads|CCL3L3--PPP4R4)	.
+TP	sim5_reads	TopHat-Fusion	SYNJ1--ZFP64	81	13	AP000275.64,SYNJ1	ERP29P1,ZFP64	first encounter of TP TopHat-Fusion,sim5_reads|SYNJ1--ZFP64	sim5_reads|SYNJ1--ZFP64
+TP	sim5_reads	TopHat-Fusion	PUS1--IZUMO3	79	15	PUS1,RP11-417L19.4	IZUMO3	first encounter of TP TopHat-Fusion,sim5_reads|PUS1--IZUMO3	sim5_reads|PUS1--IZUMO3
+TP	sim5_reads	TopHat-Fusion	TRIM40--FRA10AC1	76	13	TRIM40	FRA10AC1	first encounter of TP TopHat-Fusion,sim5_reads|TRIM40--FRA10AC1	sim5_reads|TRIM40--FRA10AC1
+TP	sim5_reads	TopHat-Fusion	P2RX3--AP5B1	77	12	P2RX3,AP000781.1	AP001266.1,AP5B1	first encounter of TP TopHat-Fusion,sim5_reads|P2RX3--AP5B1	sim5_reads|P2RX3--AP5B1
+NA-TP	sim5_reads	TopHat-Fusion	THAP5P1--CCR6	87	1	THAP5P1	CCR6,RP11-517H2.6,FGFR1OP	already scored TopHat-Fusion,sim5_reads|THAP5--CCR6 as TP (para of sim5_reads|THAP5P1--CCR6)	.
+TP	sim5_reads	TopHat-Fusion	AC104794.4--DSEL	78	9	AC104794.4	CTD-2541J13.2,RP11-638L3.1,DSEL	first encounter of TP TopHat-Fusion,sim5_reads|AC104794.4--DSEL	sim5_reads|AC104794.4--DSEL
+TP	sim5_reads	TopHat-Fusion	CCDC109B--SLC6A14	84	3	CASP6,HIGD1AP14,CCDC109B	SLC6A14	first encounter of TP TopHat-Fusion,sim5_reads|CCDC109B--SLC6A14	sim5_reads|CCDC109B--SLC6A14
+TP	sim5_reads	TopHat-Fusion	RP11-333E1.1--MAGEB18	71	16	RP11-333E1.2,RP11-333E1.1,SCIMP	MAGEB18	first encounter of TP TopHat-Fusion,sim5_reads|SCIMP--MAGEB18 (para of sim5_reads|RP11-333E1.1--MAGEB18)	sim5_reads|SCIMP--MAGEB18
+TP	sim5_reads	TopHat-Fusion	BST1--PDZRN4	75	11	BST1,RP11-115L11.1,FAM200B	RP11-413B19.2,PDZRN4	first encounter of TP TopHat-Fusion,sim5_reads|BST1--PDZRN4	sim5_reads|BST1--PDZRN4
+TP	sim5_reads	TopHat-Fusion	KLK15--NEUROD4	70	12	AC011523.2,KLK15	NEUROD4	first encounter of TP TopHat-Fusion,sim5_reads|KLK15--NEUROD4	sim5_reads|KLK15--NEUROD4
+TP	sim5_reads	TopHat-Fusion	ADAD1--C1QTNF4	67	11	ADAD1	C1QTNF4	first encounter of TP TopHat-Fusion,sim5_reads|ADAD1--C1QTNF4	sim5_reads|ADAD1--C1QTNF4
+TP	sim5_reads	TopHat-Fusion	ARNTL2--ZNF548	72	5	RP11-165P7.1,ARNTL2	AC004076.7,AC003002.4,ZNF548,AC003002.6	first encounter of TP TopHat-Fusion,sim5_reads|ARNTL2--AC003002.4	sim5_reads|ARNTL2--AC003002.4
+TP	sim5_reads	TopHat-Fusion	CETP--BRD3	64	13	CETP	LINC00094,RP11-374P20.4,BRD3	first encounter of TP TopHat-Fusion,sim5_reads|CETP--BRD3	sim5_reads|CETP--BRD3
+TP	sim5_reads	TopHat-Fusion	C1ORF158--ECE2	64	12	C1orf158	EIF2B5,ECE2,CAMK2N2	first encounter of TP TopHat-Fusion,sim5_reads|CAMK2N2--C1ORF158 (para of sim5_reads|ECE2--C1ORF158)	sim5_reads|CAMK2N2--C1ORF158
+TP	sim5_reads	TopHat-Fusion	PBDC1--C19ORF47	51	24	PBDC1	C19orf47,PLD3	first encounter of TP TopHat-Fusion,sim5_reads|PBDC1--C19ORF47	sim5_reads|PBDC1--C19ORF47
+TP	sim5_reads	TopHat-Fusion	GAS8--CEP63	66	9	GAS8,DBNDD1,C16orf3,URAHP	ANAPC13,RP11-445J14.1,CEP63	first encounter of TP TopHat-Fusion,sim5_reads|GAS8--CEP63	sim5_reads|GAS8--CEP63
+TP	sim5_reads	TopHat-Fusion	MAP3K19--FAM219A	57	18	MAP3K19	FAM219A,DNAI1	first encounter of TP TopHat-Fusion,sim5_reads|MAP3K19--FAM219A	sim5_reads|MAP3K19--FAM219A
+TP	sim5_reads	TopHat-Fusion	ICOSLG--UGT2B7	60	15	ICOSLG	UGT2B7,RP13-644M16.5	first encounter of TP TopHat-Fusion,sim5_reads|ICOSLG--UGT2B7	sim5_reads|ICOSLG--UGT2B7
+TP	sim5_reads	TopHat-Fusion	UBD--SRPX	59	13	GABBR1,UBD	TM4SF2,RP13-43E11.1,SRPX	first encounter of TP TopHat-Fusion,sim5_reads|UBD--SRPX	sim5_reads|UBD--SRPX
+TP	sim5_reads	TopHat-Fusion	RAF1--NRIP2	59	10	RAF1,MKRN2	ITFG2,NRIP2	first encounter of TP TopHat-Fusion,sim5_reads|RAF1--NRIP2	sim5_reads|RAF1--NRIP2
+TP	sim5_reads	TopHat-Fusion	RHPN2--DSCAM	62	7	CTC-461H2.2,RHPN2	SNORA51,DSCAM-IT1,AF064863.1,DSCAM-AS1,DSCAM,MIR4760	first encounter of TP TopHat-Fusion,sim5_reads|RHPN2--DSCAM	sim5_reads|RHPN2--DSCAM
+TP	sim5_reads	TopHat-Fusion	PTPN9--CLDN18	62	7	CTD-2323K18.2,AC105036.1,CTD-2323K18.1,PTPN9,CTD-2323K18.3	RP11-461M2.2,CLDN18	first encounter of TP TopHat-Fusion,sim5_reads|PTPN9--CLDN18	sim5_reads|PTPN9--CLDN18
+TP	sim5_reads	TopHat-Fusion	DBH--SSBP1	56	12	DBH,DBH-AS1	TAS2R3,TAS2R4,WEE2-AS1,TAS2R6,SSBP1	first encounter of TP TopHat-Fusion,sim5_reads|DBH--SSBP1	sim5_reads|DBH--SSBP1
+TP	sim5_reads	TopHat-Fusion	YRDC--KCNH7	57	11	C1orf122,YRDC	GCA,AC007740.1,KCNH7,RNA5SP109	first encounter of TP TopHat-Fusion,sim5_reads|YRDC--KCNH7	sim5_reads|YRDC--KCNH7
+TP	sim5_reads	TopHat-Fusion	PCED1A--FKBP8	58	8	VPS16,PCED1A	AC005387.3,FKBP8,AC005387.2	first encounter of TP TopHat-Fusion,sim5_reads|PCED1A--FKBP8	sim5_reads|PCED1A--FKBP8
+TP	sim5_reads	TopHat-Fusion	RHAG--KIAA0753	56	9	RHAG	RNA5SP435,KIAA0753,TXNDC17	first encounter of TP TopHat-Fusion,sim5_reads|RHAG--KIAA0753	sim5_reads|RHAG--KIAA0753
+TP	sim5_reads	TopHat-Fusion	ARL3--ISG20	48	15	ARL3	ISG20	first encounter of TP TopHat-Fusion,sim5_reads|ARL3--ISG20	sim5_reads|ARL3--ISG20
+TP	sim5_reads	TopHat-Fusion	CAD--KAT2B	55	8	DFFB,AL691523.1,CAD	KAT2B,MIR3135A	first encounter of TP TopHat-Fusion,sim5_reads|CAD--KAT2B	sim5_reads|CAD--KAT2B
+TP	sim5_reads	TopHat-Fusion	PHYHIPL--DLX2	53	6	FAM13C,PHYHIPL	DLX2	first encounter of TP TopHat-Fusion,sim5_reads|PHYHIPL--DLX2	sim5_reads|PHYHIPL--DLX2
+TP	sim5_reads	TopHat-Fusion	SPAG8--ZNF300	54	4	AL133410.1,NPR2,SPAG8	IRGM,ZNF300	first encounter of TP TopHat-Fusion,sim5_reads|SPAG8--ZNF300	sim5_reads|SPAG8--ZNF300
+TP	sim5_reads	TopHat-Fusion	NUTM2E--GRASP	43	15	NUTM2E	GRASP	first encounter of TP TopHat-Fusion,sim5_reads|NUTM2B--GRASP (para of sim5_reads|NUTM2E--GRASP)	sim5_reads|NUTM2B--GRASP
+NA-TP	sim5_reads	TopHat-Fusion	RP11-119F19.2--GRASP	43	15	NUTM2B,RP11-119F19.2,RP11-182L21.5,BEND3P3,RP11-506M13.3	GRASP	already scored TopHat-Fusion,sim5_reads|NUTM2B--GRASP as TP	.
+TP	sim5_reads	TopHat-Fusion	ABCD2--CCR2	49	9	ABCD2	CCR2	first encounter of TP TopHat-Fusion,sim5_reads|ABCD2--CCR2	sim5_reads|ABCD2--CCR2
+TP	sim5_reads	TopHat-Fusion	ANO1--KXD1	45	13	ANO1,RP11-805J14.3,ANO1-AS1	KXD1,AC005253.2,AC005253.4	first encounter of TP TopHat-Fusion,sim5_reads|ANO1--KXD1	sim5_reads|ANO1--KXD1
+TP	sim5_reads	TopHat-Fusion	LRIT3--COG5	57	0	LRIT3	CTB-20D2.1,GPR22,DUS4L,HBP1,COG5,AC004492.1	first encounter of TP TopHat-Fusion,sim5_reads|LRIT3--GPR22	sim5_reads|LRIT3--GPR22
+TP	sim5_reads	TopHat-Fusion	NLRP7--CDT1	48	8	NLRP7,NLRP2,CTC-550B14.8	CDT1	first encounter of TP TopHat-Fusion,sim5_reads|NLRP7--CDT1	sim5_reads|NLRP7--CDT1
+TP	sim5_reads	TopHat-Fusion	CYP2C19--CTB-171A8.1	48	6	MTND4P19,CYP2C19,CYP2C18	CEACAM16,IGSF23,CEACAM19,CTB-171A8.1,PVR	first encounter of TP TopHat-Fusion,sim5_reads|CYP2C19--CEACAM19	sim5_reads|CYP2C19--CEACAM19
+TP	sim5_reads	TopHat-Fusion	KIR3DX1--IL1R2	43	8	KIR3DX1	IL1R2	first encounter of TP TopHat-Fusion,sim5_reads|KIR3DX1--IL1R2	sim5_reads|KIR3DX1--IL1R2
+TP	sim5_reads	TopHat-Fusion	EPPIN-WFDC6--PXDNL	48	3	EPPIN-WFDC6,EPPIN,RP3-461P17.6,HSPD1P21,WFDC6	RP11-11C20.1,PXDNL,RP11-401H2.1,RP11-119N19.1	first encounter of TP TopHat-Fusion,sim5_reads|EPPIN--PXDNL (para of sim5_reads|EPPIN-WFDC6--PXDNL)	sim5_reads|EPPIN--PXDNL
+TP	sim5_reads	TopHat-Fusion	KCNK17--FBXO6	42	9	KCNK17	FBXO6	first encounter of TP TopHat-Fusion,sim5_reads|KCNK17--FBXO6	sim5_reads|KCNK17--FBXO6
+TP	sim5_reads	TopHat-Fusion	THG1L--DOK4	40	10	AC026407.1,THG1L	DOK4,POLR2C	first encounter of TP TopHat-Fusion,sim5_reads|THG1L--DOK4	sim5_reads|THG1L--DOK4
+TP	sim5_reads	TopHat-Fusion	CTSB--ZNF485	44	6	CTSB,RP11-589N15.2	ZNF485	first encounter of TP TopHat-Fusion,sim5_reads|CTSB--ZNF485	sim5_reads|CTSB--ZNF485
+TP	sim5_reads	TopHat-Fusion	RSPH6A--PCMT1	45	4	RSPH6A	PCMT1,RP11-350J20.4,RP11-350J20.5,NUP43	first encounter of TP TopHat-Fusion,sim5_reads|RSPH6A--PCMT1	sim5_reads|RSPH6A--PCMT1
+TP	sim5_reads	TopHat-Fusion	GDA--LAG3	37	12	GDA	LAG3	first encounter of TP TopHat-Fusion,sim5_reads|GDA--LAG3	sim5_reads|GDA--LAG3
+TP	sim5_reads	TopHat-Fusion	RP11-18I14.10--GLIPR2	40	8	RP11-18I14.10,C10orf95	GLIPR2	first encounter of TP TopHat-Fusion,sim5_reads|GLIPR2--C10ORF95 (para of sim5_reads|GLIPR2--RP11-18I14.10)	sim5_reads|GLIPR2--C10ORF95
+TP	sim5_reads	TopHat-Fusion	ARSJ--SPN	39	9	RP11-26P13.2,ARSJ	SPN,QPRT	first encounter of TP TopHat-Fusion,sim5_reads|ARSJ--SPN	sim5_reads|ARSJ--SPN
+TP	sim5_reads	TopHat-Fusion	GZMA--C1QL3	34	13	GZMA	C1QL3	first encounter of TP TopHat-Fusion,sim5_reads|GZMA--C1QL3	sim5_reads|GZMA--C1QL3
+TP	sim5_reads	TopHat-Fusion	SSR3--IL12B	41	6	SSR3	RNU4ATAC2P,AC008697.1,IL12B	first encounter of TP TopHat-Fusion,sim5_reads|SSR3--IL12B	sim5_reads|SSR3--IL12B
+TP	sim5_reads	TopHat-Fusion	DAGLA--HDAC11	40	6	RP11-467L20.10,DAGLA	HDAC11,HDAC11-AS1	first encounter of TP TopHat-Fusion,sim5_reads|DAGLA--HDAC11	sim5_reads|DAGLA--HDAC11
+TP	sim5_reads	TopHat-Fusion	EPB41L4B--ZNF771	36	10	EPB41L4B,MTND2P11,RNU6-984P,AL358815.1	SNORA42,ZNF771,DCTPP1	first encounter of TP TopHat-Fusion,sim5_reads|EPB41L4B--ZNF771	sim5_reads|EPB41L4B--ZNF771
+TP	sim5_reads	TopHat-Fusion	SAMD5--NAPEPLD	41	4	RP11-307P5.1,SAMD5	RPL19P12,NAPEPLD,ARMC10	first encounter of TP TopHat-Fusion,sim5_reads|SAMD5--NAPEPLD	sim5_reads|SAMD5--NAPEPLD
+NA-TP	sim5_reads	TopHat-Fusion	LEPR--AP003900.6	43	0	RP11-430H12.2,LEPR,LEPROT,RP4-630A11.3	AP003900.6,EIF3FP1	already scored TopHat-Fusion,sim5_reads|LEPR--EIF3F as TP (para of sim5_reads|LEPR--EIF3FP1)	.
+TP	sim5_reads	TopHat-Fusion	CCL25--SPA17	37	6	CCL25	SPA17,SIAE	first encounter of TP TopHat-Fusion,sim5_reads|CCL25--SPA17	sim5_reads|CCL25--SPA17
+TP	sim5_reads	TopHat-Fusion	C16ORF78--MAP3K2	39	3	C16orf78	MAP3K2,RNU6-1147P	first encounter of TP TopHat-Fusion,sim5_reads|C16ORF78--MAP3K2	sim5_reads|C16ORF78--MAP3K2
+TP	sim5_reads	TopHat-Fusion	SON--NPY	38	4	DONSON,SON,AP000304.1,GART	NPY	first encounter of TP TopHat-Fusion,sim5_reads|SON--NPY	sim5_reads|SON--NPY
+TP	sim5_reads	TopHat-Fusion	OLFML1--MYO10	38	3	CTD-2516F10.2,OLFML1	RNA5SP179,MYO10,CTB-55B8.1	first encounter of TP TopHat-Fusion,sim5_reads|OLFML1--MYO10	sim5_reads|OLFML1--MYO10
+TP	sim5_reads	TopHat-Fusion	SIGLEC8--TTC40	35	6	SIGLEC8	TTC40	first encounter of TP TopHat-Fusion,sim5_reads|SIGLEC8--TTC40	sim5_reads|SIGLEC8--TTC40
+TP	sim5_reads	TopHat-Fusion	RAB11FIP4--RAB34	32	9	MIR4724,RAB11FIP4,RN7SL79P,RN7SL45P	RAB34	first encounter of TP TopHat-Fusion,sim5_reads|RAB11FIP4--RAB34	sim5_reads|RAB11FIP4--RAB34
+TP	sim5_reads	TopHat-Fusion	PTGR1--COX6C	30	11	LRRC37A5P,RP11-16L21.7,PTGR1,ZNF483	COX6C,VPS13B	first encounter of TP TopHat-Fusion,sim5_reads|PTGR1--COX6C	sim5_reads|PTGR1--COX6C
+TP	sim5_reads	TopHat-Fusion	GBA3--HABP4	35	5	CDC42P6,GBA3	HABP4,CDC14B	first encounter of TP TopHat-Fusion,sim5_reads|GBA3--HABP4	sim5_reads|GBA3--HABP4
+TP	sim5_reads	TopHat-Fusion	VCL--KIAA0556	39	0	RP11-417O11.5,RP11-178G16.4,RP11-178G16.5,VCL	CTD-2049O4.1,KIAA0556,AC016597.1,AC002551.1	first encounter of TP TopHat-Fusion,sim5_reads|VCL--KIAA0556	sim5_reads|VCL--KIAA0556
+TP	sim5_reads	TopHat-Fusion	REPS1--ZIC3	30	9	REPS1,ECT2L	ZIC3	first encounter of TP TopHat-Fusion,sim5_reads|REPS1--ZIC3	sim5_reads|REPS1--ZIC3
+TP	sim5_reads	TopHat-Fusion	ZAR1--RPGRIP1	36	2	ZAR1,FRYL	RPGRIP1	first encounter of TP TopHat-Fusion,sim5_reads|ZAR1--RPGRIP1	sim5_reads|ZAR1--RPGRIP1
+TP	sim5_reads	TopHat-Fusion	PAPOLG--APOM	36	1	PAPOLG	APOM,BAG6	first encounter of TP TopHat-Fusion,sim5_reads|PAPOLG--APOM	sim5_reads|PAPOLG--APOM
+TP	sim5_reads	TopHat-Fusion	ATP6AP2--GPC1	28	9	ATP6AP2	MIR149,AC110619.2,AC110619.1,GPC1	first encounter of TP TopHat-Fusion,sim5_reads|ATP6AP2--GPC1	sim5_reads|ATP6AP2--GPC1
+TP	sim5_reads	TopHat-Fusion	SULF2--AC018755.1	31	6	CTD-2653D5.1,NCOA3,SULF2	AC018755.2,LINC00085,AC018755.1,MIR99B,MIRLET7E,hsa-mir-125a,MIR125A	first encounter of TP TopHat-Fusion,sim5_reads|SULF2--AC018755.1	sim5_reads|SULF2--AC018755.1
+TP	sim5_reads	TopHat-Fusion	PDZRN3--BRD2	33	3	PDZRN3,PDZRN3-AS1,RNU7-119P	XXbac-BPG181M17.6,HLA-DMA,BRD2,BRD2-IT1	first encounter of TP TopHat-Fusion,sim5_reads|PDZRN3--BRD2	sim5_reads|PDZRN3--BRD2
+NA-TP	sim5_reads	TopHat-Fusion	RP11-143P4.2--GSC	33	0	VEZF1P1,RP11-143P4.2	GSC	already scored TopHat-Fusion,sim5_reads|VEZF1--GSC as TP (para of sim5_reads|VEZF1P1--GSC)	.
+TP	sim5_reads	TopHat-Fusion	NR3C2--AKNA	28	5	NR3C2,RP11-76G10.1	AKNA,RP11-9M16.2	first encounter of TP TopHat-Fusion,sim5_reads|NR3C2--AKNA	sim5_reads|NR3C2--AKNA
+TP	sim5_reads	TopHat-Fusion	CLMN--SNIP1	28	5	CLMN,CTD-2240H23.2,RP11-725G5.3	SNIP1,FTH1P1	first encounter of TP TopHat-Fusion,sim5_reads|CLMN--SNIP1	sim5_reads|CLMN--SNIP1
+TP	sim5_reads	TopHat-Fusion	C9ORF135--FIS1	26	7	RN7SL570P,C9orf135	FIS1	first encounter of TP TopHat-Fusion,sim5_reads|C9ORF135--FIS1	sim5_reads|C9ORF135--FIS1
+TP	sim5_reads	TopHat-Fusion	SLC33A1--MLNR	27	6	SLC33A1	MLNR	first encounter of TP TopHat-Fusion,sim5_reads|SLC33A1--MLNR	sim5_reads|SLC33A1--MLNR
+TP	sim5_reads	TopHat-Fusion	SLC10A1--C17ORF103	28	5	SLC10A1	C17orf103	first encounter of TP TopHat-Fusion,sim5_reads|SLC10A1--C17ORF103	sim5_reads|SLC10A1--C17ORF103
+TP	sim5_reads	TopHat-Fusion	RABEPK--MMP17	26	7	RABEPK	MMP17	first encounter of TP TopHat-Fusion,sim5_reads|RABEPK--MMP17	sim5_reads|RABEPK--MMP17
+TP	sim5_reads	TopHat-Fusion	MAOA--CDC6	31	1	MAOA	CDC6,CTD-2267D19.6	first encounter of TP TopHat-Fusion,sim5_reads|MAOA--CDC6	sim5_reads|MAOA--CDC6
+TP	sim5_reads	TopHat-Fusion	TBC1D29--AGO1	28	4	RP11-218M11.6,RP11-271K11.1,TBC1D29	RP4-789D17.5,AGO1,RP4-789D17.4	first encounter of TP TopHat-Fusion,sim5_reads|TBC1D29--AGO1	sim5_reads|TBC1D29--AGO1
+TP	sim5_reads	TopHat-Fusion	TMPRSS3--CD164	26	5	TMPRSS4,TMPRSS4-AS1,TMPRSS3	CD164	first encounter of TP TopHat-Fusion,sim5_reads|TMPRSS3--CD164	sim5_reads|TMPRSS3--CD164
+TP	sim5_reads	TopHat-Fusion	CA2--SUN5	28	3	RP11-317J10.2,CA2	SUN5	first encounter of TP TopHat-Fusion,sim5_reads|CA2--SUN5	sim5_reads|CA2--SUN5
+TP	sim5_reads	TopHat-Fusion	ADRA1B--PDPK1	23	7	ADRA1B,GAPDHP40	RP11-20I23.13,RP11-20I23.11,RP11-20I23.8,PDPK1,CTD-3126B10.1,RP11-20I23.6,RP11-20I23.7	first encounter of TP TopHat-Fusion,sim5_reads|ADRA1B--PDPK1	sim5_reads|ADRA1B--PDPK1
+NA-TP	sim5_reads	TopHat-Fusion	ADRA1B--PDPK2	23	7	ADRA1B,GAPDHP40	AC141586.5,PDPK2	already scored TopHat-Fusion,sim5_reads|ADRA1B--PDPK1 as TP (para of sim5_reads|ADRA1B--PDPK2)	.
+TP	sim5_reads	TopHat-Fusion	NAIF1--TADA2A	26	4	SLC25A25,NAIF1	CTC-421K24.1,TADA2A,RP11-378E13.4	first encounter of TP TopHat-Fusion,sim5_reads|NAIF1--TADA2A	sim5_reads|NAIF1--TADA2A
+TP	sim5_reads	TopHat-Fusion	PABPC1L--NDUFB3	26	4	TOMM34,PABPC1L	FAM126B,NDUFB3,RNU6-1206P	first encounter of TP TopHat-Fusion,sim5_reads|PABPC1L--NDUFB3	sim5_reads|PABPC1L--NDUFB3
+TP	sim5_reads	TopHat-Fusion	CBLN3--CYP2W1	25	3	CBLN3,KHNYN	CYP2W1	first encounter of TP TopHat-Fusion,sim5_reads|CBLN3--CYP2W1	sim5_reads|CBLN3--CYP2W1
+TP	sim5_reads	TopHat-Fusion	RNF219-AS1--PFDN6	22	6	RN7SL810P,POU4F1,RNF219-AS1,TCEB1P23,EDNRB,RNY3P3,RPL31P54,LINC00446,RP11-52L5.6,RP11-318G21.4,RNF219,SRGNP1,LINC01069,RP11-203P2.2	WDR46,PFDN6,RGL2	first encounter of TP TopHat-Fusion,sim5_reads|POU4F1--PFDN6	sim5_reads|POU4F1--PFDN6
+TP	sim5_reads	TopHat-Fusion	ERI3--WASF3	26	1	ERI3-IT1,AL390776.1,ERI3	WASF3-AS1,WASF3,RPS3AP44	first encounter of TP TopHat-Fusion,sim5_reads|ERI3--WASF3	sim5_reads|ERI3--WASF3
+TP	sim5_reads	TopHat-Fusion	SH3RF3--HOXB3	22	5	SH3RF3,MIR4266,SNRPGP9,MIR4265	MIR10A,HOXB3,HOXB5,HOXB-AS2,HOXB4,HOXB-AS1,HOXB6,HOXB-AS3	first encounter of TP TopHat-Fusion,sim5_reads|SH3RF3--HOXB3	sim5_reads|SH3RF3--HOXB3
+TP	sim5_reads	TopHat-Fusion	ANK1--PATL2	20	6	MIR486,RN7SL149P,RP11-930P14.2,ANK1,RP11-930P14.1	PATL2	first encounter of TP TopHat-Fusion,sim5_reads|ANK1--PATL2	sim5_reads|ANK1--PATL2
+TP	sim5_reads	TopHat-Fusion	HS3ST5--ZNF467	25	0	RPSAP43,HS3ST5,AL136446.1,RNA5SP213,RP3-399L15.3	ZNF467	first encounter of TP TopHat-Fusion,sim5_reads|HS3ST5--ZNF467	sim5_reads|HS3ST5--ZNF467
+TP	sim5_reads	TopHat-Fusion	VKORC1--TRH	24	1	ZNF646,VKORC1,RP11-196G11.1,PRSS53	TRH	first encounter of TP TopHat-Fusion,sim5_reads|VKORC1--TRH	sim5_reads|VKORC1--TRH
+TP	sim5_reads	TopHat-Fusion	ELOVL3--ZADH2	24	1	ELOVL3	ZADH2	first encounter of TP TopHat-Fusion,sim5_reads|ELOVL3--ZADH2	sim5_reads|ELOVL3--ZADH2
+TP	sim5_reads	TopHat-Fusion	TEAD4--UMODL1	18	7	TEAD4	UMODL1,C21orf128	first encounter of TP TopHat-Fusion,sim5_reads|C21ORF128--TEAD4 (para of sim5_reads|UMODL1--TEAD4)	sim5_reads|C21ORF128--TEAD4
+TP	sim5_reads	TopHat-Fusion	CST11--MFSD2A	19	6	CST11	MFSD2A,RP3-342P20.2	first encounter of TP TopHat-Fusion,sim5_reads|CST11--MFSD2A	sim5_reads|CST11--MFSD2A
+TP	sim5_reads	TopHat-Fusion	HERC1--RASGEF1C	22	2	RP11-317G6.1,HERC1	RASGEF1C	first encounter of TP TopHat-Fusion,sim5_reads|HERC1--RASGEF1C	sim5_reads|HERC1--RASGEF1C
+TP	sim5_reads	TopHat-Fusion	DAND5--MAN1A2	21	2	DAND5	MAN1A2	first encounter of TP TopHat-Fusion,sim5_reads|DAND5--MAN1A2	sim5_reads|DAND5--MAN1A2
+TP	sim5_reads	TopHat-Fusion	VENTX--PRR25	19	4	VENTX	PRR25	first encounter of TP TopHat-Fusion,sim5_reads|VENTX--PRR25	sim5_reads|VENTX--PRR25
+TP	sim5_reads	TopHat-Fusion	ADK--BCL2L2-PABPN1	21	1	RAB5CP1,TIMM9P1,MRPL35P3,POLR3DP1,RP11-312P12.3,RPSAP6,ADK,RP11-46O21.2	BCL2L2,PABPN1,BCL2L2-PABPN1,AL049829.1	first encounter of TP TopHat-Fusion,sim5_reads|ADK--PABPN1	sim5_reads|ADK--PABPN1
+TP	sim5_reads	TopHat-Fusion	RIBC1--AL021546.6	18	4	RIBC1,SMC1A	TRIAP1,COX6A1,RPL31P52,AL021546.6,GATC	first encounter of TP TopHat-Fusion,sim5_reads|RIBC1--AL021546.6	sim5_reads|RIBC1--AL021546.6
+TP	sim5_reads	TopHat-Fusion	LOXL3--TRIM13	18	4	DOK1,LOXL3,HTRA2	TRIM13,KCNRG,MIR3613	first encounter of TP TopHat-Fusion,sim5_reads|LOXL3--KCNRG (para of sim5_reads|LOXL3--TRIM13)	sim5_reads|LOXL3--KCNRG
+TP	sim5_reads	TopHat-Fusion	SSBP3--RP11-488C13.6	13	8	SSBP3-AS1,MRPL37,SSBP3,RP5-997D24.3	VASH1,RP11-488C13.6,RP11-488C13.7	first encounter of TP TopHat-Fusion,sim5_reads|SSBP3--VASH1 (para of sim5_reads|SSBP3--RP11-488C13.6)	sim5_reads|SSBP3--VASH1
+TP	sim5_reads	TopHat-Fusion	AP5M1--PPP2R2C	17	4	EXOC5,AP5M1	PPP2R2C	first encounter of TP TopHat-Fusion,sim5_reads|AP5M1--PPP2R2C	sim5_reads|AP5M1--PPP2R2C
+TP	sim5_reads	TopHat-Fusion	C4ORF6--SLC6A7	20	0	C4orf6	SLC6A7,CAMK2A	first encounter of TP TopHat-Fusion,sim5_reads|C4ORF6--SLC6A7	sim5_reads|C4ORF6--SLC6A7
+TP	sim5_reads	TopHat-Fusion	ODF1--AFMID	20	0	ODF1	AFMID	first encounter of TP TopHat-Fusion,sim5_reads|ODF1--AFMID	sim5_reads|ODF1--AFMID
+TP	sim5_reads	TopHat-Fusion	COL6A3--LRRC20	20	0	COL6A3	LRRC20	first encounter of TP TopHat-Fusion,sim5_reads|COL6A3--LRRC20	sim5_reads|COL6A3--LRRC20
+TP	sim5_reads	TopHat-Fusion	RNFT2--PMVK	18	1	RNU6-558P,RNFT2,RP11-407P2.1	PMVK	first encounter of TP TopHat-Fusion,sim5_reads|RNFT2--PMVK	sim5_reads|RNFT2--PMVK
+TP	sim5_reads	TopHat-Fusion	LSM4--CLDN2	18	1	LSM4	CLDN2,RIPPLY1,MORC4	first encounter of TP TopHat-Fusion,sim5_reads|LSM4--CLDN2	sim5_reads|LSM4--CLDN2
+TP	sim5_reads	TopHat-Fusion	RRBP1--GPR133	17	2	RRBP1	RP11-243M5.1,RP11-76C10.5,GPR133,AC078925.1,RP11-76C10.2	first encounter of TP TopHat-Fusion,sim5_reads|RRBP1--GPR133	sim5_reads|RRBP1--GPR133
+TP	sim5_reads	TopHat-Fusion	MEI1--VTA1	17	2	RNU6ATAC22P,HMGN2P10,MEI1	VTA1	first encounter of TP TopHat-Fusion,sim5_reads|MEI1--VTA1	sim5_reads|MEI1--VTA1
+TP	sim5_reads	TopHat-Fusion	CD302--DRAXIN	16	3	MARCH7,CD302,LY75-CD302,LY75	DRAXIN	first encounter of TP TopHat-Fusion,sim5_reads|CD302--DRAXIN	sim5_reads|CD302--DRAXIN
+FP	sim5_reads	TopHat-Fusion	RP11-454C18.2--ZNF679	18	0	RP11-64D22.1,AADACL2,AADAC,RP11-454C18.2,RP11-64D22.2,SUCNR1,RP11-64D22.5	VN1R38P,MTND3P2,RP11-165H4.3,TRIM60P17,RP11-3N2.5,ZNF679,VN1R37P,ZNF727,RP11-321E8.4,MTND1P2,RP11-3N2.8,RP11-165H4.2,MTND2P4,RP11-468B6.1,MTND4P2,RP11-3N2.13,RP11-3N2.7,GUSBP6,RP11-3N2.11,RP11-3N2.9	first encounter of FP fusion TopHat-Fusion,sim5_reads|RP11-454C18.2--ZNF679	.
+TP	sim5_reads	TopHat-Fusion	CALD1--FCRLA	16	2	CALD1	FCRLA	first encounter of TP TopHat-Fusion,sim5_reads|CALD1--FCRLA	sim5_reads|CALD1--FCRLA
+TP	sim5_reads	TopHat-Fusion	CADM3--SAP18	13	4	CTA-134P22.2,DARC,CADM3,RNA5SP60	SAP18,RN7SL80P	first encounter of TP TopHat-Fusion,sim5_reads|CADM3--SAP18	sim5_reads|CADM3--SAP18
+TP	sim5_reads	TopHat-Fusion	TMPRSS11B--ZNF487	11	6	TMPRSS11B,RP11-646E20.6	ZNF487,RNU7-193P	first encounter of TP TopHat-Fusion,sim5_reads|TMPRSS11B--ZNF487	sim5_reads|TMPRSS11B--ZNF487
+TP	sim5_reads	TopHat-Fusion	POLE3--FAM188A	15	2	C9orf43,POLE3	FAM188A	first encounter of TP TopHat-Fusion,sim5_reads|POLE3--FAM188A	sim5_reads|POLE3--FAM188A
+TP	sim5_reads	TopHat-Fusion	MAP7D3--LBR	14	3	MAP7D3	AC092811.1,LBR	first encounter of TP TopHat-Fusion,sim5_reads|MAP7D3--LBR	sim5_reads|MAP7D3--LBR
+TP	sim5_reads	TopHat-Fusion	CHDH--CXORF28	16	0	CHDH,CACNA1D	CXorf28	first encounter of TP TopHat-Fusion,sim5_reads|CHDH--CXORF28	sim5_reads|CHDH--CXORF28
+TP	sim5_reads	TopHat-Fusion	RAP2A--LINC00908	14	2	RAP2A	LINC00908	first encounter of TP TopHat-Fusion,sim5_reads|RAP2A--LINC00908	sim5_reads|RAP2A--LINC00908
+TP	sim5_reads	TopHat-Fusion	ZNF764--RPL36	11	5	ZNF764,AC002310.13	LONP1,HSD11B1L,RPL36,C19orf70	first encounter of TP TopHat-Fusion,sim5_reads|AC002310.13--C19ORF70 (para of sim5_reads|ZNF764--HSD11B1L)	sim5_reads|AC002310.13--C19ORF70
+TP	sim5_reads	TopHat-Fusion	FCER2--PAEP	12	4	FCER2	PAEP	first encounter of TP TopHat-Fusion,sim5_reads|FCER2--PAEP	sim5_reads|FCER2--PAEP
+TP	sim5_reads	TopHat-Fusion	DGKA--BTC	12	4	WIBG,DGKA	BTC	first encounter of TP TopHat-Fusion,sim5_reads|DGKA--BTC	sim5_reads|DGKA--BTC
+TP	sim5_reads	TopHat-Fusion	FREM3--CHRNA1	14	2	RP13-578N3.3,GUSBP5,FREM3	CHRNA1,AC018890.6	first encounter of TP TopHat-Fusion,sim5_reads|FREM3--CHRNA1	sim5_reads|FREM3--CHRNA1
+TP	sim5_reads	TopHat-Fusion	RP11-454C18.2--ZNF721	3	13	RP11-64D22.1,AADACL2,AADAC,RP11-454C18.2,RP11-64D22.2,SUCNR1,RP11-64D22.5	ZNF721,PIGG,AC092574.2,ABCA11P	first encounter of TP TopHat-Fusion,sim5_reads|ZNF721--SUCNR1	sim5_reads|ZNF721--SUCNR1
+TP	sim5_reads	TopHat-Fusion	MRPL54--CCDC144NL	13	2	MRPL54	RNU6-1178P,RP11-344E13.3,ABHD17AP6,CCDC144NL,RP11-344E13.4	first encounter of TP TopHat-Fusion,sim5_reads|MRPL54--CCDC144NL	sim5_reads|MRPL54--CCDC144NL
+TP	sim5_reads	TopHat-Fusion	SCRN1--PRSS50	12	3	AC007285.6,SCRN1	RP11-427P5.2,PRSS45,PRSS46,PRSS44,PRSS50	first encounter of TP TopHat-Fusion,sim5_reads|SCRN1--PRSS45 (para of sim5_reads|SCRN1--PRSS50)	sim5_reads|SCRN1--PRSS45
+TP	sim5_reads	TopHat-Fusion	NYAP2--FGFR1OP2	12	3	NYAP2	FGFR1OP2	first encounter of TP TopHat-Fusion,sim5_reads|NYAP2--FGFR1OP2	sim5_reads|NYAP2--FGFR1OP2
+TP	sim5_reads	TopHat-Fusion	RP2--C12ORF66	10	5	RP2	C12orf66,RNU6-1009P	first encounter of TP TopHat-Fusion,sim5_reads|RP2--C12ORF66	sim5_reads|RP2--C12ORF66
+TP	sim5_reads	TopHat-Fusion	ECI2--RSPH9	13	2	ECI2,C6orf201,RP3-400B16.4	MRPS18A,RSPH9	first encounter of TP TopHat-Fusion,sim5_reads|ECI2--RSPH9	sim5_reads|ECI2--RSPH9
+TP	sim5_reads	TopHat-Fusion	TOMM40--ZSWIM2	11	4	CTB-129P6.4,TOMM40	ZSWIM2	first encounter of TP TopHat-Fusion,sim5_reads|TOMM40--ZSWIM2	sim5_reads|TOMM40--ZSWIM2
+TP	sim5_reads	TopHat-Fusion	KIAA1257--SEMA3E	14	1	ACAD9,RP11-723O4.6,KIAA1257,EFCC1	SEMA3E,AC079987.2	first encounter of TP TopHat-Fusion,sim5_reads|KIAA1257--SEMA3E	sim5_reads|KIAA1257--SEMA3E
+TP	sim5_reads	TopHat-Fusion	FLG-AS1--LINC00535	14	0	RP1-91G5.3,RP11-107M16.2,HRNR,FLG2,CRNN,FLG,HMGN3P1,FLG-AS1	RNA5SP274,LINC00535,RP11-388K12.1,FAM92A1,AC016885.1,ZNF317P1,RP11-388K12.2	first encounter of TP TopHat-Fusion,sim5_reads|AC016885.1--FLG2	sim5_reads|AC016885.1--FLG2
+TP	sim5_reads	TopHat-Fusion	CTCF--SEC14L4	14	0	CTD-2012K14.6,CTCF,AC009095.4	RP4-539M6.14,SEC14L4	first encounter of TP TopHat-Fusion,sim5_reads|CTCF--SEC14L4	sim5_reads|CTCF--SEC14L4
+TP	sim5_reads	TopHat-Fusion	CXORF66--ZNF683	12	2	CXorf66	ZNF683	first encounter of TP TopHat-Fusion,sim5_reads|CXORF66--ZNF683	sim5_reads|CXORF66--ZNF683
+TP	sim5_reads	TopHat-Fusion	GPR123--MSL3	12	2	AL445199.1,RP13-439H18.4,GPR123	MSL3	first encounter of TP TopHat-Fusion,sim5_reads|GPR123--MSL3	sim5_reads|GPR123--MSL3
+TP	sim5_reads	TopHat-Fusion	NEDD1--PPP1R16B	12	1	NEDD1	RN7SL116P,PPP1R16B	first encounter of TP TopHat-Fusion,sim5_reads|NEDD1--PPP1R16B	sim5_reads|NEDD1--PPP1R16B
+TP	sim5_reads	TopHat-Fusion	KLF16--ATP9A	11	2	KLF16,CTB-31O20.6,CTB-31O20.8	ATP9A,RP5-827A12.2	first encounter of TP TopHat-Fusion,sim5_reads|KLF16--ATP9A	sim5_reads|KLF16--ATP9A
+TP	sim5_reads	TopHat-Fusion	ZNF823--AP000275.65	11	2	CTC-499B15.6,ZNF823	C21orf59,TCP10L,AP000275.65	first encounter of TP TopHat-Fusion,sim5_reads|ZNF823--TCP10L	sim5_reads|ZNF823--TCP10L
+TP	sim5_reads	TopHat-Fusion	MPHOSPH8--SAMD1	8	5	MPHOSPH8,AL354808.1	SAMD1	first encounter of TP TopHat-Fusion,sim5_reads|MPHOSPH8--SAMD1	sim5_reads|MPHOSPH8--SAMD1
+TP	sim5_reads	TopHat-Fusion	LIPI--TTC7B	10	2	ERLEC1P1,LIPI,AP001347.6	RP11-661G16.1,RP11-1078H9.2,RP11-1078H9.5,RP11-661G16.2,CTD-3035D6.1,AL096869.1,TTC7B	first encounter of TP TopHat-Fusion,sim5_reads|LIPI--TTC7B	sim5_reads|LIPI--TTC7B
 TP	sim5_reads	TopHat-Fusion	AC017104.2--ELL	6	6	AC017104.2	ELL,CTD-3137H5.1,AC010335.1	first encounter of TP TopHat-Fusion,sim5_reads|AC017104.2--ELL	sim5_reads|AC017104.2--ELL
-TP	sim5_reads	TopHat-Fusion	AC015849.2--SGCA	1	11	CCL5,AC015849.2	HILS1,RP11-893F2.14,SGCA	first encounter of TP TopHat-Fusion,sim5_reads|SGCA--CCL5	sim5_reads|SGCA--CCL5
-TP	sim5_reads	TopHat-Fusion	MPZL3--FAM3A	1	11	MPZL3	FAM3A	first encounter of TP TopHat-Fusion,sim5_reads|MPZL3--FAM3A	sim5_reads|MPZL3--FAM3A
-TP	sim5_reads	TopHat-Fusion	CWH43--MED26	1	11	TPI1P4,CWH43	CTD-3222D19.7,CALR3,RN7SL146P,CTD-3222D19.5,CTD-3222D19.10,C19orf44,CTD-3222D19.2,CTC-429P9.4,SLC35E1,CHERP,MED26,CTC-429P9.2,CTD-3222D19.11	first encounter of TP TopHat-Fusion,sim5_reads|CWH43--MED26	sim5_reads|CWH43--MED26
-TP	sim5_reads	TopHat-Fusion	DOK6--SLC7A13	3	9	RP11-465I4.2,CD226,DOK6,RP11-543H23.2,RP11-465I4.3	SLC7A13	first encounter of TP TopHat-Fusion,sim5_reads|DOK6--SLC7A13	sim5_reads|DOK6--SLC7A13
-TP	sim5_reads	TopHat-Fusion	TRAV20--AC074091.13	0	11	TRAV20	AC074091.13	first encounter of TP TopHat-Fusion,sim5_reads|TRAV20--AC074091.13	sim5_reads|TRAV20--AC074091.13
-TP	sim5_reads	TopHat-Fusion	RHOT1--RALY	0	11	RHOT1,ARGFXP2,AC090616.2,UBL5P2,AC116407.2	RALY,RP5-1125A11.4,RP1-64K7.4,RP5-1125A11.1,EIF2S2,MIR4755	first encounter of TP TopHat-Fusion,sim5_reads|RHOT1--RALY	sim5_reads|RHOT1--RALY
-TP	sim5_reads	TopHat-Fusion	PARD6G--MYO1G	0	11	PARD6G,AC139100.2,AC139100.3	MYO1G	first encounter of TP TopHat-Fusion,sim5_reads|PARD6G--MYO1G	sim5_reads|PARD6G--MYO1G
-TP	sim5_reads	TopHat-Fusion	EEF1B2--DDX23	9	2	NDUFS1,EEF1B2,SNORD51,SNORA41	DDX23	first encounter of TP TopHat-Fusion,sim5_reads|EEF1B2--DDX23	sim5_reads|EEF1B2--DDX23
-TP	sim5_reads	TopHat-Fusion	AC008060.7--LILRB2	2	9	AC008060.7	RNU6-1307P,LILRB2,AC098789.1,LILRA6,CTD-2337J16.1,AC010492.5,LILRB3,LILRB5,AC010492.4,RPS9	first encounter of TP TopHat-Fusion,sim5_reads|AC008060.7--LILRB2	sim5_reads|AC008060.7--LILRB2
-TP	sim5_reads	TopHat-Fusion	NEURL--C7ORF26	1	10	RP11-225H22.5,SH3PXD2A,RP11-416N2.3,NEURL	C7orf26	first encounter of TP TopHat-Fusion,sim5_reads|NEURL--C7ORF26	sim5_reads|NEURL--C7ORF26
-TP	sim5_reads	TopHat-Fusion	PADI3--GAL3ST4	0	9	PADI3,MIR3972	GAL3ST4	first encounter of TP TopHat-Fusion,sim5_reads|PADI3--GAL3ST4	sim5_reads|PADI3--GAL3ST4
-TP	sim5_reads	TopHat-Fusion	COL4A4--NUDT2	2	7	AC079235.1,COL4A4	NUDT2	first encounter of TP TopHat-Fusion,sim5_reads|COL4A4--NUDT2	sim5_reads|COL4A4--NUDT2
-TP	sim5_reads	TopHat-Fusion	TRAV22--RP11-474G23.1	0	8	TRAV22	RP11-474G23.2,RP11-474G23.3,WDR92,PPP3R1,AC017083.1,PNO1,RP11-474G23.1	first encounter of TP TopHat-Fusion,sim5_reads|TRAV22--PPP3R1 (para of sim5_reads|TRAV22--RP11-474G23.2)	sim5_reads|TRAV22--PPP3R1
-TP	sim5_reads	TopHat-Fusion	PXT1--RASIP1	0	8	PXT1,RP1-50J22.4,KCTD20	RASIP1	first encounter of TP TopHat-Fusion,sim5_reads|PXT1--RASIP1	sim5_reads|PXT1--RASIP1
-TP	sim5_reads	TopHat-Fusion	DAP3--KLF4	0	8	DAP3,YY1AP1,MSTO2P,MSTO1,RP11-243J18.2	KLF4	first encounter of TP TopHat-Fusion,sim5_reads|DAP3--KLF4	sim5_reads|DAP3--KLF4
-TP	sim5_reads	TopHat-Fusion	YWHAE--OPA3	0	8	YWHAE	OPA3,GPR4	first encounter of TP TopHat-Fusion,sim5_reads|YWHAE--OPA3	sim5_reads|YWHAE--OPA3
-TP	sim5_reads	TopHat-Fusion	KRT78--GAS7	1	7	KRT78	AC000003.2,AC000003.1,GAS7	first encounter of TP TopHat-Fusion,sim5_reads|KRT78--GAS7	sim5_reads|KRT78--GAS7
-TP	sim5_reads	TopHat-Fusion	TAX1BP3--GALE	1	7	P2RX5-TAX1BP3,RP11-48B14.1,TAX1BP3	GALE	first encounter of TP TopHat-Fusion,sim5_reads|TAX1BP3--GALE	sim5_reads|TAX1BP3--GALE
-TP	sim5_reads	TopHat-Fusion	C1ORF227--FAM19A5	1	7	C1orf227	MIR4535,AL954742.1,CTA-299D3.8,FAM19A5	first encounter of TP TopHat-Fusion,sim5_reads|C1ORF227--FAM19A5	sim5_reads|C1ORF227--FAM19A5
-TP	sim5_reads	TopHat-Fusion	CTU2--CTXN1	3	5	CTU2,PIEZO1	CTXN1,CTD-3193O13.8	first encounter of TP TopHat-Fusion,sim5_reads|CTU2--CTXN1	sim5_reads|CTU2--CTXN1
-TP	sim5_reads	TopHat-Fusion	SEC16B--BCAR3	1	7	RP4-798P15.3,SEC16B,RP11-568K15.1	RP11-488P3.1,BCAR3,MIR760,RP5-1033H22.2	first encounter of TP TopHat-Fusion,sim5_reads|SEC16B--BCAR3	sim5_reads|SEC16B--BCAR3
-TP	sim5_reads	TopHat-Fusion	AZGP1--ERP44	1	7	AZGP1	UPF3AP3,ERP44	first encounter of TP TopHat-Fusion,sim5_reads|AZGP1--ERP44	sim5_reads|AZGP1--ERP44
-TP	sim5_reads	TopHat-Fusion	TNNI1--BTG1	2	6	RP11-134G8.2,TNNI1	BTG1,RP11-796E2.4,C12orf79	first encounter of TP TopHat-Fusion,sim5_reads|TNNI1--BTG1	sim5_reads|TNNI1--BTG1
-TP	sim5_reads	TopHat-Fusion	ZNF165--TREML2	1	7	RP1-313I6.12,ZNF165	TREML2	first encounter of TP TopHat-Fusion,sim5_reads|ZNF165--TREML2	sim5_reads|ZNF165--TREML2
-TP	sim5_reads	TopHat-Fusion	ZKSCAN1--ARHGEF2	0	7	ZKSCAN1	ARHGEF2,RP11-336K24.12,RP11-336K24.5	first encounter of TP TopHat-Fusion,sim5_reads|ZKSCAN1--ARHGEF2	sim5_reads|ZKSCAN1--ARHGEF2
-TP	sim5_reads	TopHat-Fusion	CEP57L1--ROGDI	0	7	CEP57L1	ROGDI	first encounter of TP TopHat-Fusion,sim5_reads|CEP57L1--ROGDI	sim5_reads|CEP57L1--ROGDI
-TP	sim5_reads	TopHat-Fusion	LY6H--DEPDC4	1	6	LY6H	ACTR6,DEPDC4	first encounter of TP TopHat-Fusion,sim5_reads|LY6H--DEPDC4	sim5_reads|LY6H--DEPDC4
-TP	sim5_reads	TopHat-Fusion	QPCTL--INSL4	3	4	QPCTL,SNRPD2	INSL4	first encounter of TP TopHat-Fusion,sim5_reads|QPCTL--INSL4	sim5_reads|QPCTL--INSL4
-TP	sim5_reads	TopHat-Fusion	GALR1--SYNCRIP	4	3	GALR1	RP11-321N4.5,SNX14,SYNCRIP,RP1-3J17.3	first encounter of TP TopHat-Fusion,sim5_reads|GALR1--SYNCRIP	sim5_reads|GALR1--SYNCRIP
-TP	sim5_reads	TopHat-Fusion	MOCS1--RNASE6	1	6	DAAM2,MOCS1,RP11-61I13.3	RNASE6	first encounter of TP TopHat-Fusion,sim5_reads|MOCS1--RNASE6	sim5_reads|MOCS1--RNASE6
-TP	sim5_reads	TopHat-Fusion	SF3B14--TRDV1	2	5	SF3B14	TRDV1	first encounter of TP TopHat-Fusion,sim5_reads|SF3B14--TRDV1	sim5_reads|SF3B14--TRDV1
-TP	sim5_reads	TopHat-Fusion	KATNAL2--NRAP	1	6	TCEB3CL,TCEB3B,PIAS2,TCEB3C,TCEB3CL2,RP11-49K24.4,KATNAL2	NRAP,HABP2	first encounter of TP TopHat-Fusion,sim5_reads|KATNAL2--NRAP	sim5_reads|KATNAL2--NRAP
-TP	sim5_reads	TopHat-Fusion	FAM126A--STYX	1	6	FAM126A,AC005682.8	STYX	first encounter of TP TopHat-Fusion,sim5_reads|FAM126A--STYX	sim5_reads|FAM126A--STYX
-TP	sim5_reads	TopHat-Fusion	AKR1CL1--SLC25A48	0	6	AKR1CL1,AKR1C4,U8	SLC25A48	first encounter of TP TopHat-Fusion,sim5_reads|AKR1CL1--SLC25A48	sim5_reads|AKR1CL1--SLC25A48
-TP	sim5_reads	TopHat-Fusion	TLR9--AKR1C4	0	6	TWF2,TLR9	AKR1CL1,AKR1C4,U8,RP11-445P17.6	first encounter of TP TopHat-Fusion,sim5_reads|TWF2--AKR1C4 (para of sim5_reads|TLR9--AKR1C4)	sim5_reads|TWF2--AKR1C4
-TP	sim5_reads	TopHat-Fusion	LYRM5--OSM	0	6	KRAS,LYRM5	OSM	first encounter of TP TopHat-Fusion,sim5_reads|LYRM5--OSM	sim5_reads|LYRM5--OSM
-TP	sim5_reads	TopHat-Fusion	ANO6--SCAMP4	0	6	PLEKHA8P1,ANO6	AC012615.1,SCAMP4,ADAT3	first encounter of TP TopHat-Fusion,sim5_reads|ANO6--SCAMP4	sim5_reads|ANO6--SCAMP4
-TP	sim5_reads	TopHat-Fusion	ACSM4--C4ORF47	2	4	ACSM4	CCDC110,C4orf47	first encounter of TP TopHat-Fusion,sim5_reads|ACSM4--C4ORF47	sim5_reads|ACSM4--C4ORF47
-TP	sim5_reads	TopHat-Fusion	BMI1--FAM166A	4	2	COMMD3,BMI1,COMMD3-BMI1	TUBB4B,FAM166A	first encounter of TP TopHat-Fusion,sim5_reads|BMI1--FAM166A	sim5_reads|BMI1--FAM166A
-TP	sim5_reads	TopHat-Fusion	CHCHD4--BUB3	1	5	CHCHD4	BUB3	first encounter of TP TopHat-Fusion,sim5_reads|CHCHD4--BUB3	sim5_reads|CHCHD4--BUB3
-TP	sim5_reads	TopHat-Fusion	TMEM64--VPREB3	1	5	RP11-68L18.2,RP11-68L18.1,NECAB1,TMEM64	VPREB3	first encounter of TP TopHat-Fusion,sim5_reads|TMEM64--VPREB3	sim5_reads|TMEM64--VPREB3
-TP	sim5_reads	TopHat-Fusion	TM7SF2--C11ORF85	1	5	TM7SF2,VPS51	C11orf85	first encounter of TP TopHat-Fusion,sim5_reads|TM7SF2--C11ORF85	sim5_reads|TM7SF2--C11ORF85
-TP	sim5_reads	TopHat-Fusion	PRPF40A--FIG4	0	5	ARL6IP6,PRPF40A	FIG4	first encounter of TP TopHat-Fusion,sim5_reads|PRPF40A--FIG4	sim5_reads|PRPF40A--FIG4
-TP	sim5_reads	TopHat-Fusion	HEATR4--CRYAA	0	5	ACOT1,RP3-414A15.11,C14orf169,HEATR4,RP3-414A15.2,AC005280.1,NT5CP2	CRYAA	first encounter of TP TopHat-Fusion,sim5_reads|CRYAA--ACOT1	sim5_reads|CRYAA--ACOT1
-TP	sim5_reads	TopHat-Fusion	RAB39A--AC004702.2	0	5	RAB39A	AC004702.2,RNU6-1057P,SPECC1,CCDC144CP	first encounter of TP TopHat-Fusion,sim5_reads|RAB39A--SPECC1	sim5_reads|RAB39A--SPECC1
-TP	sim5_reads	TopHat-Fusion	DCAF6--APOC1	0	5	GCSHP5,MPC2,DCAF6,MIR1255B2	APOC1	first encounter of TP TopHat-Fusion,sim5_reads|DCAF6--APOC1	sim5_reads|DCAF6--APOC1
-TP	sim5_reads	TopHat-Fusion	KIAA0895--ZNRF1	1	4	ANLN,KIAA0895	WDR59,RP11-252E2.1,ZNRF1	first encounter of TP TopHat-Fusion,sim5_reads|KIAA0895--ZNRF1	sim5_reads|KIAA0895--ZNRF1
-TP	sim5_reads	TopHat-Fusion	CSN1S1--LYRM2	0	5	CSN1S1	LYRM2,ANKRD6	first encounter of TP TopHat-Fusion,sim5_reads|CSN1S1--LYRM2	sim5_reads|CSN1S1--LYRM2
-TP	sim5_reads	TopHat-Fusion	FNDC4--COL4A2	0	5	FNDC4	COL4A2-AS2,COL4A2,COL4A2-AS1,COL4A1	first encounter of TP TopHat-Fusion,sim5_reads|FNDC4--COL4A2	sim5_reads|FNDC4--COL4A2
-TP	sim5_reads	TopHat-Fusion	SERPINA9--SPRR1A	0	5	SERPINA9,RP11-349I1.2	SPRR1A	first encounter of TP TopHat-Fusion,sim5_reads|SERPINA9--SPRR1A	sim5_reads|SERPINA9--SPRR1A
-FP	sim5_reads	TopHat-Fusion	ZNF534--RP11-454C18.2	0	5	ZNF534	RP11-64D22.1,AADACL2,AADAC,RP11-454C18.2,RP11-64D22.2,SUCNR1,RP11-64D22.5	first encounter of FP fusion TopHat-Fusion,sim5_reads|ZNF534--RP11-454C18.2	.
-TP	sim5_reads	TopHat-Fusion	SLC6A2--WNK1	0	5	SLC6A2	RNU4ATAC16P,WNK1	first encounter of TP TopHat-Fusion,sim5_reads|SLC6A2--WNK1	sim5_reads|SLC6A2--WNK1
-TP	sim5_reads	TopHat-Fusion	CDPF1--NCK2	0	5	CDPF1	NCK2,AC009505.2	first encounter of TP TopHat-Fusion,sim5_reads|CDPF1--NCK2	sim5_reads|CDPF1--NCK2
-TP	sim5_reads	TopHat-Fusion	DDX19A--SLC13A5	0	5	DDX19B,DDX19A,RP11-529K1.2,RP11-529K1.3	SLC13A5	first encounter of TP TopHat-Fusion,sim5_reads|DDX19B--SLC13A5 (para of sim5_reads|DDX19A--SLC13A5)	sim5_reads|DDX19B--SLC13A5
-NA-TP	sim5_reads	TopHat-Fusion	DDX19B--SLC13A5	0	5	DDX19B,DDX19A,RP11-529K1.2,RP11-529K1.3	SLC13A5	already scored TopHat-Fusion,sim5_reads|DDX19B--SLC13A5 as TP	.
-TP	sim5_reads	TopHat-Fusion	UBXN7--STPG2	0	5	UBXN7-AS1,RNU6-1279P,UBXN7,AC083822.2,RN7SL738P,RN7SL434P	AC034154.1,DUTP8,RP11-681L8.1,STPG2,RPL5P12,STPG2-AS1,RP11-369I16.1	first encounter of TP TopHat-Fusion,sim5_reads|UBXN7--STPG2	sim5_reads|UBXN7--STPG2
-TP	sim5_reads	TopHat-Fusion	PCK1--PROX2	1	4	PCK1	RP11-316E14.6,YLPM1,PROX2	first encounter of TP TopHat-Fusion,sim5_reads|PCK1--PROX2	sim5_reads|PCK1--PROX2
-TP	sim5_reads	TopHat-Fusion	METTL18--RP11-864J10.4	1	4	C1orf112,METTL18	PRDM4,RP11-864J10.4	first encounter of TP TopHat-Fusion,sim5_reads|PRDM4--METTL18 (para of sim5_reads|RP11-864J10.4--METTL18)	sim5_reads|PRDM4--METTL18
-NA-TP	sim5_reads	TopHat-Fusion	NYAP2--SPATS2	0	4	NYAP2	SPATS2,RP11-161H23.10,RP11-161H23.8	already scored TopHat-Fusion,sim5_reads|NYAP2--FGFR1OP2 as TP (para of sim5_reads|NYAP2--RP11-161H23.10)	.
-NA-TP	sim5_reads	TopHat-Fusion	CEP57L1P1--ROGDI	0	4	CEP57L1P1	ROGDI	already scored TopHat-Fusion,sim5_reads|CEP57L1--ROGDI as TP (para of sim5_reads|CEP57L1P1--ROGDI)	.
-TP	sim5_reads	TopHat-Fusion	THEMIS--NTS	0	4	THEMIS	NTS	first encounter of TP TopHat-Fusion,sim5_reads|THEMIS--NTS	sim5_reads|THEMIS--NTS
-TP	sim5_reads	TopHat-Fusion	MS4A1--CACNG4	0	4	MS4A1	CACNG4,RP11-349A8.3,AC005544.1,RP11-74H8.1	first encounter of TP TopHat-Fusion,sim5_reads|MS4A1--CACNG4	sim5_reads|MS4A1--CACNG4
-TP	sim5_reads	TopHat-Fusion	EDF1--GGCT	0	4	EDF1	AC005154.7,RP4-777O23.1,AC005154.6,RP4-777O23.2,AC005154.8,GGCT	first encounter of TP TopHat-Fusion,sim5_reads|EDF1--GGCT	sim5_reads|EDF1--GGCT
-TP	sim5_reads	TopHat-Fusion	ZNF215--UBE2R2	0	4	ZNF215	RP11-133O22.6,RNU4ATAC11P,UBE2R2,RP11-176F3.7	first encounter of TP TopHat-Fusion,sim5_reads|ZNF215--UBE2R2	sim5_reads|ZNF215--UBE2R2
-TP	sim5_reads	TopHat-Fusion	SHFM1--ZBTB40	0	4	C7orf76,RP11-682N22.1,SHFM1	ZBTB40-IT1,ZBTB40	first encounter of TP TopHat-Fusion,sim5_reads|SHFM1--ZBTB40	sim5_reads|SHFM1--ZBTB40
-TP	sim5_reads	TopHat-Fusion	SENP5--FMO5	0	4	AC127904.2,SENP5	RP11-337C18.10,RP11-337C18.8,RP11-337C18.9,CHD1L,FMO5,PDIA3P,CCT8P1,RP11-337C18.7	first encounter of TP TopHat-Fusion,sim5_reads|SENP5--FMO5	sim5_reads|SENP5--FMO5
-TP	sim5_reads	TopHat-Fusion	ARID1B--DDB2	0	4	RP11-230C9.3,RP1-137K2.2,ARID1B,RP11-2J18.1,MIR4466	DDB2,RP11-17G12.2	first encounter of TP TopHat-Fusion,sim5_reads|ARID1B--DDB2	sim5_reads|ARID1B--DDB2
-TP	sim5_reads	TopHat-Fusion	RP11-438J1.1--NMNAT2	0	4	GHRL,TATDN2,GHRLOS,LINC00852,RP11-438J1.1	NMNAT2,RP11-548N1.1	first encounter of TP TopHat-Fusion,sim5_reads|TATDN2--NMNAT2 (para of sim5_reads|RP11-438J1.1--NMNAT2)	sim5_reads|TATDN2--NMNAT2
-TP	sim5_reads	TopHat-Fusion	LIN9--AC010642.1	0	4	LIN9	AC020915.1,CTD-3138B18.4,ZNF8,AC010642.1,ERVK3-1	first encounter of TP TopHat-Fusion,sim5_reads|LIN9--ZNF8 (para of sim5_reads|LIN9--AC010642.1)	sim5_reads|LIN9--ZNF8
-TP	sim5_reads	TopHat-Fusion	CDK20--BNIP3	1	3	CDK20	BNIP3	first encounter of TP TopHat-Fusion,sim5_reads|CDK20--BNIP3	sim5_reads|CDK20--BNIP3
-TP	sim5_reads	TopHat-Fusion	LRRC23--DHDH	1	3	DSTNP2,RPL13P5,ENO2,SPSB2,LRRC23	DHDH	first encounter of TP TopHat-Fusion,sim5_reads|LRRC23--DHDH	sim5_reads|LRRC23--DHDH
-TP	sim5_reads	TopHat-Fusion	TSPAN9--RP11-465L10.10	1	3	RP11-543P15.1,TSPAN9-IT1,TSPAN9	AL162458.1,SLC12A5,RP11-465L10.10,MMP9	first encounter of TP TopHat-Fusion,sim5_reads|MMP9--TSPAN9 (para of sim5_reads|RP11-465L10.10--TSPAN9)	sim5_reads|MMP9--TSPAN9
-NA-TP	sim5_reads	TopHat-Fusion	CDK20--BNIP3P1	0	3	CDK20	BNIP3P1	already scored TopHat-Fusion,sim5_reads|CDK20--BNIP3 as TP (para of sim5_reads|CDK20--BNIP3P1)	.
-TP	sim5_reads	TopHat-Fusion	CTIF--ZNF263	0	3	RP11-426J5.2,CTIF,RP11-484L8.1,MIR4743	TIGD7,ZNF263	first encounter of TP TopHat-Fusion,sim5_reads|CTIF--ZNF263	sim5_reads|CTIF--ZNF263
-TP	sim5_reads	TopHat-Fusion	UNC5C--CYP3A5	0	3	UNC5C,RP11-710C12.1	CYP3A5,AC069294.1,CYP3A7	first encounter of TP TopHat-Fusion,sim5_reads|UNC5C--CYP3A5	sim5_reads|UNC5C--CYP3A5
-TP	sim5_reads	TopHat-Fusion	FAM209B--LRP8	0	3	FAM209B	RP4-784A16.1,RP4-784A16.4,RP5-1024G6.8,LRP8,RP5-1024G6.5,RP4-784A16.3,RP4-784A16.2	first encounter of TP TopHat-Fusion,sim5_reads|FAM209B--LRP8	sim5_reads|FAM209B--LRP8
-TP	sim5_reads	TopHat-Fusion	ZFP57--MUC3A	0	3	ZFP57	RP11-395B7.2,MUC3A	first encounter of TP TopHat-Fusion,sim5_reads|ZFP57--MUC3A	sim5_reads|ZFP57--MUC3A
-TP	sim5_reads	TopHat-Fusion	BRSK1--CSNK1A1	0	3	CTD-2105E13.14,BRSK1	CSNK1A1,CTB-89H12.4,RPL29P14	first encounter of TP TopHat-Fusion,sim5_reads|BRSK1--CSNK1A1	sim5_reads|BRSK1--CSNK1A1
-TP	sim5_reads	TopHat-Fusion	LYRM1--PRG4	0	3	LYRM1,DCUN1D3,ERI2	PRG4,TPR,RNU6-1240P	first encounter of TP TopHat-Fusion,sim5_reads|LYRM1--PRG4	sim5_reads|LYRM1--PRG4
-TP	sim5_reads	TopHat-Fusion	VPS18--IGHA1	0	3	VPS18	IGH@,IGHA1	first encounter of TP TopHat-Fusion,sim5_reads|VPS18--IGHA2 (para of sim5_reads|VPS18--IGHA1)	sim5_reads|VPS18--IGHA2
-NA-TP	sim5_reads	TopHat-Fusion	VPS18--IGHA2	0	3	VPS18	IGH@,IGHA2	already scored TopHat-Fusion,sim5_reads|VPS18--IGHA2 as TP	.
-TP	sim5_reads	TopHat-Fusion	ZNF687--CDC42	0	3	PI4KB,RP11-126K1.2,ZNF687	CDC42-IT1,CDC42,RP1-224A6.8	first encounter of TP TopHat-Fusion,sim5_reads|ZNF687--CDC42	sim5_reads|ZNF687--CDC42
-TP	sim5_reads	TopHat-Fusion	BMS1--PTBP3	0	3	RNU6-885P,BMS1	RN7SL57P,RP11-165N19.4,PTBP3,RNA5SP295,RN7SL430P	first encounter of TP TopHat-Fusion,sim5_reads|BMS1--PTBP3	sim5_reads|BMS1--PTBP3
-TP	sim5_reads	TopHat-Fusion	LSR--CC2D2B	0	3	AD000684.2,AC002128.5,LSR	RP11-248J23.5,RP11-248J23.6,RP11-690P14.4,ENTPD1-AS1,CC2D2B	first encounter of TP TopHat-Fusion,sim5_reads|LSR--CC2D2B	sim5_reads|LSR--CC2D2B
-TP	sim5_reads	TopHat-Fusion	FERMT3--GRPR	0	3	FERMT3,TRPT1	RP11-431J24.2,GRPR	first encounter of TP TopHat-Fusion,sim5_reads|FERMT3--GRPR	sim5_reads|FERMT3--GRPR
-TP	sim5_reads	TopHat-Fusion	CXCL16--FCRLB	1	2	MED11,CXCL16	FCRLB	first encounter of TP TopHat-Fusion,sim5_reads|CXCL16--FCRLB	sim5_reads|CXCL16--FCRLB
-TP	sim5_reads	TopHat-Fusion	IL20--TMEM9B	2	1	IL20	TMEM9B-AS1,TMEM9B	first encounter of TP TopHat-Fusion,sim5_reads|IL20--TMEM9B	sim5_reads|IL20--TMEM9B
-TP	sim5_reads	TopHat-Fusion	PAQR5--MICAL2	1	2	RP11-253M7.6,SNORA77,PAQR5,RNA5SP398,RP11-253M7.1	RP11-265D17.2,MICAL2	first encounter of TP TopHat-Fusion,sim5_reads|PAQR5--MICAL2	sim5_reads|PAQR5--MICAL2
-TP	sim5_reads	TopHat-Fusion	AREGB--STAC2	1	2	AREGB,AC142293.3	STAC2	first encounter of TP TopHat-Fusion,sim5_reads|AREG--STAC2 (para of sim5_reads|AREGB--STAC2)	sim5_reads|AREG--STAC2
-NA-TP	sim5_reads	TopHat-Fusion	AREG--STAC2	1	2	AREGB,AREG,RP11-727M10.2,AC142293.3	STAC2	already scored TopHat-Fusion,sim5_reads|AREG--STAC2 as TP	.
-TP	sim5_reads	TopHat-Fusion	NUGGC--COLGALT2	2	1	NUGGC	COLGALT2	first encounter of TP TopHat-Fusion,sim5_reads|NUGGC--COLGALT2	sim5_reads|NUGGC--COLGALT2
-TP	sim5_reads	TopHat-Fusion	NUBP1--LACRT	2	1	TVP23A,NUBP1	LACRT	first encounter of TP TopHat-Fusion,sim5_reads|NUBP1--LACRT	sim5_reads|NUBP1--LACRT
-TP	sim5_reads	TopHat-Fusion	BPNT1--ZNF354A	1	2	BPNT1	ZNF354A	first encounter of TP TopHat-Fusion,sim5_reads|BPNT1--ZNF354A	sim5_reads|BPNT1--ZNF354A
-NA-TP	sim5_reads	TopHat-Fusion	LRP8--GCNT7	0	2	RP4-784A16.1,RP4-784A16.4,RP5-1024G6.8,LRP8,RP5-1024G6.5,RP4-784A16.3,RP4-784A16.2	FAM209A,RTFDC1,GCNT7,AL109806.1	already scored TopHat-Fusion,sim5_reads|FAM209B--LRP8 as TP (para of sim5_reads|GCNT7--LRP8)	.
-TP	sim5_reads	TopHat-Fusion	CKS2--PTGFR	0	2	MIR3153,CKS2	PTGFR,RP11-183M13.1,RNA5SP23,RP11-472F19.1	first encounter of TP TopHat-Fusion,sim5_reads|CKS2--PTGFR	sim5_reads|CKS2--PTGFR
-TP	sim5_reads	TopHat-Fusion	MZT1--NPIPP1	0	2	MZT1	LRR1,RPS29,NPIPP1,PKD1P6,PDXDC1,RP11-72I8.1,RP11-1186N24.5,AL139099.1	first encounter of TP TopHat-Fusion,sim5_reads|MZT1--NPIPA2 (para of sim5_reads|MZT1--NPIPP1)	sim5_reads|MZT1--NPIPA2
-TP	sim5_reads	TopHat-Fusion	NUDT15--DEFB108B	0	2	NUDT15,SUCLA2	DEFB108B	first encounter of TP TopHat-Fusion,sim5_reads|NUDT15--DEFB108B	sim5_reads|NUDT15--DEFB108B
-NA-TP	sim5_reads	TopHat-Fusion	ZNF687--GBA3	0	2	PI4KB,RP11-126K1.2,ZNF687	CDC42P6,GBA3	already scored TopHat-Fusion,sim5_reads|ZNF687--CDC42 as TP (para of sim5_reads|ZNF687--CDC42P6)	.
-TP	sim5_reads	TopHat-Fusion	SLC30A5--CEBPZ	0	2	SLC30A5,CTC-498J12.3	AC007390.5,NDUFAF7,CEBPZ,RP11-423P10.2	first encounter of TP TopHat-Fusion,sim5_reads|SLC30A5--CEBPZ	sim5_reads|SLC30A5--CEBPZ
-TP	sim5_reads	TopHat-Fusion	RNF17--TM4SF18	0	2	RNF17	TM4SF18,RP11-206M11.7	first encounter of TP TopHat-Fusion,sim5_reads|RNF17--TM4SF18	sim5_reads|RNF17--TM4SF18
-TP	sim5_reads	TopHat-Fusion	KPNA7--DCAF5	0	2	KPNA7	DCAF5,DDX18P1	first encounter of TP TopHat-Fusion,sim5_reads|KPNA7--DCAF5	sim5_reads|KPNA7--DCAF5
-TP	sim5_reads	TopHat-Fusion	NHP2--ZNF844	0	2	RMND5B,NHP2	RNA5SP466,ZNF844	first encounter of TP TopHat-Fusion,sim5_reads|NHP2--ZNF844	sim5_reads|NHP2--ZNF844
-TP	sim5_reads	TopHat-Fusion	CALML6--PAMR1	0	2	CALML6	PAMR1	first encounter of TP TopHat-Fusion,sim5_reads|CALML6--PAMR1	sim5_reads|CALML6--PAMR1
-TP	sim5_reads	TopHat-Fusion	RP11-401O9.4--MEF2BNB-MEF2B	0	2	RP11-401O9.4,MYH13	MEF2BNB-MEF2B,MEF2B,MEF2BNB	first encounter of TP TopHat-Fusion,sim5_reads|MEF2BNB--MYH13 (para of sim5_reads|MEF2BNB-MEF2B--MYH13)	sim5_reads|MEF2BNB--MYH13
-TP	sim5_reads	TopHat-Fusion	JMJD8--MAP3K8	0	2	STUB1,JMJD8	MAP3K8	first encounter of TP TopHat-Fusion,sim5_reads|JMJD8--MAP3K8	sim5_reads|JMJD8--MAP3K8
-FP	sim5_reads	TopHat-Fusion	TLR9--AKR1C3	0	2	TWF2,TLR9	AKR1C2,U8,RP11-499O7.4,AKR1C1,AKR1C3,RP11-499O7.7	first encounter of FP fusion TopHat-Fusion,sim5_reads|TLR9--AKR1C3	.
-TP	sim5_reads	TopHat-Fusion	MOGAT1--PIH1D3	0	2	AC016712.1,AC104772.1,MOGAT1	PIH1D3	first encounter of TP TopHat-Fusion,sim5_reads|MOGAT1--PIH1D3	sim5_reads|MOGAT1--PIH1D3
-TP	sim5_reads	TopHat-Fusion	OIP5--CCNB1IP1	0	1	OIP5,OIP5-AS1	SNORA79,CCNB1IP1,SNORD126	first encounter of TP TopHat-Fusion,sim5_reads|OIP5--CCNB1IP1	sim5_reads|OIP5--CCNB1IP1
+TP	sim5_reads	TopHat-Fusion	AC015849.2--SGCA	11	1	CCL5,AC015849.2	HILS1,RP11-893F2.14,SGCA	first encounter of TP TopHat-Fusion,sim5_reads|SGCA--CCL5	sim5_reads|SGCA--CCL5
+TP	sim5_reads	TopHat-Fusion	MPZL3--FAM3A	11	1	MPZL3	FAM3A	first encounter of TP TopHat-Fusion,sim5_reads|MPZL3--FAM3A	sim5_reads|MPZL3--FAM3A
+TP	sim5_reads	TopHat-Fusion	CWH43--MED26	11	1	TPI1P4,CWH43	CTD-3222D19.7,CALR3,RN7SL146P,CTD-3222D19.5,CTD-3222D19.10,C19orf44,CTD-3222D19.2,CTC-429P9.4,SLC35E1,CHERP,MED26,CTC-429P9.2,CTD-3222D19.11	first encounter of TP TopHat-Fusion,sim5_reads|CWH43--MED26	sim5_reads|CWH43--MED26
+TP	sim5_reads	TopHat-Fusion	DOK6--SLC7A13	9	3	RP11-465I4.2,CD226,DOK6,RP11-543H23.2,RP11-465I4.3	SLC7A13	first encounter of TP TopHat-Fusion,sim5_reads|DOK6--SLC7A13	sim5_reads|DOK6--SLC7A13
+TP	sim5_reads	TopHat-Fusion	TRAV20--AC074091.13	11	0	TRAV20	AC074091.13	first encounter of TP TopHat-Fusion,sim5_reads|TRAV20--AC074091.13	sim5_reads|TRAV20--AC074091.13
+TP	sim5_reads	TopHat-Fusion	RHOT1--RALY	11	0	RHOT1,ARGFXP2,AC090616.2,UBL5P2,AC116407.2	RALY,RP5-1125A11.4,RP1-64K7.4,RP5-1125A11.1,EIF2S2,MIR4755	first encounter of TP TopHat-Fusion,sim5_reads|RHOT1--RALY	sim5_reads|RHOT1--RALY
+TP	sim5_reads	TopHat-Fusion	PARD6G--MYO1G	11	0	PARD6G,AC139100.2,AC139100.3	MYO1G	first encounter of TP TopHat-Fusion,sim5_reads|PARD6G--MYO1G	sim5_reads|PARD6G--MYO1G
+TP	sim5_reads	TopHat-Fusion	EEF1B2--DDX23	2	9	NDUFS1,EEF1B2,SNORD51,SNORA41	DDX23	first encounter of TP TopHat-Fusion,sim5_reads|EEF1B2--DDX23	sim5_reads|EEF1B2--DDX23
+TP	sim5_reads	TopHat-Fusion	AC008060.7--LILRB2	9	2	AC008060.7	RNU6-1307P,LILRB2,AC098789.1,LILRA6,CTD-2337J16.1,AC010492.5,LILRB3,LILRB5,AC010492.4,RPS9	first encounter of TP TopHat-Fusion,sim5_reads|AC008060.7--LILRB2	sim5_reads|AC008060.7--LILRB2
+TP	sim5_reads	TopHat-Fusion	NEURL--C7ORF26	10	1	RP11-225H22.5,SH3PXD2A,RP11-416N2.3,NEURL	C7orf26	first encounter of TP TopHat-Fusion,sim5_reads|NEURL--C7ORF26	sim5_reads|NEURL--C7ORF26
+TP	sim5_reads	TopHat-Fusion	PADI3--GAL3ST4	9	0	PADI3,MIR3972	GAL3ST4	first encounter of TP TopHat-Fusion,sim5_reads|PADI3--GAL3ST4	sim5_reads|PADI3--GAL3ST4
+TP	sim5_reads	TopHat-Fusion	COL4A4--NUDT2	7	2	AC079235.1,COL4A4	NUDT2	first encounter of TP TopHat-Fusion,sim5_reads|COL4A4--NUDT2	sim5_reads|COL4A4--NUDT2
+TP	sim5_reads	TopHat-Fusion	TRAV22--RP11-474G23.1	8	0	TRAV22	RP11-474G23.2,RP11-474G23.3,WDR92,PPP3R1,AC017083.1,PNO1,RP11-474G23.1	first encounter of TP TopHat-Fusion,sim5_reads|TRAV22--PPP3R1 (para of sim5_reads|TRAV22--RP11-474G23.2)	sim5_reads|TRAV22--PPP3R1
+TP	sim5_reads	TopHat-Fusion	PXT1--RASIP1	8	0	PXT1,RP1-50J22.4,KCTD20	RASIP1	first encounter of TP TopHat-Fusion,sim5_reads|PXT1--RASIP1	sim5_reads|PXT1--RASIP1
+TP	sim5_reads	TopHat-Fusion	DAP3--KLF4	8	0	DAP3,YY1AP1,MSTO2P,MSTO1,RP11-243J18.2	KLF4	first encounter of TP TopHat-Fusion,sim5_reads|DAP3--KLF4	sim5_reads|DAP3--KLF4
+TP	sim5_reads	TopHat-Fusion	YWHAE--OPA3	8	0	YWHAE	OPA3,GPR4	first encounter of TP TopHat-Fusion,sim5_reads|YWHAE--OPA3	sim5_reads|YWHAE--OPA3
+TP	sim5_reads	TopHat-Fusion	KRT78--GAS7	7	1	KRT78	AC000003.2,AC000003.1,GAS7	first encounter of TP TopHat-Fusion,sim5_reads|KRT78--GAS7	sim5_reads|KRT78--GAS7
+TP	sim5_reads	TopHat-Fusion	TAX1BP3--GALE	7	1	P2RX5-TAX1BP3,RP11-48B14.1,TAX1BP3	GALE	first encounter of TP TopHat-Fusion,sim5_reads|TAX1BP3--GALE	sim5_reads|TAX1BP3--GALE
+TP	sim5_reads	TopHat-Fusion	C1ORF227--FAM19A5	7	1	C1orf227	MIR4535,AL954742.1,CTA-299D3.8,FAM19A5	first encounter of TP TopHat-Fusion,sim5_reads|C1ORF227--FAM19A5	sim5_reads|C1ORF227--FAM19A5
+TP	sim5_reads	TopHat-Fusion	CTU2--CTXN1	5	3	CTU2,PIEZO1	CTXN1,CTD-3193O13.8	first encounter of TP TopHat-Fusion,sim5_reads|CTU2--CTXN1	sim5_reads|CTU2--CTXN1
+TP	sim5_reads	TopHat-Fusion	SEC16B--BCAR3	7	1	RP4-798P15.3,SEC16B,RP11-568K15.1	RP11-488P3.1,BCAR3,MIR760,RP5-1033H22.2	first encounter of TP TopHat-Fusion,sim5_reads|SEC16B--BCAR3	sim5_reads|SEC16B--BCAR3
+TP	sim5_reads	TopHat-Fusion	AZGP1--ERP44	7	1	AZGP1	UPF3AP3,ERP44	first encounter of TP TopHat-Fusion,sim5_reads|AZGP1--ERP44	sim5_reads|AZGP1--ERP44
+TP	sim5_reads	TopHat-Fusion	TNNI1--BTG1	6	2	RP11-134G8.2,TNNI1	BTG1,RP11-796E2.4,C12orf79	first encounter of TP TopHat-Fusion,sim5_reads|TNNI1--BTG1	sim5_reads|TNNI1--BTG1
+TP	sim5_reads	TopHat-Fusion	ZNF165--TREML2	7	1	RP1-313I6.12,ZNF165	TREML2	first encounter of TP TopHat-Fusion,sim5_reads|ZNF165--TREML2	sim5_reads|ZNF165--TREML2
+TP	sim5_reads	TopHat-Fusion	ZKSCAN1--ARHGEF2	7	0	ZKSCAN1	ARHGEF2,RP11-336K24.12,RP11-336K24.5	first encounter of TP TopHat-Fusion,sim5_reads|ZKSCAN1--ARHGEF2	sim5_reads|ZKSCAN1--ARHGEF2
+TP	sim5_reads	TopHat-Fusion	CEP57L1--ROGDI	7	0	CEP57L1	ROGDI	first encounter of TP TopHat-Fusion,sim5_reads|CEP57L1--ROGDI	sim5_reads|CEP57L1--ROGDI
+TP	sim5_reads	TopHat-Fusion	LY6H--DEPDC4	6	1	LY6H	ACTR6,DEPDC4	first encounter of TP TopHat-Fusion,sim5_reads|LY6H--DEPDC4	sim5_reads|LY6H--DEPDC4
+TP	sim5_reads	TopHat-Fusion	QPCTL--INSL4	4	3	QPCTL,SNRPD2	INSL4	first encounter of TP TopHat-Fusion,sim5_reads|QPCTL--INSL4	sim5_reads|QPCTL--INSL4
+TP	sim5_reads	TopHat-Fusion	GALR1--SYNCRIP	3	4	GALR1	RP11-321N4.5,SNX14,SYNCRIP,RP1-3J17.3	first encounter of TP TopHat-Fusion,sim5_reads|GALR1--SYNCRIP	sim5_reads|GALR1--SYNCRIP
+TP	sim5_reads	TopHat-Fusion	MOCS1--RNASE6	6	1	DAAM2,MOCS1,RP11-61I13.3	RNASE6	first encounter of TP TopHat-Fusion,sim5_reads|MOCS1--RNASE6	sim5_reads|MOCS1--RNASE6
+TP	sim5_reads	TopHat-Fusion	SF3B14--TRDV1	5	2	SF3B14	TRDV1	first encounter of TP TopHat-Fusion,sim5_reads|SF3B14--TRDV1	sim5_reads|SF3B14--TRDV1
+TP	sim5_reads	TopHat-Fusion	KATNAL2--NRAP	6	1	TCEB3CL,TCEB3B,PIAS2,TCEB3C,TCEB3CL2,RP11-49K24.4,KATNAL2	NRAP,HABP2	first encounter of TP TopHat-Fusion,sim5_reads|KATNAL2--NRAP	sim5_reads|KATNAL2--NRAP
+TP	sim5_reads	TopHat-Fusion	FAM126A--STYX	6	1	FAM126A,AC005682.8	STYX	first encounter of TP TopHat-Fusion,sim5_reads|FAM126A--STYX	sim5_reads|FAM126A--STYX
+TP	sim5_reads	TopHat-Fusion	AKR1CL1--SLC25A48	6	0	AKR1CL1,AKR1C4,U8	SLC25A48	first encounter of TP TopHat-Fusion,sim5_reads|AKR1CL1--SLC25A48	sim5_reads|AKR1CL1--SLC25A48
+TP	sim5_reads	TopHat-Fusion	TLR9--AKR1C4	6	0	TWF2,TLR9	AKR1CL1,AKR1C4,U8,RP11-445P17.6	first encounter of TP TopHat-Fusion,sim5_reads|TWF2--AKR1C4 (para of sim5_reads|TLR9--AKR1C4)	sim5_reads|TWF2--AKR1C4
+TP	sim5_reads	TopHat-Fusion	LYRM5--OSM	6	0	KRAS,LYRM5	OSM	first encounter of TP TopHat-Fusion,sim5_reads|LYRM5--OSM	sim5_reads|LYRM5--OSM
+TP	sim5_reads	TopHat-Fusion	ANO6--SCAMP4	6	0	PLEKHA8P1,ANO6	AC012615.1,SCAMP4,ADAT3	first encounter of TP TopHat-Fusion,sim5_reads|ANO6--SCAMP4	sim5_reads|ANO6--SCAMP4
+TP	sim5_reads	TopHat-Fusion	ACSM4--C4ORF47	4	2	ACSM4	CCDC110,C4orf47	first encounter of TP TopHat-Fusion,sim5_reads|ACSM4--C4ORF47	sim5_reads|ACSM4--C4ORF47
+TP	sim5_reads	TopHat-Fusion	BMI1--FAM166A	2	4	COMMD3,BMI1,COMMD3-BMI1	TUBB4B,FAM166A	first encounter of TP TopHat-Fusion,sim5_reads|BMI1--FAM166A	sim5_reads|BMI1--FAM166A
+TP	sim5_reads	TopHat-Fusion	CHCHD4--BUB3	5	1	CHCHD4	BUB3	first encounter of TP TopHat-Fusion,sim5_reads|CHCHD4--BUB3	sim5_reads|CHCHD4--BUB3
+TP	sim5_reads	TopHat-Fusion	TMEM64--VPREB3	5	1	RP11-68L18.2,RP11-68L18.1,NECAB1,TMEM64	VPREB3	first encounter of TP TopHat-Fusion,sim5_reads|TMEM64--VPREB3	sim5_reads|TMEM64--VPREB3
+TP	sim5_reads	TopHat-Fusion	TM7SF2--C11ORF85	5	1	TM7SF2,VPS51	C11orf85	first encounter of TP TopHat-Fusion,sim5_reads|TM7SF2--C11ORF85	sim5_reads|TM7SF2--C11ORF85
+TP	sim5_reads	TopHat-Fusion	PRPF40A--FIG4	5	0	ARL6IP6,PRPF40A	FIG4	first encounter of TP TopHat-Fusion,sim5_reads|PRPF40A--FIG4	sim5_reads|PRPF40A--FIG4
+TP	sim5_reads	TopHat-Fusion	HEATR4--CRYAA	5	0	ACOT1,RP3-414A15.11,C14orf169,HEATR4,RP3-414A15.2,AC005280.1,NT5CP2	CRYAA	first encounter of TP TopHat-Fusion,sim5_reads|CRYAA--ACOT1	sim5_reads|CRYAA--ACOT1
+TP	sim5_reads	TopHat-Fusion	RAB39A--AC004702.2	5	0	RAB39A	AC004702.2,RNU6-1057P,SPECC1,CCDC144CP	first encounter of TP TopHat-Fusion,sim5_reads|RAB39A--SPECC1	sim5_reads|RAB39A--SPECC1
+TP	sim5_reads	TopHat-Fusion	DCAF6--APOC1	5	0	GCSHP5,MPC2,DCAF6,MIR1255B2	APOC1	first encounter of TP TopHat-Fusion,sim5_reads|DCAF6--APOC1	sim5_reads|DCAF6--APOC1
+TP	sim5_reads	TopHat-Fusion	KIAA0895--ZNRF1	4	1	ANLN,KIAA0895	WDR59,RP11-252E2.1,ZNRF1	first encounter of TP TopHat-Fusion,sim5_reads|KIAA0895--ZNRF1	sim5_reads|KIAA0895--ZNRF1
+TP	sim5_reads	TopHat-Fusion	CSN1S1--LYRM2	5	0	CSN1S1	LYRM2,ANKRD6	first encounter of TP TopHat-Fusion,sim5_reads|CSN1S1--LYRM2	sim5_reads|CSN1S1--LYRM2
+TP	sim5_reads	TopHat-Fusion	FNDC4--COL4A2	5	0	FNDC4	COL4A2-AS2,COL4A2,COL4A2-AS1,COL4A1	first encounter of TP TopHat-Fusion,sim5_reads|FNDC4--COL4A2	sim5_reads|FNDC4--COL4A2
+TP	sim5_reads	TopHat-Fusion	SERPINA9--SPRR1A	5	0	SERPINA9,RP11-349I1.2	SPRR1A	first encounter of TP TopHat-Fusion,sim5_reads|SERPINA9--SPRR1A	sim5_reads|SERPINA9--SPRR1A
+FP	sim5_reads	TopHat-Fusion	ZNF534--RP11-454C18.2	5	0	ZNF534	RP11-64D22.1,AADACL2,AADAC,RP11-454C18.2,RP11-64D22.2,SUCNR1,RP11-64D22.5	first encounter of FP fusion TopHat-Fusion,sim5_reads|ZNF534--RP11-454C18.2	.
+TP	sim5_reads	TopHat-Fusion	SLC6A2--WNK1	5	0	SLC6A2	RNU4ATAC16P,WNK1	first encounter of TP TopHat-Fusion,sim5_reads|SLC6A2--WNK1	sim5_reads|SLC6A2--WNK1
+TP	sim5_reads	TopHat-Fusion	CDPF1--NCK2	5	0	CDPF1	NCK2,AC009505.2	first encounter of TP TopHat-Fusion,sim5_reads|CDPF1--NCK2	sim5_reads|CDPF1--NCK2
+TP	sim5_reads	TopHat-Fusion	DDX19A--SLC13A5	5	0	DDX19B,DDX19A,RP11-529K1.2,RP11-529K1.3	SLC13A5	first encounter of TP TopHat-Fusion,sim5_reads|DDX19B--SLC13A5 (para of sim5_reads|DDX19A--SLC13A5)	sim5_reads|DDX19B--SLC13A5
+NA-TP	sim5_reads	TopHat-Fusion	DDX19B--SLC13A5	5	0	DDX19B,DDX19A,RP11-529K1.2,RP11-529K1.3	SLC13A5	already scored TopHat-Fusion,sim5_reads|DDX19B--SLC13A5 as TP	.
+TP	sim5_reads	TopHat-Fusion	UBXN7--STPG2	5	0	UBXN7-AS1,RNU6-1279P,UBXN7,AC083822.2,RN7SL738P,RN7SL434P	AC034154.1,DUTP8,RP11-681L8.1,STPG2,RPL5P12,STPG2-AS1,RP11-369I16.1	first encounter of TP TopHat-Fusion,sim5_reads|UBXN7--STPG2	sim5_reads|UBXN7--STPG2
+TP	sim5_reads	TopHat-Fusion	PCK1--PROX2	4	1	PCK1	RP11-316E14.6,YLPM1,PROX2	first encounter of TP TopHat-Fusion,sim5_reads|PCK1--PROX2	sim5_reads|PCK1--PROX2
+TP	sim5_reads	TopHat-Fusion	METTL18--RP11-864J10.4	4	1	C1orf112,METTL18	PRDM4,RP11-864J10.4	first encounter of TP TopHat-Fusion,sim5_reads|PRDM4--METTL18 (para of sim5_reads|RP11-864J10.4--METTL18)	sim5_reads|PRDM4--METTL18
+NA-TP	sim5_reads	TopHat-Fusion	NYAP2--SPATS2	4	0	NYAP2	SPATS2,RP11-161H23.10,RP11-161H23.8	already scored TopHat-Fusion,sim5_reads|NYAP2--FGFR1OP2 as TP (para of sim5_reads|NYAP2--RP11-161H23.10)	.
+NA-TP	sim5_reads	TopHat-Fusion	CEP57L1P1--ROGDI	4	0	CEP57L1P1	ROGDI	already scored TopHat-Fusion,sim5_reads|CEP57L1--ROGDI as TP (para of sim5_reads|CEP57L1P1--ROGDI)	.
+TP	sim5_reads	TopHat-Fusion	THEMIS--NTS	4	0	THEMIS	NTS	first encounter of TP TopHat-Fusion,sim5_reads|THEMIS--NTS	sim5_reads|THEMIS--NTS
+TP	sim5_reads	TopHat-Fusion	MS4A1--CACNG4	4	0	MS4A1	CACNG4,RP11-349A8.3,AC005544.1,RP11-74H8.1	first encounter of TP TopHat-Fusion,sim5_reads|MS4A1--CACNG4	sim5_reads|MS4A1--CACNG4
+TP	sim5_reads	TopHat-Fusion	EDF1--GGCT	4	0	EDF1	AC005154.7,RP4-777O23.1,AC005154.6,RP4-777O23.2,AC005154.8,GGCT	first encounter of TP TopHat-Fusion,sim5_reads|EDF1--GGCT	sim5_reads|EDF1--GGCT
+TP	sim5_reads	TopHat-Fusion	ZNF215--UBE2R2	4	0	ZNF215	RP11-133O22.6,RNU4ATAC11P,UBE2R2,RP11-176F3.7	first encounter of TP TopHat-Fusion,sim5_reads|ZNF215--UBE2R2	sim5_reads|ZNF215--UBE2R2
+TP	sim5_reads	TopHat-Fusion	SHFM1--ZBTB40	4	0	C7orf76,RP11-682N22.1,SHFM1	ZBTB40-IT1,ZBTB40	first encounter of TP TopHat-Fusion,sim5_reads|SHFM1--ZBTB40	sim5_reads|SHFM1--ZBTB40
+TP	sim5_reads	TopHat-Fusion	SENP5--FMO5	4	0	AC127904.2,SENP5	RP11-337C18.10,RP11-337C18.8,RP11-337C18.9,CHD1L,FMO5,PDIA3P,CCT8P1,RP11-337C18.7	first encounter of TP TopHat-Fusion,sim5_reads|SENP5--FMO5	sim5_reads|SENP5--FMO5
+TP	sim5_reads	TopHat-Fusion	ARID1B--DDB2	4	0	RP11-230C9.3,RP1-137K2.2,ARID1B,RP11-2J18.1,MIR4466	DDB2,RP11-17G12.2	first encounter of TP TopHat-Fusion,sim5_reads|ARID1B--DDB2	sim5_reads|ARID1B--DDB2
+TP	sim5_reads	TopHat-Fusion	RP11-438J1.1--NMNAT2	4	0	GHRL,TATDN2,GHRLOS,LINC00852,RP11-438J1.1	NMNAT2,RP11-548N1.1	first encounter of TP TopHat-Fusion,sim5_reads|TATDN2--NMNAT2 (para of sim5_reads|RP11-438J1.1--NMNAT2)	sim5_reads|TATDN2--NMNAT2
+TP	sim5_reads	TopHat-Fusion	LIN9--AC010642.1	4	0	LIN9	AC020915.1,CTD-3138B18.4,ZNF8,AC010642.1,ERVK3-1	first encounter of TP TopHat-Fusion,sim5_reads|LIN9--ZNF8 (para of sim5_reads|LIN9--AC010642.1)	sim5_reads|LIN9--ZNF8
+TP	sim5_reads	TopHat-Fusion	CDK20--BNIP3	3	1	CDK20	BNIP3	first encounter of TP TopHat-Fusion,sim5_reads|CDK20--BNIP3	sim5_reads|CDK20--BNIP3
+TP	sim5_reads	TopHat-Fusion	LRRC23--DHDH	3	1	DSTNP2,RPL13P5,ENO2,SPSB2,LRRC23	DHDH	first encounter of TP TopHat-Fusion,sim5_reads|LRRC23--DHDH	sim5_reads|LRRC23--DHDH
+TP	sim5_reads	TopHat-Fusion	TSPAN9--RP11-465L10.10	3	1	RP11-543P15.1,TSPAN9-IT1,TSPAN9	AL162458.1,SLC12A5,RP11-465L10.10,MMP9	first encounter of TP TopHat-Fusion,sim5_reads|MMP9--TSPAN9 (para of sim5_reads|RP11-465L10.10--TSPAN9)	sim5_reads|MMP9--TSPAN9
+NA-TP	sim5_reads	TopHat-Fusion	CDK20--BNIP3P1	3	0	CDK20	BNIP3P1	already scored TopHat-Fusion,sim5_reads|CDK20--BNIP3 as TP (para of sim5_reads|CDK20--BNIP3P1)	.
+TP	sim5_reads	TopHat-Fusion	CTIF--ZNF263	3	0	RP11-426J5.2,CTIF,RP11-484L8.1,MIR4743	TIGD7,ZNF263	first encounter of TP TopHat-Fusion,sim5_reads|CTIF--ZNF263	sim5_reads|CTIF--ZNF263
+TP	sim5_reads	TopHat-Fusion	UNC5C--CYP3A5	3	0	UNC5C,RP11-710C12.1	CYP3A5,AC069294.1,CYP3A7	first encounter of TP TopHat-Fusion,sim5_reads|UNC5C--CYP3A5	sim5_reads|UNC5C--CYP3A5
+TP	sim5_reads	TopHat-Fusion	FAM209B--LRP8	3	0	FAM209B	RP4-784A16.1,RP4-784A16.4,RP5-1024G6.8,LRP8,RP5-1024G6.5,RP4-784A16.3,RP4-784A16.2	first encounter of TP TopHat-Fusion,sim5_reads|FAM209B--LRP8	sim5_reads|FAM209B--LRP8
+TP	sim5_reads	TopHat-Fusion	ZFP57--MUC3A	3	0	ZFP57	RP11-395B7.2,MUC3A	first encounter of TP TopHat-Fusion,sim5_reads|ZFP57--MUC3A	sim5_reads|ZFP57--MUC3A
+TP	sim5_reads	TopHat-Fusion	BRSK1--CSNK1A1	3	0	CTD-2105E13.14,BRSK1	CSNK1A1,CTB-89H12.4,RPL29P14	first encounter of TP TopHat-Fusion,sim5_reads|BRSK1--CSNK1A1	sim5_reads|BRSK1--CSNK1A1
+TP	sim5_reads	TopHat-Fusion	LYRM1--PRG4	3	0	LYRM1,DCUN1D3,ERI2	PRG4,TPR,RNU6-1240P	first encounter of TP TopHat-Fusion,sim5_reads|LYRM1--PRG4	sim5_reads|LYRM1--PRG4
+TP	sim5_reads	TopHat-Fusion	VPS18--IGHA1	3	0	VPS18	IGH@,IGHA1	first encounter of TP TopHat-Fusion,sim5_reads|VPS18--IGHA2 (para of sim5_reads|VPS18--IGHA1)	sim5_reads|VPS18--IGHA2
+NA-TP	sim5_reads	TopHat-Fusion	VPS18--IGHA2	3	0	VPS18	IGH@,IGHA2	already scored TopHat-Fusion,sim5_reads|VPS18--IGHA2 as TP	.
+TP	sim5_reads	TopHat-Fusion	ZNF687--CDC42	3	0	PI4KB,RP11-126K1.2,ZNF687	CDC42-IT1,CDC42,RP1-224A6.8	first encounter of TP TopHat-Fusion,sim5_reads|ZNF687--CDC42	sim5_reads|ZNF687--CDC42
+TP	sim5_reads	TopHat-Fusion	BMS1--PTBP3	3	0	RNU6-885P,BMS1	RN7SL57P,RP11-165N19.4,PTBP3,RNA5SP295,RN7SL430P	first encounter of TP TopHat-Fusion,sim5_reads|BMS1--PTBP3	sim5_reads|BMS1--PTBP3
+TP	sim5_reads	TopHat-Fusion	LSR--CC2D2B	3	0	AD000684.2,AC002128.5,LSR	RP11-248J23.5,RP11-248J23.6,RP11-690P14.4,ENTPD1-AS1,CC2D2B	first encounter of TP TopHat-Fusion,sim5_reads|LSR--CC2D2B	sim5_reads|LSR--CC2D2B
+TP	sim5_reads	TopHat-Fusion	FERMT3--GRPR	3	0	FERMT3,TRPT1	RP11-431J24.2,GRPR	first encounter of TP TopHat-Fusion,sim5_reads|FERMT3--GRPR	sim5_reads|FERMT3--GRPR
+TP	sim5_reads	TopHat-Fusion	CXCL16--FCRLB	2	1	MED11,CXCL16	FCRLB	first encounter of TP TopHat-Fusion,sim5_reads|CXCL16--FCRLB	sim5_reads|CXCL16--FCRLB
+TP	sim5_reads	TopHat-Fusion	IL20--TMEM9B	1	2	IL20	TMEM9B-AS1,TMEM9B	first encounter of TP TopHat-Fusion,sim5_reads|IL20--TMEM9B	sim5_reads|IL20--TMEM9B
+TP	sim5_reads	TopHat-Fusion	PAQR5--MICAL2	2	1	RP11-253M7.6,SNORA77,PAQR5,RNA5SP398,RP11-253M7.1	RP11-265D17.2,MICAL2	first encounter of TP TopHat-Fusion,sim5_reads|PAQR5--MICAL2	sim5_reads|PAQR5--MICAL2
+TP	sim5_reads	TopHat-Fusion	AREGB--STAC2	2	1	AREGB,AC142293.3	STAC2	first encounter of TP TopHat-Fusion,sim5_reads|AREG--STAC2 (para of sim5_reads|AREGB--STAC2)	sim5_reads|AREG--STAC2
+NA-TP	sim5_reads	TopHat-Fusion	AREG--STAC2	2	1	AREGB,AREG,RP11-727M10.2,AC142293.3	STAC2	already scored TopHat-Fusion,sim5_reads|AREG--STAC2 as TP	.
+TP	sim5_reads	TopHat-Fusion	NUGGC--COLGALT2	1	2	NUGGC	COLGALT2	first encounter of TP TopHat-Fusion,sim5_reads|NUGGC--COLGALT2	sim5_reads|NUGGC--COLGALT2
+TP	sim5_reads	TopHat-Fusion	NUBP1--LACRT	1	2	TVP23A,NUBP1	LACRT	first encounter of TP TopHat-Fusion,sim5_reads|NUBP1--LACRT	sim5_reads|NUBP1--LACRT
+TP	sim5_reads	TopHat-Fusion	BPNT1--ZNF354A	2	1	BPNT1	ZNF354A	first encounter of TP TopHat-Fusion,sim5_reads|BPNT1--ZNF354A	sim5_reads|BPNT1--ZNF354A
+NA-TP	sim5_reads	TopHat-Fusion	LRP8--GCNT7	2	0	RP4-784A16.1,RP4-784A16.4,RP5-1024G6.8,LRP8,RP5-1024G6.5,RP4-784A16.3,RP4-784A16.2	FAM209A,RTFDC1,GCNT7,AL109806.1	already scored TopHat-Fusion,sim5_reads|FAM209B--LRP8 as TP (para of sim5_reads|GCNT7--LRP8)	.
+TP	sim5_reads	TopHat-Fusion	CKS2--PTGFR	2	0	MIR3153,CKS2	PTGFR,RP11-183M13.1,RNA5SP23,RP11-472F19.1	first encounter of TP TopHat-Fusion,sim5_reads|CKS2--PTGFR	sim5_reads|CKS2--PTGFR
+TP	sim5_reads	TopHat-Fusion	MZT1--NPIPP1	2	0	MZT1	LRR1,RPS29,NPIPP1,PKD1P6,PDXDC1,RP11-72I8.1,RP11-1186N24.5,AL139099.1	first encounter of TP TopHat-Fusion,sim5_reads|MZT1--NPIPA2 (para of sim5_reads|MZT1--NPIPP1)	sim5_reads|MZT1--NPIPA2
+TP	sim5_reads	TopHat-Fusion	NUDT15--DEFB108B	2	0	NUDT15,SUCLA2	DEFB108B	first encounter of TP TopHat-Fusion,sim5_reads|NUDT15--DEFB108B	sim5_reads|NUDT15--DEFB108B
+NA-TP	sim5_reads	TopHat-Fusion	ZNF687--GBA3	2	0	PI4KB,RP11-126K1.2,ZNF687	CDC42P6,GBA3	already scored TopHat-Fusion,sim5_reads|ZNF687--CDC42 as TP (para of sim5_reads|ZNF687--CDC42P6)	.
+TP	sim5_reads	TopHat-Fusion	SLC30A5--CEBPZ	2	0	SLC30A5,CTC-498J12.3	AC007390.5,NDUFAF7,CEBPZ,RP11-423P10.2	first encounter of TP TopHat-Fusion,sim5_reads|SLC30A5--CEBPZ	sim5_reads|SLC30A5--CEBPZ
+TP	sim5_reads	TopHat-Fusion	RNF17--TM4SF18	2	0	RNF17	TM4SF18,RP11-206M11.7	first encounter of TP TopHat-Fusion,sim5_reads|RNF17--TM4SF18	sim5_reads|RNF17--TM4SF18
+TP	sim5_reads	TopHat-Fusion	KPNA7--DCAF5	2	0	KPNA7	DCAF5,DDX18P1	first encounter of TP TopHat-Fusion,sim5_reads|KPNA7--DCAF5	sim5_reads|KPNA7--DCAF5
+TP	sim5_reads	TopHat-Fusion	NHP2--ZNF844	2	0	RMND5B,NHP2	RNA5SP466,ZNF844	first encounter of TP TopHat-Fusion,sim5_reads|NHP2--ZNF844	sim5_reads|NHP2--ZNF844
+TP	sim5_reads	TopHat-Fusion	CALML6--PAMR1	2	0	CALML6	PAMR1	first encounter of TP TopHat-Fusion,sim5_reads|CALML6--PAMR1	sim5_reads|CALML6--PAMR1
+TP	sim5_reads	TopHat-Fusion	RP11-401O9.4--MEF2BNB-MEF2B	2	0	RP11-401O9.4,MYH13	MEF2BNB-MEF2B,MEF2B,MEF2BNB	first encounter of TP TopHat-Fusion,sim5_reads|MEF2BNB--MYH13 (para of sim5_reads|MEF2BNB-MEF2B--MYH13)	sim5_reads|MEF2BNB--MYH13
+TP	sim5_reads	TopHat-Fusion	JMJD8--MAP3K8	2	0	STUB1,JMJD8	MAP3K8	first encounter of TP TopHat-Fusion,sim5_reads|JMJD8--MAP3K8	sim5_reads|JMJD8--MAP3K8
+FP	sim5_reads	TopHat-Fusion	TLR9--AKR1C3	2	0	TWF2,TLR9	AKR1C2,U8,RP11-499O7.4,AKR1C1,AKR1C3,RP11-499O7.7	first encounter of FP fusion TopHat-Fusion,sim5_reads|TLR9--AKR1C3	.
+TP	sim5_reads	TopHat-Fusion	MOGAT1--PIH1D3	2	0	AC016712.1,AC104772.1,MOGAT1	PIH1D3	first encounter of TP TopHat-Fusion,sim5_reads|MOGAT1--PIH1D3	sim5_reads|MOGAT1--PIH1D3
+TP	sim5_reads	TopHat-Fusion	OIP5--CCNB1IP1	1	0	OIP5,OIP5-AS1	SNORA79,CCNB1IP1,SNORD126	first encounter of TP TopHat-Fusion,sim5_reads|OIP5--CCNB1IP1	sim5_reads|OIP5--CCNB1IP1
 TP	sim5_reads	FusionCatcher	DNAJC25--TMEM74B	132	968	GNG10,DNAJC25,DNAJC25-GNG10	TMEM74B	first encounter of TP FusionCatcher,sim5_reads|DNAJC25--TMEM74B	sim5_reads|DNAJC25--TMEM74B
 TP	sim5_reads	FusionCatcher	PLCB2--ANKRD61	116	905	PLCB2,ANKRD63,PLCB2-AS1	ANKRD61,EIF2AK1	first encounter of TP FusionCatcher,sim5_reads|PLCB2--ANKRD61	sim5_reads|PLCB2--ANKRD61
 TP	sim5_reads	FusionCatcher	ALDH9A1--NANOGNB	122	866	RP11-466F5.4,RP11-466F5.3,RP11-466F5.6,ALDH9A1	NANOGNB	first encounter of TP FusionCatcher,sim5_reads|ALDH9A1--NANOGNB	sim5_reads|ALDH9A1--NANOGNB

@@ -1,0 +1,15 @@
+prog	before_TP	before_FP	after_TP	after_FP
+STAR-Fusion	STAR-Fusion	1934	51	1976	2
+nFuse	nFuse	1968	186	1992	76
+ChimPipe	ChimPipe	1837	59	1857	6
+SOAP-fuse	SOAP-fuse	1894	189	1896	22
+deFuse	deFuse	1813	111	1852	22
+InFusion	InFusion	1852	176	1875	58
+PRADA	PRADA	1701	7	1702	5
+MapSplice	MapSplice	1590	24	1613	4
+ChimeraScan	ChimeraScan	1800	381	1803	202
+TopHat-Fusion	TopHat-Fusion	1669	210	1682	70
+FusionCatcher	FusionCatcher	1542	28	1565	12
+FusionHunter	FusionHunter	1468	15	1470	11
+EricScript	EricScript	1444	41	1467	20
+JAFFA-Assembly	JAFFA-Assembly	1267	52	1291	9

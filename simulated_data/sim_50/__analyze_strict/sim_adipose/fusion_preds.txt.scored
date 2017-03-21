@@ -2582,410 +2582,410 @@ TP	sim_adipose	STAR-Fusion	DDHD1--PIGB	1	2	DDHD1,RP11-368P15.3,AL356020.1	CCPG1,
 TP	sim_adipose	STAR-Fusion	CNTNAP2--MAT2A	1	2	U3,CNTNAP2	GGCX,MAT2A	first encounter of TP STAR-Fusion,sim_adipose|CNTNAP2--MAT2A	sim_adipose|CNTNAP2--MAT2A
 TP	sim_adipose	STAR-Fusion	TUBB1--SMURF1	1	1	TUBB1,ATP5E	AC004893.11,SMURF1	first encounter of TP STAR-Fusion,sim_adipose|TUBB1--SMURF1	sim_adipose|TUBB1--SMURF1
 TP	sim_adipose	STAR-Fusion	ARV1--EGR4	1	1	ARV1,AL844165.1	EGR4	first encounter of TP STAR-Fusion,sim_adipose|ARV1--EGR4	sim_adipose|ARV1--EGR4
-TP	sim_adipose	TopHat-Fusion	WFDC5--MLF1	15042	4437	WFDC5	MLF1	first encounter of TP TopHat-Fusion,sim_adipose|WFDC5--MLF1	sim_adipose|WFDC5--MLF1
-TP	sim_adipose	TopHat-Fusion	CWC22--CAPS	14700	4536	CWC22	AC104532.2,CAPS,RANBP3,AC104532.4	first encounter of TP TopHat-Fusion,sim_adipose|CWC22--CAPS	sim_adipose|CWC22--CAPS
-TP	sim_adipose	TopHat-Fusion	LRIT1--KIAA1377	14413	3927	LRIT1	KIAA1377,ANGPTL5	first encounter of TP TopHat-Fusion,sim_adipose|LRIT1--KIAA1377	sim_adipose|LRIT1--KIAA1377
-FP	sim_adipose	TopHat-Fusion	MACROD1--PROP1	13728	4218	MACROD1,RP11-21A7A.2,OTUB1,RP11-21A7A.3,FLRT1,RP11-21A7A.4	PROP1	first encounter of FP fusion TopHat-Fusion,sim_adipose|MACROD1--PROP1	.
-TP	sim_adipose	TopHat-Fusion	TPM2--RAPH1	13072	3893	TPM2	RAPH1,ABI2	first encounter of TP TopHat-Fusion,sim_adipose|TPM2--RAPH1	sim_adipose|TPM2--RAPH1
-TP	sim_adipose	TopHat-Fusion	CTSK--AP3M1	12955	3926	UBE2D3P3,CTSK	RP11-178G16.5,AP3M1,RP11-178G16.4	first encounter of TP TopHat-Fusion,sim_adipose|CTSK--AP3M1	sim_adipose|CTSK--AP3M1
-TP	sim_adipose	TopHat-Fusion	NLN--TSFM	12605	3910	SGTB,CTD-2353N24.1,NLN	RP11-571M6.15,RP11-571M6.17,RNU6-1083P,AC025165.1,TSFM,AVIL,METTL21B	first encounter of TP TopHat-Fusion,sim_adipose|NLN--TSFM	sim_adipose|NLN--TSFM
-TP	sim_adipose	TopHat-Fusion	PPT1--PHF5A	13201	2687	PPT1	PHF5A	first encounter of TP TopHat-Fusion,sim_adipose|PPT1--PHF5A	sim_adipose|PPT1--PHF5A
-TP	sim_adipose	TopHat-Fusion	SOX18--VAPA	12109	3740	SOX18,ZNF512B	RNA5SP450,VAPA	first encounter of TP TopHat-Fusion,sim_adipose|SOX18--VAPA	sim_adipose|SOX18--VAPA
-TP	sim_adipose	TopHat-Fusion	BCO2--NT5C1A	12904	2711	AP002884.3,BCO2,MRPS36P4,SDHD,RP11-356J5.5,RPS12P21	NT5C1A	first encounter of TP TopHat-Fusion,sim_adipose|BCO2--NT5C1A	sim_adipose|BCO2--NT5C1A
-TP	sim_adipose	TopHat-Fusion	SEC1P--SH3RF1	11257	3687	NTN5,CA11,SEC1P	RP11-327O17.2,SH3RF1,RPL6P12	first encounter of TP TopHat-Fusion,sim_adipose|NTN5--SH3RF1	sim_adipose|NTN5--SH3RF1
-TP	sim_adipose	TopHat-Fusion	ATP6V0E1--ZSCAN1	12209	2233	ATP6V0E1,SNORA74B,CTC-308K20.4	LETM1P2,HNRNPDLP4,ZSCAN1	first encounter of TP TopHat-Fusion,sim_adipose|ATP6V0E1--ZSCAN1	sim_adipose|ATP6V0E1--ZSCAN1
-TP	sim_adipose	TopHat-Fusion	IL9R--SGPP1	11763	2471	IL9R,WASH6P,AJ271736.10,WASIR1	SGPP1	first encounter of TP TopHat-Fusion,sim_adipose|IL9R--SGPP1	sim_adipose|IL9R--SGPP1
-TP	sim_adipose	TopHat-Fusion	ZNF248--BAZ2A	10699	3252	RP11-162G10.5,AL135791.1,ZNF33BP1,RP11-258F22.2,RP11-162G10.1,ZNF248,RP11-258F22.1	BAZ2A	first encounter of TP TopHat-Fusion,sim_adipose|ZNF248--BAZ2A	sim_adipose|ZNF248--BAZ2A
-TP	sim_adipose	TopHat-Fusion	KDM5C--FAM45A	10969	2958	KDM5C-IT1,KDM5C	FAM45B,RP1-274L7.1,FAM45A	first encounter of TP TopHat-Fusion,sim_adipose|KDM5C--FAM45A	sim_adipose|KDM5C--FAM45A
-TP	sim_adipose	TopHat-Fusion	RBL1--RPF1	11934	1940	RPS27AP3,RBL1,RPS3AP3	RPF1,GNG5	first encounter of TP TopHat-Fusion,sim_adipose|RBL1--RPF1	sim_adipose|RBL1--RPF1
-TP	sim_adipose	TopHat-Fusion	HTR6--ARHGEF33	9155	2727	HTR6	ARHGEF33,RN7SL96P,MORN2,AC019171.1	first encounter of TP TopHat-Fusion,sim_adipose|HTR6--ARHGEF33	sim_adipose|HTR6--ARHGEF33
-TP	sim_adipose	TopHat-Fusion	PID1--DAP	7768	3652	RN7SKP283,AC007677.2,PID1	DAP,CTD-2154B17.4	first encounter of TP TopHat-Fusion,sim_adipose|PID1--DAP	sim_adipose|PID1--DAP
-TP	sim_adipose	TopHat-Fusion	MPZL2--EPPIN-WFDC6	9224	2187	MPZL2	RP3-461P17.6,WFDC6,EPPIN,HSPD1P21,EPPIN-WFDC6	first encounter of TP TopHat-Fusion,sim_adipose|MPZL2--EPPIN	sim_adipose|MPZL2--EPPIN
-TP	sim_adipose	TopHat-Fusion	FGF6--KMT2E	8493	2704	FGF6	CTB-152G17.6,KMT2E,KMT2E-AS1,SRPK2	first encounter of TP TopHat-Fusion,sim_adipose|FGF6--KMT2E	sim_adipose|FGF6--KMT2E
-TP	sim_adipose	TopHat-Fusion	ELOVL7--AKAP8L	7133	3729	ELOVL7	AKAP8L,AC005785.2	first encounter of TP TopHat-Fusion,sim_adipose|ELOVL7--AKAP8L	sim_adipose|ELOVL7--AKAP8L
-TP	sim_adipose	TopHat-Fusion	CASD1--LRIG3	8304	2510	CASD1	LRIG3	first encounter of TP TopHat-Fusion,sim_adipose|CASD1--LRIG3	sim_adipose|CASD1--LRIG3
-TP	sim_adipose	TopHat-Fusion	WDR88--NR1D2	8069	2534	WDR88	NKIRAS1,NR1D2	first encounter of TP TopHat-Fusion,sim_adipose|WDR88--NR1D2	sim_adipose|WDR88--NR1D2
-TP	sim_adipose	TopHat-Fusion	NDFIP2--RP11-196G18.21	7898	2683	NDFIP2-AS1,NDFIP2	FCGR1A,RP11-196G18.21,RP11-196G18.3,HIST2H2BF	first encounter of TP TopHat-Fusion,sim_adipose|NDFIP2--HIST2H2BF	sim_adipose|NDFIP2--HIST2H2BF
-TP	sim_adipose	TopHat-Fusion	SFMBT1--TMEM174	7742	2489	SFMBT1,RP11-894J14.5	TMEM174	first encounter of TP TopHat-Fusion,sim_adipose|SFMBT1--TMEM174	sim_adipose|SFMBT1--TMEM174
-FP	sim_adipose	TopHat-Fusion	RP11-474G23.1--LARP1B	8874	1288	RP11-474G23.3,RP11-474G23.1,WDR92,PPP3R1,PNO1,AC017083.1,RP11-474G23.2	FOSL1P1,LARP1B,RP11-214O14.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|RP11-474G23.1--LARP1B	.
-TP	sim_adipose	TopHat-Fusion	TRGV3--POLA1	9121	767	TRGV3,TRGV5	POLA1,AC004655.1,EEF1B2P3,SCARNA23	first encounter of TP TopHat-Fusion,sim_adipose|TRGV3--POLA1	sim_adipose|TRGV3--POLA1
-FP	sim_adipose	TopHat-Fusion	TRGV5--POLA1	9121	767	TRGV5,TRGV5P	POLA1,AC004655.1,EEF1B2P3,SCARNA23	first encounter of FP fusion TopHat-Fusion,sim_adipose|TRGV5--POLA1	.
-TP	sim_adipose	TopHat-Fusion	EHD3--TLCD1	7578	2291	EHD3	NEK8,TLCD1,RPL23A,AC010761.14	first encounter of TP TopHat-Fusion,sim_adipose|EHD3--TLCD1	sim_adipose|EHD3--TLCD1
-FP	sim_adipose	TopHat-Fusion	KDM5C--RP1-274L7.1	6880	2958	KDM5C-IT1,KDM5C	FAM45B,RP1-274L7.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|KDM5C--RP1-274L7.1	.
-TP	sim_adipose	TopHat-Fusion	KISS1--HP1BP3	7347	1952	KISS1	HP1BP3,RP5-930J4.4	first encounter of TP TopHat-Fusion,sim_adipose|KISS1--HP1BP3	sim_adipose|KISS1--HP1BP3
-TP	sim_adipose	TopHat-Fusion	ATP6V0E2--PAM	6929	2133	ATP6V0E2-AS1,ATP6V0E2	PAM	first encounter of TP TopHat-Fusion,sim_adipose|ATP6V0E2--PAM	sim_adipose|ATP6V0E2--PAM
-TP	sim_adipose	TopHat-Fusion	TSGA13--HMGCL	6384	1916	TSGA13,COPG2	HMGCL	first encounter of TP TopHat-Fusion,sim_adipose|TSGA13--HMGCL	sim_adipose|TSGA13--HMGCL
-TP	sim_adipose	TopHat-Fusion	OBP2A--REPS2	5651	2438	OBP2A	REPS2,CBX1P2,SNORA16	first encounter of TP TopHat-Fusion,sim_adipose|OBP2A--REPS2	sim_adipose|OBP2A--REPS2
-TP	sim_adipose	TopHat-Fusion	S100A6--GNPAT	5962	1910	BX470102.3,S100A6	GNPAT,C1orf131	first encounter of TP TopHat-Fusion,sim_adipose|S100A6--GNPAT	sim_adipose|S100A6--GNPAT
-TP	sim_adipose	TopHat-Fusion	XRCC1--MORC2-AS1	5572	1611	XRCC1,L34079.3,L34079.2,PINLYP,L34079.4	MORC2-AS1,MORC2	first encounter of TP TopHat-Fusion,sim_adipose|XRCC1--MORC2	sim_adipose|XRCC1--MORC2
-TP	sim_adipose	TopHat-Fusion	FAM160A2--GGT7	5406	1667	FAM160A2	GGT7,ACSS2	first encounter of TP TopHat-Fusion,sim_adipose|FAM160A2--GGT7	sim_adipose|FAM160A2--GGT7
-TP	sim_adipose	TopHat-Fusion	GTF3C1--TMEM79	5428	1639	GTF3C1	C1orf85,TMEM79	first encounter of TP TopHat-Fusion,sim_adipose|GTF3C1--TMEM79	sim_adipose|GTF3C1--TMEM79
-TP	sim_adipose	TopHat-Fusion	LRRIQ3--ZBTB16	5350	1688	LRRIQ3	AP000908.1,RP11-64D24.2,ZBTB16	first encounter of TP TopHat-Fusion,sim_adipose|LRRIQ3--ZBTB16	sim_adipose|LRRIQ3--ZBTB16
-TP	sim_adipose	TopHat-Fusion	METTL2B--RASAL1	5334	1366	HILPDA,RP11-212P7.3,RP11-155G14.6,METTL2B,RP11-155G14.5	RASAL1	first encounter of TP TopHat-Fusion,sim_adipose|METTL2B--RASAL1	sim_adipose|METTL2B--RASAL1
-TP	sim_adipose	TopHat-Fusion	C4ORF27--PPP1R3C	6436	209	C4orf27	PPP1R3C	first encounter of TP TopHat-Fusion,sim_adipose|C4ORF27--PPP1R3C	sim_adipose|C4ORF27--PPP1R3C
-TP	sim_adipose	TopHat-Fusion	BMPR2--GAL3ST2	4904	1509	BMPR2,RP11-27M5.1,AC073410.1	GAL3ST2,AC114730.5	first encounter of TP TopHat-Fusion,sim_adipose|BMPR2--GAL3ST2	sim_adipose|BMPR2--GAL3ST2
-TP	sim_adipose	TopHat-Fusion	DKK1--C1ORF220	4791	1416	DKK1	C1ORF220,C1orf220,TEX35	first encounter of TP TopHat-Fusion,sim_adipose|DKK1--C1ORF220	sim_adipose|DKK1--C1ORF220
-TP	sim_adipose	TopHat-Fusion	OTC--MDFI	5080	1049	TM4SF2,OTC,TDGF1P1	MDFI	first encounter of TP TopHat-Fusion,sim_adipose|OTC--MDFI	sim_adipose|OTC--MDFI
-TP	sim_adipose	TopHat-Fusion	KRT1--CLDN2	4605	1463	KRT1	RIPPLY1,CLDN2,MORC4	first encounter of TP TopHat-Fusion,sim_adipose|KRT1--CLDN2	sim_adipose|KRT1--CLDN2
-FP	sim_adipose	TopHat-Fusion	METTL2A--RASAL1	4696	1366	METTL2A	RASAL1	first encounter of FP fusion TopHat-Fusion,sim_adipose|METTL2A--RASAL1	.
-TP	sim_adipose	TopHat-Fusion	ALPP--SGCG	3778	2029	AC068134.8,ALPP	SDAD1P4,RNU6-58P,TATDN2P3,SGCG	first encounter of TP TopHat-Fusion,sim_adipose|ALPP--SGCG	sim_adipose|ALPP--SGCG
-TP	sim_adipose	TopHat-Fusion	LYG1--GUCY1B3	4201	1362	LYG1,C2orf15	GUCY1B3	first encounter of TP TopHat-Fusion,sim_adipose|LYG1--GUCY1B3	sim_adipose|LYG1--GUCY1B3
-TP	sim_adipose	TopHat-Fusion	EPX--KANK4	4567	890	EPX	RNU6-371P,KANK4	first encounter of TP TopHat-Fusion,sim_adipose|EPX--KANK4	sim_adipose|EPX--KANK4
-TP	sim_adipose	TopHat-Fusion	FADS2--CHP1	4588	731	MIR1908,FADS2,FEN1,FADS1	CHP1	first encounter of TP TopHat-Fusion,sim_adipose|FADS2--CHP1	sim_adipose|FADS2--CHP1
-TP	sim_adipose	TopHat-Fusion	LOXHD1--FBXO11	4005	1237	LOXHD1	AC079807.3,RPL36AP15,AC079807.2,MSH6,FBXO11	first encounter of TP TopHat-Fusion,sim_adipose|LOXHD1--MSH6	sim_adipose|LOXHD1--MSH6
-TP	sim_adipose	TopHat-Fusion	ADAMTSL4--KAT8	4027	1209	MIR4257,AL356356.1,RP11-54A4.2,ADAMTSL4	KAT8,RP11-196G11.4	first encounter of TP TopHat-Fusion,sim_adipose|AL356356.1--KAT8	sim_adipose|AL356356.1--KAT8
-TP	sim_adipose	TopHat-Fusion	ARID3C--GCH1	3956	1202	ARID3C	GCH1,FDPSP3,RNU6ATAC9P,MIR4308	first encounter of TP TopHat-Fusion,sim_adipose|ARID3C--GCH1	sim_adipose|ARID3C--GCH1
-TP	sim_adipose	TopHat-Fusion	HYOU1--TRAV34	3675	1179	HYOU1,RP11-110I1.6	TRAV34	first encounter of TP TopHat-Fusion,sim_adipose|HYOU1--TRAV34	sim_adipose|HYOU1--TRAV34
-TP	sim_adipose	TopHat-Fusion	SLC6A12--BOC	3599	1035	RP11-283I3.1,RP11-283I3.2,SLC6A12	WDR52,BOC	first encounter of TP TopHat-Fusion,sim_adipose|SLC6A12--BOC	sim_adipose|SLC6A12--BOC
-TP	sim_adipose	TopHat-Fusion	SCGB2A1--CCL17	3515	1059	SCGB2A1,RP11-703H8.9	CCL17	first encounter of TP TopHat-Fusion,sim_adipose|SCGB2A1--CCL17	sim_adipose|SCGB2A1--CCL17
-TP	sim_adipose	TopHat-Fusion	TCF20--STIM2	4056	438	Z83851.4,TCF20,Z83851.3,CTA-989H11.1	STIM2,RP11-293A21.1,RP11-293A21.2	first encounter of TP TopHat-Fusion,sim_adipose|TCF20--STIM2	sim_adipose|TCF20--STIM2
-TP	sim_adipose	TopHat-Fusion	ZW10--MPV17L2	3373	1055	RP11-667M19.1,RP11-667M19.2,RP11-667M19.4,ZW10	RAB3A,MPV17L2	first encounter of TP TopHat-Fusion,sim_adipose|ZW10--MPV17L2	sim_adipose|ZW10--MPV17L2
-TP	sim_adipose	TopHat-Fusion	AP5M1--UGT1A8	3359	1030	AP5M1,EXOC5	UGT1A8,UGT1A7,UGT1A10,UGT1A2P,AC114812.10,UGT1A4,UGT1A13P,UGT1A3,AC114812.5,UGT1A5,UGT1A6,AC114812.8,DNAJB3,UGT1A1,RPL17P11,AC114812.9,UGT1A9	first encounter of TP TopHat-Fusion,sim_adipose|AP5M1--UGT1A4	sim_adipose|AP5M1--UGT1A4
-TP	sim_adipose	TopHat-Fusion	UACA--FAM46C	3326	1007	UACA,RP11-138H8.2	FAM46C	first encounter of TP TopHat-Fusion,sim_adipose|UACA--FAM46C	sim_adipose|UACA--FAM46C
-TP	sim_adipose	TopHat-Fusion	HEPACAM--THRAP3	3223	1067	HEPACAM,HEPN1	UBE2V2P4,THRAP3	first encounter of TP TopHat-Fusion,sim_adipose|HEPACAM--THRAP3	sim_adipose|HEPACAM--THRAP3
-TP	sim_adipose	TopHat-Fusion	ACAP1--CRYBB3	3243	948	ACAP1	CRYBB3	first encounter of TP TopHat-Fusion,sim_adipose|ACAP1--CRYBB3	sim_adipose|ACAP1--CRYBB3
-TP	sim_adipose	TopHat-Fusion	ZNF227--NMBR	3378	751	ZNF227,ZNF235	NMBR,RP11-137J7.2,RP11-137J7.3	first encounter of TP TopHat-Fusion,sim_adipose|ZNF227--NMBR	sim_adipose|ZNF227--NMBR
-TP	sim_adipose	TopHat-Fusion	DNM1--RAB10	2961	1092	DNM1,CIZ1,MIR199B,MIR3154	RAB10,RNU6-942P,RP11-214J9.1	first encounter of TP TopHat-Fusion,sim_adipose|DNM1--RAB10	sim_adipose|DNM1--RAB10
-TP	sim_adipose	TopHat-Fusion	SGOL2--SERPINA5	3108	915	KCTD18,SGOL2	SERPINA5,RP11-986E7.7,SERPINA4	first encounter of TP TopHat-Fusion,sim_adipose|SGOL2--SERPINA4	sim_adipose|SGOL2--SERPINA4
-TP	sim_adipose	TopHat-Fusion	B4GALNT4--CCNH	3108	912	B4GALNT4	CCNH,RASA1	first encounter of TP TopHat-Fusion,sim_adipose|B4GALNT4--CCNH	sim_adipose|B4GALNT4--CCNH
-TP	sim_adipose	TopHat-Fusion	PHC1--PDILT	3147	687	M6PR,PHC1	PDILT,RP11-429K17.1	first encounter of TP TopHat-Fusion,sim_adipose|PHC1--PDILT	sim_adipose|PHC1--PDILT
-TP	sim_adipose	TopHat-Fusion	SERPINC1--SCO2	2865	863	SERPINC1	SCO2,TYMP,CTA-384D8.36	first encounter of TP TopHat-Fusion,sim_adipose|SERPINC1--SCO2	sim_adipose|SERPINC1--SCO2
-TP	sim_adipose	TopHat-Fusion	HDAC4--PLEKHA1	2849	861	HDAC4,MIR4269,AC017028.2,AC017028.6,AC017028.10,AC017028.1,MIR4440,MIR4441,AC017028.3,AC062017.1,AC017028.9,AC017028.5,MIR2467,AC017028.8,AC017028.4,AC017028.7	MIR3941,PLEKHA1	first encounter of TP TopHat-Fusion,sim_adipose|HDAC4--PLEKHA1	sim_adipose|HDAC4--PLEKHA1
-TP	sim_adipose	TopHat-Fusion	KIF20B--FGD6	2808	840	KIF20B	RP11-129B9.1,FGD6,RP11-129B9.2	first encounter of TP TopHat-Fusion,sim_adipose|KIF20B--FGD6	sim_adipose|KIF20B--FGD6
-TP	sim_adipose	TopHat-Fusion	ATP8A1--ERI1	2750	850	AC084010.1,RP11-473D24.1,ATP8A1,RPS7P7	U3,ERI1,MIR4660,RNU7-55P	first encounter of TP TopHat-Fusion,sim_adipose|ATP8A1--ERI1	sim_adipose|ATP8A1--ERI1
-TP	sim_adipose	TopHat-Fusion	SLC38A9--METAP2	3142	417	SLC38A9,DDX4,RP11-175M2.1	METAP2	first encounter of TP TopHat-Fusion,sim_adipose|SLC38A9--METAP2	sim_adipose|SLC38A9--METAP2
-TP	sim_adipose	TopHat-Fusion	LIPM--CHL1	2525	770	LIPM	RNU6-1194P,CHL1,RPS8P6,CHL1-AS2,CHL1-AS1	first encounter of TP TopHat-Fusion,sim_adipose|LIPM--CHL1	sim_adipose|LIPM--CHL1
-TP	sim_adipose	TopHat-Fusion	AADAT--VMP1	2485	750	AADAT	MIR21,PTRH2,VMP1,RP11-619I22.1	first encounter of TP TopHat-Fusion,sim_adipose|AADAT--VMP1	sim_adipose|AADAT--VMP1
-FP	sim_adipose	TopHat-Fusion	PLA2G5--RP11-510J16.5	2424	709	PLA2G5	AC138304.1,HSD17B2,CTD-2588J6.1,RP11-510J16.5	first encounter of FP fusion TopHat-Fusion,sim_adipose|PLA2G5--RP11-510J16.5	.
-TP	sim_adipose	TopHat-Fusion	LRRC56--NFIA	2281	751	C11orf35,LRRC56	RP4-802A10.1,AC096534.1,RP5-833A20.1,RP4-668G5.1,NFIA	first encounter of TP TopHat-Fusion,sim_adipose|LRRC56--NFIA	sim_adipose|LRRC56--NFIA
-TP	sim_adipose	TopHat-Fusion	MCM8--ZNF454	2297	671	RP5-967N21.7,MCM8	ZNF454	first encounter of TP TopHat-Fusion,sim_adipose|MCM8--ZNF454	sim_adipose|MCM8--ZNF454
-TP	sim_adipose	TopHat-Fusion	ZSCAN32--BCL2A1	2299	664	NAA60,ZSCAN32	BCL2A1	first encounter of TP TopHat-Fusion,sim_adipose|ZSCAN32--BCL2A1	sim_adipose|ZSCAN32--BCL2A1
-TP	sim_adipose	TopHat-Fusion	UBR2--TADA1	2214	719	UBR2,RNU6-890P	DUTP6,TADA1	first encounter of TP TopHat-Fusion,sim_adipose|UBR2--TADA1	sim_adipose|UBR2--TADA1
-TP	sim_adipose	TopHat-Fusion	CABLES1--RP11-373N22.3	1978	940	TMEM241,AC105247.1,RP11-17J14.2,CABLES1	RP11-373N22.3,SPINK13,AC091948.1,SPINK9,PGBD4P3,SPINK7	first encounter of TP TopHat-Fusion,sim_adipose|CABLES1--SPINK13	sim_adipose|CABLES1--SPINK13
-TP	sim_adipose	TopHat-Fusion	WNT6--TMX2-CTNND1	2166	691	WNT6	C11orf31,TMX2,RP11-691N7.6,AP000662.9,BTBD18,TMX2-CTNND1,CTNND1	first encounter of TP TopHat-Fusion,sim_adipose|WNT6--TMX2	sim_adipose|WNT6--TMX2
-FP	sim_adipose	TopHat-Fusion	PHC1P1--PDILT	2132	713	PHC1P1	PDILT,RP11-429K17.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|PHC1P1--PDILT	.
-TP	sim_adipose	TopHat-Fusion	ERCC8--KATNAL2	2361	453	ERCC8,GNL3LP1,AC104113.3	TCEB3CL,TCEB3B,KATNAL2,TCEB3CL2,TCEB3C,RP11-49K24.4,PIAS2	first encounter of TP TopHat-Fusion,sim_adipose|ERCC8--KATNAL2	sim_adipose|ERCC8--KATNAL2
-TP	sim_adipose	TopHat-Fusion	NFU1--ANAPC16	2152	661	NFU1	ASCC1,ANAPC16	first encounter of TP TopHat-Fusion,sim_adipose|NFU1--ANAPC16	sim_adipose|NFU1--ANAPC16
-TP	sim_adipose	TopHat-Fusion	QRICH2--SIX3	2131	652	QRICH2	SIX3-AS1,SIX3	first encounter of TP TopHat-Fusion,sim_adipose|QRICH2--SIX3	sim_adipose|QRICH2--SIX3
-TP	sim_adipose	TopHat-Fusion	NUTM1--ARIH1	1580	1189	NUTM1	ARIH1,RP11-1006G14.4,MIR630,RP11-1007O24.3	first encounter of TP TopHat-Fusion,sim_adipose|NUTM1--ARIH1	sim_adipose|NUTM1--ARIH1
-TP	sim_adipose	TopHat-Fusion	ZNF708--GMFG	2043	716	VN1R83P,RPL36AP51,CTD-3030D20.2,CTD-3233P19.7,ZNF708,CTD-3030D20.1,CTD-3233P19.8	CTC-246B18.10,GMFG	first encounter of TP TopHat-Fusion,sim_adipose|ZNF708--GMFG	sim_adipose|ZNF708--GMFG
-FP	sim_adipose	TopHat-Fusion	ABHD2--SOX18	10	2721	RP11-326A19.3,RNU7-195P,ABHD2,HMGB1P8,RP11-326A19.5	SOX18,ZNF512B	first encounter of FP fusion TopHat-Fusion,sim_adipose|ABHD2--SOX18	.
-TP	sim_adipose	TopHat-Fusion	CD244--GPR155	2043	629	RP11-312J18.3,CD244	GPR155	first encounter of TP TopHat-Fusion,sim_adipose|CD244--GPR155	sim_adipose|CD244--GPR155
-TP	sim_adipose	TopHat-Fusion	PAOX--CTC-454I21.3	2166	487	AL360181.1,RP11-108K14.8,PAOX	ZNF585B,ZNF585A,ZNF420,CTC-454I21.3,CTC-454I21.4	first encounter of TP TopHat-Fusion,sim_adipose|PAOX--ZNF585A	sim_adipose|PAOX--ZNF585A
-TP	sim_adipose	TopHat-Fusion	PXK--ACAA2	1862	767	PXK	RP11-886H22.1,ACAA2	first encounter of TP TopHat-Fusion,sim_adipose|PXK--ACAA2	sim_adipose|PXK--ACAA2
-TP	sim_adipose	TopHat-Fusion	TRIM59--C10ORF111	1999	601	RNU7-136P,RP11-227J5.3,RP11-432B6.3,TRIM59,SMC4	RPP38,C10orf111	first encounter of TP TopHat-Fusion,sim_adipose|TRIM59--C10ORF111	sim_adipose|TRIM59--C10ORF111
-TP	sim_adipose	TopHat-Fusion	SEMA6D--TRIM29	2147	418	SEMA6D,CTD-2050N2.1,RP11-408J6.1,AC084882.1,RP11-142J21.2,RN7SKP139,RP11-552E10.1,RP11-142J21.1,AC012050.1,CTD-2270N23.1	TRIM29,AP000679.2	first encounter of TP TopHat-Fusion,sim_adipose|SEMA6D--TRIM29	sim_adipose|SEMA6D--TRIM29
-TP	sim_adipose	TopHat-Fusion	ARHGAP28--ESPL1	1891	620	RP11-146G7.2,ARHGAP28,RP11-91I8.3	ESPL1	first encounter of TP TopHat-Fusion,sim_adipose|ARHGAP28--ESPL1	sim_adipose|ARHGAP28--ESPL1
-TP	sim_adipose	TopHat-Fusion	OSBPL5--CALCR	1917	588	OSBPL5	MIR653,MIR489,CALCR	first encounter of TP TopHat-Fusion,sim_adipose|OSBPL5--CALCR	sim_adipose|OSBPL5--CALCR
-TP	sim_adipose	TopHat-Fusion	IL17RB--PCDHGA1	1284	1135	IL17RB,RP11-884K10.7	RN7SL68P,PCDHGA10,PCDHGB2,PCDHGA9,PCDHGA8,PCDHGB6,PCDHGA4,PCDHGB8P,PCDHGA7,PCDHGB1,PCDHGB4,PCDHGA2,PCDHGA11,PCDHGA3,PCDHGA12,PCDHGB3,PCDHGC3,PCDHGA5,PCDHGA6,PCDHGC4,PCDHGC5,PCDHGA1,PCDHGB7	first encounter of TP TopHat-Fusion,sim_adipose|IL17RB--PCDHGB3	sim_adipose|IL17RB--PCDHGB3
-TP	sim_adipose	TopHat-Fusion	PSMD3--FMO5	1911	445	PSMD3	RP11-337C18.10,PDIA3P,CHD1L,RP11-337C18.9,CCT8P1,RP11-337C18.8,FMO5,RP11-337C18.7	first encounter of TP TopHat-Fusion,sim_adipose|PSMD3--FMO5	sim_adipose|PSMD3--FMO5
-TP	sim_adipose	TopHat-Fusion	IZUMO3--C7ORF63	1909	415	IZUMO3	AC002064.4,C7orf63	first encounter of TP TopHat-Fusion,sim_adipose|IZUMO3--C7ORF63	sim_adipose|IZUMO3--C7ORF63
-TP	sim_adipose	TopHat-Fusion	PPIC--GJA4	1897	417	RP11-359P5.1,PPIC,SNX24	GJA4,SMIM12	first encounter of TP TopHat-Fusion,sim_adipose|PPIC--GJA4	sim_adipose|PPIC--GJA4
-TP	sim_adipose	TopHat-Fusion	CBLN1--PCDHAC2	1617	559	CBLN1	PCDHAC1,PCDHAC2,PCDHA8,PCDHA12,PCDHA10,PCDHA6,PCDHA13,PCDHA3,PCDHA4,PCDHA2,PCDHA5,PCDHA1,PCDHA11,PCDHA7,PCDHA9	first encounter of TP TopHat-Fusion,sim_adipose|CBLN1--PCDHA13	sim_adipose|CBLN1--PCDHA13
-TP	sim_adipose	TopHat-Fusion	MIPOL1--ZNF513	1049	1124	RNU6-886P,MIPOL1	ZNF513	first encounter of TP TopHat-Fusion,sim_adipose|MIPOL1--ZNF513	sim_adipose|MIPOL1--ZNF513
-TP	sim_adipose	TopHat-Fusion	C2ORF44--USP39	1635	512	MFSD2B,C2orf44,RNU6-370P	TMEM150A,C2orf68,USP39	first encounter of TP TopHat-Fusion,sim_adipose|C2ORF44--USP39	sim_adipose|C2ORF44--USP39
-TP	sim_adipose	TopHat-Fusion	TBC1D25--SSX3	1750	305	TBC1D25	SSX3	first encounter of TP TopHat-Fusion,sim_adipose|TBC1D25--SSX3	sim_adipose|TBC1D25--SSX3
-TP	sim_adipose	TopHat-Fusion	TRAPPC11--LILRA2	1491	558	RNU6-335P,RNU6-1053P,TRAPPC11	CTB-83J4.2,LILRB1,LILRA2,LILRA1	first encounter of TP TopHat-Fusion,sim_adipose|TRAPPC11--LILRA2	sim_adipose|TRAPPC11--LILRA2
-TP	sim_adipose	TopHat-Fusion	SLC39A12--PCBD2	1558	474	SLC39A12-AS1,SLC39A12	CTB-36O1.3,MIR4461,PCBD2,CATSPER3,MTND4P12,MTND5P11,CTB-36O1.7,MTND6P4	first encounter of TP TopHat-Fusion,sim_adipose|SLC39A12--PCBD2	sim_adipose|SLC39A12--PCBD2
-TP	sim_adipose	TopHat-Fusion	TTYH2--OR5V1	1537	476	TTYH2,CTD-2514K5.4	OR5V1,OR11A1,OR12D3,OR12D2,OR12D1	first encounter of TP TopHat-Fusion,sim_adipose|TTYH2--OR11A1	sim_adipose|TTYH2--OR11A1
-TP	sim_adipose	TopHat-Fusion	CTF1--MUC16	1655	349	CTF1	MUC16	first encounter of TP TopHat-Fusion,sim_adipose|CTF1--MUC16	sim_adipose|CTF1--MUC16
-TP	sim_adipose	TopHat-Fusion	FBXO22--ZNF84	1640	331	FBXO22,NRG4	ZNF84	first encounter of TP TopHat-Fusion,sim_adipose|FBXO22--ZNF84	sim_adipose|FBXO22--ZNF84
-TP	sim_adipose	TopHat-Fusion	GABRA3--GPM6A	1421	517	MIR105-1,GABRA3,MIR105-2,MIR767,RNU6-764P,RP11-329E24.6	RP11-806K15.1,GPM6A,RP11-598O12.1	first encounter of TP TopHat-Fusion,sim_adipose|GABRA3--GPM6A	sim_adipose|GABRA3--GPM6A
-TP	sim_adipose	TopHat-Fusion	SGCZ--NR1I3	1294	637	SGCZ,RP11-138H14.1,RNU6-397P,AC021760.1,RP11-776K3.1,MIR383,RP11-3G21.1,CTD-2023J5.1,RNU7-153P	TOMM40L,NR1I3	first encounter of TP TopHat-Fusion,sim_adipose|SGCZ--NR1I3	sim_adipose|SGCZ--NR1I3
-FP	sim_adipose	TopHat-Fusion	CUX2--FAM71E1	1454	461	RNA5SP373,AC002978.1,AC002979.1,CUX2	FAM71E1,EMC10	first encounter of FP fusion TopHat-Fusion,sim_adipose|CUX2--FAM71E1	.
-TP	sim_adipose	TopHat-Fusion	AKR1C1--C6ORF222	1561	352	AKR1C3,AKR1C2,RP11-499O7.4,U8,AKR1C1,RP11-499O7.7	C6orf222	first encounter of TP TopHat-Fusion,sim_adipose|AKR1C1--C6ORF222	sim_adipose|AKR1C1--C6ORF222
-TP	sim_adipose	TopHat-Fusion	MYF5--BTG3	1442	469	MYF5	BTG3	first encounter of TP TopHat-Fusion,sim_adipose|MYF5--BTG3	sim_adipose|MYF5--BTG3
-TP	sim_adipose	TopHat-Fusion	DYNC2LI1--AL590708.2	1450	455	DYNC2LI1	DNM1,AL590708.2,MIR3154,PTGES2	first encounter of TP TopHat-Fusion,sim_adipose|DYNC2LI1--AL590708.2	sim_adipose|DYNC2LI1--AL590708.2
-TP	sim_adipose	TopHat-Fusion	NSF--BAAT	1059	771	NSF,RPS7P11	FYTTD1P1,RP11-35N6.6,BAAT	first encounter of TP TopHat-Fusion,sim_adipose|NSF--BAAT	sim_adipose|NSF--BAAT
-TP	sim_adipose	TopHat-Fusion	RUNX2--SEPT12	1390	387	SUPT3H,RUNX2,RP1-244F24.1,RP1-166H4.2,RNU6-515P	SEPT12,SMIM22	first encounter of TP TopHat-Fusion,sim_adipose|RUNX2--SEPT12	sim_adipose|RUNX2--SEPT12
-TP	sim_adipose	TopHat-Fusion	MYRFL--AC003002.4	1312	331	AC025263.3,RP11-611E13.3,MYRFL,RP11-611E13.2	ZNF548,AC003002.6,AC003002.4,ZNF547,TRAPPC2P1,AC004076.7	first encounter of TP TopHat-Fusion,sim_adipose|MYRFL--ZNF547	sim_adipose|MYRFL--ZNF547
-TP	sim_adipose	TopHat-Fusion	RRP8--ADM	1355	249	RRP8	ADM	first encounter of TP TopHat-Fusion,sim_adipose|RRP8--ADM	sim_adipose|RRP8--ADM
-TP	sim_adipose	TopHat-Fusion	ASAH2--NR2E1	1194	365	FAM21A,ASAH2,SLC9A3P1,DYNC1I2P1	NR2E1	first encounter of TP TopHat-Fusion,sim_adipose|ASAH2--NR2E1	sim_adipose|ASAH2--NR2E1
-TP	sim_adipose	TopHat-Fusion	MAGED4B--HIBADH	1345	203	SNORA11E,SNORA11D,MAGED4,MAGED4B	HIBADH	first encounter of TP TopHat-Fusion,sim_adipose|MAGED4B--HIBADH	sim_adipose|MAGED4B--HIBADH
-FP	sim_adipose	TopHat-Fusion	MAGED4--HIBADH	1345	203	SNORA11D,MAGED4	HIBADH	first encounter of FP fusion TopHat-Fusion,sim_adipose|MAGED4--HIBADH	.
-TP	sim_adipose	TopHat-Fusion	DCUN1D2--CISD3	1193	347	RNU1-16P,DCUN1D2-AS,DCUN1D2	PCGF2,CISD3,RNA5SP440	first encounter of TP TopHat-Fusion,sim_adipose|DCUN1D2--CISD3	sim_adipose|DCUN1D2--CISD3
-TP	sim_adipose	TopHat-Fusion	UCMA--CCDC181	1273	232	UCMA	RP1-206D15.3,BLZF1,CCDC181	first encounter of TP TopHat-Fusion,sim_adipose|UCMA--CCDC181	sim_adipose|UCMA--CCDC181
-TP	sim_adipose	TopHat-Fusion	P2RX5--TMC5	1330	167	RP11-48B14.1,EMC6,TAX1BP3,P2RX5-TAX1BP3,P2RX5	CTA-363E6.6,TMC5,CTA-363E6.5,RNU4-46P	first encounter of TP TopHat-Fusion,sim_adipose|P2RX5--TMC5	sim_adipose|P2RX5--TMC5
-TP	sim_adipose	TopHat-Fusion	USP31--FABP9	1155	332	RP11-20G6.3,USP31	RP11-157I4.4,FABP9	first encounter of TP TopHat-Fusion,sim_adipose|USP31--FABP9	sim_adipose|USP31--FABP9
-TP	sim_adipose	TopHat-Fusion	AMN--EDIL3	1126	350	CDC42BPB,AMN,RP11-365N19.2	EDIL3,CTD-2269F5.1,AC109496.1,RNU6-448P	first encounter of TP TopHat-Fusion,sim_adipose|AMN--EDIL3	sim_adipose|AMN--EDIL3
-TP	sim_adipose	TopHat-Fusion	ARHGDIG--SLC5A8	1085	322	RGS11,ITFG3,ARHGDIG,PDIA2	RNU6-768P,SLC5A8	first encounter of TP TopHat-Fusion,sim_adipose|ARHGDIG--SLC5A8	sim_adipose|ARHGDIG--SLC5A8
-TP	sim_adipose	TopHat-Fusion	BNC2--FTCD	1099	289	BNC2,RP11-62F24.2,RP11-62F24.1,RP11-183I6.2,RP11-335H2.2	FTCD-AS1,FTCD	first encounter of TP TopHat-Fusion,sim_adipose|BNC2--FTCD	sim_adipose|BNC2--FTCD
-TP	sim_adipose	TopHat-Fusion	AVPR1A--ERMN	1054	312	AVPR1A	ERMN	first encounter of TP TopHat-Fusion,sim_adipose|AVPR1A--ERMN	sim_adipose|AVPR1A--ERMN
-TP	sim_adipose	TopHat-Fusion	CAPZB--DHX32	785	575	RN7SL277P,CAPZB	AL360176.1,RNU2-42P,DHX32,BCCIP	first encounter of TP TopHat-Fusion,sim_adipose|CAPZB--DHX32	sim_adipose|CAPZB--DHX32
-FP	sim_adipose	TopHat-Fusion	TMEM120B--HOXA2	921	292	TMEM120B,RHOF	HOXA2,HOTAIRM1	first encounter of FP fusion TopHat-Fusion,sim_adipose|TMEM120B--HOXA2	.
-TP	sim_adipose	TopHat-Fusion	NDUFS4--IDH2	902	284	NDUFS4,AC024569.1	IDH2	first encounter of TP TopHat-Fusion,sim_adipose|NDUFS4--IDH2	sim_adipose|NDUFS4--IDH2
-TP	sim_adipose	TopHat-Fusion	AC099552.4--SUPT3H	944	200	AC099552.4	SUPT3H,RP11-491H9.3,NUDT19P4,RUNX2,MIR586	first encounter of TP TopHat-Fusion,sim_adipose|AC099552.4--SUPT3H	sim_adipose|AC099552.4--SUPT3H
-TP	sim_adipose	TopHat-Fusion	LAMC3--CCDC146	857	271	SNORA31,LAMC3	RP11-467H10.2,FGL2,GSAP,CCDC146,AC073635.5	first encounter of TP TopHat-Fusion,sim_adipose|LAMC3--CCDC146	sim_adipose|LAMC3--CCDC146
-TP	sim_adipose	TopHat-Fusion	SPATA19--KCNC3	936	179	SPATA19	NR1H2,KCNC3	first encounter of TP TopHat-Fusion,sim_adipose|SPATA19--KCNC3	sim_adipose|SPATA19--KCNC3
-FP	sim_adipose	TopHat-Fusion	AKR1C2--C6ORF222	736	336	AKR1C2,U8,RP11-499O7.7	C6orf222	first encounter of FP fusion TopHat-Fusion,sim_adipose|AKR1C2--C6ORF222	.
-TP	sim_adipose	TopHat-Fusion	DOPEY1--CD86	768	225	DOPEY1,AL139333.1,PGM3	CD86	first encounter of TP TopHat-Fusion,sim_adipose|DOPEY1--CD86	sim_adipose|DOPEY1--CD86
-TP	sim_adipose	TopHat-Fusion	PRH2--PRRC2B	728	254	PRH2,PRR4	SNORD62B,SNORD62A,PRRC2B,AL358781.1	first encounter of TP TopHat-Fusion,sim_adipose|PRH2--PRRC2B	sim_adipose|PRH2--PRRC2B
-TP	sim_adipose	TopHat-Fusion	MAP7D1--CACYBP	801	162	MAP7D1	CACYBP,MRPS14	first encounter of TP TopHat-Fusion,sim_adipose|MAP7D1--CACYBP	sim_adipose|MAP7D1--CACYBP
-TP	sim_adipose	TopHat-Fusion	GLRX5--VSTM2L	670	247	SNHG10,GLRX5,SCARNA13	VSTM2L	first encounter of TP TopHat-Fusion,sim_adipose|GLRX5--VSTM2L	sim_adipose|GLRX5--VSTM2L
-TP	sim_adipose	TopHat-Fusion	CST9L--CXCR3	714	197	CST9L	CXCR3	first encounter of TP TopHat-Fusion,sim_adipose|CST9L--CXCR3	sim_adipose|CST9L--CXCR3
-TP	sim_adipose	TopHat-Fusion	RFX3--SUMO3	602	296	RFX3,RP11-62E14.2,AL365202.1	AL773604.8,UBE2G2,SUMO3	first encounter of TP TopHat-Fusion,sim_adipose|RFX3--SUMO3	sim_adipose|RFX3--SUMO3
-TP	sim_adipose	TopHat-Fusion	APCDD1L--ERGIC2	674	213	APCDD1L	FAR2,ERGIC2	first encounter of TP TopHat-Fusion,sim_adipose|APCDD1L--ERGIC2	sim_adipose|APCDD1L--ERGIC2
-TP	sim_adipose	TopHat-Fusion	CCDC103--SBNO2	667	206	FAM187A,CCDC103,AC015936.3,EFTUD2,GFAP	SBNO2	first encounter of TP TopHat-Fusion,sim_adipose|CCDC103--SBNO2	sim_adipose|CCDC103--SBNO2
-TP	sim_adipose	TopHat-Fusion	MTMR7--NAA25	656	207	VPS37A,MTMR7	MIR3657,NAA25,RP1-267L14.3	first encounter of TP TopHat-Fusion,sim_adipose|MTMR7--NAA25	sim_adipose|MTMR7--NAA25
-TP	sim_adipose	TopHat-Fusion	NDUFA5--GPC3	730	130	NDUFA5	GPC3,RP3-417G15.1,RPSAP63,AL009174.1	first encounter of TP TopHat-Fusion,sim_adipose|NDUFA5--GPC3	sim_adipose|NDUFA5--GPC3
-TP	sim_adipose	TopHat-Fusion	ANKRD2--CDC34	670	143	ANKRD2	CDC34	first encounter of TP TopHat-Fusion,sim_adipose|ANKRD2--CDC34	sim_adipose|ANKRD2--CDC34
-TP	sim_adipose	TopHat-Fusion	MAK--NOXA1	478	332	SYCP2L,RP11-637O19.3,MAK,TMEM14B	ENTPD8,NOXA1	first encounter of TP TopHat-Fusion,sim_adipose|MAK--NOXA1	sim_adipose|MAK--NOXA1
-TP	sim_adipose	TopHat-Fusion	FAT2--CDCA4	607	191	CTC-251D13.1,FAT2	C14orf79,CDCA4	first encounter of TP TopHat-Fusion,sim_adipose|FAT2--CDCA4	sim_adipose|FAT2--CDCA4
-TP	sim_adipose	TopHat-Fusion	AP1B1--ERI3	488	309	AP1B1,AC000041.8,SNORD125	ERI3-IT1,ERI3,AL390776.1	first encounter of TP TopHat-Fusion,sim_adipose|AP1B1--ERI3	sim_adipose|AP1B1--ERI3
-FP	sim_adipose	TopHat-Fusion	SOX7--VAPA	0	720	SOX7,PINX1,CTD-2135J3.3,SNORD112	RNA5SP450,VAPA	first encounter of FP fusion TopHat-Fusion,sim_adipose|SOX7--VAPA	.
-TP	sim_adipose	TopHat-Fusion	STYX--C1ORF162	551	149	STYX	C1orf162	first encounter of TP TopHat-Fusion,sim_adipose|STYX--C1ORF162	sim_adipose|STYX--C1ORF162
-TP	sim_adipose	TopHat-Fusion	AC010642.1--PLA2G3	559	106	ZNF8,AC020915.1,CTD-3138B18.4,AC010642.1,ERVK3-1	PLA2G3	first encounter of TP TopHat-Fusion,sim_adipose|ZNF8--PLA2G3	sim_adipose|ZNF8--PLA2G3
-TP	sim_adipose	TopHat-Fusion	TOR3A--IMPA1	479	158	TOR3A	IMPA1	first encounter of TP TopHat-Fusion,sim_adipose|TOR3A--IMPA1	sim_adipose|TOR3A--IMPA1
-TP	sim_adipose	TopHat-Fusion	HIST2H4B--MTPN	539	90	HIST2H4B,HIST2H3A,HIST2H4A	AC015987.1,AC015987.2,RNU6-223P,MTPN,LUZP6	first encounter of TP TopHat-Fusion,sim_adipose|HIST2H4B--MTPN	sim_adipose|HIST2H4B--MTPN
-FP	sim_adipose	TopHat-Fusion	HIST2H4A--MTPN	539	86	HIST2H4A,HIST2H3C	AC015987.1,AC015987.2,RNU6-223P,MTPN,LUZP6	first encounter of FP fusion TopHat-Fusion,sim_adipose|HIST2H4A--MTPN	.
-FP	sim_adipose	TopHat-Fusion	AMOT--CTRB2	521	91	MIR4329,AMOT	CTRB2	first encounter of FP fusion TopHat-Fusion,sim_adipose|AMOT--CTRB2	.
-TP	sim_adipose	TopHat-Fusion	AMOT--CTRB1	521	91	MIR4329,AMOT	CTRB1	first encounter of TP TopHat-Fusion,sim_adipose|AMOT--CTRB1	sim_adipose|AMOT--CTRB1
-FP	sim_adipose	TopHat-Fusion	ZSCAN32--ST20	436	173	NAA60,ZSCAN32	ST20,C15ORF37,ST20-MTHFS,C15orf37	first encounter of FP fusion TopHat-Fusion,sim_adipose|ZSCAN32--ST20	.
-TP	sim_adipose	TopHat-Fusion	KCNV1--MT1M	456	147	RP11-696P8.2,KCNV1	AC026461.1,MT1M	first encounter of TP TopHat-Fusion,sim_adipose|KCNV1--MT1M	sim_adipose|KCNV1--MT1M
-TP	sim_adipose	TopHat-Fusion	NKAIN4--TRNAU1AP	442	159	NKAIN4	SNHG12,TRNAU1AP	first encounter of TP TopHat-Fusion,sim_adipose|NKAIN4--TRNAU1AP	sim_adipose|NKAIN4--TRNAU1AP
-TP	sim_adipose	TopHat-Fusion	ABCG1--GPSM3	473	128	ABCG1,RNA5SP492,AP001623.1	GPSM3,NOTCH4	first encounter of TP TopHat-Fusion,sim_adipose|ABCG1--GPSM3	sim_adipose|ABCG1--GPSM3
-TP	sim_adipose	TopHat-Fusion	PHF19--AMZ1	450	136	PHF19	GNA12,AMZ1	first encounter of TP TopHat-Fusion,sim_adipose|PHF19--AMZ1	sim_adipose|PHF19--AMZ1
-TP	sim_adipose	TopHat-Fusion	SPTBN2--CLSTN1	405	155	SPTBN2,RN7SL12P	RP11-558F24.6,CLSTN1,PIK3CD	first encounter of TP TopHat-Fusion,sim_adipose|SPTBN2--CLSTN1	sim_adipose|SPTBN2--CLSTN1
-FP	sim_adipose	TopHat-Fusion	EHD4--TLCD1	0	554	RP11-23P13.6,CTD-2382E5.4,EHD4,RP11-23P13.7	NEK8,TLCD1,RPL23A,AC010761.14	first encounter of FP fusion TopHat-Fusion,sim_adipose|EHD4--TLCD1	.
-TP	sim_adipose	TopHat-Fusion	DNALI1--SLC2A4	418	135	GNL2,DNALI1	YBX2,RP1-4G17.2,SLC2A4	first encounter of TP TopHat-Fusion,sim_adipose|DNALI1--SLC2A4	sim_adipose|DNALI1--SLC2A4
-FP	sim_adipose	TopHat-Fusion	RP11-703H8.9--CHST7	414	100	SCGB2A1,SCGB1D2,RP11-703H8.9	CHST7	first encounter of FP fusion TopHat-Fusion,sim_adipose|RP11-703H8.9--CHST7	.
-TP	sim_adipose	TopHat-Fusion	SWT1--DAPK2	375	136	CTA-253N17.1,RP4-635A23.4,RP4-635A23.3,RPL5P5,SWT1	DAPK2,RP11-111E14.1	first encounter of TP TopHat-Fusion,sim_adipose|SWT1--DAPK2	sim_adipose|SWT1--DAPK2
-TP	sim_adipose	TopHat-Fusion	ZCCHC8--FARP1	377	127	ZCCHC8,SNORA9	FARP1,STK24,RNF113B,MIR3170,FARP1-AS1,RP11-573N10.1,RP11-261P24.2,RN7SKP8	first encounter of TP TopHat-Fusion,sim_adipose|ZCCHC8--RNF113B	sim_adipose|ZCCHC8--RNF113B
-TP	sim_adipose	TopHat-Fusion	CST9--ZNF771	393	110	CST9	SNORA42,DCTPP1,ZNF771	first encounter of TP TopHat-Fusion,sim_adipose|CST9--ZNF771	sim_adipose|CST9--ZNF771
-TP	sim_adipose	TopHat-Fusion	HESX1--TRAM1	425	75	HESX1	TRAM1,AC120194.1	first encounter of TP TopHat-Fusion,sim_adipose|HESX1--TRAM1	sim_adipose|HESX1--TRAM1
-TP	sim_adipose	TopHat-Fusion	TCHH--SNTN	399	96	TCHH,AL589986.2,HDHD1P2	SNTN	first encounter of TP TopHat-Fusion,sim_adipose|TCHH--SNTN	sim_adipose|TCHH--SNTN
-FP	sim_adipose	TopHat-Fusion	AC016629.8--MUC12	392	97	RPL23AP79,AC016629.8,MZF1	MUC12,RP11-395B7.4	first encounter of FP fusion TopHat-Fusion,sim_adipose|AC016629.8--MUC12	.
-TP	sim_adipose	TopHat-Fusion	RP11-867G2.8--FAM187B	387	96	FUT4,RP11-867G2.6,PIWIL4,RP11-867G2.8,AMOTL1,RP11-867G2.5	FAM187B	first encounter of TP TopHat-Fusion,sim_adipose|PIWIL4--FAM187B	sim_adipose|PIWIL4--FAM187B
-TP	sim_adipose	TopHat-Fusion	PRSS50--IFNL2	386	76	RP11-427P5.2,PRSS45,PRSS50,PRSS46,PRSS44	IFNL2	first encounter of TP TopHat-Fusion,sim_adipose|PRSS45--IFNL2	sim_adipose|PRSS45--IFNL2
-FP	sim_adipose	TopHat-Fusion	FADS2--IGF2R	0	448	MIR1908,FADS2,FEN1,FADS1	RP11-288H12.3,AIRN,IGF2R,RP11-288H12.4	first encounter of FP fusion TopHat-Fusion,sim_adipose|FADS2--IGF2R	.
-TP	sim_adipose	TopHat-Fusion	AP003068.23--NEDD1	347	94	AP003068.23,CAPN1	NEDD1	first encounter of TP TopHat-Fusion,sim_adipose|AP003068.23--NEDD1	sim_adipose|AP003068.23--NEDD1
-TP	sim_adipose	TopHat-Fusion	SLC35D3--DENND5A	329	111	SLC35D3	RP11-5L12.1,DENND5A	first encounter of TP TopHat-Fusion,sim_adipose|SLC35D3--DENND5A	sim_adipose|SLC35D3--DENND5A
-TP	sim_adipose	TopHat-Fusion	ZNRF3--HS6ST3	335	94	ZNRF3-IT1,ZNRF3-AS1,ZNRF3	AMMECR1LP1,HS6ST3,RN7SL164P	first encounter of TP TopHat-Fusion,sim_adipose|ZNRF3--HS6ST3	sim_adipose|ZNRF3--HS6ST3
-TP	sim_adipose	TopHat-Fusion	SCG5--EGR3	342	86	SCG5,RP11-1000B6.2	EGR3,RP11-459E5.1	first encounter of TP TopHat-Fusion,sim_adipose|SCG5--EGR3	sim_adipose|SCG5--EGR3
-TP	sim_adipose	TopHat-Fusion	KCNG4--NLRP7	318	86	KCNG4	CTC-550B14.8,NLRP7,NLRP2	first encounter of TP TopHat-Fusion,sim_adipose|KCNG4--NLRP7	sim_adipose|KCNG4--NLRP7
-TP	sim_adipose	TopHat-Fusion	C9ORF40--UNC79	318	86	C9orf40	RNU6-1258P,COX8C,UNC79	first encounter of TP TopHat-Fusion,sim_adipose|C9ORF40--UNC79	sim_adipose|C9ORF40--UNC79
-TP	sim_adipose	TopHat-Fusion	MAGI1--WFDC10B	222	182	MAGI1,MAGI1-IT1,RP11-88H12.2,RPL17P17,AC106827.1,MAGI1-AS1,AC106827.2,ILF2P1,AC104438.1	WFDC13,WFDC10B	first encounter of TP TopHat-Fusion,sim_adipose|MAGI1--WFDC10B	sim_adipose|MAGI1--WFDC10B
-TP	sim_adipose	TopHat-Fusion	NELFA--RGL4	287	104	NELFA,MIR943	AP000347.2,RGL4,GUSBP11,KB-1572G7.2	first encounter of TP TopHat-Fusion,sim_adipose|NELFA--RGL4	sim_adipose|NELFA--RGL4
-TP	sim_adipose	TopHat-Fusion	DSP--SSR1	312	76	DSP	RP11-69L16.5,RP11-69L16.4,RP11-69L16.3,CAGE1,SSR1,RP11-69L16.6	first encounter of TP TopHat-Fusion,sim_adipose|DSP--SSR1	sim_adipose|DSP--SSR1
-TP	sim_adipose	TopHat-Fusion	ACSL6--KCNA7	303	78	ACSL6,AC034228.3,AC034228.4,AC034228.7,AC034228.2	KCNA7	first encounter of TP TopHat-Fusion,sim_adipose|ACSL6--KCNA7	sim_adipose|ACSL6--KCNA7
-TP	sim_adipose	TopHat-Fusion	EAF2--GHSR	279	101	EAF2	GHSR	first encounter of TP TopHat-Fusion,sim_adipose|EAF2--GHSR	sim_adipose|EAF2--GHSR
-TP	sim_adipose	TopHat-Fusion	PCMTD2--PSORS1C1	249	117	LINC00266-1,PCMTD2,CICP4	CDSN,PSORS1C2,PSORS1C1	first encounter of TP TopHat-Fusion,sim_adipose|PCMTD2--PSORS1C2	sim_adipose|PCMTD2--PSORS1C2
-TP	sim_adipose	TopHat-Fusion	RB1CC1--RAB33A	278	82	CTD-3214K23.1,RB1CC1	RAB33A	first encounter of TP TopHat-Fusion,sim_adipose|RB1CC1--RAB33A	sim_adipose|RB1CC1--RAB33A
-TP	sim_adipose	TopHat-Fusion	LARP4--TOP2B	266	88	FAM186A,LARP4	TOP2B,MIR4442,RARB	first encounter of TP TopHat-Fusion,sim_adipose|LARP4--TOP2B	sim_adipose|LARP4--TOP2B
-TP	sim_adipose	TopHat-Fusion	EMC7--MED12	293	57	EMC7,RP11-1084A12.1	AL590764.1,MED12	first encounter of TP TopHat-Fusion,sim_adipose|EMC7--MED12	sim_adipose|EMC7--MED12
-TP	sim_adipose	TopHat-Fusion	PVRL3--LPAR5	256	86	PVRL3,PVRL3-AS1	ACRBP,LPAR5	first encounter of TP TopHat-Fusion,sim_adipose|PVRL3--LPAR5	sim_adipose|PVRL3--LPAR5
-TP	sim_adipose	TopHat-Fusion	C7ORF55-LUC7L2--ARHGAP20	205	123	C7orf55,RP11-634H22.1,LUC7L2,C7orf55-LUC7L2	ARHGAP20	first encounter of TP TopHat-Fusion,sim_adipose|LUC7L2--ARHGAP20	sim_adipose|LUC7L2--ARHGAP20
-TP	sim_adipose	TopHat-Fusion	GLIPR1--TRAV23DV6	241	74	KRR1,RP11-585P4.5,GLIPR1	TRAV23DV6	first encounter of TP TopHat-Fusion,sim_adipose|KRR1--TRAV23DV6	sim_adipose|KRR1--TRAV23DV6
-TP	sim_adipose	TopHat-Fusion	SLC5A10--PLCXD1	243	39	SLC5A10,RP11-28B23.1,AC090286.4,GRAP,FAM83G	PLCXD1	first encounter of TP TopHat-Fusion,sim_adipose|FAM83G--PLCXD1	sim_adipose|FAM83G--PLCXD1
-TP	sim_adipose	TopHat-Fusion	SGOL1--PGRMC2	210	71	SGOL1,SGOL1-AS1	PGRMC2	first encounter of TP TopHat-Fusion,sim_adipose|SGOL1--PGRMC2	sim_adipose|SGOL1--PGRMC2
-TP	sim_adipose	TopHat-Fusion	TDRD5--CDC42	215	61	TDRD5	RP1-224A6.8,CDC42,CDC42-IT1	first encounter of TP TopHat-Fusion,sim_adipose|TDRD5--CDC42	sim_adipose|TDRD5--CDC42
-TP	sim_adipose	TopHat-Fusion	IQGAP3--SYNJ2	201	70	IQGAP3	SYNJ2-IT1,SYNJ2	first encounter of TP TopHat-Fusion,sim_adipose|IQGAP3--SYNJ2	sim_adipose|IQGAP3--SYNJ2
-TP	sim_adipose	TopHat-Fusion	KLRF1--TTYH1	214	53	KLRF1	AC008746.3,TTYH1,CTD-2587H19.2	first encounter of TP TopHat-Fusion,sim_adipose|KLRF1--TTYH1	sim_adipose|KLRF1--TTYH1
-TP	sim_adipose	TopHat-Fusion	GPR56--BCOR	188	65	RP11-405F3.5,GPR56	BCOR	first encounter of TP TopHat-Fusion,sim_adipose|GPR56--BCOR	sim_adipose|GPR56--BCOR
-TP	sim_adipose	TopHat-Fusion	ZSCAN5A--FRMPD1	209	44	VN2R17P,ZSCAN5D,AC006116.15,AC006116.21,AC006116.14,AC006116.17,ZSCAN5A,AC006116.20,AC006116.22,AC006116.13,ZNF542,AC006116.19	FRMPD1,RN7SKP171,RP11-613M10.9	first encounter of TP TopHat-Fusion,sim_adipose|ZSCAN5D--FRMPD1	sim_adipose|ZSCAN5D--FRMPD1
-TP	sim_adipose	TopHat-Fusion	TLCD2--EFTUD1	137	107	TLCD2	RNU1-77P,EFTUD1	first encounter of TP TopHat-Fusion,sim_adipose|TLCD2--EFTUD1	sim_adipose|TLCD2--EFTUD1
-TP	sim_adipose	TopHat-Fusion	TNK1--SF3B14	184	54	C17orf61-PLSCR3,TNK1,TMEM256-PLSCR3	SF3B14	first encounter of TP TopHat-Fusion,sim_adipose|TNK1--SF3B14	sim_adipose|TNK1--SF3B14
-TP	sim_adipose	TopHat-Fusion	FBXO33--FBN2	166	67	FBXO33	SLC27A6,FBN2	first encounter of TP TopHat-Fusion,sim_adipose|FBXO33--FBN2	sim_adipose|FBXO33--FBN2
-TP	sim_adipose	TopHat-Fusion	TXNIP--TYW1B	187	43	TXNIP	RN7SL377P,MIR4650-2,RP11-1394O16.1,AC091738.2,RP11-535E8.2,TYW1B	first encounter of TP TopHat-Fusion,sim_adipose|TXNIP--TYW1B	sim_adipose|TXNIP--TYW1B
-NA-TP	sim_adipose	TopHat-Fusion	OBP2B--REPS2	4	215	OBP2A,OBP2B	REPS2,CBX1P2,SNORA16	already scored TopHat-Fusion,sim_adipose|OBP2A--REPS2 as TP	.
-TP	sim_adipose	TopHat-Fusion	NSMF--BSDC1	163	51	NSMF	BSDC1	first encounter of TP TopHat-Fusion,sim_adipose|NSMF--BSDC1	sim_adipose|NSMF--BSDC1
-FP	sim_adipose	TopHat-Fusion	C2--CYBB	163	51	CFB,C2,ZBTB12	CYBB,TM4SF2	first encounter of FP fusion TopHat-Fusion,sim_adipose|C2--CYBB	.
-FP	sim_adipose	TopHat-Fusion	RP11-309L24.2--SERPINB11	186	26	FLNC,RP11-309L24.2,KCP	SERPINB3,SERPINB11	first encounter of FP fusion TopHat-Fusion,sim_adipose|RP11-309L24.2--SERPINB11	.
-TP	sim_adipose	TopHat-Fusion	MOCOS--RAB3B	147	62	MOCOS	RP11-91A18.1,RNA5SP48,RAB3B	first encounter of TP TopHat-Fusion,sim_adipose|MOCOS--RAB3B	sim_adipose|MOCOS--RAB3B
-TP	sim_adipose	TopHat-Fusion	ZNF396--OR13A1	148	57	ZNF396	OR13A1	first encounter of TP TopHat-Fusion,sim_adipose|ZNF396--OR13A1	sim_adipose|ZNF396--OR13A1
-TP	sim_adipose	TopHat-Fusion	VNN1--DEFA6	168	33	CCNG1P1,VNN1	DEFA6	first encounter of TP TopHat-Fusion,sim_adipose|VNN1--DEFA6	sim_adipose|VNN1--DEFA6
-TP	sim_adipose	TopHat-Fusion	ITM2A--RNF112	156	42	ITM2A	CTB-187M2.2,RNF112	first encounter of TP TopHat-Fusion,sim_adipose|ITM2A--RNF112	sim_adipose|ITM2A--RNF112
-TP	sim_adipose	TopHat-Fusion	C22ORF43--RP11-758P17.2	133	64	KB-1572G7.3,C22orf43	RP11-758P17.3,PPP1R35,RP11-758P17.2	first encounter of TP TopHat-Fusion,sim_adipose|C22ORF43--PPP1R35	sim_adipose|C22ORF43--PPP1R35
-TP	sim_adipose	TopHat-Fusion	RP11-807H22.7--VSTM1	160	34	FOLR1,RP11-807H22.7,RP11-807H22.6	VSTM1	first encounter of TP TopHat-Fusion,sim_adipose|FOLR1--VSTM1	sim_adipose|FOLR1--VSTM1
-TP	sim_adipose	TopHat-Fusion	HNRNPDL--YTHDF1	120	67	HNRNPDL	YTHDF1	first encounter of TP TopHat-Fusion,sim_adipose|HNRNPDL--YTHDF1	sim_adipose|HNRNPDL--YTHDF1
-TP	sim_adipose	TopHat-Fusion	CSNK2B--MMP2	142	41	GPANK1,CSNK2B-LY6G5B-1181,CSNK2B,LY6G5B	MMP2,RP11-212I21.2	first encounter of TP TopHat-Fusion,sim_adipose|CSNK2B--MMP2	sim_adipose|CSNK2B--MMP2
-TP	sim_adipose	TopHat-Fusion	RBP5--IL6	147	33	RBP5	IL6,AC073072.5	first encounter of TP TopHat-Fusion,sim_adipose|RBP5--IL6	sim_adipose|RBP5--IL6
-TP	sim_adipose	TopHat-Fusion	TMEM91--GLI4	130	49	B9D2,TMEM91,TGFB1,BCKDHA,CTC-435M10.3	GLI4,ZFP41	first encounter of TP TopHat-Fusion,sim_adipose|TMEM91--GLI4	sim_adipose|TMEM91--GLI4
-TP	sim_adipose	TopHat-Fusion	WDFY3--PRAMEF4	12	165	WDFY3-AS2,WDFY3,RNU6-469P,RN7SL552P,WDFY3-AS1	PRAMEF4	first encounter of TP TopHat-Fusion,sim_adipose|WDFY3--PRAMEF4	sim_adipose|WDFY3--PRAMEF4
-FP	sim_adipose	TopHat-Fusion	SAE1--GNAI1	0	173	ZC3H4,SAE1	GNAI1	first encounter of FP fusion TopHat-Fusion,sim_adipose|SAE1--GNAI1	.
-TP	sim_adipose	TopHat-Fusion	CST11--DCAF4	139	34	CST11	DCAF4,RP1-146I3.1	first encounter of TP TopHat-Fusion,sim_adipose|CST11--DCAF4	sim_adipose|CST11--DCAF4
-TP	sim_adipose	TopHat-Fusion	SEMA7A--LAMA2	126	39	SEMA7A	BMPR1APS1,LAMA2,RNU6-861P,MESTP1,RP1-69D17.3	first encounter of TP TopHat-Fusion,sim_adipose|SEMA7A--LAMA2	sim_adipose|SEMA7A--LAMA2
-TP	sim_adipose	TopHat-Fusion	CLEC1A--MGAT3	135	28	RN7SKP161,CLEC1A	RP5-1104E15.6,MGAT3	first encounter of TP TopHat-Fusion,sim_adipose|CLEC1A--MGAT3	sim_adipose|CLEC1A--MGAT3
-TP	sim_adipose	TopHat-Fusion	VCL--GDPD2	119	27	VCL,RP11-178G16.5,RP11-417O11.5,RP11-178G16.4	GDPD2	first encounter of TP TopHat-Fusion,sim_adipose|VCL--GDPD2	sim_adipose|VCL--GDPD2
-TP	sim_adipose	TopHat-Fusion	INA--REEP3	106	33	INA	REEP3	first encounter of TP TopHat-Fusion,sim_adipose|INA--REEP3	sim_adipose|INA--REEP3
-TP	sim_adipose	TopHat-Fusion	SPI1--KIF14	115	21	SPI1	KIF14	first encounter of TP TopHat-Fusion,sim_adipose|SPI1--KIF14	sim_adipose|SPI1--KIF14
-TP	sim_adipose	TopHat-Fusion	DTHD1--ZC3H12A	90	43	RP11-431M7.2,DTHD1	ZC3H12A	first encounter of TP TopHat-Fusion,sim_adipose|DTHD1--ZC3H12A	sim_adipose|DTHD1--ZC3H12A
-TP	sim_adipose	TopHat-Fusion	C12ORF55--TMEM198	97	24	C12orf55	TMEM198,CHPF,MIR3132,RP11-256I23.1	first encounter of TP TopHat-Fusion,sim_adipose|C12ORF55--TMEM198	sim_adipose|C12ORF55--TMEM198
-TP	sim_adipose	TopHat-Fusion	ARHGEF28--B3GNT4	104	16	RNU7-196P,CTD-2372A4.1,CTC-575I10.1,ARHGEF28	DIABLO,RP11-512M8.5,B3GNT4	first encounter of TP TopHat-Fusion,sim_adipose|ARHGEF28--B3GNT4	sim_adipose|ARHGEF28--B3GNT4
-FP	sim_adipose	TopHat-Fusion	TLCD2--EFTUD1P1	16	103	TLCD2	EFTUD1P1	first encounter of FP fusion TopHat-Fusion,sim_adipose|TLCD2--EFTUD1P1	.
-TP	sim_adipose	TopHat-Fusion	C9ORF72--XCL1	92	27	C9orf72	XCL1,RP4-738P11.4	first encounter of TP TopHat-Fusion,sim_adipose|C9ORF72--XCL1	sim_adipose|C9ORF72--XCL1
-TP	sim_adipose	TopHat-Fusion	AOC2--CHKA	92	27	AOC2	CHKA,RP11-802E16.3	first encounter of TP TopHat-Fusion,sim_adipose|AOC2--CHKA	sim_adipose|AOC2--CHKA
-TP	sim_adipose	TopHat-Fusion	DLG4--B3GALTL	89	30	ACADVL,DLG4	B3GALTL,ANKRD26P4	first encounter of TP TopHat-Fusion,sim_adipose|DLG4--B3GALTL	sim_adipose|DLG4--B3GALTL
-FP	sim_adipose	TopHat-Fusion	TXNIP--TYW1	75	43	TXNIP	TYW1,SBDS,RP11-324F21.1,AC073089.1,MIR4650-1	first encounter of FP fusion TopHat-Fusion,sim_adipose|TXNIP--TYW1	.
-TP	sim_adipose	TopHat-Fusion	KRT71--RP11-166B2.1	106	12	KRT71	TNFRSF17,AC007216.2,UBL5P4,RP11-166B2.1	first encounter of TP TopHat-Fusion,sim_adipose|KRT71--TNFRSF17	sim_adipose|KRT71--TNFRSF17
-TP	sim_adipose	TopHat-Fusion	LYRM9--TSPAN14	87	30	RP1-66C13.4,RP11-138P22.1,LYRM9	TSPAN14,RP11-137H2.4	first encounter of TP TopHat-Fusion,sim_adipose|LYRM9--TSPAN14	sim_adipose|LYRM9--TSPAN14
-TP	sim_adipose	TopHat-Fusion	BPIFA1--PMVK	87	29	BPIFA1	PMVK	first encounter of TP TopHat-Fusion,sim_adipose|BPIFA1--PMVK	sim_adipose|BPIFA1--PMVK
-TP	sim_adipose	TopHat-Fusion	PPM1D--ABI1	92	21	RNU6-623P,PPM1D	ABI1,RNU6-946P,PDSS1,SNORA57	first encounter of TP TopHat-Fusion,sim_adipose|PPM1D--ABI1	sim_adipose|PPM1D--ABI1
-TP	sim_adipose	TopHat-Fusion	RP11-474G23.1--PDAP1	83	29	RP11-474G23.3,RP11-474G23.1,WDR92,PPP3R1,PNO1,AC017083.1,RP11-474G23.2	ARPC1B,PDAP1,BUD31	first encounter of TP TopHat-Fusion,sim_adipose|WDR92--PDAP1	sim_adipose|WDR92--PDAP1
-TP	sim_adipose	TopHat-Fusion	KCNJ3--PKN2	73	38	KCNJ3	RP11-76N22.2,RNU6-125P,TCEB1P19,PKN2	first encounter of TP TopHat-Fusion,sim_adipose|KCNJ3--PKN2	sim_adipose|KCNJ3--PKN2
-FP	sim_adipose	TopHat-Fusion	ALPPL2--SGCG	105	5	ALPPL2	SDAD1P4,RNU6-58P,TATDN2P3,SGCG	first encounter of FP fusion TopHat-Fusion,sim_adipose|ALPPL2--SGCG	.
-TP	sim_adipose	TopHat-Fusion	ZNF3--GPC1	79	29	ZNF3,ZSCAN21	MIR149,GPC1,AC110619.2,AC110619.1	first encounter of TP TopHat-Fusion,sim_adipose|ZNF3--GPC1	sim_adipose|ZNF3--GPC1
-FP	sim_adipose	TopHat-Fusion	CLCA4--FAT2	0	105	RP4-651E10.4,CLCA4,RP4-651E10.3	CTC-251D13.1,FAT2	first encounter of FP fusion TopHat-Fusion,sim_adipose|CLCA4--FAT2	.
-TP	sim_adipose	TopHat-Fusion	PCNX--RP13-279N23.2	79	24	RP5-1163L11.2,PCNX,RP5-1163L11.3,PTTG4P	MIR4695,ALDH4A1,RP13-279N23.2,MIR1290,TAS1R2,IFFO2	first encounter of TP TopHat-Fusion,sim_adipose|PCNX--IFFO2	sim_adipose|PCNX--IFFO2
-TP	sim_adipose	TopHat-Fusion	PRSS42--FHOD3	86	16	PRSS42	SNORD112,FHOD3,TPGS2	first encounter of TP TopHat-Fusion,sim_adipose|PRSS42--FHOD3	sim_adipose|PRSS42--FHOD3
-FP	sim_adipose	TopHat-Fusion	PRR5L--RP11-385J1.2	74	27	RP11-219O3.2,RP11-514F3.4,RP11-514F3.5,PRR5L	RP11-385J1.2,KCNMB2	first encounter of FP fusion TopHat-Fusion,sim_adipose|PRR5L--RP11-385J1.2	.
-TP	sim_adipose	TopHat-Fusion	SLC6A15--KLHL42	72	29	SLC6A15	KLHL42,RP11-860B13.1,RP11-860B13.3	first encounter of TP TopHat-Fusion,sim_adipose|SLC6A15--KLHL42	sim_adipose|SLC6A15--KLHL42
-TP	sim_adipose	TopHat-Fusion	COTL1--SRCAP	66	33	RP11-61F12.1,COTL1	PHKG2,SNORA30,SRCAP,RP11-146F11.1,RP11-2C24.4,RNU6-1043P	first encounter of TP TopHat-Fusion,sim_adipose|COTL1--SRCAP	sim_adipose|COTL1--SRCAP
-TP	sim_adipose	TopHat-Fusion	AE000661.37--CST2	80	16	TRDC,TRAJ55,TRDJ4,TRDD2,TRAJ58,TRDJ1,TRAJ54,TRDD1,TRDV2,AE000661.37,TRAJ61,TRDJ2,TRDJ3,TRAJ60,AE000661.50,TRDD3,TRAJ57,TRAJ59,TRAJ56,TRDV3	CST2	first encounter of TP TopHat-Fusion,sim_adipose|TRDV2--CST2	sim_adipose|TRDV2--CST2
-TP	sim_adipose	TopHat-Fusion	CTD-2369P2.8--BOP1	73	22	CTD-2369P2.8,ICAM4,ICAM1	BOP1,FAM203B,CTD-3232M19.2,SCXA,AC110280.1,SCXB,KM-PA-2	first encounter of TP TopHat-Fusion,sim_adipose|ICAM4--BOP1	sim_adipose|ICAM4--BOP1
-TP	sim_adipose	TopHat-Fusion	ANO5--BMP6	64	31	CTD-3064C13.1,ANO5	BMP6,BLOC1S5-TXNDC5,TXNDC5	first encounter of TP TopHat-Fusion,sim_adipose|ANO5--BMP6	sim_adipose|ANO5--BMP6
-TP	sim_adipose	TopHat-Fusion	RAPSN--BRF2	69	23	RAPSN,RNU6-1302P	GPR124,BRF2	first encounter of TP TopHat-Fusion,sim_adipose|RAPSN--BRF2	sim_adipose|RAPSN--BRF2
-TP	sim_adipose	TopHat-Fusion	SERPINB4--RP11-309L24.2	65	26	SERPINB3,SERPINB4,SERPINB11	FLNC,RP11-309L24.2,KCP	first encounter of TP TopHat-Fusion,sim_adipose|SERPINB3--FLNC	sim_adipose|SERPINB3--FLNC
-FP	sim_adipose	TopHat-Fusion	HBD--TNIK	75	15	HBD	TNIK,MIR569	first encounter of FP fusion TopHat-Fusion,sim_adipose|HBD--TNIK	.
-TP	sim_adipose	TopHat-Fusion	HBB--TNIK	75	15	HBB	TNIK,MIR569	first encounter of TP TopHat-Fusion,sim_adipose|HBB--TNIK	sim_adipose|HBB--TNIK
-TP	sim_adipose	TopHat-Fusion	CLDN11--PIH1D3	73	17	CLDN11,KRT8P13,SLC7A14,RNY5P3,RP11-373E16.4,RP11-373E16.1,RP11-373E16.3	PIH1D3	first encounter of TP TopHat-Fusion,sim_adipose|SLC7A14--PIH1D3	sim_adipose|SLC7A14--PIH1D3
-TP	sim_adipose	TopHat-Fusion	EFNA1--OSER1	69	20	EFNA1	OSER1	first encounter of TP TopHat-Fusion,sim_adipose|EFNA1--OSER1	sim_adipose|EFNA1--OSER1
-TP	sim_adipose	TopHat-Fusion	CWC27--RP1L1	66	21	CWC27	RNA5SP252,RP1L1,C8orf74,MIR4286	first encounter of TP TopHat-Fusion,sim_adipose|CWC27--RP1L1	sim_adipose|CWC27--RP1L1
-TP	sim_adipose	TopHat-Fusion	GABRA6--SCYL3	68	18	GABRB2,RP11-348M17.2,GABRA6	C1orf112,RN7SL333P,SCYL3	first encounter of TP TopHat-Fusion,sim_adipose|GABRA6--SCYL3	sim_adipose|GABRA6--SCYL3
-TP	sim_adipose	TopHat-Fusion	OARD1--HEATR5A	69	9	OARD1,TSPO2,NFYA,APOBEC2,UNC5CL	RP11-176H8.1,RP11-596D21.1,DTD2,HEATR5A,AL136418.1,CTD-2213F21.2	first encounter of TP TopHat-Fusion,sim_adipose|OARD1--HEATR5A	sim_adipose|OARD1--HEATR5A
-TP	sim_adipose	TopHat-Fusion	GP2--PDZD7	55	21	GP2	PDZD7,LZTS2	first encounter of TP TopHat-Fusion,sim_adipose|GP2--PDZD7	sim_adipose|GP2--PDZD7
-TP	sim_adipose	TopHat-Fusion	UBXN2B--ZKSCAN2	54	21	UBXN2B,RP11-114M5.1	ZKSCAN2,CTD-2547G23.2	first encounter of TP TopHat-Fusion,sim_adipose|UBXN2B--ZKSCAN2	sim_adipose|UBXN2B--ZKSCAN2
-TP	sim_adipose	TopHat-Fusion	SAMD1--POLR1A	52	17	SAMD1	POLR1A	first encounter of TP TopHat-Fusion,sim_adipose|SAMD1--POLR1A	sim_adipose|SAMD1--POLR1A
-TP	sim_adipose	TopHat-Fusion	KCND3--NUP153	48	21	KCND3-AS1,KCND3-IT1,KCND3	RP11-500C11.3,RNU6-190P,NUP153	first encounter of TP TopHat-Fusion,sim_adipose|KCND3--NUP153	sim_adipose|KCND3--NUP153
-FP	sim_adipose	TopHat-Fusion	C9ORF72--XCL2	40	27	C9orf72	RP4-738P11.3,XCL2	first encounter of FP fusion TopHat-Fusion,sim_adipose|C9ORF72--XCL2	.
-TP	sim_adipose	TopHat-Fusion	YIPF2--NDUFC2-KCTD14	54	13	CARM1,YIPF2	RP11-7I15.4,THRSP,NDUFC2-KCTD14,NDUFC2,KCTD14	first encounter of TP TopHat-Fusion,sim_adipose|YIPF2--KCTD14	sim_adipose|YIPF2--KCTD14
-FP	sim_adipose	TopHat-Fusion	CTD-2369P2.8--KM-PA-2	44	22	CTD-2369P2.8,ICAM4,ICAM1	SCXB,KM-PA-2	first encounter of FP fusion TopHat-Fusion,sim_adipose|CTD-2369P2.8--KM-PA-2	.
-TP	sim_adipose	TopHat-Fusion	CFC1B--VSNL1	54	7	AC013269.3,CFC1,CFC1B	VSNL1	first encounter of TP TopHat-Fusion,sim_adipose|CFC1--VSNL1	sim_adipose|CFC1--VSNL1
-NA-TP	sim_adipose	TopHat-Fusion	CFC1--VSNL1	54	7	AC013269.3,CFC1,CFC1B	VSNL1	already scored TopHat-Fusion,sim_adipose|CFC1--VSNL1 as TP	.
-TP	sim_adipose	TopHat-Fusion	AC011530.4--IL4	55	5	DMPK,AC011530.4,DMWD	IL4	first encounter of TP TopHat-Fusion,sim_adipose|AC011530.4--IL4	sim_adipose|AC011530.4--IL4
-TP	sim_adipose	TopHat-Fusion	CTSO--FAM65A	51	9	CTSO	CTD-2012K14.3,FAM65A,CTD-2012K14.2,CTD-2012K14.4	first encounter of TP TopHat-Fusion,sim_adipose|CTSO--FAM65A	sim_adipose|CTSO--FAM65A
-FP	sim_adipose	TopHat-Fusion	UBE2K--CYBB	15	44	UBE2K,ZBTB12P1,RN7SL558P,RP11-539G18.1	CYBB,TM4SF2	first encounter of FP fusion TopHat-Fusion,sim_adipose|UBE2K--CYBB	.
-TP	sim_adipose	TopHat-Fusion	ISOC1--CYHR1	49	9	ISOC1,MIR4633	CYHR1,CTD-2517M22.16	first encounter of TP TopHat-Fusion,sim_adipose|ISOC1--CYHR1	sim_adipose|ISOC1--CYHR1
-TP	sim_adipose	TopHat-Fusion	ZNF487--FOLR4	46	11	ZNF487,RNU7-193P	FOLR4	first encounter of TP TopHat-Fusion,sim_adipose|ZNF487--FOLR4	sim_adipose|ZNF487--FOLR4
-TP	sim_adipose	TopHat-Fusion	SESN2--VAMP8	50	7	SESN2	RN7SL126P,VAMP8	first encounter of TP TopHat-Fusion,sim_adipose|SESN2--VAMP8	sim_adipose|SESN2--VAMP8
-TP	sim_adipose	TopHat-Fusion	CAMSAP1--USP14	45	11	CAMSAP1	THOC1,USP14	first encounter of TP TopHat-Fusion,sim_adipose|CAMSAP1--USP14	sim_adipose|CAMSAP1--USP14
-TP	sim_adipose	TopHat-Fusion	PLIN1--RRP9	46	8	PEX11A,PLIN1	RRP9	first encounter of TP TopHat-Fusion,sim_adipose|PLIN1--RRP9	sim_adipose|PLIN1--RRP9
-TP	sim_adipose	TopHat-Fusion	ANKHD1-EIF4EBP3--DUS3L	42	12	EIF4EBP3,ANKHD1,SNORD45,ANKHD1-EIF4EBP3,SRA1	DUS3L,CTB-54O9.9	first encounter of TP TopHat-Fusion,sim_adipose|EIF4EBP3--DUS3L	sim_adipose|EIF4EBP3--DUS3L
-TP	sim_adipose	TopHat-Fusion	RAX2--PDE1C	46	8	RAX2	AC006377.1,PDE1C,SNX2P2	first encounter of TP TopHat-Fusion,sim_adipose|RAX2--PDE1C	sim_adipose|RAX2--PDE1C
-FP	sim_adipose	TopHat-Fusion	WNT6--SLC25A51	50	3	WNT6	PAICSP1,RP11-3J10.4,RP11-613M10.9,SLC25A51	first encounter of FP fusion TopHat-Fusion,sim_adipose|WNT6--SLC25A51	.
-TP	sim_adipose	TopHat-Fusion	MYLIP--RPE65	42	10	MYLIP,MIR4639	RPE65	first encounter of TP TopHat-Fusion,sim_adipose|MYLIP--RPE65	sim_adipose|MYLIP--RPE65
-TP	sim_adipose	TopHat-Fusion	PDCD10--CTB-54O9.9	39	12	HMGN1P8,PDCD10	DUS3L,CTB-54O9.9,PRR22	first encounter of TP TopHat-Fusion,sim_adipose|PDCD10--PRR22	sim_adipose|PDCD10--PRR22
-TP	sim_adipose	TopHat-Fusion	CFB--FKTN	36	15	CFB,C2	FKTN	first encounter of TP TopHat-Fusion,sim_adipose|CFB--FKTN	sim_adipose|CFB--FKTN
-TP	sim_adipose	TopHat-Fusion	UQCR10--NFATC2IP	43	7	UQCR10	RP11-264B17.2,MIR4517,NFATC2IP	first encounter of TP TopHat-Fusion,sim_adipose|UQCR10--NFATC2IP	sim_adipose|UQCR10--NFATC2IP
-TP	sim_adipose	TopHat-Fusion	UBE2I--LRRN4CL	34	15	LA16c-358B7.3,UBE2I	LRRN4CL	first encounter of TP TopHat-Fusion,sim_adipose|UBE2I--LRRN4CL	sim_adipose|UBE2I--LRRN4CL
-TP	sim_adipose	TopHat-Fusion	EFCAB3--CHTF18	41	8	RP11-51L5.2,EFCAB3,RNU7-52P,RPS23P7	RPUSD1,CHTF18,GNG13	first encounter of TP TopHat-Fusion,sim_adipose|EFCAB3--CHTF18	sim_adipose|EFCAB3--CHTF18
-TP	sim_adipose	TopHat-Fusion	BCL2--MS4A2	36	11	BCL2,RP11-299P2.1,RP11-28F1.2	MS4A2	first encounter of TP TopHat-Fusion,sim_adipose|BCL2--MS4A2	sim_adipose|BCL2--MS4A2
-TP	sim_adipose	TopHat-Fusion	USP48--APRT	33	11	RP11-132G19.3,USP48	APRT	first encounter of TP TopHat-Fusion,sim_adipose|USP48--APRT	sim_adipose|USP48--APRT
-TP	sim_adipose	TopHat-Fusion	WASF2--CPNE4	29	13	WASF2,RP4-752I6.1	RP11-517B11.6,RP11-250B16.1,CPNE4,MIR5704,RP11-64K7.1	first encounter of TP TopHat-Fusion,sim_adipose|WASF2--CPNE4	sim_adipose|WASF2--CPNE4
-TP	sim_adipose	TopHat-Fusion	SOCS7--APOBEC4	29	13	SOCS7	APOBEC4,RGL1	first encounter of TP TopHat-Fusion,sim_adipose|SOCS7--APOBEC4	sim_adipose|SOCS7--APOBEC4
-TP	sim_adipose	TopHat-Fusion	ONECUT3--FAM168B	26	13	ONECUT3	FAM168B	first encounter of TP TopHat-Fusion,sim_adipose|ONECUT3--FAM168B	sim_adipose|ONECUT3--FAM168B
-TP	sim_adipose	TopHat-Fusion	FABP7--ZNF33B	23	16	FABP7	RNU6-1170P,ZNF33A,AL022345.9,AL022345.7,AL022345.8,ZNF33B,RNU6-795P	first encounter of TP TopHat-Fusion,sim_adipose|FABP7--ZNF33B	sim_adipose|FABP7--ZNF33B
-TP	sim_adipose	TopHat-Fusion	SKIL--SYCP1	26	11	SKIL	SYCP1	first encounter of TP TopHat-Fusion,sim_adipose|SKIL--SYCP1	sim_adipose|SKIL--SYCP1
-TP	sim_adipose	TopHat-Fusion	ZC3HC1--FIGF	28	9	RNA5SP245,ZC3HC1,RP11-306G20.1	FIGF	first encounter of TP TopHat-Fusion,sim_adipose|ZC3HC1--FIGF	sim_adipose|ZC3HC1--FIGF
-TP	sim_adipose	TopHat-Fusion	WFDC8--ZIC3	24	13	CCNB1IP1P2,RNA5SP485,WFDC8	ZIC3	first encounter of TP TopHat-Fusion,sim_adipose|WFDC8--ZIC3	sim_adipose|WFDC8--ZIC3
-TP	sim_adipose	TopHat-Fusion	EIF2AK3--RAP1GAP	27	8	EIF2AK3,AC104134.2,AC062029.1	RAP1GAP	first encounter of TP TopHat-Fusion,sim_adipose|EIF2AK3--RAP1GAP	sim_adipose|EIF2AK3--RAP1GAP
-TP	sim_adipose	TopHat-Fusion	ATP13A4--CAMLG	26	9	ATP13A4,RP11-175P19.2,ATP13A4-AS1	CAMLG	first encounter of TP TopHat-Fusion,sim_adipose|ATP13A4--CAMLG	sim_adipose|ATP13A4--CAMLG
-FP	sim_adipose	TopHat-Fusion	RP11-373N22.3--KLHL31	24	10	RP11-373N22.3,SPINK13,AC091948.1,SPINK9,PGBD4P3,SPINK7	KLHL31	first encounter of FP fusion TopHat-Fusion,sim_adipose|RP11-373N22.3--KLHL31	.
-TP	sim_adipose	TopHat-Fusion	SEC16A--TAF10	22	11	SEC16A,C9orf163	ILK,RP11-732A19.2,TAF10	first encounter of TP TopHat-Fusion,sim_adipose|SEC16A--TAF10	sim_adipose|SEC16A--TAF10
-TP	sim_adipose	TopHat-Fusion	TMEM65--TAF8	22	11	RP11-383J24.6,TMEM65	TAF8	first encounter of TP TopHat-Fusion,sim_adipose|TMEM65--TAF8	sim_adipose|TMEM65--TAF8
-TP	sim_adipose	TopHat-Fusion	GRPEL2--MSRA	19	13	GRPEL2,GRPEL2-AS1	MSRA,AC023385.1,RP11-212F11.1	first encounter of TP TopHat-Fusion,sim_adipose|GRPEL2--MSRA	sim_adipose|GRPEL2--MSRA
-TP	sim_adipose	TopHat-Fusion	FNDC3B--APOLD1	23	9	RN7SL141P,AC092964.1,RP11-423E7.1,FNDC3B,AC092964.2	RP11-59H1.4,MIR613,APOLD1,DDX47	first encounter of TP TopHat-Fusion,sim_adipose|FNDC3B--APOLD1	sim_adipose|FNDC3B--APOLD1
-TP	sim_adipose	TopHat-Fusion	MFN1--FGFBP3	25	6	MFN1	FGFBP3,RP11-402D21.2	first encounter of TP TopHat-Fusion,sim_adipose|MFN1--FGFBP3	sim_adipose|MFN1--FGFBP3
-TP	sim_adipose	TopHat-Fusion	CCSER1--ZPBP	21	9	RP11-11N6.1,TMSB4XP8,CCSER1,RN7SKP248,RP11-763F8.1,AC004054.1	AC096568.3,C7orf72,VWC2,ZPBP	first encounter of TP TopHat-Fusion,sim_adipose|CCSER1--ZPBP	sim_adipose|CCSER1--ZPBP
-TP	sim_adipose	TopHat-Fusion	EFNB3--ATP2A3	25	4	EFNB3	ATP2A3	first encounter of TP TopHat-Fusion,sim_adipose|EFNB3--ATP2A3	sim_adipose|EFNB3--ATP2A3
-TP	sim_adipose	TopHat-Fusion	MRPS30--LTB4R	22	7	MRPS30	LTB4R2,LTB4R	first encounter of TP TopHat-Fusion,sim_adipose|MRPS30--LTB4R	sim_adipose|MRPS30--LTB4R
+TP	sim_adipose	TopHat-Fusion	WFDC5--MLF1	4437	15042	WFDC5	MLF1	first encounter of TP TopHat-Fusion,sim_adipose|WFDC5--MLF1	sim_adipose|WFDC5--MLF1
+TP	sim_adipose	TopHat-Fusion	CWC22--CAPS	4536	14700	CWC22	AC104532.2,CAPS,RANBP3,AC104532.4	first encounter of TP TopHat-Fusion,sim_adipose|CWC22--CAPS	sim_adipose|CWC22--CAPS
+TP	sim_adipose	TopHat-Fusion	LRIT1--KIAA1377	3927	14413	LRIT1	KIAA1377,ANGPTL5	first encounter of TP TopHat-Fusion,sim_adipose|LRIT1--KIAA1377	sim_adipose|LRIT1--KIAA1377
+FP	sim_adipose	TopHat-Fusion	MACROD1--PROP1	4218	13728	MACROD1,RP11-21A7A.2,OTUB1,RP11-21A7A.3,FLRT1,RP11-21A7A.4	PROP1	first encounter of FP fusion TopHat-Fusion,sim_adipose|MACROD1--PROP1	.
+TP	sim_adipose	TopHat-Fusion	TPM2--RAPH1	3893	13072	TPM2	RAPH1,ABI2	first encounter of TP TopHat-Fusion,sim_adipose|TPM2--RAPH1	sim_adipose|TPM2--RAPH1
+TP	sim_adipose	TopHat-Fusion	CTSK--AP3M1	3926	12955	UBE2D3P3,CTSK	RP11-178G16.5,AP3M1,RP11-178G16.4	first encounter of TP TopHat-Fusion,sim_adipose|CTSK--AP3M1	sim_adipose|CTSK--AP3M1
+TP	sim_adipose	TopHat-Fusion	NLN--TSFM	3910	12605	SGTB,CTD-2353N24.1,NLN	RP11-571M6.15,RP11-571M6.17,RNU6-1083P,AC025165.1,TSFM,AVIL,METTL21B	first encounter of TP TopHat-Fusion,sim_adipose|NLN--TSFM	sim_adipose|NLN--TSFM
+TP	sim_adipose	TopHat-Fusion	PPT1--PHF5A	2687	13201	PPT1	PHF5A	first encounter of TP TopHat-Fusion,sim_adipose|PPT1--PHF5A	sim_adipose|PPT1--PHF5A
+TP	sim_adipose	TopHat-Fusion	SOX18--VAPA	3740	12109	SOX18,ZNF512B	RNA5SP450,VAPA	first encounter of TP TopHat-Fusion,sim_adipose|SOX18--VAPA	sim_adipose|SOX18--VAPA
+TP	sim_adipose	TopHat-Fusion	BCO2--NT5C1A	2711	12904	AP002884.3,BCO2,MRPS36P4,SDHD,RP11-356J5.5,RPS12P21	NT5C1A	first encounter of TP TopHat-Fusion,sim_adipose|BCO2--NT5C1A	sim_adipose|BCO2--NT5C1A
+TP	sim_adipose	TopHat-Fusion	SEC1P--SH3RF1	3687	11257	NTN5,CA11,SEC1P	RP11-327O17.2,SH3RF1,RPL6P12	first encounter of TP TopHat-Fusion,sim_adipose|NTN5--SH3RF1	sim_adipose|NTN5--SH3RF1
+TP	sim_adipose	TopHat-Fusion	ATP6V0E1--ZSCAN1	2233	12209	ATP6V0E1,SNORA74B,CTC-308K20.4	LETM1P2,HNRNPDLP4,ZSCAN1	first encounter of TP TopHat-Fusion,sim_adipose|ATP6V0E1--ZSCAN1	sim_adipose|ATP6V0E1--ZSCAN1
+TP	sim_adipose	TopHat-Fusion	IL9R--SGPP1	2471	11763	IL9R,WASH6P,AJ271736.10,WASIR1	SGPP1	first encounter of TP TopHat-Fusion,sim_adipose|IL9R--SGPP1	sim_adipose|IL9R--SGPP1
+TP	sim_adipose	TopHat-Fusion	ZNF248--BAZ2A	3252	10699	RP11-162G10.5,AL135791.1,ZNF33BP1,RP11-258F22.2,RP11-162G10.1,ZNF248,RP11-258F22.1	BAZ2A	first encounter of TP TopHat-Fusion,sim_adipose|ZNF248--BAZ2A	sim_adipose|ZNF248--BAZ2A
+TP	sim_adipose	TopHat-Fusion	KDM5C--FAM45A	2958	10969	KDM5C-IT1,KDM5C	FAM45B,RP1-274L7.1,FAM45A	first encounter of TP TopHat-Fusion,sim_adipose|KDM5C--FAM45A	sim_adipose|KDM5C--FAM45A
+TP	sim_adipose	TopHat-Fusion	RBL1--RPF1	1940	11934	RPS27AP3,RBL1,RPS3AP3	RPF1,GNG5	first encounter of TP TopHat-Fusion,sim_adipose|RBL1--RPF1	sim_adipose|RBL1--RPF1
+TP	sim_adipose	TopHat-Fusion	HTR6--ARHGEF33	2727	9155	HTR6	ARHGEF33,RN7SL96P,MORN2,AC019171.1	first encounter of TP TopHat-Fusion,sim_adipose|HTR6--ARHGEF33	sim_adipose|HTR6--ARHGEF33
+TP	sim_adipose	TopHat-Fusion	PID1--DAP	3652	7768	RN7SKP283,AC007677.2,PID1	DAP,CTD-2154B17.4	first encounter of TP TopHat-Fusion,sim_adipose|PID1--DAP	sim_adipose|PID1--DAP
+TP	sim_adipose	TopHat-Fusion	MPZL2--EPPIN-WFDC6	2187	9224	MPZL2	RP3-461P17.6,WFDC6,EPPIN,HSPD1P21,EPPIN-WFDC6	first encounter of TP TopHat-Fusion,sim_adipose|MPZL2--EPPIN	sim_adipose|MPZL2--EPPIN
+TP	sim_adipose	TopHat-Fusion	FGF6--KMT2E	2704	8493	FGF6	CTB-152G17.6,KMT2E,KMT2E-AS1,SRPK2	first encounter of TP TopHat-Fusion,sim_adipose|FGF6--KMT2E	sim_adipose|FGF6--KMT2E
+TP	sim_adipose	TopHat-Fusion	ELOVL7--AKAP8L	3729	7133	ELOVL7	AKAP8L,AC005785.2	first encounter of TP TopHat-Fusion,sim_adipose|ELOVL7--AKAP8L	sim_adipose|ELOVL7--AKAP8L
+TP	sim_adipose	TopHat-Fusion	CASD1--LRIG3	2510	8304	CASD1	LRIG3	first encounter of TP TopHat-Fusion,sim_adipose|CASD1--LRIG3	sim_adipose|CASD1--LRIG3
+TP	sim_adipose	TopHat-Fusion	WDR88--NR1D2	2534	8069	WDR88	NKIRAS1,NR1D2	first encounter of TP TopHat-Fusion,sim_adipose|WDR88--NR1D2	sim_adipose|WDR88--NR1D2
+TP	sim_adipose	TopHat-Fusion	NDFIP2--RP11-196G18.21	2683	7898	NDFIP2-AS1,NDFIP2	FCGR1A,RP11-196G18.21,RP11-196G18.3,HIST2H2BF	first encounter of TP TopHat-Fusion,sim_adipose|NDFIP2--HIST2H2BF	sim_adipose|NDFIP2--HIST2H2BF
+TP	sim_adipose	TopHat-Fusion	SFMBT1--TMEM174	2489	7742	SFMBT1,RP11-894J14.5	TMEM174	first encounter of TP TopHat-Fusion,sim_adipose|SFMBT1--TMEM174	sim_adipose|SFMBT1--TMEM174
+FP	sim_adipose	TopHat-Fusion	RP11-474G23.1--LARP1B	1288	8874	RP11-474G23.3,RP11-474G23.1,WDR92,PPP3R1,PNO1,AC017083.1,RP11-474G23.2	FOSL1P1,LARP1B,RP11-214O14.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|RP11-474G23.1--LARP1B	.
+TP	sim_adipose	TopHat-Fusion	TRGV3--POLA1	767	9121	TRGV3,TRGV5	POLA1,AC004655.1,EEF1B2P3,SCARNA23	first encounter of TP TopHat-Fusion,sim_adipose|TRGV3--POLA1	sim_adipose|TRGV3--POLA1
+FP	sim_adipose	TopHat-Fusion	TRGV5--POLA1	767	9121	TRGV5,TRGV5P	POLA1,AC004655.1,EEF1B2P3,SCARNA23	first encounter of FP fusion TopHat-Fusion,sim_adipose|TRGV5--POLA1	.
+TP	sim_adipose	TopHat-Fusion	EHD3--TLCD1	2291	7578	EHD3	NEK8,TLCD1,RPL23A,AC010761.14	first encounter of TP TopHat-Fusion,sim_adipose|EHD3--TLCD1	sim_adipose|EHD3--TLCD1
+FP	sim_adipose	TopHat-Fusion	KDM5C--RP1-274L7.1	2958	6880	KDM5C-IT1,KDM5C	FAM45B,RP1-274L7.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|KDM5C--RP1-274L7.1	.
+TP	sim_adipose	TopHat-Fusion	KISS1--HP1BP3	1952	7347	KISS1	HP1BP3,RP5-930J4.4	first encounter of TP TopHat-Fusion,sim_adipose|KISS1--HP1BP3	sim_adipose|KISS1--HP1BP3
+TP	sim_adipose	TopHat-Fusion	ATP6V0E2--PAM	2133	6929	ATP6V0E2-AS1,ATP6V0E2	PAM	first encounter of TP TopHat-Fusion,sim_adipose|ATP6V0E2--PAM	sim_adipose|ATP6V0E2--PAM
+TP	sim_adipose	TopHat-Fusion	TSGA13--HMGCL	1916	6384	TSGA13,COPG2	HMGCL	first encounter of TP TopHat-Fusion,sim_adipose|TSGA13--HMGCL	sim_adipose|TSGA13--HMGCL
+TP	sim_adipose	TopHat-Fusion	OBP2A--REPS2	2438	5651	OBP2A	REPS2,CBX1P2,SNORA16	first encounter of TP TopHat-Fusion,sim_adipose|OBP2A--REPS2	sim_adipose|OBP2A--REPS2
+TP	sim_adipose	TopHat-Fusion	S100A6--GNPAT	1910	5962	BX470102.3,S100A6	GNPAT,C1orf131	first encounter of TP TopHat-Fusion,sim_adipose|S100A6--GNPAT	sim_adipose|S100A6--GNPAT
+TP	sim_adipose	TopHat-Fusion	XRCC1--MORC2-AS1	1611	5572	XRCC1,L34079.3,L34079.2,PINLYP,L34079.4	MORC2-AS1,MORC2	first encounter of TP TopHat-Fusion,sim_adipose|XRCC1--MORC2	sim_adipose|XRCC1--MORC2
+TP	sim_adipose	TopHat-Fusion	FAM160A2--GGT7	1667	5406	FAM160A2	GGT7,ACSS2	first encounter of TP TopHat-Fusion,sim_adipose|FAM160A2--GGT7	sim_adipose|FAM160A2--GGT7
+TP	sim_adipose	TopHat-Fusion	GTF3C1--TMEM79	1639	5428	GTF3C1	C1orf85,TMEM79	first encounter of TP TopHat-Fusion,sim_adipose|GTF3C1--TMEM79	sim_adipose|GTF3C1--TMEM79
+TP	sim_adipose	TopHat-Fusion	LRRIQ3--ZBTB16	1688	5350	LRRIQ3	AP000908.1,RP11-64D24.2,ZBTB16	first encounter of TP TopHat-Fusion,sim_adipose|LRRIQ3--ZBTB16	sim_adipose|LRRIQ3--ZBTB16
+TP	sim_adipose	TopHat-Fusion	METTL2B--RASAL1	1366	5334	HILPDA,RP11-212P7.3,RP11-155G14.6,METTL2B,RP11-155G14.5	RASAL1	first encounter of TP TopHat-Fusion,sim_adipose|METTL2B--RASAL1	sim_adipose|METTL2B--RASAL1
+TP	sim_adipose	TopHat-Fusion	C4ORF27--PPP1R3C	209	6436	C4orf27	PPP1R3C	first encounter of TP TopHat-Fusion,sim_adipose|C4ORF27--PPP1R3C	sim_adipose|C4ORF27--PPP1R3C
+TP	sim_adipose	TopHat-Fusion	BMPR2--GAL3ST2	1509	4904	BMPR2,RP11-27M5.1,AC073410.1	GAL3ST2,AC114730.5	first encounter of TP TopHat-Fusion,sim_adipose|BMPR2--GAL3ST2	sim_adipose|BMPR2--GAL3ST2
+TP	sim_adipose	TopHat-Fusion	DKK1--C1ORF220	1416	4791	DKK1	C1ORF220,C1orf220,TEX35	first encounter of TP TopHat-Fusion,sim_adipose|DKK1--C1ORF220	sim_adipose|DKK1--C1ORF220
+TP	sim_adipose	TopHat-Fusion	OTC--MDFI	1049	5080	TM4SF2,OTC,TDGF1P1	MDFI	first encounter of TP TopHat-Fusion,sim_adipose|OTC--MDFI	sim_adipose|OTC--MDFI
+TP	sim_adipose	TopHat-Fusion	KRT1--CLDN2	1463	4605	KRT1	RIPPLY1,CLDN2,MORC4	first encounter of TP TopHat-Fusion,sim_adipose|KRT1--CLDN2	sim_adipose|KRT1--CLDN2
+FP	sim_adipose	TopHat-Fusion	METTL2A--RASAL1	1366	4696	METTL2A	RASAL1	first encounter of FP fusion TopHat-Fusion,sim_adipose|METTL2A--RASAL1	.
+TP	sim_adipose	TopHat-Fusion	ALPP--SGCG	2029	3778	AC068134.8,ALPP	SDAD1P4,RNU6-58P,TATDN2P3,SGCG	first encounter of TP TopHat-Fusion,sim_adipose|ALPP--SGCG	sim_adipose|ALPP--SGCG
+TP	sim_adipose	TopHat-Fusion	LYG1--GUCY1B3	1362	4201	LYG1,C2orf15	GUCY1B3	first encounter of TP TopHat-Fusion,sim_adipose|LYG1--GUCY1B3	sim_adipose|LYG1--GUCY1B3
+TP	sim_adipose	TopHat-Fusion	EPX--KANK4	890	4567	EPX	RNU6-371P,KANK4	first encounter of TP TopHat-Fusion,sim_adipose|EPX--KANK4	sim_adipose|EPX--KANK4
+TP	sim_adipose	TopHat-Fusion	FADS2--CHP1	731	4588	MIR1908,FADS2,FEN1,FADS1	CHP1	first encounter of TP TopHat-Fusion,sim_adipose|FADS2--CHP1	sim_adipose|FADS2--CHP1
+TP	sim_adipose	TopHat-Fusion	LOXHD1--FBXO11	1237	4005	LOXHD1	AC079807.3,RPL36AP15,AC079807.2,MSH6,FBXO11	first encounter of TP TopHat-Fusion,sim_adipose|LOXHD1--MSH6	sim_adipose|LOXHD1--MSH6
+TP	sim_adipose	TopHat-Fusion	ADAMTSL4--KAT8	1209	4027	MIR4257,AL356356.1,RP11-54A4.2,ADAMTSL4	KAT8,RP11-196G11.4	first encounter of TP TopHat-Fusion,sim_adipose|AL356356.1--KAT8	sim_adipose|AL356356.1--KAT8
+TP	sim_adipose	TopHat-Fusion	ARID3C--GCH1	1202	3956	ARID3C	GCH1,FDPSP3,RNU6ATAC9P,MIR4308	first encounter of TP TopHat-Fusion,sim_adipose|ARID3C--GCH1	sim_adipose|ARID3C--GCH1
+TP	sim_adipose	TopHat-Fusion	HYOU1--TRAV34	1179	3675	HYOU1,RP11-110I1.6	TRAV34	first encounter of TP TopHat-Fusion,sim_adipose|HYOU1--TRAV34	sim_adipose|HYOU1--TRAV34
+TP	sim_adipose	TopHat-Fusion	SLC6A12--BOC	1035	3599	RP11-283I3.1,RP11-283I3.2,SLC6A12	WDR52,BOC	first encounter of TP TopHat-Fusion,sim_adipose|SLC6A12--BOC	sim_adipose|SLC6A12--BOC
+TP	sim_adipose	TopHat-Fusion	SCGB2A1--CCL17	1059	3515	SCGB2A1,RP11-703H8.9	CCL17	first encounter of TP TopHat-Fusion,sim_adipose|SCGB2A1--CCL17	sim_adipose|SCGB2A1--CCL17
+TP	sim_adipose	TopHat-Fusion	TCF20--STIM2	438	4056	Z83851.4,TCF20,Z83851.3,CTA-989H11.1	STIM2,RP11-293A21.1,RP11-293A21.2	first encounter of TP TopHat-Fusion,sim_adipose|TCF20--STIM2	sim_adipose|TCF20--STIM2
+TP	sim_adipose	TopHat-Fusion	ZW10--MPV17L2	1055	3373	RP11-667M19.1,RP11-667M19.2,RP11-667M19.4,ZW10	RAB3A,MPV17L2	first encounter of TP TopHat-Fusion,sim_adipose|ZW10--MPV17L2	sim_adipose|ZW10--MPV17L2
+TP	sim_adipose	TopHat-Fusion	AP5M1--UGT1A8	1030	3359	AP5M1,EXOC5	UGT1A8,UGT1A7,UGT1A10,UGT1A2P,AC114812.10,UGT1A4,UGT1A13P,UGT1A3,AC114812.5,UGT1A5,UGT1A6,AC114812.8,DNAJB3,UGT1A1,RPL17P11,AC114812.9,UGT1A9	first encounter of TP TopHat-Fusion,sim_adipose|AP5M1--UGT1A4	sim_adipose|AP5M1--UGT1A4
+TP	sim_adipose	TopHat-Fusion	UACA--FAM46C	1007	3326	UACA,RP11-138H8.2	FAM46C	first encounter of TP TopHat-Fusion,sim_adipose|UACA--FAM46C	sim_adipose|UACA--FAM46C
+TP	sim_adipose	TopHat-Fusion	HEPACAM--THRAP3	1067	3223	HEPACAM,HEPN1	UBE2V2P4,THRAP3	first encounter of TP TopHat-Fusion,sim_adipose|HEPACAM--THRAP3	sim_adipose|HEPACAM--THRAP3
+TP	sim_adipose	TopHat-Fusion	ACAP1--CRYBB3	948	3243	ACAP1	CRYBB3	first encounter of TP TopHat-Fusion,sim_adipose|ACAP1--CRYBB3	sim_adipose|ACAP1--CRYBB3
+TP	sim_adipose	TopHat-Fusion	ZNF227--NMBR	751	3378	ZNF227,ZNF235	NMBR,RP11-137J7.2,RP11-137J7.3	first encounter of TP TopHat-Fusion,sim_adipose|ZNF227--NMBR	sim_adipose|ZNF227--NMBR
+TP	sim_adipose	TopHat-Fusion	DNM1--RAB10	1092	2961	DNM1,CIZ1,MIR199B,MIR3154	RAB10,RNU6-942P,RP11-214J9.1	first encounter of TP TopHat-Fusion,sim_adipose|DNM1--RAB10	sim_adipose|DNM1--RAB10
+TP	sim_adipose	TopHat-Fusion	SGOL2--SERPINA5	915	3108	KCTD18,SGOL2	SERPINA5,RP11-986E7.7,SERPINA4	first encounter of TP TopHat-Fusion,sim_adipose|SGOL2--SERPINA4	sim_adipose|SGOL2--SERPINA4
+TP	sim_adipose	TopHat-Fusion	B4GALNT4--CCNH	912	3108	B4GALNT4	CCNH,RASA1	first encounter of TP TopHat-Fusion,sim_adipose|B4GALNT4--CCNH	sim_adipose|B4GALNT4--CCNH
+TP	sim_adipose	TopHat-Fusion	PHC1--PDILT	687	3147	M6PR,PHC1	PDILT,RP11-429K17.1	first encounter of TP TopHat-Fusion,sim_adipose|PHC1--PDILT	sim_adipose|PHC1--PDILT
+TP	sim_adipose	TopHat-Fusion	SERPINC1--SCO2	863	2865	SERPINC1	SCO2,TYMP,CTA-384D8.36	first encounter of TP TopHat-Fusion,sim_adipose|SERPINC1--SCO2	sim_adipose|SERPINC1--SCO2
+TP	sim_adipose	TopHat-Fusion	HDAC4--PLEKHA1	861	2849	HDAC4,MIR4269,AC017028.2,AC017028.6,AC017028.10,AC017028.1,MIR4440,MIR4441,AC017028.3,AC062017.1,AC017028.9,AC017028.5,MIR2467,AC017028.8,AC017028.4,AC017028.7	MIR3941,PLEKHA1	first encounter of TP TopHat-Fusion,sim_adipose|HDAC4--PLEKHA1	sim_adipose|HDAC4--PLEKHA1
+TP	sim_adipose	TopHat-Fusion	KIF20B--FGD6	840	2808	KIF20B	RP11-129B9.1,FGD6,RP11-129B9.2	first encounter of TP TopHat-Fusion,sim_adipose|KIF20B--FGD6	sim_adipose|KIF20B--FGD6
+TP	sim_adipose	TopHat-Fusion	ATP8A1--ERI1	850	2750	AC084010.1,RP11-473D24.1,ATP8A1,RPS7P7	U3,ERI1,MIR4660,RNU7-55P	first encounter of TP TopHat-Fusion,sim_adipose|ATP8A1--ERI1	sim_adipose|ATP8A1--ERI1
+TP	sim_adipose	TopHat-Fusion	SLC38A9--METAP2	417	3142	SLC38A9,DDX4,RP11-175M2.1	METAP2	first encounter of TP TopHat-Fusion,sim_adipose|SLC38A9--METAP2	sim_adipose|SLC38A9--METAP2
+TP	sim_adipose	TopHat-Fusion	LIPM--CHL1	770	2525	LIPM	RNU6-1194P,CHL1,RPS8P6,CHL1-AS2,CHL1-AS1	first encounter of TP TopHat-Fusion,sim_adipose|LIPM--CHL1	sim_adipose|LIPM--CHL1
+TP	sim_adipose	TopHat-Fusion	AADAT--VMP1	750	2485	AADAT	MIR21,PTRH2,VMP1,RP11-619I22.1	first encounter of TP TopHat-Fusion,sim_adipose|AADAT--VMP1	sim_adipose|AADAT--VMP1
+FP	sim_adipose	TopHat-Fusion	PLA2G5--RP11-510J16.5	709	2424	PLA2G5	AC138304.1,HSD17B2,CTD-2588J6.1,RP11-510J16.5	first encounter of FP fusion TopHat-Fusion,sim_adipose|PLA2G5--RP11-510J16.5	.
+TP	sim_adipose	TopHat-Fusion	LRRC56--NFIA	751	2281	C11orf35,LRRC56	RP4-802A10.1,AC096534.1,RP5-833A20.1,RP4-668G5.1,NFIA	first encounter of TP TopHat-Fusion,sim_adipose|LRRC56--NFIA	sim_adipose|LRRC56--NFIA
+TP	sim_adipose	TopHat-Fusion	MCM8--ZNF454	671	2297	RP5-967N21.7,MCM8	ZNF454	first encounter of TP TopHat-Fusion,sim_adipose|MCM8--ZNF454	sim_adipose|MCM8--ZNF454
+TP	sim_adipose	TopHat-Fusion	ZSCAN32--BCL2A1	664	2299	NAA60,ZSCAN32	BCL2A1	first encounter of TP TopHat-Fusion,sim_adipose|ZSCAN32--BCL2A1	sim_adipose|ZSCAN32--BCL2A1
+TP	sim_adipose	TopHat-Fusion	UBR2--TADA1	719	2214	UBR2,RNU6-890P	DUTP6,TADA1	first encounter of TP TopHat-Fusion,sim_adipose|UBR2--TADA1	sim_adipose|UBR2--TADA1
+TP	sim_adipose	TopHat-Fusion	CABLES1--RP11-373N22.3	940	1978	TMEM241,AC105247.1,RP11-17J14.2,CABLES1	RP11-373N22.3,SPINK13,AC091948.1,SPINK9,PGBD4P3,SPINK7	first encounter of TP TopHat-Fusion,sim_adipose|CABLES1--SPINK13	sim_adipose|CABLES1--SPINK13
+TP	sim_adipose	TopHat-Fusion	WNT6--TMX2-CTNND1	691	2166	WNT6	C11orf31,TMX2,RP11-691N7.6,AP000662.9,BTBD18,TMX2-CTNND1,CTNND1	first encounter of TP TopHat-Fusion,sim_adipose|WNT6--TMX2	sim_adipose|WNT6--TMX2
+FP	sim_adipose	TopHat-Fusion	PHC1P1--PDILT	713	2132	PHC1P1	PDILT,RP11-429K17.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|PHC1P1--PDILT	.
+TP	sim_adipose	TopHat-Fusion	ERCC8--KATNAL2	453	2361	ERCC8,GNL3LP1,AC104113.3	TCEB3CL,TCEB3B,KATNAL2,TCEB3CL2,TCEB3C,RP11-49K24.4,PIAS2	first encounter of TP TopHat-Fusion,sim_adipose|ERCC8--KATNAL2	sim_adipose|ERCC8--KATNAL2
+TP	sim_adipose	TopHat-Fusion	NFU1--ANAPC16	661	2152	NFU1	ASCC1,ANAPC16	first encounter of TP TopHat-Fusion,sim_adipose|NFU1--ANAPC16	sim_adipose|NFU1--ANAPC16
+TP	sim_adipose	TopHat-Fusion	QRICH2--SIX3	652	2131	QRICH2	SIX3-AS1,SIX3	first encounter of TP TopHat-Fusion,sim_adipose|QRICH2--SIX3	sim_adipose|QRICH2--SIX3
+TP	sim_adipose	TopHat-Fusion	NUTM1--ARIH1	1189	1580	NUTM1	ARIH1,RP11-1006G14.4,MIR630,RP11-1007O24.3	first encounter of TP TopHat-Fusion,sim_adipose|NUTM1--ARIH1	sim_adipose|NUTM1--ARIH1
+TP	sim_adipose	TopHat-Fusion	ZNF708--GMFG	716	2043	VN1R83P,RPL36AP51,CTD-3030D20.2,CTD-3233P19.7,ZNF708,CTD-3030D20.1,CTD-3233P19.8	CTC-246B18.10,GMFG	first encounter of TP TopHat-Fusion,sim_adipose|ZNF708--GMFG	sim_adipose|ZNF708--GMFG
+FP	sim_adipose	TopHat-Fusion	ABHD2--SOX18	2721	10	RP11-326A19.3,RNU7-195P,ABHD2,HMGB1P8,RP11-326A19.5	SOX18,ZNF512B	first encounter of FP fusion TopHat-Fusion,sim_adipose|ABHD2--SOX18	.
+TP	sim_adipose	TopHat-Fusion	CD244--GPR155	629	2043	RP11-312J18.3,CD244	GPR155	first encounter of TP TopHat-Fusion,sim_adipose|CD244--GPR155	sim_adipose|CD244--GPR155
+TP	sim_adipose	TopHat-Fusion	PAOX--CTC-454I21.3	487	2166	AL360181.1,RP11-108K14.8,PAOX	ZNF585B,ZNF585A,ZNF420,CTC-454I21.3,CTC-454I21.4	first encounter of TP TopHat-Fusion,sim_adipose|PAOX--ZNF585A	sim_adipose|PAOX--ZNF585A
+TP	sim_adipose	TopHat-Fusion	PXK--ACAA2	767	1862	PXK	RP11-886H22.1,ACAA2	first encounter of TP TopHat-Fusion,sim_adipose|PXK--ACAA2	sim_adipose|PXK--ACAA2
+TP	sim_adipose	TopHat-Fusion	TRIM59--C10ORF111	601	1999	RNU7-136P,RP11-227J5.3,RP11-432B6.3,TRIM59,SMC4	RPP38,C10orf111	first encounter of TP TopHat-Fusion,sim_adipose|TRIM59--C10ORF111	sim_adipose|TRIM59--C10ORF111
+TP	sim_adipose	TopHat-Fusion	SEMA6D--TRIM29	418	2147	SEMA6D,CTD-2050N2.1,RP11-408J6.1,AC084882.1,RP11-142J21.2,RN7SKP139,RP11-552E10.1,RP11-142J21.1,AC012050.1,CTD-2270N23.1	TRIM29,AP000679.2	first encounter of TP TopHat-Fusion,sim_adipose|SEMA6D--TRIM29	sim_adipose|SEMA6D--TRIM29
+TP	sim_adipose	TopHat-Fusion	ARHGAP28--ESPL1	620	1891	RP11-146G7.2,ARHGAP28,RP11-91I8.3	ESPL1	first encounter of TP TopHat-Fusion,sim_adipose|ARHGAP28--ESPL1	sim_adipose|ARHGAP28--ESPL1
+TP	sim_adipose	TopHat-Fusion	OSBPL5--CALCR	588	1917	OSBPL5	MIR653,MIR489,CALCR	first encounter of TP TopHat-Fusion,sim_adipose|OSBPL5--CALCR	sim_adipose|OSBPL5--CALCR
+TP	sim_adipose	TopHat-Fusion	IL17RB--PCDHGA1	1135	1284	IL17RB,RP11-884K10.7	RN7SL68P,PCDHGA10,PCDHGB2,PCDHGA9,PCDHGA8,PCDHGB6,PCDHGA4,PCDHGB8P,PCDHGA7,PCDHGB1,PCDHGB4,PCDHGA2,PCDHGA11,PCDHGA3,PCDHGA12,PCDHGB3,PCDHGC3,PCDHGA5,PCDHGA6,PCDHGC4,PCDHGC5,PCDHGA1,PCDHGB7	first encounter of TP TopHat-Fusion,sim_adipose|IL17RB--PCDHGB3	sim_adipose|IL17RB--PCDHGB3
+TP	sim_adipose	TopHat-Fusion	PSMD3--FMO5	445	1911	PSMD3	RP11-337C18.10,PDIA3P,CHD1L,RP11-337C18.9,CCT8P1,RP11-337C18.8,FMO5,RP11-337C18.7	first encounter of TP TopHat-Fusion,sim_adipose|PSMD3--FMO5	sim_adipose|PSMD3--FMO5
+TP	sim_adipose	TopHat-Fusion	IZUMO3--C7ORF63	415	1909	IZUMO3	AC002064.4,C7orf63	first encounter of TP TopHat-Fusion,sim_adipose|IZUMO3--C7ORF63	sim_adipose|IZUMO3--C7ORF63
+TP	sim_adipose	TopHat-Fusion	PPIC--GJA4	417	1897	RP11-359P5.1,PPIC,SNX24	GJA4,SMIM12	first encounter of TP TopHat-Fusion,sim_adipose|PPIC--GJA4	sim_adipose|PPIC--GJA4
+TP	sim_adipose	TopHat-Fusion	CBLN1--PCDHAC2	559	1617	CBLN1	PCDHAC1,PCDHAC2,PCDHA8,PCDHA12,PCDHA10,PCDHA6,PCDHA13,PCDHA3,PCDHA4,PCDHA2,PCDHA5,PCDHA1,PCDHA11,PCDHA7,PCDHA9	first encounter of TP TopHat-Fusion,sim_adipose|CBLN1--PCDHA13	sim_adipose|CBLN1--PCDHA13
+TP	sim_adipose	TopHat-Fusion	MIPOL1--ZNF513	1124	1049	RNU6-886P,MIPOL1	ZNF513	first encounter of TP TopHat-Fusion,sim_adipose|MIPOL1--ZNF513	sim_adipose|MIPOL1--ZNF513
+TP	sim_adipose	TopHat-Fusion	C2ORF44--USP39	512	1635	MFSD2B,C2orf44,RNU6-370P	TMEM150A,C2orf68,USP39	first encounter of TP TopHat-Fusion,sim_adipose|C2ORF44--USP39	sim_adipose|C2ORF44--USP39
+TP	sim_adipose	TopHat-Fusion	TBC1D25--SSX3	305	1750	TBC1D25	SSX3	first encounter of TP TopHat-Fusion,sim_adipose|TBC1D25--SSX3	sim_adipose|TBC1D25--SSX3
+TP	sim_adipose	TopHat-Fusion	TRAPPC11--LILRA2	558	1491	RNU6-335P,RNU6-1053P,TRAPPC11	CTB-83J4.2,LILRB1,LILRA2,LILRA1	first encounter of TP TopHat-Fusion,sim_adipose|TRAPPC11--LILRA2	sim_adipose|TRAPPC11--LILRA2
+TP	sim_adipose	TopHat-Fusion	SLC39A12--PCBD2	474	1558	SLC39A12-AS1,SLC39A12	CTB-36O1.3,MIR4461,PCBD2,CATSPER3,MTND4P12,MTND5P11,CTB-36O1.7,MTND6P4	first encounter of TP TopHat-Fusion,sim_adipose|SLC39A12--PCBD2	sim_adipose|SLC39A12--PCBD2
+TP	sim_adipose	TopHat-Fusion	TTYH2--OR5V1	476	1537	TTYH2,CTD-2514K5.4	OR5V1,OR11A1,OR12D3,OR12D2,OR12D1	first encounter of TP TopHat-Fusion,sim_adipose|TTYH2--OR11A1	sim_adipose|TTYH2--OR11A1
+TP	sim_adipose	TopHat-Fusion	CTF1--MUC16	349	1655	CTF1	MUC16	first encounter of TP TopHat-Fusion,sim_adipose|CTF1--MUC16	sim_adipose|CTF1--MUC16
+TP	sim_adipose	TopHat-Fusion	FBXO22--ZNF84	331	1640	FBXO22,NRG4	ZNF84	first encounter of TP TopHat-Fusion,sim_adipose|FBXO22--ZNF84	sim_adipose|FBXO22--ZNF84
+TP	sim_adipose	TopHat-Fusion	GABRA3--GPM6A	517	1421	MIR105-1,GABRA3,MIR105-2,MIR767,RNU6-764P,RP11-329E24.6	RP11-806K15.1,GPM6A,RP11-598O12.1	first encounter of TP TopHat-Fusion,sim_adipose|GABRA3--GPM6A	sim_adipose|GABRA3--GPM6A
+TP	sim_adipose	TopHat-Fusion	SGCZ--NR1I3	637	1294	SGCZ,RP11-138H14.1,RNU6-397P,AC021760.1,RP11-776K3.1,MIR383,RP11-3G21.1,CTD-2023J5.1,RNU7-153P	TOMM40L,NR1I3	first encounter of TP TopHat-Fusion,sim_adipose|SGCZ--NR1I3	sim_adipose|SGCZ--NR1I3
+FP	sim_adipose	TopHat-Fusion	CUX2--FAM71E1	461	1454	RNA5SP373,AC002978.1,AC002979.1,CUX2	FAM71E1,EMC10	first encounter of FP fusion TopHat-Fusion,sim_adipose|CUX2--FAM71E1	.
+TP	sim_adipose	TopHat-Fusion	AKR1C1--C6ORF222	352	1561	AKR1C3,AKR1C2,RP11-499O7.4,U8,AKR1C1,RP11-499O7.7	C6orf222	first encounter of TP TopHat-Fusion,sim_adipose|AKR1C1--C6ORF222	sim_adipose|AKR1C1--C6ORF222
+TP	sim_adipose	TopHat-Fusion	MYF5--BTG3	469	1442	MYF5	BTG3	first encounter of TP TopHat-Fusion,sim_adipose|MYF5--BTG3	sim_adipose|MYF5--BTG3
+TP	sim_adipose	TopHat-Fusion	DYNC2LI1--AL590708.2	455	1450	DYNC2LI1	DNM1,AL590708.2,MIR3154,PTGES2	first encounter of TP TopHat-Fusion,sim_adipose|DYNC2LI1--AL590708.2	sim_adipose|DYNC2LI1--AL590708.2
+TP	sim_adipose	TopHat-Fusion	NSF--BAAT	771	1059	NSF,RPS7P11	FYTTD1P1,RP11-35N6.6,BAAT	first encounter of TP TopHat-Fusion,sim_adipose|NSF--BAAT	sim_adipose|NSF--BAAT
+TP	sim_adipose	TopHat-Fusion	RUNX2--SEPT12	387	1390	SUPT3H,RUNX2,RP1-244F24.1,RP1-166H4.2,RNU6-515P	SEPT12,SMIM22	first encounter of TP TopHat-Fusion,sim_adipose|RUNX2--SEPT12	sim_adipose|RUNX2--SEPT12
+TP	sim_adipose	TopHat-Fusion	MYRFL--AC003002.4	331	1312	AC025263.3,RP11-611E13.3,MYRFL,RP11-611E13.2	ZNF548,AC003002.6,AC003002.4,ZNF547,TRAPPC2P1,AC004076.7	first encounter of TP TopHat-Fusion,sim_adipose|MYRFL--ZNF547	sim_adipose|MYRFL--ZNF547
+TP	sim_adipose	TopHat-Fusion	RRP8--ADM	249	1355	RRP8	ADM	first encounter of TP TopHat-Fusion,sim_adipose|RRP8--ADM	sim_adipose|RRP8--ADM
+TP	sim_adipose	TopHat-Fusion	ASAH2--NR2E1	365	1194	FAM21A,ASAH2,SLC9A3P1,DYNC1I2P1	NR2E1	first encounter of TP TopHat-Fusion,sim_adipose|ASAH2--NR2E1	sim_adipose|ASAH2--NR2E1
+TP	sim_adipose	TopHat-Fusion	MAGED4B--HIBADH	203	1345	SNORA11E,SNORA11D,MAGED4,MAGED4B	HIBADH	first encounter of TP TopHat-Fusion,sim_adipose|MAGED4B--HIBADH	sim_adipose|MAGED4B--HIBADH
+FP	sim_adipose	TopHat-Fusion	MAGED4--HIBADH	203	1345	SNORA11D,MAGED4	HIBADH	first encounter of FP fusion TopHat-Fusion,sim_adipose|MAGED4--HIBADH	.
+TP	sim_adipose	TopHat-Fusion	DCUN1D2--CISD3	347	1193	RNU1-16P,DCUN1D2-AS,DCUN1D2	PCGF2,CISD3,RNA5SP440	first encounter of TP TopHat-Fusion,sim_adipose|DCUN1D2--CISD3	sim_adipose|DCUN1D2--CISD3
+TP	sim_adipose	TopHat-Fusion	UCMA--CCDC181	232	1273	UCMA	RP1-206D15.3,BLZF1,CCDC181	first encounter of TP TopHat-Fusion,sim_adipose|UCMA--CCDC181	sim_adipose|UCMA--CCDC181
+TP	sim_adipose	TopHat-Fusion	P2RX5--TMC5	167	1330	RP11-48B14.1,EMC6,TAX1BP3,P2RX5-TAX1BP3,P2RX5	CTA-363E6.6,TMC5,CTA-363E6.5,RNU4-46P	first encounter of TP TopHat-Fusion,sim_adipose|P2RX5--TMC5	sim_adipose|P2RX5--TMC5
+TP	sim_adipose	TopHat-Fusion	USP31--FABP9	332	1155	RP11-20G6.3,USP31	RP11-157I4.4,FABP9	first encounter of TP TopHat-Fusion,sim_adipose|USP31--FABP9	sim_adipose|USP31--FABP9
+TP	sim_adipose	TopHat-Fusion	AMN--EDIL3	350	1126	CDC42BPB,AMN,RP11-365N19.2	EDIL3,CTD-2269F5.1,AC109496.1,RNU6-448P	first encounter of TP TopHat-Fusion,sim_adipose|AMN--EDIL3	sim_adipose|AMN--EDIL3
+TP	sim_adipose	TopHat-Fusion	ARHGDIG--SLC5A8	322	1085	RGS11,ITFG3,ARHGDIG,PDIA2	RNU6-768P,SLC5A8	first encounter of TP TopHat-Fusion,sim_adipose|ARHGDIG--SLC5A8	sim_adipose|ARHGDIG--SLC5A8
+TP	sim_adipose	TopHat-Fusion	BNC2--FTCD	289	1099	BNC2,RP11-62F24.2,RP11-62F24.1,RP11-183I6.2,RP11-335H2.2	FTCD-AS1,FTCD	first encounter of TP TopHat-Fusion,sim_adipose|BNC2--FTCD	sim_adipose|BNC2--FTCD
+TP	sim_adipose	TopHat-Fusion	AVPR1A--ERMN	312	1054	AVPR1A	ERMN	first encounter of TP TopHat-Fusion,sim_adipose|AVPR1A--ERMN	sim_adipose|AVPR1A--ERMN
+TP	sim_adipose	TopHat-Fusion	CAPZB--DHX32	575	785	RN7SL277P,CAPZB	AL360176.1,RNU2-42P,DHX32,BCCIP	first encounter of TP TopHat-Fusion,sim_adipose|CAPZB--DHX32	sim_adipose|CAPZB--DHX32
+FP	sim_adipose	TopHat-Fusion	TMEM120B--HOXA2	292	921	TMEM120B,RHOF	HOXA2,HOTAIRM1	first encounter of FP fusion TopHat-Fusion,sim_adipose|TMEM120B--HOXA2	.
+TP	sim_adipose	TopHat-Fusion	NDUFS4--IDH2	284	902	NDUFS4,AC024569.1	IDH2	first encounter of TP TopHat-Fusion,sim_adipose|NDUFS4--IDH2	sim_adipose|NDUFS4--IDH2
+TP	sim_adipose	TopHat-Fusion	AC099552.4--SUPT3H	200	944	AC099552.4	SUPT3H,RP11-491H9.3,NUDT19P4,RUNX2,MIR586	first encounter of TP TopHat-Fusion,sim_adipose|AC099552.4--SUPT3H	sim_adipose|AC099552.4--SUPT3H
+TP	sim_adipose	TopHat-Fusion	LAMC3--CCDC146	271	857	SNORA31,LAMC3	RP11-467H10.2,FGL2,GSAP,CCDC146,AC073635.5	first encounter of TP TopHat-Fusion,sim_adipose|LAMC3--CCDC146	sim_adipose|LAMC3--CCDC146
+TP	sim_adipose	TopHat-Fusion	SPATA19--KCNC3	179	936	SPATA19	NR1H2,KCNC3	first encounter of TP TopHat-Fusion,sim_adipose|SPATA19--KCNC3	sim_adipose|SPATA19--KCNC3
+FP	sim_adipose	TopHat-Fusion	AKR1C2--C6ORF222	336	736	AKR1C2,U8,RP11-499O7.7	C6orf222	first encounter of FP fusion TopHat-Fusion,sim_adipose|AKR1C2--C6ORF222	.
+TP	sim_adipose	TopHat-Fusion	DOPEY1--CD86	225	768	DOPEY1,AL139333.1,PGM3	CD86	first encounter of TP TopHat-Fusion,sim_adipose|DOPEY1--CD86	sim_adipose|DOPEY1--CD86
+TP	sim_adipose	TopHat-Fusion	PRH2--PRRC2B	254	728	PRH2,PRR4	SNORD62B,SNORD62A,PRRC2B,AL358781.1	first encounter of TP TopHat-Fusion,sim_adipose|PRH2--PRRC2B	sim_adipose|PRH2--PRRC2B
+TP	sim_adipose	TopHat-Fusion	MAP7D1--CACYBP	162	801	MAP7D1	CACYBP,MRPS14	first encounter of TP TopHat-Fusion,sim_adipose|MAP7D1--CACYBP	sim_adipose|MAP7D1--CACYBP
+TP	sim_adipose	TopHat-Fusion	GLRX5--VSTM2L	247	670	SNHG10,GLRX5,SCARNA13	VSTM2L	first encounter of TP TopHat-Fusion,sim_adipose|GLRX5--VSTM2L	sim_adipose|GLRX5--VSTM2L
+TP	sim_adipose	TopHat-Fusion	CST9L--CXCR3	197	714	CST9L	CXCR3	first encounter of TP TopHat-Fusion,sim_adipose|CST9L--CXCR3	sim_adipose|CST9L--CXCR3
+TP	sim_adipose	TopHat-Fusion	RFX3--SUMO3	296	602	RFX3,RP11-62E14.2,AL365202.1	AL773604.8,UBE2G2,SUMO3	first encounter of TP TopHat-Fusion,sim_adipose|RFX3--SUMO3	sim_adipose|RFX3--SUMO3
+TP	sim_adipose	TopHat-Fusion	APCDD1L--ERGIC2	213	674	APCDD1L	FAR2,ERGIC2	first encounter of TP TopHat-Fusion,sim_adipose|APCDD1L--ERGIC2	sim_adipose|APCDD1L--ERGIC2
+TP	sim_adipose	TopHat-Fusion	CCDC103--SBNO2	206	667	FAM187A,CCDC103,AC015936.3,EFTUD2,GFAP	SBNO2	first encounter of TP TopHat-Fusion,sim_adipose|CCDC103--SBNO2	sim_adipose|CCDC103--SBNO2
+TP	sim_adipose	TopHat-Fusion	MTMR7--NAA25	207	656	VPS37A,MTMR7	MIR3657,NAA25,RP1-267L14.3	first encounter of TP TopHat-Fusion,sim_adipose|MTMR7--NAA25	sim_adipose|MTMR7--NAA25
+TP	sim_adipose	TopHat-Fusion	NDUFA5--GPC3	130	730	NDUFA5	GPC3,RP3-417G15.1,RPSAP63,AL009174.1	first encounter of TP TopHat-Fusion,sim_adipose|NDUFA5--GPC3	sim_adipose|NDUFA5--GPC3
+TP	sim_adipose	TopHat-Fusion	ANKRD2--CDC34	143	670	ANKRD2	CDC34	first encounter of TP TopHat-Fusion,sim_adipose|ANKRD2--CDC34	sim_adipose|ANKRD2--CDC34
+TP	sim_adipose	TopHat-Fusion	MAK--NOXA1	332	478	SYCP2L,RP11-637O19.3,MAK,TMEM14B	ENTPD8,NOXA1	first encounter of TP TopHat-Fusion,sim_adipose|MAK--NOXA1	sim_adipose|MAK--NOXA1
+TP	sim_adipose	TopHat-Fusion	FAT2--CDCA4	191	607	CTC-251D13.1,FAT2	C14orf79,CDCA4	first encounter of TP TopHat-Fusion,sim_adipose|FAT2--CDCA4	sim_adipose|FAT2--CDCA4
+TP	sim_adipose	TopHat-Fusion	AP1B1--ERI3	309	488	AP1B1,AC000041.8,SNORD125	ERI3-IT1,ERI3,AL390776.1	first encounter of TP TopHat-Fusion,sim_adipose|AP1B1--ERI3	sim_adipose|AP1B1--ERI3
+FP	sim_adipose	TopHat-Fusion	SOX7--VAPA	720	0	SOX7,PINX1,CTD-2135J3.3,SNORD112	RNA5SP450,VAPA	first encounter of FP fusion TopHat-Fusion,sim_adipose|SOX7--VAPA	.
+TP	sim_adipose	TopHat-Fusion	STYX--C1ORF162	149	551	STYX	C1orf162	first encounter of TP TopHat-Fusion,sim_adipose|STYX--C1ORF162	sim_adipose|STYX--C1ORF162
+TP	sim_adipose	TopHat-Fusion	AC010642.1--PLA2G3	106	559	ZNF8,AC020915.1,CTD-3138B18.4,AC010642.1,ERVK3-1	PLA2G3	first encounter of TP TopHat-Fusion,sim_adipose|ZNF8--PLA2G3	sim_adipose|ZNF8--PLA2G3
+TP	sim_adipose	TopHat-Fusion	TOR3A--IMPA1	158	479	TOR3A	IMPA1	first encounter of TP TopHat-Fusion,sim_adipose|TOR3A--IMPA1	sim_adipose|TOR3A--IMPA1
+TP	sim_adipose	TopHat-Fusion	HIST2H4B--MTPN	90	539	HIST2H4B,HIST2H3A,HIST2H4A	AC015987.1,AC015987.2,RNU6-223P,MTPN,LUZP6	first encounter of TP TopHat-Fusion,sim_adipose|HIST2H4B--MTPN	sim_adipose|HIST2H4B--MTPN
+FP	sim_adipose	TopHat-Fusion	HIST2H4A--MTPN	86	539	HIST2H4A,HIST2H3C	AC015987.1,AC015987.2,RNU6-223P,MTPN,LUZP6	first encounter of FP fusion TopHat-Fusion,sim_adipose|HIST2H4A--MTPN	.
+FP	sim_adipose	TopHat-Fusion	AMOT--CTRB2	91	521	MIR4329,AMOT	CTRB2	first encounter of FP fusion TopHat-Fusion,sim_adipose|AMOT--CTRB2	.
+TP	sim_adipose	TopHat-Fusion	AMOT--CTRB1	91	521	MIR4329,AMOT	CTRB1	first encounter of TP TopHat-Fusion,sim_adipose|AMOT--CTRB1	sim_adipose|AMOT--CTRB1
+FP	sim_adipose	TopHat-Fusion	ZSCAN32--ST20	173	436	NAA60,ZSCAN32	ST20,C15ORF37,ST20-MTHFS,C15orf37	first encounter of FP fusion TopHat-Fusion,sim_adipose|ZSCAN32--ST20	.
+TP	sim_adipose	TopHat-Fusion	KCNV1--MT1M	147	456	RP11-696P8.2,KCNV1	AC026461.1,MT1M	first encounter of TP TopHat-Fusion,sim_adipose|KCNV1--MT1M	sim_adipose|KCNV1--MT1M
+TP	sim_adipose	TopHat-Fusion	NKAIN4--TRNAU1AP	159	442	NKAIN4	SNHG12,TRNAU1AP	first encounter of TP TopHat-Fusion,sim_adipose|NKAIN4--TRNAU1AP	sim_adipose|NKAIN4--TRNAU1AP
+TP	sim_adipose	TopHat-Fusion	ABCG1--GPSM3	128	473	ABCG1,RNA5SP492,AP001623.1	GPSM3,NOTCH4	first encounter of TP TopHat-Fusion,sim_adipose|ABCG1--GPSM3	sim_adipose|ABCG1--GPSM3
+TP	sim_adipose	TopHat-Fusion	PHF19--AMZ1	136	450	PHF19	GNA12,AMZ1	first encounter of TP TopHat-Fusion,sim_adipose|PHF19--AMZ1	sim_adipose|PHF19--AMZ1
+TP	sim_adipose	TopHat-Fusion	SPTBN2--CLSTN1	155	405	SPTBN2,RN7SL12P	RP11-558F24.6,CLSTN1,PIK3CD	first encounter of TP TopHat-Fusion,sim_adipose|SPTBN2--CLSTN1	sim_adipose|SPTBN2--CLSTN1
+FP	sim_adipose	TopHat-Fusion	EHD4--TLCD1	554	0	RP11-23P13.6,CTD-2382E5.4,EHD4,RP11-23P13.7	NEK8,TLCD1,RPL23A,AC010761.14	first encounter of FP fusion TopHat-Fusion,sim_adipose|EHD4--TLCD1	.
+TP	sim_adipose	TopHat-Fusion	DNALI1--SLC2A4	135	418	GNL2,DNALI1	YBX2,RP1-4G17.2,SLC2A4	first encounter of TP TopHat-Fusion,sim_adipose|DNALI1--SLC2A4	sim_adipose|DNALI1--SLC2A4
+FP	sim_adipose	TopHat-Fusion	RP11-703H8.9--CHST7	100	414	SCGB2A1,SCGB1D2,RP11-703H8.9	CHST7	first encounter of FP fusion TopHat-Fusion,sim_adipose|RP11-703H8.9--CHST7	.
+TP	sim_adipose	TopHat-Fusion	SWT1--DAPK2	136	375	CTA-253N17.1,RP4-635A23.4,RP4-635A23.3,RPL5P5,SWT1	DAPK2,RP11-111E14.1	first encounter of TP TopHat-Fusion,sim_adipose|SWT1--DAPK2	sim_adipose|SWT1--DAPK2
+TP	sim_adipose	TopHat-Fusion	ZCCHC8--FARP1	127	377	ZCCHC8,SNORA9	FARP1,STK24,RNF113B,MIR3170,FARP1-AS1,RP11-573N10.1,RP11-261P24.2,RN7SKP8	first encounter of TP TopHat-Fusion,sim_adipose|ZCCHC8--RNF113B	sim_adipose|ZCCHC8--RNF113B
+TP	sim_adipose	TopHat-Fusion	CST9--ZNF771	110	393	CST9	SNORA42,DCTPP1,ZNF771	first encounter of TP TopHat-Fusion,sim_adipose|CST9--ZNF771	sim_adipose|CST9--ZNF771
+TP	sim_adipose	TopHat-Fusion	HESX1--TRAM1	75	425	HESX1	TRAM1,AC120194.1	first encounter of TP TopHat-Fusion,sim_adipose|HESX1--TRAM1	sim_adipose|HESX1--TRAM1
+TP	sim_adipose	TopHat-Fusion	TCHH--SNTN	96	399	TCHH,AL589986.2,HDHD1P2	SNTN	first encounter of TP TopHat-Fusion,sim_adipose|TCHH--SNTN	sim_adipose|TCHH--SNTN
+FP	sim_adipose	TopHat-Fusion	AC016629.8--MUC12	97	392	RPL23AP79,AC016629.8,MZF1	MUC12,RP11-395B7.4	first encounter of FP fusion TopHat-Fusion,sim_adipose|AC016629.8--MUC12	.
+TP	sim_adipose	TopHat-Fusion	RP11-867G2.8--FAM187B	96	387	FUT4,RP11-867G2.6,PIWIL4,RP11-867G2.8,AMOTL1,RP11-867G2.5	FAM187B	first encounter of TP TopHat-Fusion,sim_adipose|PIWIL4--FAM187B	sim_adipose|PIWIL4--FAM187B
+TP	sim_adipose	TopHat-Fusion	PRSS50--IFNL2	76	386	RP11-427P5.2,PRSS45,PRSS50,PRSS46,PRSS44	IFNL2	first encounter of TP TopHat-Fusion,sim_adipose|PRSS45--IFNL2	sim_adipose|PRSS45--IFNL2
+FP	sim_adipose	TopHat-Fusion	FADS2--IGF2R	448	0	MIR1908,FADS2,FEN1,FADS1	RP11-288H12.3,AIRN,IGF2R,RP11-288H12.4	first encounter of FP fusion TopHat-Fusion,sim_adipose|FADS2--IGF2R	.
+TP	sim_adipose	TopHat-Fusion	AP003068.23--NEDD1	94	347	AP003068.23,CAPN1	NEDD1	first encounter of TP TopHat-Fusion,sim_adipose|AP003068.23--NEDD1	sim_adipose|AP003068.23--NEDD1
+TP	sim_adipose	TopHat-Fusion	SLC35D3--DENND5A	111	329	SLC35D3	RP11-5L12.1,DENND5A	first encounter of TP TopHat-Fusion,sim_adipose|SLC35D3--DENND5A	sim_adipose|SLC35D3--DENND5A
+TP	sim_adipose	TopHat-Fusion	ZNRF3--HS6ST3	94	335	ZNRF3-IT1,ZNRF3-AS1,ZNRF3	AMMECR1LP1,HS6ST3,RN7SL164P	first encounter of TP TopHat-Fusion,sim_adipose|ZNRF3--HS6ST3	sim_adipose|ZNRF3--HS6ST3
+TP	sim_adipose	TopHat-Fusion	SCG5--EGR3	86	342	SCG5,RP11-1000B6.2	EGR3,RP11-459E5.1	first encounter of TP TopHat-Fusion,sim_adipose|SCG5--EGR3	sim_adipose|SCG5--EGR3
+TP	sim_adipose	TopHat-Fusion	KCNG4--NLRP7	86	318	KCNG4	CTC-550B14.8,NLRP7,NLRP2	first encounter of TP TopHat-Fusion,sim_adipose|KCNG4--NLRP7	sim_adipose|KCNG4--NLRP7
+TP	sim_adipose	TopHat-Fusion	C9ORF40--UNC79	86	318	C9orf40	RNU6-1258P,COX8C,UNC79	first encounter of TP TopHat-Fusion,sim_adipose|C9ORF40--UNC79	sim_adipose|C9ORF40--UNC79
+TP	sim_adipose	TopHat-Fusion	MAGI1--WFDC10B	182	222	MAGI1,MAGI1-IT1,RP11-88H12.2,RPL17P17,AC106827.1,MAGI1-AS1,AC106827.2,ILF2P1,AC104438.1	WFDC13,WFDC10B	first encounter of TP TopHat-Fusion,sim_adipose|MAGI1--WFDC10B	sim_adipose|MAGI1--WFDC10B
+TP	sim_adipose	TopHat-Fusion	NELFA--RGL4	104	287	NELFA,MIR943	AP000347.2,RGL4,GUSBP11,KB-1572G7.2	first encounter of TP TopHat-Fusion,sim_adipose|NELFA--RGL4	sim_adipose|NELFA--RGL4
+TP	sim_adipose	TopHat-Fusion	DSP--SSR1	76	312	DSP	RP11-69L16.5,RP11-69L16.4,RP11-69L16.3,CAGE1,SSR1,RP11-69L16.6	first encounter of TP TopHat-Fusion,sim_adipose|DSP--SSR1	sim_adipose|DSP--SSR1
+TP	sim_adipose	TopHat-Fusion	ACSL6--KCNA7	78	303	ACSL6,AC034228.3,AC034228.4,AC034228.7,AC034228.2	KCNA7	first encounter of TP TopHat-Fusion,sim_adipose|ACSL6--KCNA7	sim_adipose|ACSL6--KCNA7
+TP	sim_adipose	TopHat-Fusion	EAF2--GHSR	101	279	EAF2	GHSR	first encounter of TP TopHat-Fusion,sim_adipose|EAF2--GHSR	sim_adipose|EAF2--GHSR
+TP	sim_adipose	TopHat-Fusion	PCMTD2--PSORS1C1	117	249	LINC00266-1,PCMTD2,CICP4	CDSN,PSORS1C2,PSORS1C1	first encounter of TP TopHat-Fusion,sim_adipose|PCMTD2--PSORS1C2	sim_adipose|PCMTD2--PSORS1C2
+TP	sim_adipose	TopHat-Fusion	RB1CC1--RAB33A	82	278	CTD-3214K23.1,RB1CC1	RAB33A	first encounter of TP TopHat-Fusion,sim_adipose|RB1CC1--RAB33A	sim_adipose|RB1CC1--RAB33A
+TP	sim_adipose	TopHat-Fusion	LARP4--TOP2B	88	266	FAM186A,LARP4	TOP2B,MIR4442,RARB	first encounter of TP TopHat-Fusion,sim_adipose|LARP4--TOP2B	sim_adipose|LARP4--TOP2B
+TP	sim_adipose	TopHat-Fusion	EMC7--MED12	57	293	EMC7,RP11-1084A12.1	AL590764.1,MED12	first encounter of TP TopHat-Fusion,sim_adipose|EMC7--MED12	sim_adipose|EMC7--MED12
+TP	sim_adipose	TopHat-Fusion	PVRL3--LPAR5	86	256	PVRL3,PVRL3-AS1	ACRBP,LPAR5	first encounter of TP TopHat-Fusion,sim_adipose|PVRL3--LPAR5	sim_adipose|PVRL3--LPAR5
+TP	sim_adipose	TopHat-Fusion	C7ORF55-LUC7L2--ARHGAP20	123	205	C7orf55,RP11-634H22.1,LUC7L2,C7orf55-LUC7L2	ARHGAP20	first encounter of TP TopHat-Fusion,sim_adipose|LUC7L2--ARHGAP20	sim_adipose|LUC7L2--ARHGAP20
+TP	sim_adipose	TopHat-Fusion	GLIPR1--TRAV23DV6	74	241	KRR1,RP11-585P4.5,GLIPR1	TRAV23DV6	first encounter of TP TopHat-Fusion,sim_adipose|KRR1--TRAV23DV6	sim_adipose|KRR1--TRAV23DV6
+TP	sim_adipose	TopHat-Fusion	SLC5A10--PLCXD1	39	243	SLC5A10,RP11-28B23.1,AC090286.4,GRAP,FAM83G	PLCXD1	first encounter of TP TopHat-Fusion,sim_adipose|FAM83G--PLCXD1	sim_adipose|FAM83G--PLCXD1
+TP	sim_adipose	TopHat-Fusion	SGOL1--PGRMC2	71	210	SGOL1,SGOL1-AS1	PGRMC2	first encounter of TP TopHat-Fusion,sim_adipose|SGOL1--PGRMC2	sim_adipose|SGOL1--PGRMC2
+TP	sim_adipose	TopHat-Fusion	TDRD5--CDC42	61	215	TDRD5	RP1-224A6.8,CDC42,CDC42-IT1	first encounter of TP TopHat-Fusion,sim_adipose|TDRD5--CDC42	sim_adipose|TDRD5--CDC42
+TP	sim_adipose	TopHat-Fusion	IQGAP3--SYNJ2	70	201	IQGAP3	SYNJ2-IT1,SYNJ2	first encounter of TP TopHat-Fusion,sim_adipose|IQGAP3--SYNJ2	sim_adipose|IQGAP3--SYNJ2
+TP	sim_adipose	TopHat-Fusion	KLRF1--TTYH1	53	214	KLRF1	AC008746.3,TTYH1,CTD-2587H19.2	first encounter of TP TopHat-Fusion,sim_adipose|KLRF1--TTYH1	sim_adipose|KLRF1--TTYH1
+TP	sim_adipose	TopHat-Fusion	GPR56--BCOR	65	188	RP11-405F3.5,GPR56	BCOR	first encounter of TP TopHat-Fusion,sim_adipose|GPR56--BCOR	sim_adipose|GPR56--BCOR
+TP	sim_adipose	TopHat-Fusion	ZSCAN5A--FRMPD1	44	209	VN2R17P,ZSCAN5D,AC006116.15,AC006116.21,AC006116.14,AC006116.17,ZSCAN5A,AC006116.20,AC006116.22,AC006116.13,ZNF542,AC006116.19	FRMPD1,RN7SKP171,RP11-613M10.9	first encounter of TP TopHat-Fusion,sim_adipose|ZSCAN5D--FRMPD1	sim_adipose|ZSCAN5D--FRMPD1
+TP	sim_adipose	TopHat-Fusion	TLCD2--EFTUD1	107	137	TLCD2	RNU1-77P,EFTUD1	first encounter of TP TopHat-Fusion,sim_adipose|TLCD2--EFTUD1	sim_adipose|TLCD2--EFTUD1
+TP	sim_adipose	TopHat-Fusion	TNK1--SF3B14	54	184	C17orf61-PLSCR3,TNK1,TMEM256-PLSCR3	SF3B14	first encounter of TP TopHat-Fusion,sim_adipose|TNK1--SF3B14	sim_adipose|TNK1--SF3B14
+TP	sim_adipose	TopHat-Fusion	FBXO33--FBN2	67	166	FBXO33	SLC27A6,FBN2	first encounter of TP TopHat-Fusion,sim_adipose|FBXO33--FBN2	sim_adipose|FBXO33--FBN2
+TP	sim_adipose	TopHat-Fusion	TXNIP--TYW1B	43	187	TXNIP	RN7SL377P,MIR4650-2,RP11-1394O16.1,AC091738.2,RP11-535E8.2,TYW1B	first encounter of TP TopHat-Fusion,sim_adipose|TXNIP--TYW1B	sim_adipose|TXNIP--TYW1B
+NA-TP	sim_adipose	TopHat-Fusion	OBP2B--REPS2	215	4	OBP2A,OBP2B	REPS2,CBX1P2,SNORA16	already scored TopHat-Fusion,sim_adipose|OBP2A--REPS2 as TP	.
+TP	sim_adipose	TopHat-Fusion	NSMF--BSDC1	51	163	NSMF	BSDC1	first encounter of TP TopHat-Fusion,sim_adipose|NSMF--BSDC1	sim_adipose|NSMF--BSDC1
+FP	sim_adipose	TopHat-Fusion	C2--CYBB	51	163	CFB,C2,ZBTB12	CYBB,TM4SF2	first encounter of FP fusion TopHat-Fusion,sim_adipose|C2--CYBB	.
+FP	sim_adipose	TopHat-Fusion	RP11-309L24.2--SERPINB11	26	186	FLNC,RP11-309L24.2,KCP	SERPINB3,SERPINB11	first encounter of FP fusion TopHat-Fusion,sim_adipose|RP11-309L24.2--SERPINB11	.
+TP	sim_adipose	TopHat-Fusion	MOCOS--RAB3B	62	147	MOCOS	RP11-91A18.1,RNA5SP48,RAB3B	first encounter of TP TopHat-Fusion,sim_adipose|MOCOS--RAB3B	sim_adipose|MOCOS--RAB3B
+TP	sim_adipose	TopHat-Fusion	ZNF396--OR13A1	57	148	ZNF396	OR13A1	first encounter of TP TopHat-Fusion,sim_adipose|ZNF396--OR13A1	sim_adipose|ZNF396--OR13A1
+TP	sim_adipose	TopHat-Fusion	VNN1--DEFA6	33	168	CCNG1P1,VNN1	DEFA6	first encounter of TP TopHat-Fusion,sim_adipose|VNN1--DEFA6	sim_adipose|VNN1--DEFA6
+TP	sim_adipose	TopHat-Fusion	ITM2A--RNF112	42	156	ITM2A	CTB-187M2.2,RNF112	first encounter of TP TopHat-Fusion,sim_adipose|ITM2A--RNF112	sim_adipose|ITM2A--RNF112
+TP	sim_adipose	TopHat-Fusion	C22ORF43--RP11-758P17.2	64	133	KB-1572G7.3,C22orf43	RP11-758P17.3,PPP1R35,RP11-758P17.2	first encounter of TP TopHat-Fusion,sim_adipose|C22ORF43--PPP1R35	sim_adipose|C22ORF43--PPP1R35
+TP	sim_adipose	TopHat-Fusion	RP11-807H22.7--VSTM1	34	160	FOLR1,RP11-807H22.7,RP11-807H22.6	VSTM1	first encounter of TP TopHat-Fusion,sim_adipose|FOLR1--VSTM1	sim_adipose|FOLR1--VSTM1
+TP	sim_adipose	TopHat-Fusion	HNRNPDL--YTHDF1	67	120	HNRNPDL	YTHDF1	first encounter of TP TopHat-Fusion,sim_adipose|HNRNPDL--YTHDF1	sim_adipose|HNRNPDL--YTHDF1
+TP	sim_adipose	TopHat-Fusion	CSNK2B--MMP2	41	142	GPANK1,CSNK2B-LY6G5B-1181,CSNK2B,LY6G5B	MMP2,RP11-212I21.2	first encounter of TP TopHat-Fusion,sim_adipose|CSNK2B--MMP2	sim_adipose|CSNK2B--MMP2
+TP	sim_adipose	TopHat-Fusion	RBP5--IL6	33	147	RBP5	IL6,AC073072.5	first encounter of TP TopHat-Fusion,sim_adipose|RBP5--IL6	sim_adipose|RBP5--IL6
+TP	sim_adipose	TopHat-Fusion	TMEM91--GLI4	49	130	B9D2,TMEM91,TGFB1,BCKDHA,CTC-435M10.3	GLI4,ZFP41	first encounter of TP TopHat-Fusion,sim_adipose|TMEM91--GLI4	sim_adipose|TMEM91--GLI4
+TP	sim_adipose	TopHat-Fusion	WDFY3--PRAMEF4	165	12	WDFY3-AS2,WDFY3,RNU6-469P,RN7SL552P,WDFY3-AS1	PRAMEF4	first encounter of TP TopHat-Fusion,sim_adipose|WDFY3--PRAMEF4	sim_adipose|WDFY3--PRAMEF4
+FP	sim_adipose	TopHat-Fusion	SAE1--GNAI1	173	0	ZC3H4,SAE1	GNAI1	first encounter of FP fusion TopHat-Fusion,sim_adipose|SAE1--GNAI1	.
+TP	sim_adipose	TopHat-Fusion	CST11--DCAF4	34	139	CST11	DCAF4,RP1-146I3.1	first encounter of TP TopHat-Fusion,sim_adipose|CST11--DCAF4	sim_adipose|CST11--DCAF4
+TP	sim_adipose	TopHat-Fusion	SEMA7A--LAMA2	39	126	SEMA7A	BMPR1APS1,LAMA2,RNU6-861P,MESTP1,RP1-69D17.3	first encounter of TP TopHat-Fusion,sim_adipose|SEMA7A--LAMA2	sim_adipose|SEMA7A--LAMA2
+TP	sim_adipose	TopHat-Fusion	CLEC1A--MGAT3	28	135	RN7SKP161,CLEC1A	RP5-1104E15.6,MGAT3	first encounter of TP TopHat-Fusion,sim_adipose|CLEC1A--MGAT3	sim_adipose|CLEC1A--MGAT3
+TP	sim_adipose	TopHat-Fusion	VCL--GDPD2	27	119	VCL,RP11-178G16.5,RP11-417O11.5,RP11-178G16.4	GDPD2	first encounter of TP TopHat-Fusion,sim_adipose|VCL--GDPD2	sim_adipose|VCL--GDPD2
+TP	sim_adipose	TopHat-Fusion	INA--REEP3	33	106	INA	REEP3	first encounter of TP TopHat-Fusion,sim_adipose|INA--REEP3	sim_adipose|INA--REEP3
+TP	sim_adipose	TopHat-Fusion	SPI1--KIF14	21	115	SPI1	KIF14	first encounter of TP TopHat-Fusion,sim_adipose|SPI1--KIF14	sim_adipose|SPI1--KIF14
+TP	sim_adipose	TopHat-Fusion	DTHD1--ZC3H12A	43	90	RP11-431M7.2,DTHD1	ZC3H12A	first encounter of TP TopHat-Fusion,sim_adipose|DTHD1--ZC3H12A	sim_adipose|DTHD1--ZC3H12A
+TP	sim_adipose	TopHat-Fusion	C12ORF55--TMEM198	24	97	C12orf55	TMEM198,CHPF,MIR3132,RP11-256I23.1	first encounter of TP TopHat-Fusion,sim_adipose|C12ORF55--TMEM198	sim_adipose|C12ORF55--TMEM198
+TP	sim_adipose	TopHat-Fusion	ARHGEF28--B3GNT4	16	104	RNU7-196P,CTD-2372A4.1,CTC-575I10.1,ARHGEF28	DIABLO,RP11-512M8.5,B3GNT4	first encounter of TP TopHat-Fusion,sim_adipose|ARHGEF28--B3GNT4	sim_adipose|ARHGEF28--B3GNT4
+FP	sim_adipose	TopHat-Fusion	TLCD2--EFTUD1P1	103	16	TLCD2	EFTUD1P1	first encounter of FP fusion TopHat-Fusion,sim_adipose|TLCD2--EFTUD1P1	.
+TP	sim_adipose	TopHat-Fusion	C9ORF72--XCL1	27	92	C9orf72	XCL1,RP4-738P11.4	first encounter of TP TopHat-Fusion,sim_adipose|C9ORF72--XCL1	sim_adipose|C9ORF72--XCL1
+TP	sim_adipose	TopHat-Fusion	AOC2--CHKA	27	92	AOC2	CHKA,RP11-802E16.3	first encounter of TP TopHat-Fusion,sim_adipose|AOC2--CHKA	sim_adipose|AOC2--CHKA
+TP	sim_adipose	TopHat-Fusion	DLG4--B3GALTL	30	89	ACADVL,DLG4	B3GALTL,ANKRD26P4	first encounter of TP TopHat-Fusion,sim_adipose|DLG4--B3GALTL	sim_adipose|DLG4--B3GALTL
+FP	sim_adipose	TopHat-Fusion	TXNIP--TYW1	43	75	TXNIP	TYW1,SBDS,RP11-324F21.1,AC073089.1,MIR4650-1	first encounter of FP fusion TopHat-Fusion,sim_adipose|TXNIP--TYW1	.
+TP	sim_adipose	TopHat-Fusion	KRT71--RP11-166B2.1	12	106	KRT71	TNFRSF17,AC007216.2,UBL5P4,RP11-166B2.1	first encounter of TP TopHat-Fusion,sim_adipose|KRT71--TNFRSF17	sim_adipose|KRT71--TNFRSF17
+TP	sim_adipose	TopHat-Fusion	LYRM9--TSPAN14	30	87	RP1-66C13.4,RP11-138P22.1,LYRM9	TSPAN14,RP11-137H2.4	first encounter of TP TopHat-Fusion,sim_adipose|LYRM9--TSPAN14	sim_adipose|LYRM9--TSPAN14
+TP	sim_adipose	TopHat-Fusion	BPIFA1--PMVK	29	87	BPIFA1	PMVK	first encounter of TP TopHat-Fusion,sim_adipose|BPIFA1--PMVK	sim_adipose|BPIFA1--PMVK
+TP	sim_adipose	TopHat-Fusion	PPM1D--ABI1	21	92	RNU6-623P,PPM1D	ABI1,RNU6-946P,PDSS1,SNORA57	first encounter of TP TopHat-Fusion,sim_adipose|PPM1D--ABI1	sim_adipose|PPM1D--ABI1
+TP	sim_adipose	TopHat-Fusion	RP11-474G23.1--PDAP1	29	83	RP11-474G23.3,RP11-474G23.1,WDR92,PPP3R1,PNO1,AC017083.1,RP11-474G23.2	ARPC1B,PDAP1,BUD31	first encounter of TP TopHat-Fusion,sim_adipose|WDR92--PDAP1	sim_adipose|WDR92--PDAP1
+TP	sim_adipose	TopHat-Fusion	KCNJ3--PKN2	38	73	KCNJ3	RP11-76N22.2,RNU6-125P,TCEB1P19,PKN2	first encounter of TP TopHat-Fusion,sim_adipose|KCNJ3--PKN2	sim_adipose|KCNJ3--PKN2
+FP	sim_adipose	TopHat-Fusion	ALPPL2--SGCG	5	105	ALPPL2	SDAD1P4,RNU6-58P,TATDN2P3,SGCG	first encounter of FP fusion TopHat-Fusion,sim_adipose|ALPPL2--SGCG	.
+TP	sim_adipose	TopHat-Fusion	ZNF3--GPC1	29	79	ZNF3,ZSCAN21	MIR149,GPC1,AC110619.2,AC110619.1	first encounter of TP TopHat-Fusion,sim_adipose|ZNF3--GPC1	sim_adipose|ZNF3--GPC1
+FP	sim_adipose	TopHat-Fusion	CLCA4--FAT2	105	0	RP4-651E10.4,CLCA4,RP4-651E10.3	CTC-251D13.1,FAT2	first encounter of FP fusion TopHat-Fusion,sim_adipose|CLCA4--FAT2	.
+TP	sim_adipose	TopHat-Fusion	PCNX--RP13-279N23.2	24	79	RP5-1163L11.2,PCNX,RP5-1163L11.3,PTTG4P	MIR4695,ALDH4A1,RP13-279N23.2,MIR1290,TAS1R2,IFFO2	first encounter of TP TopHat-Fusion,sim_adipose|PCNX--IFFO2	sim_adipose|PCNX--IFFO2
+TP	sim_adipose	TopHat-Fusion	PRSS42--FHOD3	16	86	PRSS42	SNORD112,FHOD3,TPGS2	first encounter of TP TopHat-Fusion,sim_adipose|PRSS42--FHOD3	sim_adipose|PRSS42--FHOD3
+FP	sim_adipose	TopHat-Fusion	PRR5L--RP11-385J1.2	27	74	RP11-219O3.2,RP11-514F3.4,RP11-514F3.5,PRR5L	RP11-385J1.2,KCNMB2	first encounter of FP fusion TopHat-Fusion,sim_adipose|PRR5L--RP11-385J1.2	.
+TP	sim_adipose	TopHat-Fusion	SLC6A15--KLHL42	29	72	SLC6A15	KLHL42,RP11-860B13.1,RP11-860B13.3	first encounter of TP TopHat-Fusion,sim_adipose|SLC6A15--KLHL42	sim_adipose|SLC6A15--KLHL42
+TP	sim_adipose	TopHat-Fusion	COTL1--SRCAP	33	66	RP11-61F12.1,COTL1	PHKG2,SNORA30,SRCAP,RP11-146F11.1,RP11-2C24.4,RNU6-1043P	first encounter of TP TopHat-Fusion,sim_adipose|COTL1--SRCAP	sim_adipose|COTL1--SRCAP
+TP	sim_adipose	TopHat-Fusion	AE000661.37--CST2	16	80	TRDC,TRAJ55,TRDJ4,TRDD2,TRAJ58,TRDJ1,TRAJ54,TRDD1,TRDV2,AE000661.37,TRAJ61,TRDJ2,TRDJ3,TRAJ60,AE000661.50,TRDD3,TRAJ57,TRAJ59,TRAJ56,TRDV3	CST2	first encounter of TP TopHat-Fusion,sim_adipose|TRDV2--CST2	sim_adipose|TRDV2--CST2
+TP	sim_adipose	TopHat-Fusion	CTD-2369P2.8--BOP1	22	73	CTD-2369P2.8,ICAM4,ICAM1	BOP1,FAM203B,CTD-3232M19.2,SCXA,AC110280.1,SCXB,KM-PA-2	first encounter of TP TopHat-Fusion,sim_adipose|ICAM4--BOP1	sim_adipose|ICAM4--BOP1
+TP	sim_adipose	TopHat-Fusion	ANO5--BMP6	31	64	CTD-3064C13.1,ANO5	BMP6,BLOC1S5-TXNDC5,TXNDC5	first encounter of TP TopHat-Fusion,sim_adipose|ANO5--BMP6	sim_adipose|ANO5--BMP6
+TP	sim_adipose	TopHat-Fusion	RAPSN--BRF2	23	69	RAPSN,RNU6-1302P	GPR124,BRF2	first encounter of TP TopHat-Fusion,sim_adipose|RAPSN--BRF2	sim_adipose|RAPSN--BRF2
+TP	sim_adipose	TopHat-Fusion	SERPINB4--RP11-309L24.2	26	65	SERPINB3,SERPINB4,SERPINB11	FLNC,RP11-309L24.2,KCP	first encounter of TP TopHat-Fusion,sim_adipose|SERPINB3--FLNC	sim_adipose|SERPINB3--FLNC
+FP	sim_adipose	TopHat-Fusion	HBD--TNIK	15	75	HBD	TNIK,MIR569	first encounter of FP fusion TopHat-Fusion,sim_adipose|HBD--TNIK	.
+TP	sim_adipose	TopHat-Fusion	HBB--TNIK	15	75	HBB	TNIK,MIR569	first encounter of TP TopHat-Fusion,sim_adipose|HBB--TNIK	sim_adipose|HBB--TNIK
+TP	sim_adipose	TopHat-Fusion	CLDN11--PIH1D3	17	73	CLDN11,KRT8P13,SLC7A14,RNY5P3,RP11-373E16.4,RP11-373E16.1,RP11-373E16.3	PIH1D3	first encounter of TP TopHat-Fusion,sim_adipose|SLC7A14--PIH1D3	sim_adipose|SLC7A14--PIH1D3
+TP	sim_adipose	TopHat-Fusion	EFNA1--OSER1	20	69	EFNA1	OSER1	first encounter of TP TopHat-Fusion,sim_adipose|EFNA1--OSER1	sim_adipose|EFNA1--OSER1
+TP	sim_adipose	TopHat-Fusion	CWC27--RP1L1	21	66	CWC27	RNA5SP252,RP1L1,C8orf74,MIR4286	first encounter of TP TopHat-Fusion,sim_adipose|CWC27--RP1L1	sim_adipose|CWC27--RP1L1
+TP	sim_adipose	TopHat-Fusion	GABRA6--SCYL3	18	68	GABRB2,RP11-348M17.2,GABRA6	C1orf112,RN7SL333P,SCYL3	first encounter of TP TopHat-Fusion,sim_adipose|GABRA6--SCYL3	sim_adipose|GABRA6--SCYL3
+TP	sim_adipose	TopHat-Fusion	OARD1--HEATR5A	9	69	OARD1,TSPO2,NFYA,APOBEC2,UNC5CL	RP11-176H8.1,RP11-596D21.1,DTD2,HEATR5A,AL136418.1,CTD-2213F21.2	first encounter of TP TopHat-Fusion,sim_adipose|OARD1--HEATR5A	sim_adipose|OARD1--HEATR5A
+TP	sim_adipose	TopHat-Fusion	GP2--PDZD7	21	55	GP2	PDZD7,LZTS2	first encounter of TP TopHat-Fusion,sim_adipose|GP2--PDZD7	sim_adipose|GP2--PDZD7
+TP	sim_adipose	TopHat-Fusion	UBXN2B--ZKSCAN2	21	54	UBXN2B,RP11-114M5.1	ZKSCAN2,CTD-2547G23.2	first encounter of TP TopHat-Fusion,sim_adipose|UBXN2B--ZKSCAN2	sim_adipose|UBXN2B--ZKSCAN2
+TP	sim_adipose	TopHat-Fusion	SAMD1--POLR1A	17	52	SAMD1	POLR1A	first encounter of TP TopHat-Fusion,sim_adipose|SAMD1--POLR1A	sim_adipose|SAMD1--POLR1A
+TP	sim_adipose	TopHat-Fusion	KCND3--NUP153	21	48	KCND3-AS1,KCND3-IT1,KCND3	RP11-500C11.3,RNU6-190P,NUP153	first encounter of TP TopHat-Fusion,sim_adipose|KCND3--NUP153	sim_adipose|KCND3--NUP153
+FP	sim_adipose	TopHat-Fusion	C9ORF72--XCL2	27	40	C9orf72	RP4-738P11.3,XCL2	first encounter of FP fusion TopHat-Fusion,sim_adipose|C9ORF72--XCL2	.
+TP	sim_adipose	TopHat-Fusion	YIPF2--NDUFC2-KCTD14	13	54	CARM1,YIPF2	RP11-7I15.4,THRSP,NDUFC2-KCTD14,NDUFC2,KCTD14	first encounter of TP TopHat-Fusion,sim_adipose|YIPF2--KCTD14	sim_adipose|YIPF2--KCTD14
+FP	sim_adipose	TopHat-Fusion	CTD-2369P2.8--KM-PA-2	22	44	CTD-2369P2.8,ICAM4,ICAM1	SCXB,KM-PA-2	first encounter of FP fusion TopHat-Fusion,sim_adipose|CTD-2369P2.8--KM-PA-2	.
+TP	sim_adipose	TopHat-Fusion	CFC1B--VSNL1	7	54	AC013269.3,CFC1,CFC1B	VSNL1	first encounter of TP TopHat-Fusion,sim_adipose|CFC1--VSNL1	sim_adipose|CFC1--VSNL1
+NA-TP	sim_adipose	TopHat-Fusion	CFC1--VSNL1	7	54	AC013269.3,CFC1,CFC1B	VSNL1	already scored TopHat-Fusion,sim_adipose|CFC1--VSNL1 as TP	.
+TP	sim_adipose	TopHat-Fusion	AC011530.4--IL4	5	55	DMPK,AC011530.4,DMWD	IL4	first encounter of TP TopHat-Fusion,sim_adipose|AC011530.4--IL4	sim_adipose|AC011530.4--IL4
+TP	sim_adipose	TopHat-Fusion	CTSO--FAM65A	9	51	CTSO	CTD-2012K14.3,FAM65A,CTD-2012K14.2,CTD-2012K14.4	first encounter of TP TopHat-Fusion,sim_adipose|CTSO--FAM65A	sim_adipose|CTSO--FAM65A
+FP	sim_adipose	TopHat-Fusion	UBE2K--CYBB	44	15	UBE2K,ZBTB12P1,RN7SL558P,RP11-539G18.1	CYBB,TM4SF2	first encounter of FP fusion TopHat-Fusion,sim_adipose|UBE2K--CYBB	.
+TP	sim_adipose	TopHat-Fusion	ISOC1--CYHR1	9	49	ISOC1,MIR4633	CYHR1,CTD-2517M22.16	first encounter of TP TopHat-Fusion,sim_adipose|ISOC1--CYHR1	sim_adipose|ISOC1--CYHR1
+TP	sim_adipose	TopHat-Fusion	ZNF487--FOLR4	11	46	ZNF487,RNU7-193P	FOLR4	first encounter of TP TopHat-Fusion,sim_adipose|ZNF487--FOLR4	sim_adipose|ZNF487--FOLR4
+TP	sim_adipose	TopHat-Fusion	SESN2--VAMP8	7	50	SESN2	RN7SL126P,VAMP8	first encounter of TP TopHat-Fusion,sim_adipose|SESN2--VAMP8	sim_adipose|SESN2--VAMP8
+TP	sim_adipose	TopHat-Fusion	CAMSAP1--USP14	11	45	CAMSAP1	THOC1,USP14	first encounter of TP TopHat-Fusion,sim_adipose|CAMSAP1--USP14	sim_adipose|CAMSAP1--USP14
+TP	sim_adipose	TopHat-Fusion	PLIN1--RRP9	8	46	PEX11A,PLIN1	RRP9	first encounter of TP TopHat-Fusion,sim_adipose|PLIN1--RRP9	sim_adipose|PLIN1--RRP9
+TP	sim_adipose	TopHat-Fusion	ANKHD1-EIF4EBP3--DUS3L	12	42	EIF4EBP3,ANKHD1,SNORD45,ANKHD1-EIF4EBP3,SRA1	DUS3L,CTB-54O9.9	first encounter of TP TopHat-Fusion,sim_adipose|EIF4EBP3--DUS3L	sim_adipose|EIF4EBP3--DUS3L
+TP	sim_adipose	TopHat-Fusion	RAX2--PDE1C	8	46	RAX2	AC006377.1,PDE1C,SNX2P2	first encounter of TP TopHat-Fusion,sim_adipose|RAX2--PDE1C	sim_adipose|RAX2--PDE1C
+FP	sim_adipose	TopHat-Fusion	WNT6--SLC25A51	3	50	WNT6	PAICSP1,RP11-3J10.4,RP11-613M10.9,SLC25A51	first encounter of FP fusion TopHat-Fusion,sim_adipose|WNT6--SLC25A51	.
+TP	sim_adipose	TopHat-Fusion	MYLIP--RPE65	10	42	MYLIP,MIR4639	RPE65	first encounter of TP TopHat-Fusion,sim_adipose|MYLIP--RPE65	sim_adipose|MYLIP--RPE65
+TP	sim_adipose	TopHat-Fusion	PDCD10--CTB-54O9.9	12	39	HMGN1P8,PDCD10	DUS3L,CTB-54O9.9,PRR22	first encounter of TP TopHat-Fusion,sim_adipose|PDCD10--PRR22	sim_adipose|PDCD10--PRR22
+TP	sim_adipose	TopHat-Fusion	CFB--FKTN	15	36	CFB,C2	FKTN	first encounter of TP TopHat-Fusion,sim_adipose|CFB--FKTN	sim_adipose|CFB--FKTN
+TP	sim_adipose	TopHat-Fusion	UQCR10--NFATC2IP	7	43	UQCR10	RP11-264B17.2,MIR4517,NFATC2IP	first encounter of TP TopHat-Fusion,sim_adipose|UQCR10--NFATC2IP	sim_adipose|UQCR10--NFATC2IP
+TP	sim_adipose	TopHat-Fusion	UBE2I--LRRN4CL	15	34	LA16c-358B7.3,UBE2I	LRRN4CL	first encounter of TP TopHat-Fusion,sim_adipose|UBE2I--LRRN4CL	sim_adipose|UBE2I--LRRN4CL
+TP	sim_adipose	TopHat-Fusion	EFCAB3--CHTF18	8	41	RP11-51L5.2,EFCAB3,RNU7-52P,RPS23P7	RPUSD1,CHTF18,GNG13	first encounter of TP TopHat-Fusion,sim_adipose|EFCAB3--CHTF18	sim_adipose|EFCAB3--CHTF18
+TP	sim_adipose	TopHat-Fusion	BCL2--MS4A2	11	36	BCL2,RP11-299P2.1,RP11-28F1.2	MS4A2	first encounter of TP TopHat-Fusion,sim_adipose|BCL2--MS4A2	sim_adipose|BCL2--MS4A2
+TP	sim_adipose	TopHat-Fusion	USP48--APRT	11	33	RP11-132G19.3,USP48	APRT	first encounter of TP TopHat-Fusion,sim_adipose|USP48--APRT	sim_adipose|USP48--APRT
+TP	sim_adipose	TopHat-Fusion	WASF2--CPNE4	13	29	WASF2,RP4-752I6.1	RP11-517B11.6,RP11-250B16.1,CPNE4,MIR5704,RP11-64K7.1	first encounter of TP TopHat-Fusion,sim_adipose|WASF2--CPNE4	sim_adipose|WASF2--CPNE4
+TP	sim_adipose	TopHat-Fusion	SOCS7--APOBEC4	13	29	SOCS7	APOBEC4,RGL1	first encounter of TP TopHat-Fusion,sim_adipose|SOCS7--APOBEC4	sim_adipose|SOCS7--APOBEC4
+TP	sim_adipose	TopHat-Fusion	ONECUT3--FAM168B	13	26	ONECUT3	FAM168B	first encounter of TP TopHat-Fusion,sim_adipose|ONECUT3--FAM168B	sim_adipose|ONECUT3--FAM168B
+TP	sim_adipose	TopHat-Fusion	FABP7--ZNF33B	16	23	FABP7	RNU6-1170P,ZNF33A,AL022345.9,AL022345.7,AL022345.8,ZNF33B,RNU6-795P	first encounter of TP TopHat-Fusion,sim_adipose|FABP7--ZNF33B	sim_adipose|FABP7--ZNF33B
+TP	sim_adipose	TopHat-Fusion	SKIL--SYCP1	11	26	SKIL	SYCP1	first encounter of TP TopHat-Fusion,sim_adipose|SKIL--SYCP1	sim_adipose|SKIL--SYCP1
+TP	sim_adipose	TopHat-Fusion	ZC3HC1--FIGF	9	28	RNA5SP245,ZC3HC1,RP11-306G20.1	FIGF	first encounter of TP TopHat-Fusion,sim_adipose|ZC3HC1--FIGF	sim_adipose|ZC3HC1--FIGF
+TP	sim_adipose	TopHat-Fusion	WFDC8--ZIC3	13	24	CCNB1IP1P2,RNA5SP485,WFDC8	ZIC3	first encounter of TP TopHat-Fusion,sim_adipose|WFDC8--ZIC3	sim_adipose|WFDC8--ZIC3
+TP	sim_adipose	TopHat-Fusion	EIF2AK3--RAP1GAP	8	27	EIF2AK3,AC104134.2,AC062029.1	RAP1GAP	first encounter of TP TopHat-Fusion,sim_adipose|EIF2AK3--RAP1GAP	sim_adipose|EIF2AK3--RAP1GAP
+TP	sim_adipose	TopHat-Fusion	ATP13A4--CAMLG	9	26	ATP13A4,RP11-175P19.2,ATP13A4-AS1	CAMLG	first encounter of TP TopHat-Fusion,sim_adipose|ATP13A4--CAMLG	sim_adipose|ATP13A4--CAMLG
+FP	sim_adipose	TopHat-Fusion	RP11-373N22.3--KLHL31	10	24	RP11-373N22.3,SPINK13,AC091948.1,SPINK9,PGBD4P3,SPINK7	KLHL31	first encounter of FP fusion TopHat-Fusion,sim_adipose|RP11-373N22.3--KLHL31	.
+TP	sim_adipose	TopHat-Fusion	SEC16A--TAF10	11	22	SEC16A,C9orf163	ILK,RP11-732A19.2,TAF10	first encounter of TP TopHat-Fusion,sim_adipose|SEC16A--TAF10	sim_adipose|SEC16A--TAF10
+TP	sim_adipose	TopHat-Fusion	TMEM65--TAF8	11	22	RP11-383J24.6,TMEM65	TAF8	first encounter of TP TopHat-Fusion,sim_adipose|TMEM65--TAF8	sim_adipose|TMEM65--TAF8
+TP	sim_adipose	TopHat-Fusion	GRPEL2--MSRA	13	19	GRPEL2,GRPEL2-AS1	MSRA,AC023385.1,RP11-212F11.1	first encounter of TP TopHat-Fusion,sim_adipose|GRPEL2--MSRA	sim_adipose|GRPEL2--MSRA
+TP	sim_adipose	TopHat-Fusion	FNDC3B--APOLD1	9	23	RN7SL141P,AC092964.1,RP11-423E7.1,FNDC3B,AC092964.2	RP11-59H1.4,MIR613,APOLD1,DDX47	first encounter of TP TopHat-Fusion,sim_adipose|FNDC3B--APOLD1	sim_adipose|FNDC3B--APOLD1
+TP	sim_adipose	TopHat-Fusion	MFN1--FGFBP3	6	25	MFN1	FGFBP3,RP11-402D21.2	first encounter of TP TopHat-Fusion,sim_adipose|MFN1--FGFBP3	sim_adipose|MFN1--FGFBP3
+TP	sim_adipose	TopHat-Fusion	CCSER1--ZPBP	9	21	RP11-11N6.1,TMSB4XP8,CCSER1,RN7SKP248,RP11-763F8.1,AC004054.1	AC096568.3,C7orf72,VWC2,ZPBP	first encounter of TP TopHat-Fusion,sim_adipose|CCSER1--ZPBP	sim_adipose|CCSER1--ZPBP
+TP	sim_adipose	TopHat-Fusion	EFNB3--ATP2A3	4	25	EFNB3	ATP2A3	first encounter of TP TopHat-Fusion,sim_adipose|EFNB3--ATP2A3	sim_adipose|EFNB3--ATP2A3
+TP	sim_adipose	TopHat-Fusion	MRPS30--LTB4R	7	22	MRPS30	LTB4R2,LTB4R	first encounter of TP TopHat-Fusion,sim_adipose|MRPS30--LTB4R	sim_adipose|MRPS30--LTB4R
 TP	sim_adipose	TopHat-Fusion	STXBP1--FAIM2	14	14	STXBP1,MIR3911,PTRH1	FAIM2	first encounter of TP TopHat-Fusion,sim_adipose|STXBP1--FAIM2	sim_adipose|STXBP1--FAIM2
-TP	sim_adipose	TopHat-Fusion	RPA2--NPC1L1	22	6	RPA2	NPC1L1	first encounter of TP TopHat-Fusion,sim_adipose|RPA2--NPC1L1	sim_adipose|RPA2--NPC1L1
-TP	sim_adipose	TopHat-Fusion	WASF3--PSENEN	22	6	RPS3AP44,WASF3-AS1,WASF3	U2AF1L4,PSENEN,AD000671.6,AC002398.9,AC002398.11	first encounter of TP TopHat-Fusion,sim_adipose|WASF3--PSENEN	sim_adipose|WASF3--PSENEN
-TP	sim_adipose	TopHat-Fusion	TMCO5A--P2RX3	21	6	TMCO5A	P2RX3,AP000781.1	first encounter of TP TopHat-Fusion,sim_adipose|TMCO5A--P2RX3	sim_adipose|TMCO5A--P2RX3
-TP	sim_adipose	TopHat-Fusion	RCHY1--FSD2	19	5	RCHY1,THAP6	SCARNA15,RP11-752G15.6,FSD2	first encounter of TP TopHat-Fusion,sim_adipose|RCHY1--FSD2	sim_adipose|RCHY1--FSD2
-TP	sim_adipose	TopHat-Fusion	AKR1E2--DHX35	17	7	AKR1E2	DHX35,NPM1P19	first encounter of TP TopHat-Fusion,sim_adipose|AKR1E2--DHX35	sim_adipose|AKR1E2--DHX35
-TP	sim_adipose	TopHat-Fusion	KIAA1549L--SLC25A23	20	3	RP4-541C22.5,KIAA1549L	CRB3,SLC25A23	first encounter of TP TopHat-Fusion,sim_adipose|KIAA1549L--SLC25A23	sim_adipose|KIAA1549L--SLC25A23
-TP	sim_adipose	TopHat-Fusion	MSRB2--PIGA	19	4	MSRB2	PIGA	first encounter of TP TopHat-Fusion,sim_adipose|MSRB2--PIGA	sim_adipose|MSRB2--PIGA
-TP	sim_adipose	TopHat-Fusion	ASTN1--DCTN6	15	7	ASTN1,MIR488	RP11-51J9.4,DCTN6,LEPROTL1	first encounter of TP TopHat-Fusion,sim_adipose|ASTN1--DCTN6	sim_adipose|ASTN1--DCTN6
-TP	sim_adipose	TopHat-Fusion	CCDC27--CHST11	17	5	CCDC27	MIR3922,RP11-43D4.2,CHST11	first encounter of TP TopHat-Fusion,sim_adipose|CCDC27--CHST11	sim_adipose|CCDC27--CHST11
-TP	sim_adipose	TopHat-Fusion	ADAMTS3--GABRR3	17	4	ADAMTS3,RP11-373J21.1	GABRR3	first encounter of TP TopHat-Fusion,sim_adipose|ADAMTS3--GABRR3	sim_adipose|ADAMTS3--GABRR3
-TP	sim_adipose	TopHat-Fusion	CCL18--HEPACAM2	15	6	CCL18	HEPACAM2	first encounter of TP TopHat-Fusion,sim_adipose|CCL18--HEPACAM2	sim_adipose|CCL18--HEPACAM2
-TP	sim_adipose	TopHat-Fusion	TMPRSS6--GKN2	17	4	TMPRSS6,RP5-1170K4.7	GKN2	first encounter of TP TopHat-Fusion,sim_adipose|TMPRSS6--GKN2	sim_adipose|TMPRSS6--GKN2
-TP	sim_adipose	TopHat-Fusion	PCBP2--SYT17	14	6	MAP3K12,PRR13,PCBP2,RP11-793H13.8	CTD-2349B8.1,SYT17	first encounter of TP TopHat-Fusion,sim_adipose|PCBP2--SYT17	sim_adipose|PCBP2--SYT17
-TP	sim_adipose	TopHat-Fusion	ITGA2B--DNAH8	15	5	ITGA2B	SNORA8,RP1-217P22.2,DNAH8,RP1-207H1.2,RP1-207H1.3,RN7SL465P	first encounter of TP TopHat-Fusion,sim_adipose|ITGA2B--DNAH8	sim_adipose|ITGA2B--DNAH8
-TP	sim_adipose	TopHat-Fusion	TRAPPC4--SSTR5	15	5	RPS25,SLC37A4,MIR3656,TRAPPC4	SSTR5,SSTR5-AS1	first encounter of TP TopHat-Fusion,sim_adipose|TRAPPC4--SSTR5	sim_adipose|TRAPPC4--SSTR5
-TP	sim_adipose	TopHat-Fusion	ANK1--DSG2	15	5	ANK1,RN7SL149P,RP11-930P14.1,MIR486,RP11-930P14.2	DSG2,RP11-75N4.2	first encounter of TP TopHat-Fusion,sim_adipose|ANK1--DSG2	sim_adipose|ANK1--DSG2
-TP	sim_adipose	TopHat-Fusion	ZNF214--PRKCD	13	6	ZNF214	PRKCD	first encounter of TP TopHat-Fusion,sim_adipose|ZNF214--PRKCD	sim_adipose|ZNF214--PRKCD
-FP	sim_adipose	TopHat-Fusion	FLG-AS1--DHX57	14	5	FLG-AS1,FLG2,CRNN,HMGN3P1,FLG,RP1-91G5.3,RP11-107M16.2,HRNR	DHX57,AC018693.6,ASS1P2	first encounter of FP fusion TopHat-Fusion,sim_adipose|FLG-AS1--DHX57	.
-TP	sim_adipose	TopHat-Fusion	LHPP--TIMM10	18	1	RPS10P18,RP11-12J10.3,LHPP	TIMM10	first encounter of TP TopHat-Fusion,sim_adipose|LHPP--TIMM10	sim_adipose|LHPP--TIMM10
-TP	sim_adipose	TopHat-Fusion	MKRN3--BTBD8	14	4	RP11-73C9.1,MKRN3	BTBD8,GAPDHP46,PRKAR1AP	first encounter of TP TopHat-Fusion,sim_adipose|MKRN3--BTBD8	sim_adipose|MKRN3--BTBD8
-TP	sim_adipose	TopHat-Fusion	CDK7--CCR8	14	3	CDK7	CCR8	first encounter of TP TopHat-Fusion,sim_adipose|CDK7--CCR8	sim_adipose|CDK7--CCR8
-TP	sim_adipose	TopHat-Fusion	IL37--ATG14	15	1	IL37	RP11-454L9.2,ATG14	first encounter of TP TopHat-Fusion,sim_adipose|IL37--ATG14	sim_adipose|IL37--ATG14
-TP	sim_adipose	TopHat-Fusion	HIAT1--C19ORF12	12	4	RP4-714D9.2,HIAT1	C19orf12	first encounter of TP TopHat-Fusion,sim_adipose|HIAT1--C19ORF12	sim_adipose|HIAT1--C19ORF12
-TP	sim_adipose	TopHat-Fusion	SSBP3--NUDT6	10	6	RP5-997D24.3,MRPL37,SSBP3-AS1,SSBP3	FGF2,NUDT6	first encounter of TP TopHat-Fusion,sim_adipose|SSBP3--NUDT6	sim_adipose|SSBP3--NUDT6
-TP	sim_adipose	TopHat-Fusion	ASB14--CEP57	13	2	APPL1,ASB14	AP001877.1,FAM76B,CEP57	first encounter of TP TopHat-Fusion,sim_adipose|ASB14--CEP57	sim_adipose|ASB14--CEP57
-TP	sim_adipose	TopHat-Fusion	PCDH7--ZNF438	12	3	PCDH7,RP11-619J20.1,RP11-93M12.1	DDX10P1,RP11-330O11.3,ZNF438	first encounter of TP TopHat-Fusion,sim_adipose|PCDH7--ZNF438	sim_adipose|PCDH7--ZNF438
-TP	sim_adipose	TopHat-Fusion	MRPS17--COL9A2	0	14	GBAS,MRPS17,ZNF713,RN7SL64P	COL9A2	first encounter of TP TopHat-Fusion,sim_adipose|MRPS17--COL9A2	sim_adipose|MRPS17--COL9A2
-FP	sim_adipose	TopHat-Fusion	AC004987.9--NUDT6	12	2	AC004987.9,AC004987.10,AC072061.2	FGF2,NUDT6	first encounter of FP fusion TopHat-Fusion,sim_adipose|AC004987.9--NUDT6	.
-TP	sim_adipose	TopHat-Fusion	MRPS10--VTCN1	0	14	MRPS10	VTCN1	first encounter of TP TopHat-Fusion,sim_adipose|MRPS10--VTCN1	sim_adipose|MRPS10--VTCN1
-TP	sim_adipose	TopHat-Fusion	SOHLH2--HSPA1L	11	3	RNU6-71P,SOHLH2,CCDC169,CCDC169-SOHLH2	HSPA1L,HSPA1A	first encounter of TP TopHat-Fusion,sim_adipose|SOHLH2--HSPA1L	sim_adipose|SOHLH2--HSPA1L
-TP	sim_adipose	TopHat-Fusion	GAS7--B3GAT1	12	2	AC000003.2,GAS7,AC000003.1	B3GAT1	first encounter of TP TopHat-Fusion,sim_adipose|GAS7--B3GAT1	sim_adipose|GAS7--B3GAT1
-FP	sim_adipose	TopHat-Fusion	WASF4P--CPNE4	0	13	WASF4P	RP11-517B11.6,RP11-250B16.1,CPNE4,MIR5704,RP11-64K7.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|WASF4P--CPNE4	.
-TP	sim_adipose	TopHat-Fusion	CTSW--C6ORF136	9	4	CTSW	C6orf136,DHX16,AL662800.2	first encounter of TP TopHat-Fusion,sim_adipose|CTSW--C6ORF136	sim_adipose|CTSW--C6ORF136
-TP	sim_adipose	TopHat-Fusion	C16ORF72--RGS1	9	4	RP11-473I1.9,RP11-473I1.10,RP11-473I1.5,C16orf72	RGS1	first encounter of TP TopHat-Fusion,sim_adipose|C16ORF72--RGS1	sim_adipose|C16ORF72--RGS1
-FP	sim_adipose	TopHat-Fusion	COX10--THUMPD3	0	12	COX10,COX10-AS1,SNORA74	THUMPD3,SETD5-AS1,SRGAP3,RP11-380O24.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|COX10--THUMPD3	.
-TP	sim_adipose	TopHat-Fusion	THUMPD3--CDRT1	0	12	THUMPD3,SETD5-AS1,SRGAP3,RP11-380O24.1	AC005838.2,RP11-385D13.1,CDRT1,SNORA74	first encounter of TP TopHat-Fusion,sim_adipose|THUMPD3--CDRT1	sim_adipose|THUMPD3--CDRT1
-TP	sim_adipose	TopHat-Fusion	FRMPD3--SP8	9	3	FRMPD3-AS1,FRMPD3	SP8	first encounter of TP TopHat-Fusion,sim_adipose|FRMPD3--SP8	sim_adipose|FRMPD3--SP8
-TP	sim_adipose	TopHat-Fusion	CCDC169--PSMG3	8	4	RNU6-71P,SOHLH2,CCDC169,CCDC169-SOHLH2	PSMG3-AS1,PSMG3	first encounter of TP TopHat-Fusion,sim_adipose|CCDC169--PSMG3	sim_adipose|CCDC169--PSMG3
-TP	sim_adipose	TopHat-Fusion	ATP6V1A--GPR123	7	5	ATP6V1A,RP11-271C24.2	AL445199.1,GPR123,RP13-439H18.4	first encounter of TP TopHat-Fusion,sim_adipose|ATP6V1A--GPR123	sim_adipose|ATP6V1A--GPR123
-TP	sim_adipose	TopHat-Fusion	CLASP1--TOR4A	7	5	RP11-204L24.2,RNU4ATAC,CLASP1	TOR4A	first encounter of TP TopHat-Fusion,sim_adipose|CLASP1--TOR4A	sim_adipose|CLASP1--TOR4A
-TP	sim_adipose	TopHat-Fusion	RBM15--MLNR	8	4	RBM15,RP5-1074L1.1	MLNR	first encounter of TP TopHat-Fusion,sim_adipose|RBM15--MLNR	sim_adipose|RBM15--MLNR
-TP	sim_adipose	TopHat-Fusion	NUDT5--ANKRD13B	8	3	SEC61A2,CDC123,NUDT5	RP11-68I3.7,GIT1,RP11-68I3.2,CORO6,ANKRD13B	first encounter of TP TopHat-Fusion,sim_adipose|NUDT5--ANKRD13B	sim_adipose|NUDT5--ANKRD13B
-TP	sim_adipose	TopHat-Fusion	KIF7--AC007193.6	9	2	KIF7,TICRR	AC007193.6,IGFL3,AC006262.4,TGIF1P1,CTC-344H19.6,AC006262.5,IGFL2	first encounter of TP TopHat-Fusion,sim_adipose|TICRR--IGFL2	sim_adipose|TICRR--IGFL2
-FP	sim_adipose	TopHat-Fusion	PPT1--PBX4	0	10	PPT1	PBX4,PHF5CP,AC002306.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|PPT1--PBX4	.
-TP	sim_adipose	TopHat-Fusion	AKT1S1--VPREB3	9	1	TBC1D17,AKT1S1	VPREB3	first encounter of TP TopHat-Fusion,sim_adipose|AKT1S1--VPREB3	sim_adipose|AKT1S1--VPREB3
-TP	sim_adipose	TopHat-Fusion	MRPL55--RFC3	6	3	MRPL55	RFC3,AL161891.1,RNU5A-4P	first encounter of TP TopHat-Fusion,sim_adipose|MRPL55--RFC3	sim_adipose|MRPL55--RFC3
-TP	sim_adipose	TopHat-Fusion	C17ORF98--MCM10	8	1	C17orf98	MCM10	first encounter of TP TopHat-Fusion,sim_adipose|C17ORF98--MCM10	sim_adipose|C17ORF98--MCM10
-TP	sim_adipose	TopHat-Fusion	KLHL4--MCRS1	7	2	KLHL4	KCNH3,MCRS1	first encounter of TP TopHat-Fusion,sim_adipose|KLHL4--MCRS1	sim_adipose|KLHL4--MCRS1
-TP	sim_adipose	TopHat-Fusion	KRT85--AGAP1	0	8	KRT85	RNU7-127P,AGAP1,AGAP1-IT1,AC064874.1,RN7SL204P,TMSB10P1,AC012305.1	first encounter of TP TopHat-Fusion,sim_adipose|KRT85--AGAP1	sim_adipose|KRT85--AGAP1
-TP	sim_adipose	TopHat-Fusion	AGAP2--RNF150	5	3	TSPAN31,RP11-571M6.8,AGAP2,AGAP2-AS1	RNF150	first encounter of TP TopHat-Fusion,sim_adipose|AGAP2--RNF150	sim_adipose|AGAP2--RNF150
-TP	sim_adipose	TopHat-Fusion	CPS1--TMEM134	5	2	CPS1	TMEM134,CTC-1337H24.2	first encounter of TP TopHat-Fusion,sim_adipose|CPS1--TMEM134	sim_adipose|CPS1--TMEM134
-FP	sim_adipose	TopHat-Fusion	RP11-335F8.2--GNAT2	3	4	RP11-335F8.2	AMPD2,GNAT2	first encounter of FP fusion TopHat-Fusion,sim_adipose|RP11-335F8.2--GNAT2	.
-TP	sim_adipose	TopHat-Fusion	DCUN1D3--RIMS1	5	2	LYRM1,DCUN1D3,ERI2	AL445256.1,RP5-1046G13.2,RIMS1	first encounter of TP TopHat-Fusion,sim_adipose|DCUN1D3--RIMS1	sim_adipose|DCUN1D3--RIMS1
-FP	sim_adipose	TopHat-Fusion	ABCG1--WWOX	0	6	ABCG1,RNA5SP492,AP001623.1	RP11-264L1.3,RP11-556H2.2,RP11-190D6.2,RP11-264L1.4,PIH1,RPS3P7,RP11-556H2.4,LSM3P5,RP11-556H2.3,RP11-319G9.5,WWOX,RP11-319G9.3	first encounter of FP fusion TopHat-Fusion,sim_adipose|ABCG1--WWOX	.
-FP	sim_adipose	TopHat-Fusion	RP1-136J15.5--FGFBP3	0	6	RP1-136J15.5	FGFBP3,RP11-402D21.2	first encounter of FP fusion TopHat-Fusion,sim_adipose|RP1-136J15.5--FGFBP3	.
-TP	sim_adipose	TopHat-Fusion	BUB3--AC018766.5	0	6	BUB3	AC018766.5,PTOV1	first encounter of TP TopHat-Fusion,sim_adipose|BUB3--PTOV1	sim_adipose|BUB3--PTOV1
-TP	sim_adipose	TopHat-Fusion	GSTM1--AP1S2	0	6	GSTM1,GSTM2,AC000032.2,GSTM5	AP1S2	first encounter of TP TopHat-Fusion,sim_adipose|GSTM1--AP1S2	sim_adipose|GSTM1--AP1S2
-TP	sim_adipose	TopHat-Fusion	GOLGA7--AVP	5	1	GOLGA7	AVP	first encounter of TP TopHat-Fusion,sim_adipose|GOLGA7--AVP	sim_adipose|GOLGA7--AVP
+TP	sim_adipose	TopHat-Fusion	RPA2--NPC1L1	6	22	RPA2	NPC1L1	first encounter of TP TopHat-Fusion,sim_adipose|RPA2--NPC1L1	sim_adipose|RPA2--NPC1L1
+TP	sim_adipose	TopHat-Fusion	WASF3--PSENEN	6	22	RPS3AP44,WASF3-AS1,WASF3	U2AF1L4,PSENEN,AD000671.6,AC002398.9,AC002398.11	first encounter of TP TopHat-Fusion,sim_adipose|WASF3--PSENEN	sim_adipose|WASF3--PSENEN
+TP	sim_adipose	TopHat-Fusion	TMCO5A--P2RX3	6	21	TMCO5A	P2RX3,AP000781.1	first encounter of TP TopHat-Fusion,sim_adipose|TMCO5A--P2RX3	sim_adipose|TMCO5A--P2RX3
+TP	sim_adipose	TopHat-Fusion	RCHY1--FSD2	5	19	RCHY1,THAP6	SCARNA15,RP11-752G15.6,FSD2	first encounter of TP TopHat-Fusion,sim_adipose|RCHY1--FSD2	sim_adipose|RCHY1--FSD2
+TP	sim_adipose	TopHat-Fusion	AKR1E2--DHX35	7	17	AKR1E2	DHX35,NPM1P19	first encounter of TP TopHat-Fusion,sim_adipose|AKR1E2--DHX35	sim_adipose|AKR1E2--DHX35
+TP	sim_adipose	TopHat-Fusion	KIAA1549L--SLC25A23	3	20	RP4-541C22.5,KIAA1549L	CRB3,SLC25A23	first encounter of TP TopHat-Fusion,sim_adipose|KIAA1549L--SLC25A23	sim_adipose|KIAA1549L--SLC25A23
+TP	sim_adipose	TopHat-Fusion	MSRB2--PIGA	4	19	MSRB2	PIGA	first encounter of TP TopHat-Fusion,sim_adipose|MSRB2--PIGA	sim_adipose|MSRB2--PIGA
+TP	sim_adipose	TopHat-Fusion	ASTN1--DCTN6	7	15	ASTN1,MIR488	RP11-51J9.4,DCTN6,LEPROTL1	first encounter of TP TopHat-Fusion,sim_adipose|ASTN1--DCTN6	sim_adipose|ASTN1--DCTN6
+TP	sim_adipose	TopHat-Fusion	CCDC27--CHST11	5	17	CCDC27	MIR3922,RP11-43D4.2,CHST11	first encounter of TP TopHat-Fusion,sim_adipose|CCDC27--CHST11	sim_adipose|CCDC27--CHST11
+TP	sim_adipose	TopHat-Fusion	ADAMTS3--GABRR3	4	17	ADAMTS3,RP11-373J21.1	GABRR3	first encounter of TP TopHat-Fusion,sim_adipose|ADAMTS3--GABRR3	sim_adipose|ADAMTS3--GABRR3
+TP	sim_adipose	TopHat-Fusion	CCL18--HEPACAM2	6	15	CCL18	HEPACAM2	first encounter of TP TopHat-Fusion,sim_adipose|CCL18--HEPACAM2	sim_adipose|CCL18--HEPACAM2
+TP	sim_adipose	TopHat-Fusion	TMPRSS6--GKN2	4	17	TMPRSS6,RP5-1170K4.7	GKN2	first encounter of TP TopHat-Fusion,sim_adipose|TMPRSS6--GKN2	sim_adipose|TMPRSS6--GKN2
+TP	sim_adipose	TopHat-Fusion	PCBP2--SYT17	6	14	MAP3K12,PRR13,PCBP2,RP11-793H13.8	CTD-2349B8.1,SYT17	first encounter of TP TopHat-Fusion,sim_adipose|PCBP2--SYT17	sim_adipose|PCBP2--SYT17
+TP	sim_adipose	TopHat-Fusion	ITGA2B--DNAH8	5	15	ITGA2B	SNORA8,RP1-217P22.2,DNAH8,RP1-207H1.2,RP1-207H1.3,RN7SL465P	first encounter of TP TopHat-Fusion,sim_adipose|ITGA2B--DNAH8	sim_adipose|ITGA2B--DNAH8
+TP	sim_adipose	TopHat-Fusion	TRAPPC4--SSTR5	5	15	RPS25,SLC37A4,MIR3656,TRAPPC4	SSTR5,SSTR5-AS1	first encounter of TP TopHat-Fusion,sim_adipose|TRAPPC4--SSTR5	sim_adipose|TRAPPC4--SSTR5
+TP	sim_adipose	TopHat-Fusion	ANK1--DSG2	5	15	ANK1,RN7SL149P,RP11-930P14.1,MIR486,RP11-930P14.2	DSG2,RP11-75N4.2	first encounter of TP TopHat-Fusion,sim_adipose|ANK1--DSG2	sim_adipose|ANK1--DSG2
+TP	sim_adipose	TopHat-Fusion	ZNF214--PRKCD	6	13	ZNF214	PRKCD	first encounter of TP TopHat-Fusion,sim_adipose|ZNF214--PRKCD	sim_adipose|ZNF214--PRKCD
+FP	sim_adipose	TopHat-Fusion	FLG-AS1--DHX57	5	14	FLG-AS1,FLG2,CRNN,HMGN3P1,FLG,RP1-91G5.3,RP11-107M16.2,HRNR	DHX57,AC018693.6,ASS1P2	first encounter of FP fusion TopHat-Fusion,sim_adipose|FLG-AS1--DHX57	.
+TP	sim_adipose	TopHat-Fusion	LHPP--TIMM10	1	18	RPS10P18,RP11-12J10.3,LHPP	TIMM10	first encounter of TP TopHat-Fusion,sim_adipose|LHPP--TIMM10	sim_adipose|LHPP--TIMM10
+TP	sim_adipose	TopHat-Fusion	MKRN3--BTBD8	4	14	RP11-73C9.1,MKRN3	BTBD8,GAPDHP46,PRKAR1AP	first encounter of TP TopHat-Fusion,sim_adipose|MKRN3--BTBD8	sim_adipose|MKRN3--BTBD8
+TP	sim_adipose	TopHat-Fusion	CDK7--CCR8	3	14	CDK7	CCR8	first encounter of TP TopHat-Fusion,sim_adipose|CDK7--CCR8	sim_adipose|CDK7--CCR8
+TP	sim_adipose	TopHat-Fusion	IL37--ATG14	1	15	IL37	RP11-454L9.2,ATG14	first encounter of TP TopHat-Fusion,sim_adipose|IL37--ATG14	sim_adipose|IL37--ATG14
+TP	sim_adipose	TopHat-Fusion	HIAT1--C19ORF12	4	12	RP4-714D9.2,HIAT1	C19orf12	first encounter of TP TopHat-Fusion,sim_adipose|HIAT1--C19ORF12	sim_adipose|HIAT1--C19ORF12
+TP	sim_adipose	TopHat-Fusion	SSBP3--NUDT6	6	10	RP5-997D24.3,MRPL37,SSBP3-AS1,SSBP3	FGF2,NUDT6	first encounter of TP TopHat-Fusion,sim_adipose|SSBP3--NUDT6	sim_adipose|SSBP3--NUDT6
+TP	sim_adipose	TopHat-Fusion	ASB14--CEP57	2	13	APPL1,ASB14	AP001877.1,FAM76B,CEP57	first encounter of TP TopHat-Fusion,sim_adipose|ASB14--CEP57	sim_adipose|ASB14--CEP57
+TP	sim_adipose	TopHat-Fusion	PCDH7--ZNF438	3	12	PCDH7,RP11-619J20.1,RP11-93M12.1	DDX10P1,RP11-330O11.3,ZNF438	first encounter of TP TopHat-Fusion,sim_adipose|PCDH7--ZNF438	sim_adipose|PCDH7--ZNF438
+TP	sim_adipose	TopHat-Fusion	MRPS17--COL9A2	14	0	GBAS,MRPS17,ZNF713,RN7SL64P	COL9A2	first encounter of TP TopHat-Fusion,sim_adipose|MRPS17--COL9A2	sim_adipose|MRPS17--COL9A2
+FP	sim_adipose	TopHat-Fusion	AC004987.9--NUDT6	2	12	AC004987.9,AC004987.10,AC072061.2	FGF2,NUDT6	first encounter of FP fusion TopHat-Fusion,sim_adipose|AC004987.9--NUDT6	.
+TP	sim_adipose	TopHat-Fusion	MRPS10--VTCN1	14	0	MRPS10	VTCN1	first encounter of TP TopHat-Fusion,sim_adipose|MRPS10--VTCN1	sim_adipose|MRPS10--VTCN1
+TP	sim_adipose	TopHat-Fusion	SOHLH2--HSPA1L	3	11	RNU6-71P,SOHLH2,CCDC169,CCDC169-SOHLH2	HSPA1L,HSPA1A	first encounter of TP TopHat-Fusion,sim_adipose|SOHLH2--HSPA1L	sim_adipose|SOHLH2--HSPA1L
+TP	sim_adipose	TopHat-Fusion	GAS7--B3GAT1	2	12	AC000003.2,GAS7,AC000003.1	B3GAT1	first encounter of TP TopHat-Fusion,sim_adipose|GAS7--B3GAT1	sim_adipose|GAS7--B3GAT1
+FP	sim_adipose	TopHat-Fusion	WASF4P--CPNE4	13	0	WASF4P	RP11-517B11.6,RP11-250B16.1,CPNE4,MIR5704,RP11-64K7.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|WASF4P--CPNE4	.
+TP	sim_adipose	TopHat-Fusion	CTSW--C6ORF136	4	9	CTSW	C6orf136,DHX16,AL662800.2	first encounter of TP TopHat-Fusion,sim_adipose|CTSW--C6ORF136	sim_adipose|CTSW--C6ORF136
+TP	sim_adipose	TopHat-Fusion	C16ORF72--RGS1	4	9	RP11-473I1.9,RP11-473I1.10,RP11-473I1.5,C16orf72	RGS1	first encounter of TP TopHat-Fusion,sim_adipose|C16ORF72--RGS1	sim_adipose|C16ORF72--RGS1
+FP	sim_adipose	TopHat-Fusion	COX10--THUMPD3	12	0	COX10,COX10-AS1,SNORA74	THUMPD3,SETD5-AS1,SRGAP3,RP11-380O24.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|COX10--THUMPD3	.
+TP	sim_adipose	TopHat-Fusion	THUMPD3--CDRT1	12	0	THUMPD3,SETD5-AS1,SRGAP3,RP11-380O24.1	AC005838.2,RP11-385D13.1,CDRT1,SNORA74	first encounter of TP TopHat-Fusion,sim_adipose|THUMPD3--CDRT1	sim_adipose|THUMPD3--CDRT1
+TP	sim_adipose	TopHat-Fusion	FRMPD3--SP8	3	9	FRMPD3-AS1,FRMPD3	SP8	first encounter of TP TopHat-Fusion,sim_adipose|FRMPD3--SP8	sim_adipose|FRMPD3--SP8
+TP	sim_adipose	TopHat-Fusion	CCDC169--PSMG3	4	8	RNU6-71P,SOHLH2,CCDC169,CCDC169-SOHLH2	PSMG3-AS1,PSMG3	first encounter of TP TopHat-Fusion,sim_adipose|CCDC169--PSMG3	sim_adipose|CCDC169--PSMG3
+TP	sim_adipose	TopHat-Fusion	ATP6V1A--GPR123	5	7	ATP6V1A,RP11-271C24.2	AL445199.1,GPR123,RP13-439H18.4	first encounter of TP TopHat-Fusion,sim_adipose|ATP6V1A--GPR123	sim_adipose|ATP6V1A--GPR123
+TP	sim_adipose	TopHat-Fusion	CLASP1--TOR4A	5	7	RP11-204L24.2,RNU4ATAC,CLASP1	TOR4A	first encounter of TP TopHat-Fusion,sim_adipose|CLASP1--TOR4A	sim_adipose|CLASP1--TOR4A
+TP	sim_adipose	TopHat-Fusion	RBM15--MLNR	4	8	RBM15,RP5-1074L1.1	MLNR	first encounter of TP TopHat-Fusion,sim_adipose|RBM15--MLNR	sim_adipose|RBM15--MLNR
+TP	sim_adipose	TopHat-Fusion	NUDT5--ANKRD13B	3	8	SEC61A2,CDC123,NUDT5	RP11-68I3.7,GIT1,RP11-68I3.2,CORO6,ANKRD13B	first encounter of TP TopHat-Fusion,sim_adipose|NUDT5--ANKRD13B	sim_adipose|NUDT5--ANKRD13B
+TP	sim_adipose	TopHat-Fusion	KIF7--AC007193.6	2	9	KIF7,TICRR	AC007193.6,IGFL3,AC006262.4,TGIF1P1,CTC-344H19.6,AC006262.5,IGFL2	first encounter of TP TopHat-Fusion,sim_adipose|TICRR--IGFL2	sim_adipose|TICRR--IGFL2
+FP	sim_adipose	TopHat-Fusion	PPT1--PBX4	10	0	PPT1	PBX4,PHF5CP,AC002306.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|PPT1--PBX4	.
+TP	sim_adipose	TopHat-Fusion	AKT1S1--VPREB3	1	9	TBC1D17,AKT1S1	VPREB3	first encounter of TP TopHat-Fusion,sim_adipose|AKT1S1--VPREB3	sim_adipose|AKT1S1--VPREB3
+TP	sim_adipose	TopHat-Fusion	MRPL55--RFC3	3	6	MRPL55	RFC3,AL161891.1,RNU5A-4P	first encounter of TP TopHat-Fusion,sim_adipose|MRPL55--RFC3	sim_adipose|MRPL55--RFC3
+TP	sim_adipose	TopHat-Fusion	C17ORF98--MCM10	1	8	C17orf98	MCM10	first encounter of TP TopHat-Fusion,sim_adipose|C17ORF98--MCM10	sim_adipose|C17ORF98--MCM10
+TP	sim_adipose	TopHat-Fusion	KLHL4--MCRS1	2	7	KLHL4	KCNH3,MCRS1	first encounter of TP TopHat-Fusion,sim_adipose|KLHL4--MCRS1	sim_adipose|KLHL4--MCRS1
+TP	sim_adipose	TopHat-Fusion	KRT85--AGAP1	8	0	KRT85	RNU7-127P,AGAP1,AGAP1-IT1,AC064874.1,RN7SL204P,TMSB10P1,AC012305.1	first encounter of TP TopHat-Fusion,sim_adipose|KRT85--AGAP1	sim_adipose|KRT85--AGAP1
+TP	sim_adipose	TopHat-Fusion	AGAP2--RNF150	3	5	TSPAN31,RP11-571M6.8,AGAP2,AGAP2-AS1	RNF150	first encounter of TP TopHat-Fusion,sim_adipose|AGAP2--RNF150	sim_adipose|AGAP2--RNF150
+TP	sim_adipose	TopHat-Fusion	CPS1--TMEM134	2	5	CPS1	TMEM134,CTC-1337H24.2	first encounter of TP TopHat-Fusion,sim_adipose|CPS1--TMEM134	sim_adipose|CPS1--TMEM134
+FP	sim_adipose	TopHat-Fusion	RP11-335F8.2--GNAT2	4	3	RP11-335F8.2	AMPD2,GNAT2	first encounter of FP fusion TopHat-Fusion,sim_adipose|RP11-335F8.2--GNAT2	.
+TP	sim_adipose	TopHat-Fusion	DCUN1D3--RIMS1	2	5	LYRM1,DCUN1D3,ERI2	AL445256.1,RP5-1046G13.2,RIMS1	first encounter of TP TopHat-Fusion,sim_adipose|DCUN1D3--RIMS1	sim_adipose|DCUN1D3--RIMS1
+FP	sim_adipose	TopHat-Fusion	ABCG1--WWOX	6	0	ABCG1,RNA5SP492,AP001623.1	RP11-264L1.3,RP11-556H2.2,RP11-190D6.2,RP11-264L1.4,PIH1,RPS3P7,RP11-556H2.4,LSM3P5,RP11-556H2.3,RP11-319G9.5,WWOX,RP11-319G9.3	first encounter of FP fusion TopHat-Fusion,sim_adipose|ABCG1--WWOX	.
+FP	sim_adipose	TopHat-Fusion	RP1-136J15.5--FGFBP3	6	0	RP1-136J15.5	FGFBP3,RP11-402D21.2	first encounter of FP fusion TopHat-Fusion,sim_adipose|RP1-136J15.5--FGFBP3	.
+TP	sim_adipose	TopHat-Fusion	BUB3--AC018766.5	6	0	BUB3	AC018766.5,PTOV1	first encounter of TP TopHat-Fusion,sim_adipose|BUB3--PTOV1	sim_adipose|BUB3--PTOV1
+TP	sim_adipose	TopHat-Fusion	GSTM1--AP1S2	6	0	GSTM1,GSTM2,AC000032.2,GSTM5	AP1S2	first encounter of TP TopHat-Fusion,sim_adipose|GSTM1--AP1S2	sim_adipose|GSTM1--AP1S2
+TP	sim_adipose	TopHat-Fusion	GOLGA7--AVP	1	5	GOLGA7	AVP	first encounter of TP TopHat-Fusion,sim_adipose|GOLGA7--AVP	sim_adipose|GOLGA7--AVP
 TP	sim_adipose	TopHat-Fusion	NLRP3--SECTM1	3	3	NLRP3	SECTM1	first encounter of TP TopHat-Fusion,sim_adipose|NLRP3--SECTM1	sim_adipose|NLRP3--SECTM1
-FP	sim_adipose	TopHat-Fusion	PPT1--RP11-438D8.2	0	5	PPT1	RP11-789L4.1,RP11-438D8.2,ZBTB38,ACPL2	first encounter of FP fusion TopHat-Fusion,sim_adipose|PPT1--RP11-438D8.2	.
-NA-TP	sim_adipose	TopHat-Fusion	NDFIP2--RP11-439A17.10	0	5	NDFIP2-AS1,NDFIP2	FCGR1A,HIST2H2BA,RP11-439A17.9,RP11-439A17.10,FCGR1B,RP11-196G18.21,HIST2H2BF	already scored TopHat-Fusion,sim_adipose|NDFIP2--HIST2H2BF as TP	.
-FP	sim_adipose	TopHat-Fusion	NDFIP2--HIST2H2BB	0	5	NDFIP2-AS1,NDFIP2	HIST2H2BA,RP5-998N21.10,HIST2H2BB,RP5-998N21.4,FCGR1C	first encounter of FP fusion TopHat-Fusion,sim_adipose|NDFIP2--HIST2H2BB	.
-TP	sim_adipose	TopHat-Fusion	CCL4L2--ZBTB18	0	4	CCL4L1,CCL4L2,TBC1D3C,TBC1D3H	ZBTB18	first encounter of TP TopHat-Fusion,sim_adipose|CCL4L1--ZBTB18	sim_adipose|CCL4L1--ZBTB18
-NA-TP	sim_adipose	TopHat-Fusion	CCL4L1--ZBTB18	0	4	CCL4L1	ZBTB18	already scored TopHat-Fusion,sim_adipose|CCL4L1--ZBTB18 as TP	.
-TP	sim_adipose	TopHat-Fusion	FOXO6--UBE2S	0	4	RP11-399E6.4,FOXO6	RPL28,CTD-2105E13.13,UBE2S	first encounter of TP TopHat-Fusion,sim_adipose|FOXO6--UBE2S	sim_adipose|FOXO6--UBE2S
-TP	sim_adipose	TopHat-Fusion	BARX2--LCE1D	0	4	BARX2	LCE1D	first encounter of TP TopHat-Fusion,sim_adipose|BARX2--LCE1D	sim_adipose|BARX2--LCE1D
-TP	sim_adipose	TopHat-Fusion	PCNXL4--ASAP2	1	3	DHRS7,SCOCP1,PCNXL4	ASAP2,RP11-385J23.1,ITGB1BP1	first encounter of TP TopHat-Fusion,sim_adipose|PCNXL4--ASAP2	sim_adipose|PCNXL4--ASAP2
+FP	sim_adipose	TopHat-Fusion	PPT1--RP11-438D8.2	5	0	PPT1	RP11-789L4.1,RP11-438D8.2,ZBTB38,ACPL2	first encounter of FP fusion TopHat-Fusion,sim_adipose|PPT1--RP11-438D8.2	.
+NA-TP	sim_adipose	TopHat-Fusion	NDFIP2--RP11-439A17.10	5	0	NDFIP2-AS1,NDFIP2	FCGR1A,HIST2H2BA,RP11-439A17.9,RP11-439A17.10,FCGR1B,RP11-196G18.21,HIST2H2BF	already scored TopHat-Fusion,sim_adipose|NDFIP2--HIST2H2BF as TP	.
+FP	sim_adipose	TopHat-Fusion	NDFIP2--HIST2H2BB	5	0	NDFIP2-AS1,NDFIP2	HIST2H2BA,RP5-998N21.10,HIST2H2BB,RP5-998N21.4,FCGR1C	first encounter of FP fusion TopHat-Fusion,sim_adipose|NDFIP2--HIST2H2BB	.
+TP	sim_adipose	TopHat-Fusion	CCL4L2--ZBTB18	4	0	CCL4L1,CCL4L2,TBC1D3C,TBC1D3H	ZBTB18	first encounter of TP TopHat-Fusion,sim_adipose|CCL4L1--ZBTB18	sim_adipose|CCL4L1--ZBTB18
+NA-TP	sim_adipose	TopHat-Fusion	CCL4L1--ZBTB18	4	0	CCL4L1	ZBTB18	already scored TopHat-Fusion,sim_adipose|CCL4L1--ZBTB18 as TP	.
+TP	sim_adipose	TopHat-Fusion	FOXO6--UBE2S	4	0	RP11-399E6.4,FOXO6	RPL28,CTD-2105E13.13,UBE2S	first encounter of TP TopHat-Fusion,sim_adipose|FOXO6--UBE2S	sim_adipose|FOXO6--UBE2S
+TP	sim_adipose	TopHat-Fusion	BARX2--LCE1D	4	0	BARX2	LCE1D	first encounter of TP TopHat-Fusion,sim_adipose|BARX2--LCE1D	sim_adipose|BARX2--LCE1D
+TP	sim_adipose	TopHat-Fusion	PCNXL4--ASAP2	3	1	DHRS7,SCOCP1,PCNXL4	ASAP2,RP11-385J23.1,ITGB1BP1	first encounter of TP TopHat-Fusion,sim_adipose|PCNXL4--ASAP2	sim_adipose|PCNXL4--ASAP2
 TP	sim_adipose	TopHat-Fusion	NAPEPLD--ZNF844	2	2	NAPEPLD,ARMC10,RPL19P12	RNA5SP466,ZNF844	first encounter of TP TopHat-Fusion,sim_adipose|NAPEPLD--ZNF844	sim_adipose|NAPEPLD--ZNF844
-FP	sim_adipose	TopHat-Fusion	RPA2P2--NPC1L1	0	3	RPA2P2	NPC1L1	first encounter of FP fusion TopHat-Fusion,sim_adipose|RPA2P2--NPC1L1	.
-FP	sim_adipose	TopHat-Fusion	EXO5--CWC22	0	3	EXO5,RP11-656D10.5,RP11-656D10.6	CWC22	first encounter of FP fusion TopHat-Fusion,sim_adipose|EXO5--CWC22	.
-FP	sim_adipose	TopHat-Fusion	RETSAT--CWC22	0	3	ELMOD3,RETSAT	CWC22	first encounter of FP fusion TopHat-Fusion,sim_adipose|RETSAT--CWC22	.
-FP	sim_adipose	TopHat-Fusion	DCAF10--VTCN1	0	3	DCAF10,RP11-3J10.7,RP11-613M10.9,EXOSC3	VTCN1	first encounter of FP fusion TopHat-Fusion,sim_adipose|DCAF10--VTCN1	.
-TP	sim_adipose	TopHat-Fusion	ADGB--ZNF230	0	3	ADGB,KATNBL1P6,RNU6-734P	RNF141,ZNF230	first encounter of TP TopHat-Fusion,sim_adipose|ADGB--ZNF230	sim_adipose|ADGB--ZNF230
-FP	sim_adipose	TopHat-Fusion	RPF1--DYNLL2	0	3	RPF1,GNG5	DYNLL2	first encounter of FP fusion TopHat-Fusion,sim_adipose|RPF1--DYNLL2	.
-TP	sim_adipose	TopHat-Fusion	GPR64--FCRL3	2	1	GPR64	RP11-367J7.3,FCRL3	first encounter of TP TopHat-Fusion,sim_adipose|GPR64--FCRL3	sim_adipose|GPR64--FCRL3
-TP	sim_adipose	TopHat-Fusion	EDNRB--LY6G6F	2	1	EDNRB,RP11-318G21.4,RN7SL810P,RNF219-AS1	MEGT1,LY6G6E,XXbac-BPG32J3.20,LY6G6D,LY6G6F	first encounter of TP TopHat-Fusion,sim_adipose|EDNRB--LY6G6F	sim_adipose|EDNRB--LY6G6F
-FP	sim_adipose	TopHat-Fusion	TRAPPC11--LILRB2	0	2	RNU6-335P,RNU6-1053P,TRAPPC11	CTD-2337J16.1,RPS9,AC010492.4,RNU6-1307P,LILRB2,LILRB3,LILRA6,AC010492.5,AC098789.1,LILRB5	first encounter of FP fusion TopHat-Fusion,sim_adipose|TRAPPC11--LILRB2	.
-FP	sim_adipose	TopHat-Fusion	CPA2--RP11-331F4.1	0	2	CPA2	RP11-331F4.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|CPA2--RP11-331F4.1	.
-FP	sim_adipose	TopHat-Fusion	SEMA7A--MCC	0	2	SEMA7A	MCC,CTD-2201G3.1,TSSK1B	first encounter of FP fusion TopHat-Fusion,sim_adipose|SEMA7A--MCC	.
-FP	sim_adipose	TopHat-Fusion	ABCA7--HMGCL	0	2	ABCA7	HMGCL	first encounter of FP fusion TopHat-Fusion,sim_adipose|ABCA7--HMGCL	.
-FP	sim_adipose	TopHat-Fusion	PTOV1--WDR18	0	2	AC018766.5,AC018766.6,PTOV1,AC018766.4,PTOV1-AS1,MIR4749	WDR18	first encounter of FP fusion TopHat-Fusion,sim_adipose|PTOV1--WDR18	.
-TP	sim_adipose	TopHat-Fusion	AMY1B--APOA5	0	2	AMY1C,AMY1A,AMY1B	APOA5	first encounter of TP TopHat-Fusion,sim_adipose|AMY1C--APOA5	sim_adipose|AMY1C--APOA5
-TP	sim_adipose	TopHat-Fusion	NPVF--FAM8A1	0	2	NPVF	FAM8A1	first encounter of TP TopHat-Fusion,sim_adipose|NPVF--FAM8A1	sim_adipose|NPVF--FAM8A1
-FP	sim_adipose	TopHat-Fusion	CST9L--PLXNA4	0	2	CST9L	AC018643.4,PLXNA4,AC011625.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|CST9L--PLXNA4	.
-FP	sim_adipose	TopHat-Fusion	CCL14--HEPACAM2	0	2	CTB-186H2.3,CCL15-CCL14,CCL15,CCL14,RP11-104J23.1	HEPACAM2	first encounter of FP fusion TopHat-Fusion,sim_adipose|CCL14--HEPACAM2	.
-FP	sim_adipose	TopHat-Fusion	HPS1--MLF1	0	2	MIR4685,HPS1	MLF1	first encounter of FP fusion TopHat-Fusion,sim_adipose|HPS1--MLF1	.
-FP	sim_adipose	TopHat-Fusion	BAZ2A--EIF3L	0	2	BAZ2A	EIF3L,ANKRD54	first encounter of FP fusion TopHat-Fusion,sim_adipose|BAZ2A--EIF3L	.
-TP	sim_adipose	TopHat-Fusion	WDYHV1--BTNL9	0	2	WDYHV1	BTNL9	first encounter of TP TopHat-Fusion,sim_adipose|WDYHV1--BTNL9	sim_adipose|WDYHV1--BTNL9
-TP	sim_adipose	TopHat-Fusion	RP11-739N20.2--SAV1	0	2	RP11-739N20.3,PPP1R15B,RP11-739N20.2,PIK3C2B	RN7SL452P,RP11-248J18.2,SAV1,ATL1	first encounter of TP TopHat-Fusion,sim_adipose|PPP1R15B--SAV1	sim_adipose|PPP1R15B--SAV1
-FP	sim_adipose	TopHat-Fusion	DNM1--RAB14	0	2	DNM1,CIZ1,MIR199B,MIR3154	GSN,RAB14,RN7SL181P	first encounter of FP fusion TopHat-Fusion,sim_adipose|DNM1--RAB14	.
-FP	sim_adipose	TopHat-Fusion	TPM2--WWC3	0	2	TPM2	WWC3-AS1,WWC3	first encounter of FP fusion TopHat-Fusion,sim_adipose|TPM2--WWC3	.
-FP	sim_adipose	TopHat-Fusion	SGOL2--PHLDB1	0	2	KCTD18,SGOL2	PHLDB1,AP002954.3,TREH	first encounter of FP fusion TopHat-Fusion,sim_adipose|SGOL2--PHLDB1	.
+FP	sim_adipose	TopHat-Fusion	RPA2P2--NPC1L1	3	0	RPA2P2	NPC1L1	first encounter of FP fusion TopHat-Fusion,sim_adipose|RPA2P2--NPC1L1	.
+FP	sim_adipose	TopHat-Fusion	EXO5--CWC22	3	0	EXO5,RP11-656D10.5,RP11-656D10.6	CWC22	first encounter of FP fusion TopHat-Fusion,sim_adipose|EXO5--CWC22	.
+FP	sim_adipose	TopHat-Fusion	RETSAT--CWC22	3	0	ELMOD3,RETSAT	CWC22	first encounter of FP fusion TopHat-Fusion,sim_adipose|RETSAT--CWC22	.
+FP	sim_adipose	TopHat-Fusion	DCAF10--VTCN1	3	0	DCAF10,RP11-3J10.7,RP11-613M10.9,EXOSC3	VTCN1	first encounter of FP fusion TopHat-Fusion,sim_adipose|DCAF10--VTCN1	.
+TP	sim_adipose	TopHat-Fusion	ADGB--ZNF230	3	0	ADGB,KATNBL1P6,RNU6-734P	RNF141,ZNF230	first encounter of TP TopHat-Fusion,sim_adipose|ADGB--ZNF230	sim_adipose|ADGB--ZNF230
+FP	sim_adipose	TopHat-Fusion	RPF1--DYNLL2	3	0	RPF1,GNG5	DYNLL2	first encounter of FP fusion TopHat-Fusion,sim_adipose|RPF1--DYNLL2	.
+TP	sim_adipose	TopHat-Fusion	GPR64--FCRL3	1	2	GPR64	RP11-367J7.3,FCRL3	first encounter of TP TopHat-Fusion,sim_adipose|GPR64--FCRL3	sim_adipose|GPR64--FCRL3
+TP	sim_adipose	TopHat-Fusion	EDNRB--LY6G6F	1	2	EDNRB,RP11-318G21.4,RN7SL810P,RNF219-AS1	MEGT1,LY6G6E,XXbac-BPG32J3.20,LY6G6D,LY6G6F	first encounter of TP TopHat-Fusion,sim_adipose|EDNRB--LY6G6F	sim_adipose|EDNRB--LY6G6F
+FP	sim_adipose	TopHat-Fusion	TRAPPC11--LILRB2	2	0	RNU6-335P,RNU6-1053P,TRAPPC11	CTD-2337J16.1,RPS9,AC010492.4,RNU6-1307P,LILRB2,LILRB3,LILRA6,AC010492.5,AC098789.1,LILRB5	first encounter of FP fusion TopHat-Fusion,sim_adipose|TRAPPC11--LILRB2	.
+FP	sim_adipose	TopHat-Fusion	CPA2--RP11-331F4.1	2	0	CPA2	RP11-331F4.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|CPA2--RP11-331F4.1	.
+FP	sim_adipose	TopHat-Fusion	SEMA7A--MCC	2	0	SEMA7A	MCC,CTD-2201G3.1,TSSK1B	first encounter of FP fusion TopHat-Fusion,sim_adipose|SEMA7A--MCC	.
+FP	sim_adipose	TopHat-Fusion	ABCA7--HMGCL	2	0	ABCA7	HMGCL	first encounter of FP fusion TopHat-Fusion,sim_adipose|ABCA7--HMGCL	.
+FP	sim_adipose	TopHat-Fusion	PTOV1--WDR18	2	0	AC018766.5,AC018766.6,PTOV1,AC018766.4,PTOV1-AS1,MIR4749	WDR18	first encounter of FP fusion TopHat-Fusion,sim_adipose|PTOV1--WDR18	.
+TP	sim_adipose	TopHat-Fusion	AMY1B--APOA5	2	0	AMY1C,AMY1A,AMY1B	APOA5	first encounter of TP TopHat-Fusion,sim_adipose|AMY1C--APOA5	sim_adipose|AMY1C--APOA5
+TP	sim_adipose	TopHat-Fusion	NPVF--FAM8A1	2	0	NPVF	FAM8A1	first encounter of TP TopHat-Fusion,sim_adipose|NPVF--FAM8A1	sim_adipose|NPVF--FAM8A1
+FP	sim_adipose	TopHat-Fusion	CST9L--PLXNA4	2	0	CST9L	AC018643.4,PLXNA4,AC011625.1	first encounter of FP fusion TopHat-Fusion,sim_adipose|CST9L--PLXNA4	.
+FP	sim_adipose	TopHat-Fusion	CCL14--HEPACAM2	2	0	CTB-186H2.3,CCL15-CCL14,CCL15,CCL14,RP11-104J23.1	HEPACAM2	first encounter of FP fusion TopHat-Fusion,sim_adipose|CCL14--HEPACAM2	.
+FP	sim_adipose	TopHat-Fusion	HPS1--MLF1	2	0	MIR4685,HPS1	MLF1	first encounter of FP fusion TopHat-Fusion,sim_adipose|HPS1--MLF1	.
+FP	sim_adipose	TopHat-Fusion	BAZ2A--EIF3L	2	0	BAZ2A	EIF3L,ANKRD54	first encounter of FP fusion TopHat-Fusion,sim_adipose|BAZ2A--EIF3L	.
+TP	sim_adipose	TopHat-Fusion	WDYHV1--BTNL9	2	0	WDYHV1	BTNL9	first encounter of TP TopHat-Fusion,sim_adipose|WDYHV1--BTNL9	sim_adipose|WDYHV1--BTNL9
+TP	sim_adipose	TopHat-Fusion	RP11-739N20.2--SAV1	2	0	RP11-739N20.3,PPP1R15B,RP11-739N20.2,PIK3C2B	RN7SL452P,RP11-248J18.2,SAV1,ATL1	first encounter of TP TopHat-Fusion,sim_adipose|PPP1R15B--SAV1	sim_adipose|PPP1R15B--SAV1
+FP	sim_adipose	TopHat-Fusion	DNM1--RAB14	2	0	DNM1,CIZ1,MIR199B,MIR3154	GSN,RAB14,RN7SL181P	first encounter of FP fusion TopHat-Fusion,sim_adipose|DNM1--RAB14	.
+FP	sim_adipose	TopHat-Fusion	TPM2--WWC3	2	0	TPM2	WWC3-AS1,WWC3	first encounter of FP fusion TopHat-Fusion,sim_adipose|TPM2--WWC3	.
+FP	sim_adipose	TopHat-Fusion	SGOL2--PHLDB1	2	0	KCTD18,SGOL2	PHLDB1,AP002954.3,TREH	first encounter of FP fusion TopHat-Fusion,sim_adipose|SGOL2--PHLDB1	.
 TP	sim_adipose	TopHat-Fusion	SYCN--HMCN2	1	1	SYCN	RN7SL665P,HMCN2,AL354898.1	first encounter of TP TopHat-Fusion,sim_adipose|SYCN--AL354898.1	sim_adipose|SYCN--AL354898.1
-FP	sim_adipose	TopHat-Fusion	SLC6A6--BOC	0	1	SLC6A6,GRIP2	WDR52,BOC	first encounter of FP fusion TopHat-Fusion,sim_adipose|SLC6A6--BOC	.
-FP	sim_adipose	TopHat-Fusion	QRICH2--ANKRD52	0	1	QRICH2	SLC39A5,ANKRD52	first encounter of FP fusion TopHat-Fusion,sim_adipose|QRICH2--ANKRD52	.
-FP	sim_adipose	TopHat-Fusion	CBLN2--PCDHAC2	0	1	HNRNPA1P11,CBLN2	PCDHAC1,PCDHAC2,PCDHA8,PCDHA12,PCDHA10,PCDHA6,PCDHA13,PCDHA3,PCDHA4,PCDHA2,PCDHA5,PCDHA1,PCDHA11,PCDHA7,PCDHA9	first encounter of FP fusion TopHat-Fusion,sim_adipose|CBLN2--PCDHAC2	.
+FP	sim_adipose	TopHat-Fusion	SLC6A6--BOC	1	0	SLC6A6,GRIP2	WDR52,BOC	first encounter of FP fusion TopHat-Fusion,sim_adipose|SLC6A6--BOC	.
+FP	sim_adipose	TopHat-Fusion	QRICH2--ANKRD52	1	0	QRICH2	SLC39A5,ANKRD52	first encounter of FP fusion TopHat-Fusion,sim_adipose|QRICH2--ANKRD52	.
+FP	sim_adipose	TopHat-Fusion	CBLN2--PCDHAC2	1	0	HNRNPA1P11,CBLN2	PCDHAC1,PCDHAC2,PCDHA8,PCDHA12,PCDHA10,PCDHA6,PCDHA13,PCDHA3,PCDHA4,PCDHA2,PCDHA5,PCDHA1,PCDHA11,PCDHA7,PCDHA9	first encounter of FP fusion TopHat-Fusion,sim_adipose|CBLN2--PCDHAC2	.
 TP	sim_adipose	FusionCatcher	WFDC5--MLF1	17	9496	WFDC5	MLF1	first encounter of TP FusionCatcher,sim_adipose|WFDC5--MLF1	sim_adipose|WFDC5--MLF1
 TP	sim_adipose	FusionCatcher	CWC22--CAPS	17	9467	CWC22	AC104532.2,CAPS,RANBP3,AC104532.4	first encounter of TP FusionCatcher,sim_adipose|CWC22--CAPS	sim_adipose|CWC22--CAPS
 TP	sim_adipose	FusionCatcher	LRIT1--CEP126	17	9176	LRIT1	KIAA1377,ANGPTL5	first encounter of TP FusionCatcher,sim_adipose|LRIT1--KIAA1377	sim_adipose|LRIT1--KIAA1377

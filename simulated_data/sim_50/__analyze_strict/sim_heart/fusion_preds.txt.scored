@@ -2262,403 +2262,403 @@ TP	sim_heart	STAR-Fusion	SEPT5--TLE6	2	0	SEPT5,GP1BB	TLE6	first encounter of TP 
 NA-FP	sim_heart	STAR-Fusion	RP11-301J7.8--CHRAC1	2	0	AL591684.1,RP11-301J7.8,RP11-301J7.9,ANXA8,FAM25G	CHRAC1	already scored STAR-Fusion,sim_heart|FAM25G--CHRAC1 as FP	.
 TP	sim_heart	STAR-Fusion	PDCD6--C1ORF54	2	0	AHRR,PDCD6,CTD-2083E4.5	APH1A,C1orf54	first encounter of TP STAR-Fusion,sim_heart|PDCD6--C1ORF54	sim_heart|PDCD6--C1ORF54
 TP	sim_heart	STAR-Fusion	C4A--TMPRSS11E	2	0	C4B-AS1,C4B,STK19,C4A,C4A-AS1	TMPRSS11E	first encounter of TP STAR-Fusion,sim_heart|C4A--TMPRSS11E	sim_heart|C4A--TMPRSS11E
-TP	sim_heart	TopHat-Fusion	PMF1-BGLAP--LRRC55	6082	4376	PMF1,BGLAP,PMF1-BGLAP	LRRC55	first encounter of TP TopHat-Fusion,sim_heart|PMF1--LRRC55	sim_heart|PMF1--LRRC55
-TP	sim_heart	TopHat-Fusion	TTC38--A4GNT	5954	4247	TTC38	A4GNT	first encounter of TP TopHat-Fusion,sim_heart|TTC38--A4GNT	sim_heart|TTC38--A4GNT
-TP	sim_heart	TopHat-Fusion	SEC24A--FAM180B	5631	3890	RNU6-1164P,SEC24A,RNU6-757P,SAR1B	FAM180B	first encounter of TP TopHat-Fusion,sim_heart|SEC24A--FAM180B	sim_heart|SEC24A--FAM180B
-TP	sim_heart	TopHat-Fusion	CWH43--COLEC12	5376	3846	TPI1P4,CWH43	RP11-720L2.3,RP11-720L2.4,COLEC12,RP11-720L2.2	first encounter of TP TopHat-Fusion,sim_heart|CWH43--COLEC12	sim_heart|CWH43--COLEC12
-TP	sim_heart	TopHat-Fusion	NF2--ZNF682	5094	3787	NF2,RPEP4	AC006539.3,ZNF682,AC006539.1	first encounter of TP TopHat-Fusion,sim_heart|NF2--ZNF682	sim_heart|NF2--ZNF682
-TP	sim_heart	TopHat-Fusion	RP4-622L5.7--SUZ12	5094	3778	CCDC28B,IQCC,RP4-622L5.7	RNA5SP437,SUZ12	first encounter of TP TopHat-Fusion,sim_heart|IQCC--SUZ12	sim_heart|IQCC--SUZ12
-TP	sim_heart	TopHat-Fusion	FARS2--KIR3DL2	5834	2975	RP1-232P20.1,HNRNPA1P37,FARS2,RP1-256G22.2,RP3-520B18.1	KIR3DL1,KIR3DL2	first encounter of TP TopHat-Fusion,sim_heart|FARS2--KIR3DL2	sim_heart|FARS2--KIR3DL2
-TP	sim_heart	TopHat-Fusion	PROX2--OTOF	4963	3454	YLPM1,RP11-316E14.6,PROX2	OTOF	first encounter of TP TopHat-Fusion,sim_heart|PROX2--OTOF	sim_heart|PROX2--OTOF
-TP	sim_heart	TopHat-Fusion	ALOX15B--KCNA2	4835	3357	ALOX15B	KCNA2	first encounter of TP TopHat-Fusion,sim_heart|ALOX15B--KCNA2	sim_heart|ALOX15B--KCNA2
-TP	sim_heart	TopHat-Fusion	WNT8B--ADAM2	4730	3456	WNT8B	ADAM2,AC136365.1	first encounter of TP TopHat-Fusion,sim_heart|WNT8B--ADAM2	sim_heart|WNT8B--ADAM2
-TP	sim_heart	TopHat-Fusion	ZNF619--TMPRSS15	4590	3508	ZNF619	AL109763.1,TMPRSS15	first encounter of TP TopHat-Fusion,sim_heart|ZNF619--TMPRSS15	sim_heart|ZNF619--TMPRSS15
-FP	sim_heart	TopHat-Fusion	SZT2--UBL3	4740	3340	SZT2,HYI,SZT2-AS1	UBL3	first encounter of FP fusion TopHat-Fusion,sim_heart|SZT2--UBL3	.
-TP	sim_heart	TopHat-Fusion	TM4SF19--LSMEM1	4741	3311	TCTEX1D2,TM4SF19-AS1,TM4SF19,RP11-447L10.1	LSMEM1,IFRD1	first encounter of TP TopHat-Fusion,sim_heart|TM4SF19--LSMEM1	sim_heart|TM4SF19--LSMEM1
-TP	sim_heart	TopHat-Fusion	LONP1--TXLNA	4932	3087	RPL36,LONP1	TXLNA	first encounter of TP TopHat-Fusion,sim_heart|LONP1--TXLNA	sim_heart|LONP1--TXLNA
-TP	sim_heart	TopHat-Fusion	HAO2--SELP	4293	2900	HAO2,HAO2-IT1	SELP	first encounter of TP TopHat-Fusion,sim_heart|HAO2--SELP	sim_heart|HAO2--SELP
-TP	sim_heart	TopHat-Fusion	UBXN2B--KCTD1	4097	3072	UBXN2B,RP11-114M5.1	CIAPIN1P,AQP4-AS1,AC090206.1,KCTD1	first encounter of TP TopHat-Fusion,sim_heart|UBXN2B--KCTD1	sim_heart|UBXN2B--KCTD1
-TP	sim_heart	TopHat-Fusion	PCMT1--PTPLA	4001	3119	RP11-350J20.5,NUP43,RP11-350J20.4,PCMT1	PTPLA	first encounter of TP TopHat-Fusion,sim_heart|PCMT1--PTPLA	sim_heart|PCMT1--PTPLA
-TP	sim_heart	TopHat-Fusion	AOAH--KLHL22	3761	2952	AC087069.1,AOAH-IT1,AOAH	KLHL22-IT1,XXbac-B562F10.11,KLHL22,SCARF2,AC007731.1,KRT18P5,RN7SL812P	first encounter of TP TopHat-Fusion,sim_heart|AOAH--KLHL22	sim_heart|AOAH--KLHL22
-TP	sim_heart	TopHat-Fusion	ADRA1A--BPIFB4	3702	2720	COX6B1P4,ADRA1A,RP11-384C12.1	BPIFB4	first encounter of TP TopHat-Fusion,sim_heart|ADRA1A--BPIFB4	sim_heart|ADRA1A--BPIFB4
-TP	sim_heart	TopHat-Fusion	NDUFA5--SSPN	4257	2089	NDUFA5	RP11-283G6.3,RP11-283G6.5,SSPN,BHLHE41,RP11-283G6.4	first encounter of TP TopHat-Fusion,sim_heart|NDUFA5--SSPN	sim_heart|NDUFA5--SSPN
-TP	sim_heart	TopHat-Fusion	GNL3L--MARCO	3674	2602	GNL3L	RP11-77A13.1,MARCO	first encounter of TP TopHat-Fusion,sim_heart|GNL3L--MARCO	sim_heart|GNL3L--MARCO
-TP	sim_heart	TopHat-Fusion	TMEM92--DYNC2LI1	3639	2635	TMEM92	DYNC2LI1	first encounter of TP TopHat-Fusion,sim_heart|TMEM92--DYNC2LI1	sim_heart|TMEM92--DYNC2LI1
-TP	sim_heart	TopHat-Fusion	ANKRD11--CDC5L	5382	514	RP1-168P16.3,AC137932.6,RP1-168P16.2,RP1-168P16.1,RNU6-430P,ANKRD11,AC137932.5,AC137932.1	CDC5L,AL133262.1,MIR4642	first encounter of TP TopHat-Fusion,sim_heart|AC137932.1--CDC5L	sim_heart|AC137932.1--CDC5L
-NA-TP	sim_heart	TopHat-Fusion	FARS2--KIR3DL1	2665	2976	RP1-232P20.1,HNRNPA1P37,FARS2,RP1-256G22.2,RP3-520B18.1	KIR2DP1,KIR2DL4,KIR2DS4,KIR3DL1,KIR3DP1,KIR2DL1,CTB-61M7.1,KIR2DL3,KIR3DL2,KIR3DL3	already scored TopHat-Fusion,sim_heart|FARS2--KIR3DL2 as TP	.
-FP	sim_heart	TopHat-Fusion	CDC5L--RP1-203P18.1	5098	514	CDC5L,AL133262.1,MIR4642	RP1-203P18.1	first encounter of FP fusion TopHat-Fusion,sim_heart|CDC5L--RP1-203P18.1	.
-TP	sim_heart	TopHat-Fusion	SLC27A4--PCYOX1	3122	2193	TMSB4XP4,SLC27A4	PCYOX1	first encounter of TP TopHat-Fusion,sim_heart|SLC27A4--PCYOX1	sim_heart|SLC27A4--PCYOX1
-FP	sim_heart	TopHat-Fusion	CRLF1--RALYL	2427	2643	UBA52,TMEM59L,C19orf60,CRLF1	RALYL,RP11-98H4.4,RP11-509P12.1,RP11-98H4.1,AC103816.1,RNU6-1040P	first encounter of FP fusion TopHat-Fusion,sim_heart|CRLF1--RALYL	.
-TP	sim_heart	TopHat-Fusion	AE000661.37--C16ORF54	2932	2094	TRAJ55,TRDD2,TRAJ61,TRDJ2,TRDJ3,TRAJ60,AE000661.50,TRDD3,TRAJ57,TRDC,TRDJ4,TRAJ58,TRDJ1,TRAJ54,TRDD1,TRDV2,AE000661.37,TRAJ59,TRAJ56,TRDV3	AC009133.17,C16orf54	first encounter of TP TopHat-Fusion,sim_heart|TRDC--C16ORF54	sim_heart|TRDC--C16ORF54
-TP	sim_heart	TopHat-Fusion	MUS81--DOC2A	2874	1935	CFL1,EFEMP2,MUS81	INO80E,DOC2A	first encounter of TP TopHat-Fusion,sim_heart|MUS81--DOC2A	sim_heart|MUS81--DOC2A
-TP	sim_heart	TopHat-Fusion	TERF2--CST9	2832	1919	RP11-343C2.9,TERF2	CST9	first encounter of TP TopHat-Fusion,sim_heart|TERF2--CST9	sim_heart|TERF2--CST9
-TP	sim_heart	TopHat-Fusion	SMAGP--RPLP0	3029	1552	SMAGP,DAZAP2	AC016995.3,RPLP0,RPLP0P6	first encounter of TP TopHat-Fusion,sim_heart|SMAGP--RPLP0	sim_heart|SMAGP--RPLP0
-TP	sim_heart	TopHat-Fusion	CKMT1A--MAGEA12	3386	1163	STRC,AC011330.5,CKMT1A,CKMT1B,AC011330.6,RNU6-554P,CATSPER2,RNU6-610P	MAGEA12,CSAG4	first encounter of TP TopHat-Fusion,sim_heart|CKMT1B--MAGEA12	sim_heart|CKMT1B--MAGEA12
-NA-TP	sim_heart	TopHat-Fusion	CKMT1B--MAGEA12	3386	1163	STRC,AC011330.5,CKMT1A,CKMT1B,AC011330.6,RNU6-554P,CATSPER2,RNU6-610P	MAGEA12,CSAG4	already scored TopHat-Fusion,sim_heart|CKMT1B--MAGEA12 as TP	.
-TP	sim_heart	TopHat-Fusion	PCDP1--ZNRD1	2704	1802	PCDP1,AC013275.1	ZNRD1,ZNRD1-AS1	first encounter of TP TopHat-Fusion,sim_heart|PCDP1--ZNRD1	sim_heart|PCDP1--ZNRD1
-TP	sim_heart	TopHat-Fusion	CLEC4E--BAG3	2620	1843	CLEC4E	BAG3	first encounter of TP TopHat-Fusion,sim_heart|CLEC4E--BAG3	sim_heart|CLEC4E--BAG3
-TP	sim_heart	TopHat-Fusion	ACE2--PPP2R3A	2542	1900	ACE2	RP11-305O4.3,PPP2R3A,RP11-305O4.2	first encounter of TP TopHat-Fusion,sim_heart|ACE2--PPP2R3A	sim_heart|ACE2--PPP2R3A
-TP	sim_heart	TopHat-Fusion	HBZ--CCNB1	2545	1852	HBZ,HBM	CCNB1	first encounter of TP TopHat-Fusion,sim_heart|HBZ--CCNB1	sim_heart|HBZ--CCNB1
-TP	sim_heart	TopHat-Fusion	PTTG1--WASF1	3913	436	PTTG1	WASF1	first encounter of TP TopHat-Fusion,sim_heart|PTTG1--WASF1	sim_heart|PTTG1--WASF1
-TP	sim_heart	TopHat-Fusion	TPO--TTC1	2531	1810	TPO	PWWP2A,TTC1,AC068657.2	first encounter of TP TopHat-Fusion,sim_heart|TPO--TTC1	sim_heart|TPO--TTC1
-FP	sim_heart	TopHat-Fusion	UBA3--RP11-779O18.3	2375	1706	UBA3,CTD-2013N24.2	RP11-779O18.3,DUSP1,RP11-779O18.2	first encounter of FP fusion TopHat-Fusion,sim_heart|UBA3--RP11-779O18.3	.
-TP	sim_heart	TopHat-Fusion	VGLL1--RESP18	2363	1673	MIR934,VGLL1	RESP18	first encounter of TP TopHat-Fusion,sim_heart|VGLL1--RESP18	sim_heart|VGLL1--RESP18
-TP	sim_heart	TopHat-Fusion	NOL11--HHAT	2451	1574	SNORA38B,NOL11	RP5-879K22.1,RNU5A-8P,HHAT	first encounter of TP TopHat-Fusion,sim_heart|NOL11--HHAT	sim_heart|NOL11--HHAT
-TP	sim_heart	TopHat-Fusion	LYPLA1--ZNF365	2898	1094	TDGF1P5,LYPLA1	RTKN2,AC067751.1,ZNF365,RN7SL591P,RP11-120C12.3	first encounter of TP TopHat-Fusion,sim_heart|LYPLA1--ZNF365	sim_heart|LYPLA1--ZNF365
-TP	sim_heart	TopHat-Fusion	SCN2B--CCDC41	2270	1579	SCN2B	RN7SL330P,RBMS2P1,PLXNC1,CCDC41	first encounter of TP TopHat-Fusion,sim_heart|SCN2B--CCDC41	sim_heart|SCN2B--CCDC41
-TP	sim_heart	TopHat-Fusion	PPP2R5A--ACSM5	2220	1558	SNORA16B,RP11-384C4.2,RP11-384C4.7,PPP2R5A,RP11-384C4.3,RP11-384C4.6	CTD-2194A8.2,ACSM5	first encounter of TP TopHat-Fusion,sim_heart|PPP2R5A--ACSM5	sim_heart|PPP2R5A--ACSM5
-TP	sim_heart	TopHat-Fusion	GNG13--EFCAB7	1898	1660	CHTF18,GNG13	DLEU2L,RNU7-123P,EFCAB7,RN7SL488P,ITGB3BP	first encounter of TP TopHat-Fusion,sim_heart|GNG13--DLEU2L	sim_heart|GNG13--DLEU2L
-TP	sim_heart	TopHat-Fusion	CASS4--CYP26B1	2146	1302	CASS4,AL121914.1,RPL39P	CYP26B1	first encounter of TP TopHat-Fusion,sim_heart|CASS4--CYP26B1	sim_heart|CASS4--CYP26B1
-TP	sim_heart	TopHat-Fusion	SYNGR1--ASB11	2048	1396	SYNGR1	ASB11	first encounter of TP TopHat-Fusion,sim_heart|SYNGR1--ASB11	sim_heart|SYNGR1--ASB11
-TP	sim_heart	TopHat-Fusion	C6ORF132--ZNF33A	1851	1515	C6orf132	RNU6-1170P,AL022345.9,AL022345.7,AL022345.8,RNU6-795P,ZNF33A,ZNF33B	first encounter of TP TopHat-Fusion,sim_heart|C6ORF132--ZNF33A	sim_heart|C6ORF132--ZNF33A
-TP	sim_heart	TopHat-Fusion	MCM7--VPS16	1880	1434	MIR93,AP4M1,MIR106B,MIR25,MCM7	PCED1A,PTPRA,VPS16	first encounter of TP TopHat-Fusion,sim_heart|MCM7--VPS16	sim_heart|MCM7--VPS16
-TP	sim_heart	TopHat-Fusion	PYGB--VAX1	2363	943	ABHD12,PYGB	VAX1	first encounter of TP TopHat-Fusion,sim_heart|PYGB--VAX1	sim_heart|PYGB--VAX1
-FP	sim_heart	TopHat-Fusion	MRPS23--RFPL1S	2765	447	MRPS23	RFPL1S,RFPL1	first encounter of FP fusion TopHat-Fusion,sim_heart|MRPS23--RFPL1S	.
-TP	sim_heart	TopHat-Fusion	KLB--DAGLA	1765	1265	KLB,MIR5591	DAGLA,RP11-467L20.10	first encounter of TP TopHat-Fusion,sim_heart|KLB--DAGLA	sim_heart|KLB--DAGLA
-TP	sim_heart	TopHat-Fusion	ARFGEF2--SNAPC5	1835	1194	ARFGEF2	MIR4512,SNAPC5,CTD-3185P2.1,MAP2K1	first encounter of TP TopHat-Fusion,sim_heart|ARFGEF2--SNAPC5	sim_heart|ARFGEF2--SNAPC5
-TP	sim_heart	TopHat-Fusion	GABARAPL1--ST7-OT4	1977	1001	RP11-656E20.5,GABARAPL1	ST7-OT4,ST7-AS1,AC106873.4,ST7,TPM3P1,ST7-AS2	first encounter of TP TopHat-Fusion,sim_heart|GABARAPL1--AC106873.4	sim_heart|GABARAPL1--AC106873.4
-TP	sim_heart	TopHat-Fusion	CALCOCO2--NCOA3	1725	1228	CALCOCO2	NCOA3,RP5-1049G16.4,AL021394.1,SULF2	first encounter of TP TopHat-Fusion,sim_heart|CALCOCO2--NCOA3	sim_heart|CALCOCO2--NCOA3
-TP	sim_heart	TopHat-Fusion	AATF--FPR1	1675	1214	AATF,CTC-268N12.3,MIR2909,RP11-333J10.3,RP11-333J10.2,CTC-268N12.2	FPR3,FPR2,FPR1	first encounter of TP TopHat-Fusion,sim_heart|AATF--FPR1	sim_heart|AATF--FPR1
-NA-TP	sim_heart	TopHat-Fusion	HBM--CCNB1	1024	1852	HBZ,HBZP1,HBM	CCNB1	already scored TopHat-Fusion,sim_heart|HBZ--CCNB1 as TP	.
-TP	sim_heart	TopHat-Fusion	SEZ6L2--ENOX1	1660	1207	SEZ6L2	RPL36P19,ENOX1-AS2,ENOX1,ENOX1-AS1	first encounter of TP TopHat-Fusion,sim_heart|SEZ6L2--ENOX1	sim_heart|SEZ6L2--ENOX1
-TP	sim_heart	TopHat-Fusion	CYP46A1--RBBP8NL	1635	1230	CYP46A1,RP11-543C4.3	RBBP8NL	first encounter of TP TopHat-Fusion,sim_heart|CYP46A1--RBBP8NL	sim_heart|CYP46A1--RBBP8NL
-TP	sim_heart	TopHat-Fusion	VPS4B--HHATL	1718	1125	RP11-635N19.2,VPS4B	HHATL-AS1,HHATL,CCDC13	first encounter of TP TopHat-Fusion,sim_heart|VPS4B--HHATL	sim_heart|VPS4B--HHATL
-TP	sim_heart	TopHat-Fusion	TRAC--EIF1	1841	966	TRAJ55,TRAJ6,TRAJ40,TRDD2,TRAV28,TRAV8-7,TRAV20,TRAJ12,TRAJ42,TRAJ31,TRAJ25,TRAV39,TRAV19,TRAV34,TRAJ51,AE000661.36,TRAJ61,TRAJ53,TRAV23DV6,TRAV25,TRAJ8,AE000660.4,TRAV37,TRDJ2,TRAJ52,TRDJ3,TRAJ41,TRAJ60,TRAJ15,TRAJ16,TRAJ32,AE000661.50,TRDD3,TRAJ57,TRAJ2,TRAV32,TRAJ30,TRAV41,TRAJ37,TRAJ28,TRAJ21,TRAJ10,TRAV17,TRAJ44,TRAJ4,TRAV27,TRDC,TRAJ22,TRAV21,TRDJ4,TRAV33,TRAJ58,TRAJ35,TRAV30,TRAV26-1,TRAJ50,TRAJ24,TRAJ19,TRAV35,TRDJ1,TRAV38-2DV8,TRAJ54,TRAV24,TRAJ5,TRAJ7,AE000660.1,TRDD1,TRDV2,AE000661.37,TRAJ43,TRAJ9,TRAJ39,TRAJ47,TRAC,TRAV38-1,TRAJ3,TRAJ46,TRAV22,TRAJ11,TRAJ17,TRAJ33,TRAV29DV5,TRAJ29,TRAJ23,TRAJ1,TRAJ38,TRAJ27,TRAV36DV7,TRAJ59,TRAJ14,TRAV26-2,TRAV31,TRAJ49,TRAJ48,TRAJ13,TRAJ34,TRAV18,TRAJ20,TRAJ18,TRAJ56,TRAJ26,TRAJ45,TRDV3,TRAJ36,TRAV40,TRDV1	EIF1,JUP	first encounter of TP TopHat-Fusion,sim_heart|TRAC--EIF1	sim_heart|TRAC--EIF1
-TP	sim_heart	TopHat-Fusion	AIPL1--SIMC1	1652	1145	AIPL1,RP11-636N17.1	RP11-844P9.3,SIMC1	first encounter of TP TopHat-Fusion,sim_heart|AIPL1--SIMC1	sim_heart|AIPL1--SIMC1
-TP	sim_heart	TopHat-Fusion	STOML3--CTD-2132N18.3	1615	1171	STOML3	RP11-358B23.1,CTD-2132N18.3,KAT2A,HSPB9,RAB5C	first encounter of TP TopHat-Fusion,sim_heart|STOML3--RAB5C	sim_heart|STOML3--RAB5C
-TP	sim_heart	TopHat-Fusion	NEK2--ASB15	1590	1125	FDPSP8,NEK2	ASB15,RP11-390E23.3	first encounter of TP TopHat-Fusion,sim_heart|NEK2--ASB15	sim_heart|NEK2--ASB15
-TP	sim_heart	TopHat-Fusion	KIF14--NFIB	1528	1090	KIF14	RP11-120J1.1,RP11-280O24.3,NFIB	first encounter of TP TopHat-Fusion,sim_heart|KIF14--NFIB	sim_heart|KIF14--NFIB
-TP	sim_heart	TopHat-Fusion	ACTR6--AIMP1	2298	316	ACTR6,RP11-175P13.3,DEPDC4	AIMP1,TBCK	first encounter of TP TopHat-Fusion,sim_heart|ACTR6--AIMP1	sim_heart|ACTR6--AIMP1
-TP	sim_heart	TopHat-Fusion	PADI1--PKN2	1453	1142	PADI1	RP11-76N22.2,RNU6-125P,TCEB1P19,PKN2	first encounter of TP TopHat-Fusion,sim_heart|PADI1--PKN2	sim_heart|PADI1--PKN2
-TP	sim_heart	TopHat-Fusion	POLR2K--CRISP2	1472	1123	POLR2K	CRISP2	first encounter of TP TopHat-Fusion,sim_heart|POLR2K--CRISP2	sim_heart|POLR2K--CRISP2
-TP	sim_heart	TopHat-Fusion	C6ORF211--LMOD3	1516	893	C6orf211	LMOD3	first encounter of TP TopHat-Fusion,sim_heart|C6ORF211--LMOD3	sim_heart|C6ORF211--LMOD3
-FP	sim_heart	TopHat-Fusion	PLEKHB1--RUNX2	1602	760	PLEKHB1	RP1-244F24.1,RP1-166H4.2,SUPT3H,RUNX2,RNU6-515P	first encounter of FP fusion TopHat-Fusion,sim_heart|PLEKHB1--RUNX2	.
-TP	sim_heart	TopHat-Fusion	C3ORF33--ZIC3	1338	1006	C3orf33	ZIC3	first encounter of TP TopHat-Fusion,sim_heart|C3ORF33--ZIC3	sim_heart|C3ORF33--ZIC3
-TP	sim_heart	TopHat-Fusion	SLC30A2--CYP1A1	1368	962	SLC30A2	CYP1A1	first encounter of TP TopHat-Fusion,sim_heart|SLC30A2--CYP1A1	sim_heart|SLC30A2--CYP1A1
-TP	sim_heart	TopHat-Fusion	ANGPTL7--ZNFX1	1333	977	MTOR,ANGPTL7	ZFAS1,ZNFX1,DDX27	first encounter of TP TopHat-Fusion,sim_heart|ANGPTL7--ZNFX1	sim_heart|ANGPTL7--ZNFX1
-TP	sim_heart	TopHat-Fusion	EIF4A1--RNF17	1428	847	SNORA67,SENP3,SNORD10,SNORA48,SENP3-EIF4A1,EIF4A1	RNF17	first encounter of TP TopHat-Fusion,sim_heart|EIF4A1--RNF17	sim_heart|EIF4A1--RNF17
-FP	sim_heart	TopHat-Fusion	RFPL2--MRPS23	1794	447	IGLCOR22-1,RFPL2	MRPS23	first encounter of FP fusion TopHat-Fusion,sim_heart|RFPL2--MRPS23	.
-TP	sim_heart	TopHat-Fusion	NCR2--CTGF	1241	924	NCR2	RP11-69I8.3,CTGF	first encounter of TP TopHat-Fusion,sim_heart|NCR2--CTGF	sim_heart|NCR2--CTGF
-FP	sim_heart	TopHat-Fusion	LYPLA1P3--ZNF365	1026	1094	LYPLA1P3	RTKN2,AC067751.1,ZNF365,RN7SL591P,RP11-120C12.3	first encounter of FP fusion TopHat-Fusion,sim_heart|LYPLA1P3--ZNF365	.
-TP	sim_heart	TopHat-Fusion	IL13RA2--PKIG	1184	868	IL13RA2	PKIG,ADA,Z97053.1	first encounter of TP TopHat-Fusion,sim_heart|IL13RA2--PKIG	sim_heart|IL13RA2--PKIG
-TP	sim_heart	TopHat-Fusion	PANX2--AMDHD2	1142	870	PANX2	AMDHD2,CEMP1,ATP6C	first encounter of TP TopHat-Fusion,sim_heart|PANX2--ATP6C	sim_heart|PANX2--ATP6C
-TP	sim_heart	TopHat-Fusion	SPOPL--CTRB2	1383	619	SPOPL,AC092620.2	CTRB2	first encounter of TP TopHat-Fusion,sim_heart|SPOPL--CTRB2	sim_heart|SPOPL--CTRB2
-TP	sim_heart	TopHat-Fusion	ZNF543--ZW10	1024	816	ZNF543	RP11-667M19.1,RP11-667M19.2,RP11-667M19.4,ZW10	first encounter of TP TopHat-Fusion,sim_heart|ZNF543--ZW10	sim_heart|ZNF543--ZW10
-TP	sim_heart	TopHat-Fusion	GTPBP10--STX2	1022	754	CLDN12,GTPBP10	RP11-989F5.3,STX2,RP11-989F5.1	first encounter of TP TopHat-Fusion,sim_heart|GTPBP10--STX2	sim_heart|GTPBP10--STX2
-TP	sim_heart	TopHat-Fusion	C1ORF170--NUAK2	1059	716	C1orf170,PLEKHN1	NUAK2	first encounter of TP TopHat-Fusion,sim_heart|C1ORF170--NUAK2	sim_heart|C1ORF170--NUAK2
-TP	sim_heart	TopHat-Fusion	NPEPL1--LRRC42	1200	533	NPEPL1,RP11-261P9.4,STX16-NPEPL1	LRRC42	first encounter of TP TopHat-Fusion,sim_heart|NPEPL1--LRRC42	sim_heart|NPEPL1--LRRC42
-TP	sim_heart	TopHat-Fusion	KAT8--CACUL1	1008	719	KAT8,RP11-196G11.4	CACUL1	first encounter of TP TopHat-Fusion,sim_heart|KAT8--CACUL1	sim_heart|KAT8--CACUL1
-TP	sim_heart	TopHat-Fusion	NLN--RNASEL	951	692	CTD-2353N24.1,SGTB,NLN	RNASEL	first encounter of TP TopHat-Fusion,sim_heart|NLN--RNASEL	sim_heart|NLN--RNASEL
-TP	sim_heart	TopHat-Fusion	KCNH1--CUX1	977	624	IPO8P1,KCNH1-IT1,KCNH1	AC005088.1,AC005086.3,AC005086.4,SNORA48,AC005086.1,CUX1,CTA-357J21.1,CTB-181H17.1,CTA-339C12.1,AC005086.2	first encounter of TP TopHat-Fusion,sim_heart|KCNH1--CUX1	sim_heart|KCNH1--CUX1
-TP	sim_heart	TopHat-Fusion	MLYCD--ZP3	1091	505	RP11-505K9.4,MLYCD	SRCRB4D,ZP3	first encounter of TP TopHat-Fusion,sim_heart|MLYCD--ZP3	sim_heart|MLYCD--ZP3
-TP	sim_heart	TopHat-Fusion	DCN--ZNF19	945	643	DCN	RNU6-1061P,AC010547.9,RP11-510M2.5,CHST4,RP11-510M2.6,ZNF19,RP11-510M2.2	first encounter of TP TopHat-Fusion,sim_heart|DCN--AC010547.9	sim_heart|DCN--AC010547.9
-TP	sim_heart	TopHat-Fusion	LAMA4--ZDHHC16	915	647	LAMA4,RNU6-1226P,RP1-142L7.8,RP1-142L7.5,RP11-506B6.6,RP1-142L7.9	ZDHHC16	first encounter of TP TopHat-Fusion,sim_heart|LAMA4--ZDHHC16	sim_heart|LAMA4--ZDHHC16
-FP	sim_heart	TopHat-Fusion	MLYCD--AC004980.7	1056	505	RP11-505K9.4,MLYCD	AC004980.7,UPK3B,POMZP3	first encounter of FP fusion TopHat-Fusion,sim_heart|MLYCD--AC004980.7	.
-TP	sim_heart	TopHat-Fusion	WRNIP1--CLYBL	890	666	WRNIP1	CLYBL,CLYBL-AS1,CLYBL-AS2,SNORA25,MIR4306	first encounter of TP TopHat-Fusion,sim_heart|WRNIP1--CLYBL	sim_heart|WRNIP1--CLYBL
-TP	sim_heart	TopHat-Fusion	LHX8--CCDC42	913	633	RP11-510C10.3,RP11-510C10.2,LHX8	CCDC42	first encounter of TP TopHat-Fusion,sim_heart|LHX8--CCDC42	sim_heart|LHX8--CCDC42
-TP	sim_heart	TopHat-Fusion	GABRA3--FLT3LG	860	645	MIR105-1,MIR767,RP11-329E24.6,GABRA3,MIR105-2,RNU6-764P	CTD-3148I10.15,RPL13A,FLT3LG,CTD-3148I10.9	first encounter of TP TopHat-Fusion,sim_heart|GABRA3--FLT3LG	sim_heart|GABRA3--FLT3LG
-TP	sim_heart	TopHat-Fusion	KCNK12--GRPR	855	639	KCNK12,MSH2,AC138655.4	RP11-431J24.2,GRPR	first encounter of TP TopHat-Fusion,sim_heart|KCNK12--GRPR	sim_heart|KCNK12--GRPR
-TP	sim_heart	TopHat-Fusion	AP000721.4--MRPS11	803	601	AP000721.4,OTUB1,COX8A	MRPS11,RP11-97O12.7	first encounter of TP TopHat-Fusion,sim_heart|COX8A--MRPS11	sim_heart|COX8A--MRPS11
-TP	sim_heart	TopHat-Fusion	ARHGEF37--TRAPPC13	815	572	AC021078.1,ARHGEF37,RNU6-588P	CTC-534A2.2,TRIM23,SGTB,TRAPPC13	first encounter of TP TopHat-Fusion,sim_heart|ARHGEF37--TRAPPC13	sim_heart|ARHGEF37--TRAPPC13
-TP	sim_heart	TopHat-Fusion	IFNAR1--GTF2E1	787	583	USF1P1,IFNAR1	RABL3,GTF2E1	first encounter of TP TopHat-Fusion,sim_heart|IFNAR1--GTF2E1	sim_heart|IFNAR1--GTF2E1
-TP	sim_heart	TopHat-Fusion	MMP15--ZNF696	789	560	MMP15	ZNF696,RP13-582O9.7	first encounter of TP TopHat-Fusion,sim_heart|MMP15--ZNF696	sim_heart|MMP15--ZNF696
-TP	sim_heart	TopHat-Fusion	SLC22A6--RP11-244H3.1	773	523	SLC22A6	RP11-244H3.1,ZMYM6,ZMYM6NB	first encounter of TP TopHat-Fusion,sim_heart|SLC22A6--ZMYM6NB	sim_heart|SLC22A6--ZMYM6NB
-FP	sim_heart	TopHat-Fusion	ENSG00000235873--DYNC2LI1	0	1252	RP11-407N17.2	DYNC2LI1	first encounter of FP fusion TopHat-Fusion,sim_heart|ENSG00000235873--DYNC2LI1	.
-FP	sim_heart	TopHat-Fusion	GNG13--DLEU2	467	774	CHTF18,GNG13	RPL18P10,DLEU2,DLEU1,MIR16-1	first encounter of FP fusion TopHat-Fusion,sim_heart|GNG13--DLEU2	.
-TP	sim_heart	TopHat-Fusion	ZNF746--MB	712	517	ZNF746	AL049747.1,MB	first encounter of TP TopHat-Fusion,sim_heart|ZNF746--AL049747.1	sim_heart|ZNF746--AL049747.1
-TP	sim_heart	TopHat-Fusion	TCEB2--ZNF559	692	532	TCEB2,SRRM2	ZNF559,CTC-325H20.7,ZNF177,CTC-325H20.2	first encounter of TP TopHat-Fusion,sim_heart|TCEB2--ZNF559	sim_heart|TCEB2--ZNF559
-TP	sim_heart	TopHat-Fusion	ZYG11B--CYP26C1	707	489	RP11-159C21.4,RNU2-30P,ZYG11B,RNU6-969P	CYP26C1	first encounter of TP TopHat-Fusion,sim_heart|ZYG11B--CYP26C1	sim_heart|ZYG11B--CYP26C1
-TP	sim_heart	TopHat-Fusion	CHMP6--TMEM45B	711	456	AC127496.1,CHMP6,CTD-2561B21.7	TMEM45B	first encounter of TP TopHat-Fusion,sim_heart|CHMP6--TMEM45B	sim_heart|CHMP6--TMEM45B
-FP	sim_heart	TopHat-Fusion	SMAGP--AC016995.3	39	1124	SMAGP,DAZAP2	AC016995.3,RPLP0P6,AC093822.1	first encounter of FP fusion TopHat-Fusion,sim_heart|SMAGP--AC016995.3	.
-TP	sim_heart	TopHat-Fusion	KIF5A--BAMBI	707	453	KIF5A	BAMBI	first encounter of TP TopHat-Fusion,sim_heart|KIF5A--BAMBI	sim_heart|KIF5A--BAMBI
-TP	sim_heart	TopHat-Fusion	BPIFA1--TNFRSF9	654	479	BPIFA1	TNFRSF9,RP5-892F13.2	first encounter of TP TopHat-Fusion,sim_heart|BPIFA1--TNFRSF9	sim_heart|BPIFA1--TNFRSF9
-TP	sim_heart	TopHat-Fusion	NDRG2--KCNE1	618	470	RNASE7,AL161668.5,NDRG2,RNASE8,RNASE13,TPPP2,ARHGEF40,RP11-998D10.1	KCNE1,SNORA11	first encounter of TP TopHat-Fusion,sim_heart|NDRG2--KCNE1	sim_heart|NDRG2--KCNE1
-TP	sim_heart	TopHat-Fusion	TM4SF18--HTR3A	626	454	RP11-206M11.7,TM4SF18	HTR3A	first encounter of TP TopHat-Fusion,sim_heart|TM4SF18--HTR3A	sim_heart|TM4SF18--HTR3A
-TP	sim_heart	TopHat-Fusion	DAZL--LRRC25	641	434	AC010139.1,DAZL	LRRC25	first encounter of TP TopHat-Fusion,sim_heart|DAZL--LRRC25	sim_heart|DAZL--LRRC25
-TP	sim_heart	TopHat-Fusion	ACOT4--VWC2	592	435	ACOT4	VWC2,ZPBP	first encounter of TP TopHat-Fusion,sim_heart|ACOT4--VWC2	sim_heart|ACOT4--VWC2
-TP	sim_heart	TopHat-Fusion	PAX5--TRIM43	584	428	RP11-344B23.2,MIR4476,RP11-297B17.3,PAX5,MIR4540	TRIM43	first encounter of TP TopHat-Fusion,sim_heart|PAX5--TRIM43	sim_heart|PAX5--TRIM43
-FP	sim_heart	TopHat-Fusion	PAX5--TRIM43B	584	428	RP11-344B23.2,MIR4476,RP11-297B17.3,PAX5,MIR4540	TRIM43B	first encounter of FP fusion TopHat-Fusion,sim_heart|PAX5--TRIM43B	.
-TP	sim_heart	TopHat-Fusion	CA4--UQCRC2	604	404	CA4	UQCRC2	first encounter of TP TopHat-Fusion,sim_heart|CA4--UQCRC2	sim_heart|CA4--UQCRC2
-TP	sim_heart	TopHat-Fusion	MRPL30--SEMA3G	565	436	MITD1,C2ORF15,LYG1,LIPT1,C2orf15,MRPL30,TSGA10,LYG2,TXNDC9	SEMA3G	first encounter of TP TopHat-Fusion,sim_heart|C2ORF15--SEMA3G	sim_heart|C2ORF15--SEMA3G
-TP	sim_heart	TopHat-Fusion	SLC6A9--DLST	584	410	SLC6A9,CCDC24	DLST	first encounter of TP TopHat-Fusion,sim_heart|SLC6A9--DLST	sim_heart|SLC6A9--DLST
-TP	sim_heart	TopHat-Fusion	C2ORF54--LDHB	541	449	C2orf54	LDHB,RP11-59N23.3	first encounter of TP TopHat-Fusion,sim_heart|C2ORF54--LDHB	sim_heart|C2ORF54--LDHB
-TP	sim_heart	TopHat-Fusion	CCL24--LCE2A	594	394	CCL24	LCE2A	first encounter of TP TopHat-Fusion,sim_heart|CCL24--LCE2A	sim_heart|CCL24--LCE2A
-FP	sim_heart	TopHat-Fusion	TRAC--ASAP2	3	972	TRAJ55,TRAJ6,TRAJ40,TRDD2,TRAV28,TRAV8-7,TRAV20,TRAJ12,TRAJ42,TRAJ31,TRAJ25,TRAV39,TRAV19,TRAV34,TRAJ51,AE000661.36,TRAJ61,TRAJ53,TRAV23DV6,TRAV25,TRAJ8,AE000660.4,TRAV37,TRDJ2,TRAJ52,TRDJ3,TRAJ41,TRAJ60,TRAJ15,TRAJ16,TRAJ32,AE000661.50,TRDD3,TRAJ57,TRAJ2,TRAV32,TRAJ30,TRAV41,TRAJ37,TRAJ28,TRAJ21,TRAJ10,TRAV17,TRAJ44,TRAJ4,TRAV27,TRDC,TRAJ22,TRAV21,TRDJ4,TRAV33,TRAJ58,TRAJ35,TRAV30,TRAV26-1,TRAJ50,TRAJ24,TRAJ19,TRAV35,TRDJ1,TRAV38-2DV8,TRAJ54,TRAV24,TRAJ5,TRAJ7,AE000660.1,TRDD1,TRDV2,AE000661.37,TRAJ43,TRAJ9,TRAJ39,TRAJ47,TRAC,TRAV38-1,TRAJ3,TRAJ46,TRAV22,TRAJ11,TRAJ17,TRAJ33,TRAV29DV5,TRAJ29,TRAJ23,TRAJ1,TRAJ38,TRAJ27,TRAV36DV7,TRAJ59,TRAJ14,TRAV26-2,TRAV31,TRAJ49,TRAJ48,TRAJ13,TRAJ34,TRAV18,TRAJ20,TRAJ18,TRAJ56,TRAJ26,TRAJ45,TRDV3,TRAJ36,TRAV40,TRDV1	ASAP2,RP11-385J23.1,ITGB1BP1	first encounter of FP fusion TopHat-Fusion,sim_heart|TRAC--ASAP2	.
-TP	sim_heart	TopHat-Fusion	ZNF615--TFPI	544	414	ZNF615	AC007319.1,TFPI	first encounter of TP TopHat-Fusion,sim_heart|ZNF615--TFPI	sim_heart|ZNF615--TFPI
-TP	sim_heart	TopHat-Fusion	TMCO5A--A4GALT	548	394	TMCO5A	A4GALT	first encounter of TP TopHat-Fusion,sim_heart|TMCO5A--A4GALT	sim_heart|TMCO5A--A4GALT
-TP	sim_heart	TopHat-Fusion	KIAA1522--IKBKG	672	269	KIAA1522	G6PD,IKBKG,IKBKGP1	first encounter of TP TopHat-Fusion,sim_heart|KIAA1522--IKBKG	sim_heart|KIAA1522--IKBKG
-FP	sim_heart	TopHat-Fusion	RP11-49C9.2--HHAT	7	921	RP11-49C9.2,LINC00894	RP5-879K22.1,RNU5A-8P,HHAT	first encounter of FP fusion TopHat-Fusion,sim_heart|RP11-49C9.2--HHAT	.
-TP	sim_heart	TopHat-Fusion	RB1--CCNK	603	323	LPAR6,PPP1R26P1,RB1,PCNPP5	RP11-688G15.3,CCDC85C,CCNK	first encounter of TP TopHat-Fusion,sim_heart|RB1--CCNK	sim_heart|RB1--CCNK
-TP	sim_heart	TopHat-Fusion	SAR1B--OR13A1	530	389	SEC24A,RNU6-1311P,SAR1B	OR13A1	first encounter of TP TopHat-Fusion,sim_heart|SAR1B--OR13A1	sim_heart|SAR1B--OR13A1
-TP	sim_heart	TopHat-Fusion	SYNJ2--TRIM72	506	402	SYNJ2-IT1,SYNJ2	TRIM72,RP11-388M20.9,PYDC1	first encounter of TP TopHat-Fusion,sim_heart|SYNJ2--TRIM72	sim_heart|SYNJ2--TRIM72
-FP	sim_heart	TopHat-Fusion	KIAA1522--IKBKGP1	637	269	KIAA1522	IKBKGP1	first encounter of FP fusion TopHat-Fusion,sim_heart|KIAA1522--IKBKGP1	.
-FP	sim_heart	TopHat-Fusion	SSPN--PHKB	441	447	RP11-283G6.3,RP11-283G6.5,SSPN,BHLHE41,RP11-283G6.4	ITFG1,RP11-177N22.2,EIF4BP5,RNA5SP425,NDUFA5P11,RP11-177N22.3,PHKB	first encounter of FP fusion TopHat-Fusion,sim_heart|SSPN--PHKB	.
-TP	sim_heart	TopHat-Fusion	GLB1L--ADRA1B	470	352	STK16,GLB1L,ANKZF1	GAPDHP40,ADRA1B	first encounter of TP TopHat-Fusion,sim_heart|GLB1L--ADRA1B	sim_heart|GLB1L--ADRA1B
-FP	sim_heart	TopHat-Fusion	RP11-402J6.1--RP11-317J19.1	500	304	C4orf21,RP11-402J6.2,NEUROG2,RP11-402J6.1	RP11-317J19.1,ME3,PTP4A1P6	first encounter of FP fusion TopHat-Fusion,sim_heart|RP11-402J6.1--RP11-317J19.1	.
-TP	sim_heart	TopHat-Fusion	NLRP14--PIGF	445	292	NLRP14	CRIPT,RHOQ,PIGF	first encounter of TP TopHat-Fusion,sim_heart|NLRP14--PIGF	sim_heart|NLRP14--PIGF
-TP	sim_heart	TopHat-Fusion	AMMECR1--TNFSF9	346	262	RGAG1,AMMECR1-IT1,AMMECR1,GNG5P2,SNORD96B	TNFSF9	first encounter of TP TopHat-Fusion,sim_heart|AMMECR1--TNFSF9	sim_heart|AMMECR1--TNFSF9
-TP	sim_heart	TopHat-Fusion	HOOK1--SHC4	362	225	HOOK1	AC012379.1,RP11-138E16.1,EID1,SHC4	first encounter of TP TopHat-Fusion,sim_heart|HOOK1--SHC4	sim_heart|HOOK1--SHC4
-TP	sim_heart	TopHat-Fusion	ZNF700--EMID1	321	216	ZNF700,CTD-2006C1.12,ZNF763	EMID1	first encounter of TP TopHat-Fusion,sim_heart|ZNF763--EMID1	sim_heart|ZNF763--EMID1
-TP	sim_heart	TopHat-Fusion	CAP1--IQCB1	297	230	CAP1	IQCB1	first encounter of TP TopHat-Fusion,sim_heart|CAP1--IQCB1	sim_heart|CAP1--IQCB1
-TP	sim_heart	TopHat-Fusion	SULT2A1--STON1-GTF2A1L	297	229	SULT2A1	LHCGR,STON1-GTF2A1L,AC073082.3,STON1,GTF2A1L	first encounter of TP TopHat-Fusion,sim_heart|SULT2A1--STON1	sim_heart|SULT2A1--STON1
-TP	sim_heart	TopHat-Fusion	RFX4--CYTH1	357	159	RP11-144F15.1,RP11-482D24.2,RP11-482D24.3,RFX4	CYTH1,RNU6-638P	first encounter of TP TopHat-Fusion,sim_heart|RFX4--CYTH1	sim_heart|RFX4--CYTH1
-TP	sim_heart	TopHat-Fusion	TMEM40--LDLRAD2	298	212	TMEM40	LDLRAD2,HSPG2	first encounter of TP TopHat-Fusion,sim_heart|TMEM40--LDLRAD2	sim_heart|TMEM40--LDLRAD2
-TP	sim_heart	TopHat-Fusion	NMNAT1--PLA2G1B	283	223	NMNAT1,RP11-84A14.4,RN7SKP269,MIR5697,RP11-807G9.2	PLA2G1B	first encounter of TP TopHat-Fusion,sim_heart|NMNAT1--PLA2G1B	sim_heart|NMNAT1--PLA2G1B
-TP	sim_heart	TopHat-Fusion	PLAGL2--SNRPC	262	241	PLAGL2	SNRPC	first encounter of TP TopHat-Fusion,sim_heart|PLAGL2--SNRPC	sim_heart|PLAGL2--SNRPC
-TP	sim_heart	TopHat-Fusion	RCAN2--VAT1	300	176	RCAN2,RP11-795J1.2	VAT1	first encounter of TP TopHat-Fusion,sim_heart|RCAN2--VAT1	sim_heart|RCAN2--VAT1
-TP	sim_heart	TopHat-Fusion	ENOPH1--HMMR	252	211	ENOPH1	RP11-80G7.1,HMMR	first encounter of TP TopHat-Fusion,sim_heart|ENOPH1--HMMR	sim_heart|ENOPH1--HMMR
-TP	sim_heart	TopHat-Fusion	KRBOX1--FOXRED1	262	190	ZNF662,FAM198A,CYP8B1,ACKR2,HNRNPA1P22,KRBOX1-AS1,RP11-70C1.3,RP11-141M3.5,RP11-136C24.1,KRBOX1	SRPR,FOXRED1	first encounter of TP TopHat-Fusion,sim_heart|KRBOX1--FOXRED1	sim_heart|KRBOX1--FOXRED1
-TP	sim_heart	TopHat-Fusion	LYAR--CASK	269	182	LYAR	RP5-1174J21.2,GPR82,RP5-1174J21.1,GPR34,RN7SL144P,RNU6-1321P,RN7SL406P,CASK,RP11-204C16.4,RNU6-202P,CASK-AS1	first encounter of TP TopHat-Fusion,sim_heart|LYAR--CASK	sim_heart|LYAR--CASK
-FP	sim_heart	TopHat-Fusion	RAB3D--CALR3	0	446	CCDC159,CTC-510F12.6,TMEM205,TSPAN16,CTC-510F12.4,RAB3D	CTD-3222D19.10,CTD-3222D19.7,CTD-3222D19.2,CTC-429P9.4,SLC35E1,CALR3,CTD-3222D19.5,CTD-3222D19.11,C19orf44,CHERP,RN7SL146P,MED26,CTC-429P9.2	first encounter of FP fusion TopHat-Fusion,sim_heart|RAB3D--CALR3	.
-FP	sim_heart	TopHat-Fusion	WASF1--C8ORF44-SGK3	6	439	WASF1	C8orf44-SGK3,PTTG3P,SGK3,C8orf44	first encounter of FP fusion TopHat-Fusion,sim_heart|WASF1--C8ORF44-SGK3	.
-TP	sim_heart	TopHat-Fusion	FOXO4--PARM1	238	202	FOXO4	RP11-44F21.3,PARM1,RP11-44F21.2	first encounter of TP TopHat-Fusion,sim_heart|FOXO4--PARM1	sim_heart|FOXO4--PARM1
-TP	sim_heart	TopHat-Fusion	AJUBA--SNX31	278	151	AJUBA,RP11-298I3.5	SNX31,KB-1083B1.1	first encounter of TP TopHat-Fusion,sim_heart|AJUBA--SNX31	sim_heart|AJUBA--SNX31
-TP	sim_heart	TopHat-Fusion	MSRB2--SYCP1	214	174	MSRB2	SYCP1	first encounter of TP TopHat-Fusion,sim_heart|MSRB2--SYCP1	sim_heart|MSRB2--SYCP1
-TP	sim_heart	TopHat-Fusion	CLEC4A--KHDRBS2	211	166	ZNF705A,POU5F1P3,CLEC4A	RP1-240B8.3,KHDRBS2	first encounter of TP TopHat-Fusion,sim_heart|CLEC4A--KHDRBS2	sim_heart|CLEC4A--KHDRBS2
-TP	sim_heart	TopHat-Fusion	WDYHV1--RDH11	229	148	WDYHV1	RP11-1012A1.4,RDH11	first encounter of TP TopHat-Fusion,sim_heart|WDYHV1--RDH11	sim_heart|WDYHV1--RDH11
-TP	sim_heart	TopHat-Fusion	FBXL7--RNF180	221	154	MIR887,CTD-2350J17.1,FBXL7	RNF180	first encounter of TP TopHat-Fusion,sim_heart|FBXL7--RNF180	sim_heart|FBXL7--RNF180
-TP	sim_heart	TopHat-Fusion	WISP1--KMT2A	230	142	WISP1,WISP1-UT1	RP11-770J1.3,KMT2A	first encounter of TP TopHat-Fusion,sim_heart|WISP1--KMT2A	sim_heart|WISP1--KMT2A
-TP	sim_heart	TopHat-Fusion	MMADHC--DSPP	213	157	AC144449.1,MMADHC	DSPP,RP11-742B18.1	first encounter of TP TopHat-Fusion,sim_heart|MMADHC--DSPP	sim_heart|MMADHC--DSPP
-TP	sim_heart	TopHat-Fusion	IFIT3--THAP1	186	174	LIPA,IFIT3	THAP1	first encounter of TP TopHat-Fusion,sim_heart|IFIT3--THAP1	sim_heart|IFIT3--THAP1
-TP	sim_heart	TopHat-Fusion	SECISBP2--HAGH	219	139	SECISBP2	HAGH,FAHD1	first encounter of TP TopHat-Fusion,sim_heart|SECISBP2--HAGH	sim_heart|SECISBP2--HAGH
-FP	sim_heart	TopHat-Fusion	RPL36--EEF1E1	202	153	RPL36,LONP1,C19orf70,HSD11B1L	BLOC1S5-TXNDC5,TXNDC5,EEF1E1-BLOC1S5,EEF1E1,BLOC1S5	first encounter of FP fusion TopHat-Fusion,sim_heart|RPL36--EEF1E1	.
-TP	sim_heart	TopHat-Fusion	HUNK--THOP1	189	152	HUNK,HUNK-AS1	THOP1	first encounter of TP TopHat-Fusion,sim_heart|HUNK--THOP1	sim_heart|HUNK--THOP1
-TP	sim_heart	TopHat-Fusion	ERMN--MDS2	163	154	ERMN	MDS2	first encounter of TP TopHat-Fusion,sim_heart|ERMN--MDS2	sim_heart|ERMN--MDS2
-TP	sim_heart	TopHat-Fusion	CD300A--ALG10B	223	93	CD300A	AC117372.1,ALG10B	first encounter of TP TopHat-Fusion,sim_heart|CD300A--ALG10B	sim_heart|CD300A--ALG10B
-FP	sim_heart	TopHat-Fusion	ARG2--SNX4	225	89	ARG2,VTI1B	SNX4	first encounter of FP fusion TopHat-Fusion,sim_heart|ARG2--SNX4	.
-TP	sim_heart	TopHat-Fusion	FAM227B--C3ORF20	178	135	FGF7,RP11-295H24.3,GALK2,FAM227B	AC090957.2,C3orf20	first encounter of TP TopHat-Fusion,sim_heart|FGF7--C3ORF20	sim_heart|FGF7--C3ORF20
-TP	sim_heart	TopHat-Fusion	PAX3--KANK4	170	133	CCDC140,PAX3	RNU6-371P,KANK4	first encounter of TP TopHat-Fusion,sim_heart|PAX3--KANK4	sim_heart|PAX3--KANK4
-TP	sim_heart	TopHat-Fusion	MELK--ATPIF1	183	118	MELK	RP5-1092A3.4,ATPIF1	first encounter of TP TopHat-Fusion,sim_heart|MELK--ATPIF1	sim_heart|MELK--ATPIF1
-TP	sim_heart	TopHat-Fusion	MUC5B--C12ORF40	164	116	MUC5B,RP11-532E4.2	AC121336.1,SNORA22,SLC2A13,C12orf40	first encounter of TP TopHat-Fusion,sim_heart|MUC5B--C12ORF40	sim_heart|MUC5B--C12ORF40
-TP	sim_heart	TopHat-Fusion	RPUSD2--BAIAP3	162	113	RPUSD2	BAIAP3,TSR3	first encounter of TP TopHat-Fusion,sim_heart|RPUSD2--BAIAP3	sim_heart|RPUSD2--BAIAP3
-TP	sim_heart	TopHat-Fusion	MPHOSPH10--GBP7	155	119	MPHOSPH10	GBP7,GBP2	first encounter of TP TopHat-Fusion,sim_heart|MPHOSPH10--GBP7	sim_heart|MPHOSPH10--GBP7
-TP	sim_heart	TopHat-Fusion	TMEM244--TAF7L	153	113	TMEM244	TAF7L	first encounter of TP TopHat-Fusion,sim_heart|TMEM244--TAF7L	sim_heart|TMEM244--TAF7L
-TP	sim_heart	TopHat-Fusion	MS4A4E--GDF5OS	133	128	MS4A4E	GDF5OS,GDF5	first encounter of TP TopHat-Fusion,sim_heart|MS4A4E--GDF5OS	sim_heart|MS4A4E--GDF5OS
-FP	sim_heart	TopHat-Fusion	NPLOC4--KCTD1	0	259	NPLOC4,TSPAN10	CIAPIN1P,AQP4-AS1,AC090206.1,KCTD1	first encounter of FP fusion TopHat-Fusion,sim_heart|NPLOC4--KCTD1	.
-TP	sim_heart	TopHat-Fusion	RGS16--L3MBTL2	148	97	RGS16	L3MBTL2,CHADL,RP4-756G23.5	first encounter of TP TopHat-Fusion,sim_heart|RGS16--L3MBTL2	sim_heart|RGS16--L3MBTL2
-TP	sim_heart	TopHat-Fusion	KIAA1244--UTY	150	94	PBOV1,KIAA1244	UTY,AC010877.1,PSMA6P1	first encounter of TP TopHat-Fusion,sim_heart|KIAA1244--UTY	sim_heart|KIAA1244--UTY
-TP	sim_heart	TopHat-Fusion	INTS6--FGF9	149	91	SERPINE3,RP11-24B19.4,INTS6,RPS4XP16,RP11-24B19.3,INTS6-AS1	FGF9	first encounter of TP TopHat-Fusion,sim_heart|INTS6--FGF9	sim_heart|INTS6--FGF9
-TP	sim_heart	TopHat-Fusion	KCNJ8--TMX2-CTNND1	135	104	RP11-59N23.1,KCNJ8	C11orf31,RP11-691N7.6,AP000662.9,CTNND1,TMX2,BTBD18,TMX2-CTNND1	first encounter of TP TopHat-Fusion,sim_heart|KCNJ8--TMX2	sim_heart|KCNJ8--TMX2
-TP	sim_heart	TopHat-Fusion	TARDBP--IGSF8	126	106	MASP2,TARDBP,RP4-635E18.8	IGSF8	first encounter of TP TopHat-Fusion,sim_heart|TARDBP--IGSF8	sim_heart|TARDBP--IGSF8
-TP	sim_heart	TopHat-Fusion	PLD3--TMEM86B	129	99	PLD3,HIPK4,C19orf47	TMEM86B,PPP6R1,AC010327.2	first encounter of TP TopHat-Fusion,sim_heart|PLD3--TMEM86B	sim_heart|PLD3--TMEM86B
-TP	sim_heart	TopHat-Fusion	RNF121--PDPN	132	96	RP11-757C15.4,RNF121	PDPN	first encounter of TP TopHat-Fusion,sim_heart|RNF121--PDPN	sim_heart|RNF121--PDPN
-TP	sim_heart	TopHat-Fusion	PPP1R1C--GPBAR1	123	99	AC064837.1,PPP1R1C,RNA5SP113,KRT18P29	GPBAR1	first encounter of TP TopHat-Fusion,sim_heart|PPP1R1C--GPBAR1	sim_heart|PPP1R1C--GPBAR1
-FP	sim_heart	TopHat-Fusion	HOXB-AS3--PDCD6IP	123	98	HOXB5,MIR10A,HOXB3,HOXB-AS2,HOXB6,HOXB4,HOXB-AS3,HOXB-AS1	PDCD6IP	first encounter of FP fusion TopHat-Fusion,sim_heart|HOXB-AS3--PDCD6IP	.
-FP	sim_heart	TopHat-Fusion	FADS1--RP11-572M11.4	149	63	FADS3,FADS1,MIR1908,FADS2	SNORD112,RP11-572M11.2,AC078785.1,C3orf17,RP11-572M11.4,RP11-572M11.1,RP11-572M11.3	first encounter of FP fusion TopHat-Fusion,sim_heart|FADS1--RP11-572M11.4	.
-TP	sim_heart	TopHat-Fusion	POU2F3--CTD-2545M3.6	123	79	POU2F3,RP11-778O17.4	SPIB,CTD-2545M3.6,POLD1	first encounter of TP TopHat-Fusion,sim_heart|POU2F3--SPIB	sim_heart|POU2F3--SPIB
-FP	sim_heart	TopHat-Fusion	ROBO2--IQCB1	13	183	ROBO2,RNU6-386P,RP11-550F7.1,VDAC1P7,AC026877.1	IQCB1	first encounter of FP fusion TopHat-Fusion,sim_heart|ROBO2--IQCB1	.
-FP	sim_heart	TopHat-Fusion	TCEB2P2--ZNF559	1	191	TCEB2P2	ZNF559,CTC-325H20.7,ZNF177,CTC-325H20.2	first encounter of FP fusion TopHat-Fusion,sim_heart|TCEB2P2--ZNF559	.
-TP	sim_heart	TopHat-Fusion	CLINT1--SUV39H1	122	64	RNU6-260P,CLINT1	AF196970.3,SUV39H1	first encounter of TP TopHat-Fusion,sim_heart|CLINT1--SUV39H1	sim_heart|CLINT1--SUV39H1
-TP	sim_heart	TopHat-Fusion	CD63--EFNA1	115	66	RP11-644F5.11,CD63	EFNA1	first encounter of TP TopHat-Fusion,sim_heart|CD63--EFNA1	sim_heart|CD63--EFNA1
-TP	sim_heart	TopHat-Fusion	PRAMEF12--C6ORF203	119	50	PRAMEF12	C6orf203	first encounter of TP TopHat-Fusion,sim_heart|PRAMEF12--C6ORF203	sim_heart|PRAMEF12--C6ORF203
-TP	sim_heart	TopHat-Fusion	ABCC6--USHBP1	98	70	RP11-517A5.7,ABCC6	USHBP1,AC010646.3,CTD-2278I10.6,BABAM1,ANKLE1	first encounter of TP TopHat-Fusion,sim_heart|ABCC6--USHBP1	sim_heart|ABCC6--USHBP1
-TP	sim_heart	TopHat-Fusion	GOT2--CLNK	94	72	GOT2,RP11-410D17.2	CLNK	first encounter of TP TopHat-Fusion,sim_heart|GOT2--CLNK	sim_heart|GOT2--CLNK
-FP	sim_heart	TopHat-Fusion	SLC6A9--ACADM	0	157	SLC6A9,CCDC24	RABGGTB,SNORD45C,ACADM,RP4-682C21.2	first encounter of FP fusion TopHat-Fusion,sim_heart|SLC6A9--ACADM	.
-TP	sim_heart	TopHat-Fusion	NLRP11--SF3B3	92	59	NLRP11,NLRP4	RP11-49C24.1,SF3B3,SNORD111,SNORD111B	first encounter of TP TopHat-Fusion,sim_heart|NLRP11--SF3B3	sim_heart|NLRP11--SF3B3
-TP	sim_heart	TopHat-Fusion	YME1L1--ZFR	92	50	YME1L1,MASTL	AC008949.1,ZFR,MIR579	first encounter of TP TopHat-Fusion,sim_heart|YME1L1--ZFR	sim_heart|YME1L1--ZFR
-FP	sim_heart	TopHat-Fusion	RP11-8L2.1--SNRPC	1	139	RP11-8L2.1,RP11-274J2.1,RNU6-774P	SNRPC	first encounter of FP fusion TopHat-Fusion,sim_heart|RP11-8L2.1--SNRPC	.
-TP	sim_heart	TopHat-Fusion	LOH12CR2--YPEL3	85	52	LOH12CR2	RP11-455F5.3,YPEL3	first encounter of TP TopHat-Fusion,sim_heart|LOH12CR2--YPEL3	sim_heart|LOH12CR2--YPEL3
-TP	sim_heart	TopHat-Fusion	ECHS1--PYURF	81	49	ECHS1,MIR3944	HERC3,PIGY,PYURF	first encounter of TP TopHat-Fusion,sim_heart|ECHS1--PYURF	sim_heart|ECHS1--PYURF
-TP	sim_heart	TopHat-Fusion	OXT--SETD7	69	60	OXT	SETD7,RP11-342I1.2,FTH1P24	first encounter of TP TopHat-Fusion,sim_heart|OXT--SETD7	sim_heart|OXT--SETD7
-TP	sim_heart	TopHat-Fusion	SCARA3--CCDC85A	73	56	SCARA3	RNA5SP93,CCDC85A,RP11-482H16.1,AC007743.1	first encounter of TP TopHat-Fusion,sim_heart|SCARA3--CCDC85A	sim_heart|SCARA3--CCDC85A
-TP	sim_heart	TopHat-Fusion	KDM2B--PIFO	67	61	RP13-941N14.1,RNF34,KDM2B	PIFO	first encounter of TP TopHat-Fusion,sim_heart|KDM2B--PIFO	sim_heart|KDM2B--PIFO
-TP	sim_heart	TopHat-Fusion	TNFSF13--CDK14	80	45	TNFSF13,TNFSF12,TNFSF12-TNFSF13	CLDN12,TVP23CP1,PTP4A1P3,CDK14,CTB-13L3.1,AC002456.2,AC006153.3	first encounter of TP TopHat-Fusion,sim_heart|TNFSF13--CDK14	sim_heart|TNFSF13--CDK14
+TP	sim_heart	TopHat-Fusion	PMF1-BGLAP--LRRC55	4376	6082	PMF1,BGLAP,PMF1-BGLAP	LRRC55	first encounter of TP TopHat-Fusion,sim_heart|PMF1--LRRC55	sim_heart|PMF1--LRRC55
+TP	sim_heart	TopHat-Fusion	TTC38--A4GNT	4247	5954	TTC38	A4GNT	first encounter of TP TopHat-Fusion,sim_heart|TTC38--A4GNT	sim_heart|TTC38--A4GNT
+TP	sim_heart	TopHat-Fusion	SEC24A--FAM180B	3890	5631	RNU6-1164P,SEC24A,RNU6-757P,SAR1B	FAM180B	first encounter of TP TopHat-Fusion,sim_heart|SEC24A--FAM180B	sim_heart|SEC24A--FAM180B
+TP	sim_heart	TopHat-Fusion	CWH43--COLEC12	3846	5376	TPI1P4,CWH43	RP11-720L2.3,RP11-720L2.4,COLEC12,RP11-720L2.2	first encounter of TP TopHat-Fusion,sim_heart|CWH43--COLEC12	sim_heart|CWH43--COLEC12
+TP	sim_heart	TopHat-Fusion	NF2--ZNF682	3787	5094	NF2,RPEP4	AC006539.3,ZNF682,AC006539.1	first encounter of TP TopHat-Fusion,sim_heart|NF2--ZNF682	sim_heart|NF2--ZNF682
+TP	sim_heart	TopHat-Fusion	RP4-622L5.7--SUZ12	3778	5094	CCDC28B,IQCC,RP4-622L5.7	RNA5SP437,SUZ12	first encounter of TP TopHat-Fusion,sim_heart|IQCC--SUZ12	sim_heart|IQCC--SUZ12
+TP	sim_heart	TopHat-Fusion	FARS2--KIR3DL2	2975	5834	RP1-232P20.1,HNRNPA1P37,FARS2,RP1-256G22.2,RP3-520B18.1	KIR3DL1,KIR3DL2	first encounter of TP TopHat-Fusion,sim_heart|FARS2--KIR3DL2	sim_heart|FARS2--KIR3DL2
+TP	sim_heart	TopHat-Fusion	PROX2--OTOF	3454	4963	YLPM1,RP11-316E14.6,PROX2	OTOF	first encounter of TP TopHat-Fusion,sim_heart|PROX2--OTOF	sim_heart|PROX2--OTOF
+TP	sim_heart	TopHat-Fusion	ALOX15B--KCNA2	3357	4835	ALOX15B	KCNA2	first encounter of TP TopHat-Fusion,sim_heart|ALOX15B--KCNA2	sim_heart|ALOX15B--KCNA2
+TP	sim_heart	TopHat-Fusion	WNT8B--ADAM2	3456	4730	WNT8B	ADAM2,AC136365.1	first encounter of TP TopHat-Fusion,sim_heart|WNT8B--ADAM2	sim_heart|WNT8B--ADAM2
+TP	sim_heart	TopHat-Fusion	ZNF619--TMPRSS15	3508	4590	ZNF619	AL109763.1,TMPRSS15	first encounter of TP TopHat-Fusion,sim_heart|ZNF619--TMPRSS15	sim_heart|ZNF619--TMPRSS15
+FP	sim_heart	TopHat-Fusion	SZT2--UBL3	3340	4740	SZT2,HYI,SZT2-AS1	UBL3	first encounter of FP fusion TopHat-Fusion,sim_heart|SZT2--UBL3	.
+TP	sim_heart	TopHat-Fusion	TM4SF19--LSMEM1	3311	4741	TCTEX1D2,TM4SF19-AS1,TM4SF19,RP11-447L10.1	LSMEM1,IFRD1	first encounter of TP TopHat-Fusion,sim_heart|TM4SF19--LSMEM1	sim_heart|TM4SF19--LSMEM1
+TP	sim_heart	TopHat-Fusion	LONP1--TXLNA	3087	4932	RPL36,LONP1	TXLNA	first encounter of TP TopHat-Fusion,sim_heart|LONP1--TXLNA	sim_heart|LONP1--TXLNA
+TP	sim_heart	TopHat-Fusion	HAO2--SELP	2900	4293	HAO2,HAO2-IT1	SELP	first encounter of TP TopHat-Fusion,sim_heart|HAO2--SELP	sim_heart|HAO2--SELP
+TP	sim_heart	TopHat-Fusion	UBXN2B--KCTD1	3072	4097	UBXN2B,RP11-114M5.1	CIAPIN1P,AQP4-AS1,AC090206.1,KCTD1	first encounter of TP TopHat-Fusion,sim_heart|UBXN2B--KCTD1	sim_heart|UBXN2B--KCTD1
+TP	sim_heart	TopHat-Fusion	PCMT1--PTPLA	3119	4001	RP11-350J20.5,NUP43,RP11-350J20.4,PCMT1	PTPLA	first encounter of TP TopHat-Fusion,sim_heart|PCMT1--PTPLA	sim_heart|PCMT1--PTPLA
+TP	sim_heart	TopHat-Fusion	AOAH--KLHL22	2952	3761	AC087069.1,AOAH-IT1,AOAH	KLHL22-IT1,XXbac-B562F10.11,KLHL22,SCARF2,AC007731.1,KRT18P5,RN7SL812P	first encounter of TP TopHat-Fusion,sim_heart|AOAH--KLHL22	sim_heart|AOAH--KLHL22
+TP	sim_heart	TopHat-Fusion	ADRA1A--BPIFB4	2720	3702	COX6B1P4,ADRA1A,RP11-384C12.1	BPIFB4	first encounter of TP TopHat-Fusion,sim_heart|ADRA1A--BPIFB4	sim_heart|ADRA1A--BPIFB4
+TP	sim_heart	TopHat-Fusion	NDUFA5--SSPN	2089	4257	NDUFA5	RP11-283G6.3,RP11-283G6.5,SSPN,BHLHE41,RP11-283G6.4	first encounter of TP TopHat-Fusion,sim_heart|NDUFA5--SSPN	sim_heart|NDUFA5--SSPN
+TP	sim_heart	TopHat-Fusion	GNL3L--MARCO	2602	3674	GNL3L	RP11-77A13.1,MARCO	first encounter of TP TopHat-Fusion,sim_heart|GNL3L--MARCO	sim_heart|GNL3L--MARCO
+TP	sim_heart	TopHat-Fusion	TMEM92--DYNC2LI1	2635	3639	TMEM92	DYNC2LI1	first encounter of TP TopHat-Fusion,sim_heart|TMEM92--DYNC2LI1	sim_heart|TMEM92--DYNC2LI1
+TP	sim_heart	TopHat-Fusion	ANKRD11--CDC5L	514	5382	RP1-168P16.3,AC137932.6,RP1-168P16.2,RP1-168P16.1,RNU6-430P,ANKRD11,AC137932.5,AC137932.1	CDC5L,AL133262.1,MIR4642	first encounter of TP TopHat-Fusion,sim_heart|AC137932.1--CDC5L	sim_heart|AC137932.1--CDC5L
+NA-TP	sim_heart	TopHat-Fusion	FARS2--KIR3DL1	2976	2665	RP1-232P20.1,HNRNPA1P37,FARS2,RP1-256G22.2,RP3-520B18.1	KIR2DP1,KIR2DL4,KIR2DS4,KIR3DL1,KIR3DP1,KIR2DL1,CTB-61M7.1,KIR2DL3,KIR3DL2,KIR3DL3	already scored TopHat-Fusion,sim_heart|FARS2--KIR3DL2 as TP	.
+FP	sim_heart	TopHat-Fusion	CDC5L--RP1-203P18.1	514	5098	CDC5L,AL133262.1,MIR4642	RP1-203P18.1	first encounter of FP fusion TopHat-Fusion,sim_heart|CDC5L--RP1-203P18.1	.
+TP	sim_heart	TopHat-Fusion	SLC27A4--PCYOX1	2193	3122	TMSB4XP4,SLC27A4	PCYOX1	first encounter of TP TopHat-Fusion,sim_heart|SLC27A4--PCYOX1	sim_heart|SLC27A4--PCYOX1
+FP	sim_heart	TopHat-Fusion	CRLF1--RALYL	2643	2427	UBA52,TMEM59L,C19orf60,CRLF1	RALYL,RP11-98H4.4,RP11-509P12.1,RP11-98H4.1,AC103816.1,RNU6-1040P	first encounter of FP fusion TopHat-Fusion,sim_heart|CRLF1--RALYL	.
+TP	sim_heart	TopHat-Fusion	AE000661.37--C16ORF54	2094	2932	TRAJ55,TRDD2,TRAJ61,TRDJ2,TRDJ3,TRAJ60,AE000661.50,TRDD3,TRAJ57,TRDC,TRDJ4,TRAJ58,TRDJ1,TRAJ54,TRDD1,TRDV2,AE000661.37,TRAJ59,TRAJ56,TRDV3	AC009133.17,C16orf54	first encounter of TP TopHat-Fusion,sim_heart|TRDC--C16ORF54	sim_heart|TRDC--C16ORF54
+TP	sim_heart	TopHat-Fusion	MUS81--DOC2A	1935	2874	CFL1,EFEMP2,MUS81	INO80E,DOC2A	first encounter of TP TopHat-Fusion,sim_heart|MUS81--DOC2A	sim_heart|MUS81--DOC2A
+TP	sim_heart	TopHat-Fusion	TERF2--CST9	1919	2832	RP11-343C2.9,TERF2	CST9	first encounter of TP TopHat-Fusion,sim_heart|TERF2--CST9	sim_heart|TERF2--CST9
+TP	sim_heart	TopHat-Fusion	SMAGP--RPLP0	1552	3029	SMAGP,DAZAP2	AC016995.3,RPLP0,RPLP0P6	first encounter of TP TopHat-Fusion,sim_heart|SMAGP--RPLP0	sim_heart|SMAGP--RPLP0
+TP	sim_heart	TopHat-Fusion	CKMT1A--MAGEA12	1163	3386	STRC,AC011330.5,CKMT1A,CKMT1B,AC011330.6,RNU6-554P,CATSPER2,RNU6-610P	MAGEA12,CSAG4	first encounter of TP TopHat-Fusion,sim_heart|CKMT1B--MAGEA12	sim_heart|CKMT1B--MAGEA12
+NA-TP	sim_heart	TopHat-Fusion	CKMT1B--MAGEA12	1163	3386	STRC,AC011330.5,CKMT1A,CKMT1B,AC011330.6,RNU6-554P,CATSPER2,RNU6-610P	MAGEA12,CSAG4	already scored TopHat-Fusion,sim_heart|CKMT1B--MAGEA12 as TP	.
+TP	sim_heart	TopHat-Fusion	PCDP1--ZNRD1	1802	2704	PCDP1,AC013275.1	ZNRD1,ZNRD1-AS1	first encounter of TP TopHat-Fusion,sim_heart|PCDP1--ZNRD1	sim_heart|PCDP1--ZNRD1
+TP	sim_heart	TopHat-Fusion	CLEC4E--BAG3	1843	2620	CLEC4E	BAG3	first encounter of TP TopHat-Fusion,sim_heart|CLEC4E--BAG3	sim_heart|CLEC4E--BAG3
+TP	sim_heart	TopHat-Fusion	ACE2--PPP2R3A	1900	2542	ACE2	RP11-305O4.3,PPP2R3A,RP11-305O4.2	first encounter of TP TopHat-Fusion,sim_heart|ACE2--PPP2R3A	sim_heart|ACE2--PPP2R3A
+TP	sim_heart	TopHat-Fusion	HBZ--CCNB1	1852	2545	HBZ,HBM	CCNB1	first encounter of TP TopHat-Fusion,sim_heart|HBZ--CCNB1	sim_heart|HBZ--CCNB1
+TP	sim_heart	TopHat-Fusion	PTTG1--WASF1	436	3913	PTTG1	WASF1	first encounter of TP TopHat-Fusion,sim_heart|PTTG1--WASF1	sim_heart|PTTG1--WASF1
+TP	sim_heart	TopHat-Fusion	TPO--TTC1	1810	2531	TPO	PWWP2A,TTC1,AC068657.2	first encounter of TP TopHat-Fusion,sim_heart|TPO--TTC1	sim_heart|TPO--TTC1
+FP	sim_heart	TopHat-Fusion	UBA3--RP11-779O18.3	1706	2375	UBA3,CTD-2013N24.2	RP11-779O18.3,DUSP1,RP11-779O18.2	first encounter of FP fusion TopHat-Fusion,sim_heart|UBA3--RP11-779O18.3	.
+TP	sim_heart	TopHat-Fusion	VGLL1--RESP18	1673	2363	MIR934,VGLL1	RESP18	first encounter of TP TopHat-Fusion,sim_heart|VGLL1--RESP18	sim_heart|VGLL1--RESP18
+TP	sim_heart	TopHat-Fusion	NOL11--HHAT	1574	2451	SNORA38B,NOL11	RP5-879K22.1,RNU5A-8P,HHAT	first encounter of TP TopHat-Fusion,sim_heart|NOL11--HHAT	sim_heart|NOL11--HHAT
+TP	sim_heart	TopHat-Fusion	LYPLA1--ZNF365	1094	2898	TDGF1P5,LYPLA1	RTKN2,AC067751.1,ZNF365,RN7SL591P,RP11-120C12.3	first encounter of TP TopHat-Fusion,sim_heart|LYPLA1--ZNF365	sim_heart|LYPLA1--ZNF365
+TP	sim_heart	TopHat-Fusion	SCN2B--CCDC41	1579	2270	SCN2B	RN7SL330P,RBMS2P1,PLXNC1,CCDC41	first encounter of TP TopHat-Fusion,sim_heart|SCN2B--CCDC41	sim_heart|SCN2B--CCDC41
+TP	sim_heart	TopHat-Fusion	PPP2R5A--ACSM5	1558	2220	SNORA16B,RP11-384C4.2,RP11-384C4.7,PPP2R5A,RP11-384C4.3,RP11-384C4.6	CTD-2194A8.2,ACSM5	first encounter of TP TopHat-Fusion,sim_heart|PPP2R5A--ACSM5	sim_heart|PPP2R5A--ACSM5
+TP	sim_heart	TopHat-Fusion	GNG13--EFCAB7	1660	1898	CHTF18,GNG13	DLEU2L,RNU7-123P,EFCAB7,RN7SL488P,ITGB3BP	first encounter of TP TopHat-Fusion,sim_heart|GNG13--DLEU2L	sim_heart|GNG13--DLEU2L
+TP	sim_heart	TopHat-Fusion	CASS4--CYP26B1	1302	2146	CASS4,AL121914.1,RPL39P	CYP26B1	first encounter of TP TopHat-Fusion,sim_heart|CASS4--CYP26B1	sim_heart|CASS4--CYP26B1
+TP	sim_heart	TopHat-Fusion	SYNGR1--ASB11	1396	2048	SYNGR1	ASB11	first encounter of TP TopHat-Fusion,sim_heart|SYNGR1--ASB11	sim_heart|SYNGR1--ASB11
+TP	sim_heart	TopHat-Fusion	C6ORF132--ZNF33A	1515	1851	C6orf132	RNU6-1170P,AL022345.9,AL022345.7,AL022345.8,RNU6-795P,ZNF33A,ZNF33B	first encounter of TP TopHat-Fusion,sim_heart|C6ORF132--ZNF33A	sim_heart|C6ORF132--ZNF33A
+TP	sim_heart	TopHat-Fusion	MCM7--VPS16	1434	1880	MIR93,AP4M1,MIR106B,MIR25,MCM7	PCED1A,PTPRA,VPS16	first encounter of TP TopHat-Fusion,sim_heart|MCM7--VPS16	sim_heart|MCM7--VPS16
+TP	sim_heart	TopHat-Fusion	PYGB--VAX1	943	2363	ABHD12,PYGB	VAX1	first encounter of TP TopHat-Fusion,sim_heart|PYGB--VAX1	sim_heart|PYGB--VAX1
+FP	sim_heart	TopHat-Fusion	MRPS23--RFPL1S	447	2765	MRPS23	RFPL1S,RFPL1	first encounter of FP fusion TopHat-Fusion,sim_heart|MRPS23--RFPL1S	.
+TP	sim_heart	TopHat-Fusion	KLB--DAGLA	1265	1765	KLB,MIR5591	DAGLA,RP11-467L20.10	first encounter of TP TopHat-Fusion,sim_heart|KLB--DAGLA	sim_heart|KLB--DAGLA
+TP	sim_heart	TopHat-Fusion	ARFGEF2--SNAPC5	1194	1835	ARFGEF2	MIR4512,SNAPC5,CTD-3185P2.1,MAP2K1	first encounter of TP TopHat-Fusion,sim_heart|ARFGEF2--SNAPC5	sim_heart|ARFGEF2--SNAPC5
+TP	sim_heart	TopHat-Fusion	GABARAPL1--ST7-OT4	1001	1977	RP11-656E20.5,GABARAPL1	ST7-OT4,ST7-AS1,AC106873.4,ST7,TPM3P1,ST7-AS2	first encounter of TP TopHat-Fusion,sim_heart|GABARAPL1--AC106873.4	sim_heart|GABARAPL1--AC106873.4
+TP	sim_heart	TopHat-Fusion	CALCOCO2--NCOA3	1228	1725	CALCOCO2	NCOA3,RP5-1049G16.4,AL021394.1,SULF2	first encounter of TP TopHat-Fusion,sim_heart|CALCOCO2--NCOA3	sim_heart|CALCOCO2--NCOA3
+TP	sim_heart	TopHat-Fusion	AATF--FPR1	1214	1675	AATF,CTC-268N12.3,MIR2909,RP11-333J10.3,RP11-333J10.2,CTC-268N12.2	FPR3,FPR2,FPR1	first encounter of TP TopHat-Fusion,sim_heart|AATF--FPR1	sim_heart|AATF--FPR1
+NA-TP	sim_heart	TopHat-Fusion	HBM--CCNB1	1852	1024	HBZ,HBZP1,HBM	CCNB1	already scored TopHat-Fusion,sim_heart|HBZ--CCNB1 as TP	.
+TP	sim_heart	TopHat-Fusion	SEZ6L2--ENOX1	1207	1660	SEZ6L2	RPL36P19,ENOX1-AS2,ENOX1,ENOX1-AS1	first encounter of TP TopHat-Fusion,sim_heart|SEZ6L2--ENOX1	sim_heart|SEZ6L2--ENOX1
+TP	sim_heart	TopHat-Fusion	CYP46A1--RBBP8NL	1230	1635	CYP46A1,RP11-543C4.3	RBBP8NL	first encounter of TP TopHat-Fusion,sim_heart|CYP46A1--RBBP8NL	sim_heart|CYP46A1--RBBP8NL
+TP	sim_heart	TopHat-Fusion	VPS4B--HHATL	1125	1718	RP11-635N19.2,VPS4B	HHATL-AS1,HHATL,CCDC13	first encounter of TP TopHat-Fusion,sim_heart|VPS4B--HHATL	sim_heart|VPS4B--HHATL
+TP	sim_heart	TopHat-Fusion	TRAC--EIF1	966	1841	TRAJ55,TRAJ6,TRAJ40,TRDD2,TRAV28,TRAV8-7,TRAV20,TRAJ12,TRAJ42,TRAJ31,TRAJ25,TRAV39,TRAV19,TRAV34,TRAJ51,AE000661.36,TRAJ61,TRAJ53,TRAV23DV6,TRAV25,TRAJ8,AE000660.4,TRAV37,TRDJ2,TRAJ52,TRDJ3,TRAJ41,TRAJ60,TRAJ15,TRAJ16,TRAJ32,AE000661.50,TRDD3,TRAJ57,TRAJ2,TRAV32,TRAJ30,TRAV41,TRAJ37,TRAJ28,TRAJ21,TRAJ10,TRAV17,TRAJ44,TRAJ4,TRAV27,TRDC,TRAJ22,TRAV21,TRDJ4,TRAV33,TRAJ58,TRAJ35,TRAV30,TRAV26-1,TRAJ50,TRAJ24,TRAJ19,TRAV35,TRDJ1,TRAV38-2DV8,TRAJ54,TRAV24,TRAJ5,TRAJ7,AE000660.1,TRDD1,TRDV2,AE000661.37,TRAJ43,TRAJ9,TRAJ39,TRAJ47,TRAC,TRAV38-1,TRAJ3,TRAJ46,TRAV22,TRAJ11,TRAJ17,TRAJ33,TRAV29DV5,TRAJ29,TRAJ23,TRAJ1,TRAJ38,TRAJ27,TRAV36DV7,TRAJ59,TRAJ14,TRAV26-2,TRAV31,TRAJ49,TRAJ48,TRAJ13,TRAJ34,TRAV18,TRAJ20,TRAJ18,TRAJ56,TRAJ26,TRAJ45,TRDV3,TRAJ36,TRAV40,TRDV1	EIF1,JUP	first encounter of TP TopHat-Fusion,sim_heart|TRAC--EIF1	sim_heart|TRAC--EIF1
+TP	sim_heart	TopHat-Fusion	AIPL1--SIMC1	1145	1652	AIPL1,RP11-636N17.1	RP11-844P9.3,SIMC1	first encounter of TP TopHat-Fusion,sim_heart|AIPL1--SIMC1	sim_heart|AIPL1--SIMC1
+TP	sim_heart	TopHat-Fusion	STOML3--CTD-2132N18.3	1171	1615	STOML3	RP11-358B23.1,CTD-2132N18.3,KAT2A,HSPB9,RAB5C	first encounter of TP TopHat-Fusion,sim_heart|STOML3--RAB5C	sim_heart|STOML3--RAB5C
+TP	sim_heart	TopHat-Fusion	NEK2--ASB15	1125	1590	FDPSP8,NEK2	ASB15,RP11-390E23.3	first encounter of TP TopHat-Fusion,sim_heart|NEK2--ASB15	sim_heart|NEK2--ASB15
+TP	sim_heart	TopHat-Fusion	KIF14--NFIB	1090	1528	KIF14	RP11-120J1.1,RP11-280O24.3,NFIB	first encounter of TP TopHat-Fusion,sim_heart|KIF14--NFIB	sim_heart|KIF14--NFIB
+TP	sim_heart	TopHat-Fusion	ACTR6--AIMP1	316	2298	ACTR6,RP11-175P13.3,DEPDC4	AIMP1,TBCK	first encounter of TP TopHat-Fusion,sim_heart|ACTR6--AIMP1	sim_heart|ACTR6--AIMP1
+TP	sim_heart	TopHat-Fusion	PADI1--PKN2	1142	1453	PADI1	RP11-76N22.2,RNU6-125P,TCEB1P19,PKN2	first encounter of TP TopHat-Fusion,sim_heart|PADI1--PKN2	sim_heart|PADI1--PKN2
+TP	sim_heart	TopHat-Fusion	POLR2K--CRISP2	1123	1472	POLR2K	CRISP2	first encounter of TP TopHat-Fusion,sim_heart|POLR2K--CRISP2	sim_heart|POLR2K--CRISP2
+TP	sim_heart	TopHat-Fusion	C6ORF211--LMOD3	893	1516	C6orf211	LMOD3	first encounter of TP TopHat-Fusion,sim_heart|C6ORF211--LMOD3	sim_heart|C6ORF211--LMOD3
+FP	sim_heart	TopHat-Fusion	PLEKHB1--RUNX2	760	1602	PLEKHB1	RP1-244F24.1,RP1-166H4.2,SUPT3H,RUNX2,RNU6-515P	first encounter of FP fusion TopHat-Fusion,sim_heart|PLEKHB1--RUNX2	.
+TP	sim_heart	TopHat-Fusion	C3ORF33--ZIC3	1006	1338	C3orf33	ZIC3	first encounter of TP TopHat-Fusion,sim_heart|C3ORF33--ZIC3	sim_heart|C3ORF33--ZIC3
+TP	sim_heart	TopHat-Fusion	SLC30A2--CYP1A1	962	1368	SLC30A2	CYP1A1	first encounter of TP TopHat-Fusion,sim_heart|SLC30A2--CYP1A1	sim_heart|SLC30A2--CYP1A1
+TP	sim_heart	TopHat-Fusion	ANGPTL7--ZNFX1	977	1333	MTOR,ANGPTL7	ZFAS1,ZNFX1,DDX27	first encounter of TP TopHat-Fusion,sim_heart|ANGPTL7--ZNFX1	sim_heart|ANGPTL7--ZNFX1
+TP	sim_heart	TopHat-Fusion	EIF4A1--RNF17	847	1428	SNORA67,SENP3,SNORD10,SNORA48,SENP3-EIF4A1,EIF4A1	RNF17	first encounter of TP TopHat-Fusion,sim_heart|EIF4A1--RNF17	sim_heart|EIF4A1--RNF17
+FP	sim_heart	TopHat-Fusion	RFPL2--MRPS23	447	1794	IGLCOR22-1,RFPL2	MRPS23	first encounter of FP fusion TopHat-Fusion,sim_heart|RFPL2--MRPS23	.
+TP	sim_heart	TopHat-Fusion	NCR2--CTGF	924	1241	NCR2	RP11-69I8.3,CTGF	first encounter of TP TopHat-Fusion,sim_heart|NCR2--CTGF	sim_heart|NCR2--CTGF
+FP	sim_heart	TopHat-Fusion	LYPLA1P3--ZNF365	1094	1026	LYPLA1P3	RTKN2,AC067751.1,ZNF365,RN7SL591P,RP11-120C12.3	first encounter of FP fusion TopHat-Fusion,sim_heart|LYPLA1P3--ZNF365	.
+TP	sim_heart	TopHat-Fusion	IL13RA2--PKIG	868	1184	IL13RA2	PKIG,ADA,Z97053.1	first encounter of TP TopHat-Fusion,sim_heart|IL13RA2--PKIG	sim_heart|IL13RA2--PKIG
+TP	sim_heart	TopHat-Fusion	PANX2--AMDHD2	870	1142	PANX2	AMDHD2,CEMP1,ATP6C	first encounter of TP TopHat-Fusion,sim_heart|PANX2--ATP6C	sim_heart|PANX2--ATP6C
+TP	sim_heart	TopHat-Fusion	SPOPL--CTRB2	619	1383	SPOPL,AC092620.2	CTRB2	first encounter of TP TopHat-Fusion,sim_heart|SPOPL--CTRB2	sim_heart|SPOPL--CTRB2
+TP	sim_heart	TopHat-Fusion	ZNF543--ZW10	816	1024	ZNF543	RP11-667M19.1,RP11-667M19.2,RP11-667M19.4,ZW10	first encounter of TP TopHat-Fusion,sim_heart|ZNF543--ZW10	sim_heart|ZNF543--ZW10
+TP	sim_heart	TopHat-Fusion	GTPBP10--STX2	754	1022	CLDN12,GTPBP10	RP11-989F5.3,STX2,RP11-989F5.1	first encounter of TP TopHat-Fusion,sim_heart|GTPBP10--STX2	sim_heart|GTPBP10--STX2
+TP	sim_heart	TopHat-Fusion	C1ORF170--NUAK2	716	1059	C1orf170,PLEKHN1	NUAK2	first encounter of TP TopHat-Fusion,sim_heart|C1ORF170--NUAK2	sim_heart|C1ORF170--NUAK2
+TP	sim_heart	TopHat-Fusion	NPEPL1--LRRC42	533	1200	NPEPL1,RP11-261P9.4,STX16-NPEPL1	LRRC42	first encounter of TP TopHat-Fusion,sim_heart|NPEPL1--LRRC42	sim_heart|NPEPL1--LRRC42
+TP	sim_heart	TopHat-Fusion	KAT8--CACUL1	719	1008	KAT8,RP11-196G11.4	CACUL1	first encounter of TP TopHat-Fusion,sim_heart|KAT8--CACUL1	sim_heart|KAT8--CACUL1
+TP	sim_heart	TopHat-Fusion	NLN--RNASEL	692	951	CTD-2353N24.1,SGTB,NLN	RNASEL	first encounter of TP TopHat-Fusion,sim_heart|NLN--RNASEL	sim_heart|NLN--RNASEL
+TP	sim_heart	TopHat-Fusion	KCNH1--CUX1	624	977	IPO8P1,KCNH1-IT1,KCNH1	AC005088.1,AC005086.3,AC005086.4,SNORA48,AC005086.1,CUX1,CTA-357J21.1,CTB-181H17.1,CTA-339C12.1,AC005086.2	first encounter of TP TopHat-Fusion,sim_heart|KCNH1--CUX1	sim_heart|KCNH1--CUX1
+TP	sim_heart	TopHat-Fusion	MLYCD--ZP3	505	1091	RP11-505K9.4,MLYCD	SRCRB4D,ZP3	first encounter of TP TopHat-Fusion,sim_heart|MLYCD--ZP3	sim_heart|MLYCD--ZP3
+TP	sim_heart	TopHat-Fusion	DCN--ZNF19	643	945	DCN	RNU6-1061P,AC010547.9,RP11-510M2.5,CHST4,RP11-510M2.6,ZNF19,RP11-510M2.2	first encounter of TP TopHat-Fusion,sim_heart|DCN--AC010547.9	sim_heart|DCN--AC010547.9
+TP	sim_heart	TopHat-Fusion	LAMA4--ZDHHC16	647	915	LAMA4,RNU6-1226P,RP1-142L7.8,RP1-142L7.5,RP11-506B6.6,RP1-142L7.9	ZDHHC16	first encounter of TP TopHat-Fusion,sim_heart|LAMA4--ZDHHC16	sim_heart|LAMA4--ZDHHC16
+FP	sim_heart	TopHat-Fusion	MLYCD--AC004980.7	505	1056	RP11-505K9.4,MLYCD	AC004980.7,UPK3B,POMZP3	first encounter of FP fusion TopHat-Fusion,sim_heart|MLYCD--AC004980.7	.
+TP	sim_heart	TopHat-Fusion	WRNIP1--CLYBL	666	890	WRNIP1	CLYBL,CLYBL-AS1,CLYBL-AS2,SNORA25,MIR4306	first encounter of TP TopHat-Fusion,sim_heart|WRNIP1--CLYBL	sim_heart|WRNIP1--CLYBL
+TP	sim_heart	TopHat-Fusion	LHX8--CCDC42	633	913	RP11-510C10.3,RP11-510C10.2,LHX8	CCDC42	first encounter of TP TopHat-Fusion,sim_heart|LHX8--CCDC42	sim_heart|LHX8--CCDC42
+TP	sim_heart	TopHat-Fusion	GABRA3--FLT3LG	645	860	MIR105-1,MIR767,RP11-329E24.6,GABRA3,MIR105-2,RNU6-764P	CTD-3148I10.15,RPL13A,FLT3LG,CTD-3148I10.9	first encounter of TP TopHat-Fusion,sim_heart|GABRA3--FLT3LG	sim_heart|GABRA3--FLT3LG
+TP	sim_heart	TopHat-Fusion	KCNK12--GRPR	639	855	KCNK12,MSH2,AC138655.4	RP11-431J24.2,GRPR	first encounter of TP TopHat-Fusion,sim_heart|KCNK12--GRPR	sim_heart|KCNK12--GRPR
+TP	sim_heart	TopHat-Fusion	AP000721.4--MRPS11	601	803	AP000721.4,OTUB1,COX8A	MRPS11,RP11-97O12.7	first encounter of TP TopHat-Fusion,sim_heart|COX8A--MRPS11	sim_heart|COX8A--MRPS11
+TP	sim_heart	TopHat-Fusion	ARHGEF37--TRAPPC13	572	815	AC021078.1,ARHGEF37,RNU6-588P	CTC-534A2.2,TRIM23,SGTB,TRAPPC13	first encounter of TP TopHat-Fusion,sim_heart|ARHGEF37--TRAPPC13	sim_heart|ARHGEF37--TRAPPC13
+TP	sim_heart	TopHat-Fusion	IFNAR1--GTF2E1	583	787	USF1P1,IFNAR1	RABL3,GTF2E1	first encounter of TP TopHat-Fusion,sim_heart|IFNAR1--GTF2E1	sim_heart|IFNAR1--GTF2E1
+TP	sim_heart	TopHat-Fusion	MMP15--ZNF696	560	789	MMP15	ZNF696,RP13-582O9.7	first encounter of TP TopHat-Fusion,sim_heart|MMP15--ZNF696	sim_heart|MMP15--ZNF696
+TP	sim_heart	TopHat-Fusion	SLC22A6--RP11-244H3.1	523	773	SLC22A6	RP11-244H3.1,ZMYM6,ZMYM6NB	first encounter of TP TopHat-Fusion,sim_heart|SLC22A6--ZMYM6NB	sim_heart|SLC22A6--ZMYM6NB
+FP	sim_heart	TopHat-Fusion	ENSG00000235873--DYNC2LI1	1252	0	RP11-407N17.2	DYNC2LI1	first encounter of FP fusion TopHat-Fusion,sim_heart|ENSG00000235873--DYNC2LI1	.
+FP	sim_heart	TopHat-Fusion	GNG13--DLEU2	774	467	CHTF18,GNG13	RPL18P10,DLEU2,DLEU1,MIR16-1	first encounter of FP fusion TopHat-Fusion,sim_heart|GNG13--DLEU2	.
+TP	sim_heart	TopHat-Fusion	ZNF746--MB	517	712	ZNF746	AL049747.1,MB	first encounter of TP TopHat-Fusion,sim_heart|ZNF746--AL049747.1	sim_heart|ZNF746--AL049747.1
+TP	sim_heart	TopHat-Fusion	TCEB2--ZNF559	532	692	TCEB2,SRRM2	ZNF559,CTC-325H20.7,ZNF177,CTC-325H20.2	first encounter of TP TopHat-Fusion,sim_heart|TCEB2--ZNF559	sim_heart|TCEB2--ZNF559
+TP	sim_heart	TopHat-Fusion	ZYG11B--CYP26C1	489	707	RP11-159C21.4,RNU2-30P,ZYG11B,RNU6-969P	CYP26C1	first encounter of TP TopHat-Fusion,sim_heart|ZYG11B--CYP26C1	sim_heart|ZYG11B--CYP26C1
+TP	sim_heart	TopHat-Fusion	CHMP6--TMEM45B	456	711	AC127496.1,CHMP6,CTD-2561B21.7	TMEM45B	first encounter of TP TopHat-Fusion,sim_heart|CHMP6--TMEM45B	sim_heart|CHMP6--TMEM45B
+FP	sim_heart	TopHat-Fusion	SMAGP--AC016995.3	1124	39	SMAGP,DAZAP2	AC016995.3,RPLP0P6,AC093822.1	first encounter of FP fusion TopHat-Fusion,sim_heart|SMAGP--AC016995.3	.
+TP	sim_heart	TopHat-Fusion	KIF5A--BAMBI	453	707	KIF5A	BAMBI	first encounter of TP TopHat-Fusion,sim_heart|KIF5A--BAMBI	sim_heart|KIF5A--BAMBI
+TP	sim_heart	TopHat-Fusion	BPIFA1--TNFRSF9	479	654	BPIFA1	TNFRSF9,RP5-892F13.2	first encounter of TP TopHat-Fusion,sim_heart|BPIFA1--TNFRSF9	sim_heart|BPIFA1--TNFRSF9
+TP	sim_heart	TopHat-Fusion	NDRG2--KCNE1	470	618	RNASE7,AL161668.5,NDRG2,RNASE8,RNASE13,TPPP2,ARHGEF40,RP11-998D10.1	KCNE1,SNORA11	first encounter of TP TopHat-Fusion,sim_heart|NDRG2--KCNE1	sim_heart|NDRG2--KCNE1
+TP	sim_heart	TopHat-Fusion	TM4SF18--HTR3A	454	626	RP11-206M11.7,TM4SF18	HTR3A	first encounter of TP TopHat-Fusion,sim_heart|TM4SF18--HTR3A	sim_heart|TM4SF18--HTR3A
+TP	sim_heart	TopHat-Fusion	DAZL--LRRC25	434	641	AC010139.1,DAZL	LRRC25	first encounter of TP TopHat-Fusion,sim_heart|DAZL--LRRC25	sim_heart|DAZL--LRRC25
+TP	sim_heart	TopHat-Fusion	ACOT4--VWC2	435	592	ACOT4	VWC2,ZPBP	first encounter of TP TopHat-Fusion,sim_heart|ACOT4--VWC2	sim_heart|ACOT4--VWC2
+TP	sim_heart	TopHat-Fusion	PAX5--TRIM43	428	584	RP11-344B23.2,MIR4476,RP11-297B17.3,PAX5,MIR4540	TRIM43	first encounter of TP TopHat-Fusion,sim_heart|PAX5--TRIM43	sim_heart|PAX5--TRIM43
+FP	sim_heart	TopHat-Fusion	PAX5--TRIM43B	428	584	RP11-344B23.2,MIR4476,RP11-297B17.3,PAX5,MIR4540	TRIM43B	first encounter of FP fusion TopHat-Fusion,sim_heart|PAX5--TRIM43B	.
+TP	sim_heart	TopHat-Fusion	CA4--UQCRC2	404	604	CA4	UQCRC2	first encounter of TP TopHat-Fusion,sim_heart|CA4--UQCRC2	sim_heart|CA4--UQCRC2
+TP	sim_heart	TopHat-Fusion	MRPL30--SEMA3G	436	565	MITD1,C2ORF15,LYG1,LIPT1,C2orf15,MRPL30,TSGA10,LYG2,TXNDC9	SEMA3G	first encounter of TP TopHat-Fusion,sim_heart|C2ORF15--SEMA3G	sim_heart|C2ORF15--SEMA3G
+TP	sim_heart	TopHat-Fusion	SLC6A9--DLST	410	584	SLC6A9,CCDC24	DLST	first encounter of TP TopHat-Fusion,sim_heart|SLC6A9--DLST	sim_heart|SLC6A9--DLST
+TP	sim_heart	TopHat-Fusion	C2ORF54--LDHB	449	541	C2orf54	LDHB,RP11-59N23.3	first encounter of TP TopHat-Fusion,sim_heart|C2ORF54--LDHB	sim_heart|C2ORF54--LDHB
+TP	sim_heart	TopHat-Fusion	CCL24--LCE2A	394	594	CCL24	LCE2A	first encounter of TP TopHat-Fusion,sim_heart|CCL24--LCE2A	sim_heart|CCL24--LCE2A
+FP	sim_heart	TopHat-Fusion	TRAC--ASAP2	972	3	TRAJ55,TRAJ6,TRAJ40,TRDD2,TRAV28,TRAV8-7,TRAV20,TRAJ12,TRAJ42,TRAJ31,TRAJ25,TRAV39,TRAV19,TRAV34,TRAJ51,AE000661.36,TRAJ61,TRAJ53,TRAV23DV6,TRAV25,TRAJ8,AE000660.4,TRAV37,TRDJ2,TRAJ52,TRDJ3,TRAJ41,TRAJ60,TRAJ15,TRAJ16,TRAJ32,AE000661.50,TRDD3,TRAJ57,TRAJ2,TRAV32,TRAJ30,TRAV41,TRAJ37,TRAJ28,TRAJ21,TRAJ10,TRAV17,TRAJ44,TRAJ4,TRAV27,TRDC,TRAJ22,TRAV21,TRDJ4,TRAV33,TRAJ58,TRAJ35,TRAV30,TRAV26-1,TRAJ50,TRAJ24,TRAJ19,TRAV35,TRDJ1,TRAV38-2DV8,TRAJ54,TRAV24,TRAJ5,TRAJ7,AE000660.1,TRDD1,TRDV2,AE000661.37,TRAJ43,TRAJ9,TRAJ39,TRAJ47,TRAC,TRAV38-1,TRAJ3,TRAJ46,TRAV22,TRAJ11,TRAJ17,TRAJ33,TRAV29DV5,TRAJ29,TRAJ23,TRAJ1,TRAJ38,TRAJ27,TRAV36DV7,TRAJ59,TRAJ14,TRAV26-2,TRAV31,TRAJ49,TRAJ48,TRAJ13,TRAJ34,TRAV18,TRAJ20,TRAJ18,TRAJ56,TRAJ26,TRAJ45,TRDV3,TRAJ36,TRAV40,TRDV1	ASAP2,RP11-385J23.1,ITGB1BP1	first encounter of FP fusion TopHat-Fusion,sim_heart|TRAC--ASAP2	.
+TP	sim_heart	TopHat-Fusion	ZNF615--TFPI	414	544	ZNF615	AC007319.1,TFPI	first encounter of TP TopHat-Fusion,sim_heart|ZNF615--TFPI	sim_heart|ZNF615--TFPI
+TP	sim_heart	TopHat-Fusion	TMCO5A--A4GALT	394	548	TMCO5A	A4GALT	first encounter of TP TopHat-Fusion,sim_heart|TMCO5A--A4GALT	sim_heart|TMCO5A--A4GALT
+TP	sim_heart	TopHat-Fusion	KIAA1522--IKBKG	269	672	KIAA1522	G6PD,IKBKG,IKBKGP1	first encounter of TP TopHat-Fusion,sim_heart|KIAA1522--IKBKG	sim_heart|KIAA1522--IKBKG
+FP	sim_heart	TopHat-Fusion	RP11-49C9.2--HHAT	921	7	RP11-49C9.2,LINC00894	RP5-879K22.1,RNU5A-8P,HHAT	first encounter of FP fusion TopHat-Fusion,sim_heart|RP11-49C9.2--HHAT	.
+TP	sim_heart	TopHat-Fusion	RB1--CCNK	323	603	LPAR6,PPP1R26P1,RB1,PCNPP5	RP11-688G15.3,CCDC85C,CCNK	first encounter of TP TopHat-Fusion,sim_heart|RB1--CCNK	sim_heart|RB1--CCNK
+TP	sim_heart	TopHat-Fusion	SAR1B--OR13A1	389	530	SEC24A,RNU6-1311P,SAR1B	OR13A1	first encounter of TP TopHat-Fusion,sim_heart|SAR1B--OR13A1	sim_heart|SAR1B--OR13A1
+TP	sim_heart	TopHat-Fusion	SYNJ2--TRIM72	402	506	SYNJ2-IT1,SYNJ2	TRIM72,RP11-388M20.9,PYDC1	first encounter of TP TopHat-Fusion,sim_heart|SYNJ2--TRIM72	sim_heart|SYNJ2--TRIM72
+FP	sim_heart	TopHat-Fusion	KIAA1522--IKBKGP1	269	637	KIAA1522	IKBKGP1	first encounter of FP fusion TopHat-Fusion,sim_heart|KIAA1522--IKBKGP1	.
+FP	sim_heart	TopHat-Fusion	SSPN--PHKB	447	441	RP11-283G6.3,RP11-283G6.5,SSPN,BHLHE41,RP11-283G6.4	ITFG1,RP11-177N22.2,EIF4BP5,RNA5SP425,NDUFA5P11,RP11-177N22.3,PHKB	first encounter of FP fusion TopHat-Fusion,sim_heart|SSPN--PHKB	.
+TP	sim_heart	TopHat-Fusion	GLB1L--ADRA1B	352	470	STK16,GLB1L,ANKZF1	GAPDHP40,ADRA1B	first encounter of TP TopHat-Fusion,sim_heart|GLB1L--ADRA1B	sim_heart|GLB1L--ADRA1B
+FP	sim_heart	TopHat-Fusion	RP11-402J6.1--RP11-317J19.1	304	500	C4orf21,RP11-402J6.2,NEUROG2,RP11-402J6.1	RP11-317J19.1,ME3,PTP4A1P6	first encounter of FP fusion TopHat-Fusion,sim_heart|RP11-402J6.1--RP11-317J19.1	.
+TP	sim_heart	TopHat-Fusion	NLRP14--PIGF	292	445	NLRP14	CRIPT,RHOQ,PIGF	first encounter of TP TopHat-Fusion,sim_heart|NLRP14--PIGF	sim_heart|NLRP14--PIGF
+TP	sim_heart	TopHat-Fusion	AMMECR1--TNFSF9	262	346	RGAG1,AMMECR1-IT1,AMMECR1,GNG5P2,SNORD96B	TNFSF9	first encounter of TP TopHat-Fusion,sim_heart|AMMECR1--TNFSF9	sim_heart|AMMECR1--TNFSF9
+TP	sim_heart	TopHat-Fusion	HOOK1--SHC4	225	362	HOOK1	AC012379.1,RP11-138E16.1,EID1,SHC4	first encounter of TP TopHat-Fusion,sim_heart|HOOK1--SHC4	sim_heart|HOOK1--SHC4
+TP	sim_heart	TopHat-Fusion	ZNF700--EMID1	216	321	ZNF700,CTD-2006C1.12,ZNF763	EMID1	first encounter of TP TopHat-Fusion,sim_heart|ZNF763--EMID1	sim_heart|ZNF763--EMID1
+TP	sim_heart	TopHat-Fusion	CAP1--IQCB1	230	297	CAP1	IQCB1	first encounter of TP TopHat-Fusion,sim_heart|CAP1--IQCB1	sim_heart|CAP1--IQCB1
+TP	sim_heart	TopHat-Fusion	SULT2A1--STON1-GTF2A1L	229	297	SULT2A1	LHCGR,STON1-GTF2A1L,AC073082.3,STON1,GTF2A1L	first encounter of TP TopHat-Fusion,sim_heart|SULT2A1--STON1	sim_heart|SULT2A1--STON1
+TP	sim_heart	TopHat-Fusion	RFX4--CYTH1	159	357	RP11-144F15.1,RP11-482D24.2,RP11-482D24.3,RFX4	CYTH1,RNU6-638P	first encounter of TP TopHat-Fusion,sim_heart|RFX4--CYTH1	sim_heart|RFX4--CYTH1
+TP	sim_heart	TopHat-Fusion	TMEM40--LDLRAD2	212	298	TMEM40	LDLRAD2,HSPG2	first encounter of TP TopHat-Fusion,sim_heart|TMEM40--LDLRAD2	sim_heart|TMEM40--LDLRAD2
+TP	sim_heart	TopHat-Fusion	NMNAT1--PLA2G1B	223	283	NMNAT1,RP11-84A14.4,RN7SKP269,MIR5697,RP11-807G9.2	PLA2G1B	first encounter of TP TopHat-Fusion,sim_heart|NMNAT1--PLA2G1B	sim_heart|NMNAT1--PLA2G1B
+TP	sim_heart	TopHat-Fusion	PLAGL2--SNRPC	241	262	PLAGL2	SNRPC	first encounter of TP TopHat-Fusion,sim_heart|PLAGL2--SNRPC	sim_heart|PLAGL2--SNRPC
+TP	sim_heart	TopHat-Fusion	RCAN2--VAT1	176	300	RCAN2,RP11-795J1.2	VAT1	first encounter of TP TopHat-Fusion,sim_heart|RCAN2--VAT1	sim_heart|RCAN2--VAT1
+TP	sim_heart	TopHat-Fusion	ENOPH1--HMMR	211	252	ENOPH1	RP11-80G7.1,HMMR	first encounter of TP TopHat-Fusion,sim_heart|ENOPH1--HMMR	sim_heart|ENOPH1--HMMR
+TP	sim_heart	TopHat-Fusion	KRBOX1--FOXRED1	190	262	ZNF662,FAM198A,CYP8B1,ACKR2,HNRNPA1P22,KRBOX1-AS1,RP11-70C1.3,RP11-141M3.5,RP11-136C24.1,KRBOX1	SRPR,FOXRED1	first encounter of TP TopHat-Fusion,sim_heart|KRBOX1--FOXRED1	sim_heart|KRBOX1--FOXRED1
+TP	sim_heart	TopHat-Fusion	LYAR--CASK	182	269	LYAR	RP5-1174J21.2,GPR82,RP5-1174J21.1,GPR34,RN7SL144P,RNU6-1321P,RN7SL406P,CASK,RP11-204C16.4,RNU6-202P,CASK-AS1	first encounter of TP TopHat-Fusion,sim_heart|LYAR--CASK	sim_heart|LYAR--CASK
+FP	sim_heart	TopHat-Fusion	RAB3D--CALR3	446	0	CCDC159,CTC-510F12.6,TMEM205,TSPAN16,CTC-510F12.4,RAB3D	CTD-3222D19.10,CTD-3222D19.7,CTD-3222D19.2,CTC-429P9.4,SLC35E1,CALR3,CTD-3222D19.5,CTD-3222D19.11,C19orf44,CHERP,RN7SL146P,MED26,CTC-429P9.2	first encounter of FP fusion TopHat-Fusion,sim_heart|RAB3D--CALR3	.
+FP	sim_heart	TopHat-Fusion	WASF1--C8ORF44-SGK3	439	6	WASF1	C8orf44-SGK3,PTTG3P,SGK3,C8orf44	first encounter of FP fusion TopHat-Fusion,sim_heart|WASF1--C8ORF44-SGK3	.
+TP	sim_heart	TopHat-Fusion	FOXO4--PARM1	202	238	FOXO4	RP11-44F21.3,PARM1,RP11-44F21.2	first encounter of TP TopHat-Fusion,sim_heart|FOXO4--PARM1	sim_heart|FOXO4--PARM1
+TP	sim_heart	TopHat-Fusion	AJUBA--SNX31	151	278	AJUBA,RP11-298I3.5	SNX31,KB-1083B1.1	first encounter of TP TopHat-Fusion,sim_heart|AJUBA--SNX31	sim_heart|AJUBA--SNX31
+TP	sim_heart	TopHat-Fusion	MSRB2--SYCP1	174	214	MSRB2	SYCP1	first encounter of TP TopHat-Fusion,sim_heart|MSRB2--SYCP1	sim_heart|MSRB2--SYCP1
+TP	sim_heart	TopHat-Fusion	CLEC4A--KHDRBS2	166	211	ZNF705A,POU5F1P3,CLEC4A	RP1-240B8.3,KHDRBS2	first encounter of TP TopHat-Fusion,sim_heart|CLEC4A--KHDRBS2	sim_heart|CLEC4A--KHDRBS2
+TP	sim_heart	TopHat-Fusion	WDYHV1--RDH11	148	229	WDYHV1	RP11-1012A1.4,RDH11	first encounter of TP TopHat-Fusion,sim_heart|WDYHV1--RDH11	sim_heart|WDYHV1--RDH11
+TP	sim_heart	TopHat-Fusion	FBXL7--RNF180	154	221	MIR887,CTD-2350J17.1,FBXL7	RNF180	first encounter of TP TopHat-Fusion,sim_heart|FBXL7--RNF180	sim_heart|FBXL7--RNF180
+TP	sim_heart	TopHat-Fusion	WISP1--KMT2A	142	230	WISP1,WISP1-UT1	RP11-770J1.3,KMT2A	first encounter of TP TopHat-Fusion,sim_heart|WISP1--KMT2A	sim_heart|WISP1--KMT2A
+TP	sim_heart	TopHat-Fusion	MMADHC--DSPP	157	213	AC144449.1,MMADHC	DSPP,RP11-742B18.1	first encounter of TP TopHat-Fusion,sim_heart|MMADHC--DSPP	sim_heart|MMADHC--DSPP
+TP	sim_heart	TopHat-Fusion	IFIT3--THAP1	174	186	LIPA,IFIT3	THAP1	first encounter of TP TopHat-Fusion,sim_heart|IFIT3--THAP1	sim_heart|IFIT3--THAP1
+TP	sim_heart	TopHat-Fusion	SECISBP2--HAGH	139	219	SECISBP2	HAGH,FAHD1	first encounter of TP TopHat-Fusion,sim_heart|SECISBP2--HAGH	sim_heart|SECISBP2--HAGH
+FP	sim_heart	TopHat-Fusion	RPL36--EEF1E1	153	202	RPL36,LONP1,C19orf70,HSD11B1L	BLOC1S5-TXNDC5,TXNDC5,EEF1E1-BLOC1S5,EEF1E1,BLOC1S5	first encounter of FP fusion TopHat-Fusion,sim_heart|RPL36--EEF1E1	.
+TP	sim_heart	TopHat-Fusion	HUNK--THOP1	152	189	HUNK,HUNK-AS1	THOP1	first encounter of TP TopHat-Fusion,sim_heart|HUNK--THOP1	sim_heart|HUNK--THOP1
+TP	sim_heart	TopHat-Fusion	ERMN--MDS2	154	163	ERMN	MDS2	first encounter of TP TopHat-Fusion,sim_heart|ERMN--MDS2	sim_heart|ERMN--MDS2
+TP	sim_heart	TopHat-Fusion	CD300A--ALG10B	93	223	CD300A	AC117372.1,ALG10B	first encounter of TP TopHat-Fusion,sim_heart|CD300A--ALG10B	sim_heart|CD300A--ALG10B
+FP	sim_heart	TopHat-Fusion	ARG2--SNX4	89	225	ARG2,VTI1B	SNX4	first encounter of FP fusion TopHat-Fusion,sim_heart|ARG2--SNX4	.
+TP	sim_heart	TopHat-Fusion	FAM227B--C3ORF20	135	178	FGF7,RP11-295H24.3,GALK2,FAM227B	AC090957.2,C3orf20	first encounter of TP TopHat-Fusion,sim_heart|FGF7--C3ORF20	sim_heart|FGF7--C3ORF20
+TP	sim_heart	TopHat-Fusion	PAX3--KANK4	133	170	CCDC140,PAX3	RNU6-371P,KANK4	first encounter of TP TopHat-Fusion,sim_heart|PAX3--KANK4	sim_heart|PAX3--KANK4
+TP	sim_heart	TopHat-Fusion	MELK--ATPIF1	118	183	MELK	RP5-1092A3.4,ATPIF1	first encounter of TP TopHat-Fusion,sim_heart|MELK--ATPIF1	sim_heart|MELK--ATPIF1
+TP	sim_heart	TopHat-Fusion	MUC5B--C12ORF40	116	164	MUC5B,RP11-532E4.2	AC121336.1,SNORA22,SLC2A13,C12orf40	first encounter of TP TopHat-Fusion,sim_heart|MUC5B--C12ORF40	sim_heart|MUC5B--C12ORF40
+TP	sim_heart	TopHat-Fusion	RPUSD2--BAIAP3	113	162	RPUSD2	BAIAP3,TSR3	first encounter of TP TopHat-Fusion,sim_heart|RPUSD2--BAIAP3	sim_heart|RPUSD2--BAIAP3
+TP	sim_heart	TopHat-Fusion	MPHOSPH10--GBP7	119	155	MPHOSPH10	GBP7,GBP2	first encounter of TP TopHat-Fusion,sim_heart|MPHOSPH10--GBP7	sim_heart|MPHOSPH10--GBP7
+TP	sim_heart	TopHat-Fusion	TMEM244--TAF7L	113	153	TMEM244	TAF7L	first encounter of TP TopHat-Fusion,sim_heart|TMEM244--TAF7L	sim_heart|TMEM244--TAF7L
+TP	sim_heart	TopHat-Fusion	MS4A4E--GDF5OS	128	133	MS4A4E	GDF5OS,GDF5	first encounter of TP TopHat-Fusion,sim_heart|MS4A4E--GDF5OS	sim_heart|MS4A4E--GDF5OS
+FP	sim_heart	TopHat-Fusion	NPLOC4--KCTD1	259	0	NPLOC4,TSPAN10	CIAPIN1P,AQP4-AS1,AC090206.1,KCTD1	first encounter of FP fusion TopHat-Fusion,sim_heart|NPLOC4--KCTD1	.
+TP	sim_heart	TopHat-Fusion	RGS16--L3MBTL2	97	148	RGS16	L3MBTL2,CHADL,RP4-756G23.5	first encounter of TP TopHat-Fusion,sim_heart|RGS16--L3MBTL2	sim_heart|RGS16--L3MBTL2
+TP	sim_heart	TopHat-Fusion	KIAA1244--UTY	94	150	PBOV1,KIAA1244	UTY,AC010877.1,PSMA6P1	first encounter of TP TopHat-Fusion,sim_heart|KIAA1244--UTY	sim_heart|KIAA1244--UTY
+TP	sim_heart	TopHat-Fusion	INTS6--FGF9	91	149	SERPINE3,RP11-24B19.4,INTS6,RPS4XP16,RP11-24B19.3,INTS6-AS1	FGF9	first encounter of TP TopHat-Fusion,sim_heart|INTS6--FGF9	sim_heart|INTS6--FGF9
+TP	sim_heart	TopHat-Fusion	KCNJ8--TMX2-CTNND1	104	135	RP11-59N23.1,KCNJ8	C11orf31,RP11-691N7.6,AP000662.9,CTNND1,TMX2,BTBD18,TMX2-CTNND1	first encounter of TP TopHat-Fusion,sim_heart|KCNJ8--TMX2	sim_heart|KCNJ8--TMX2
+TP	sim_heart	TopHat-Fusion	TARDBP--IGSF8	106	126	MASP2,TARDBP,RP4-635E18.8	IGSF8	first encounter of TP TopHat-Fusion,sim_heart|TARDBP--IGSF8	sim_heart|TARDBP--IGSF8
+TP	sim_heart	TopHat-Fusion	PLD3--TMEM86B	99	129	PLD3,HIPK4,C19orf47	TMEM86B,PPP6R1,AC010327.2	first encounter of TP TopHat-Fusion,sim_heart|PLD3--TMEM86B	sim_heart|PLD3--TMEM86B
+TP	sim_heart	TopHat-Fusion	RNF121--PDPN	96	132	RP11-757C15.4,RNF121	PDPN	first encounter of TP TopHat-Fusion,sim_heart|RNF121--PDPN	sim_heart|RNF121--PDPN
+TP	sim_heart	TopHat-Fusion	PPP1R1C--GPBAR1	99	123	AC064837.1,PPP1R1C,RNA5SP113,KRT18P29	GPBAR1	first encounter of TP TopHat-Fusion,sim_heart|PPP1R1C--GPBAR1	sim_heart|PPP1R1C--GPBAR1
+FP	sim_heart	TopHat-Fusion	HOXB-AS3--PDCD6IP	98	123	HOXB5,MIR10A,HOXB3,HOXB-AS2,HOXB6,HOXB4,HOXB-AS3,HOXB-AS1	PDCD6IP	first encounter of FP fusion TopHat-Fusion,sim_heart|HOXB-AS3--PDCD6IP	.
+FP	sim_heart	TopHat-Fusion	FADS1--RP11-572M11.4	63	149	FADS3,FADS1,MIR1908,FADS2	SNORD112,RP11-572M11.2,AC078785.1,C3orf17,RP11-572M11.4,RP11-572M11.1,RP11-572M11.3	first encounter of FP fusion TopHat-Fusion,sim_heart|FADS1--RP11-572M11.4	.
+TP	sim_heart	TopHat-Fusion	POU2F3--CTD-2545M3.6	79	123	POU2F3,RP11-778O17.4	SPIB,CTD-2545M3.6,POLD1	first encounter of TP TopHat-Fusion,sim_heart|POU2F3--SPIB	sim_heart|POU2F3--SPIB
+FP	sim_heart	TopHat-Fusion	ROBO2--IQCB1	183	13	ROBO2,RNU6-386P,RP11-550F7.1,VDAC1P7,AC026877.1	IQCB1	first encounter of FP fusion TopHat-Fusion,sim_heart|ROBO2--IQCB1	.
+FP	sim_heart	TopHat-Fusion	TCEB2P2--ZNF559	191	1	TCEB2P2	ZNF559,CTC-325H20.7,ZNF177,CTC-325H20.2	first encounter of FP fusion TopHat-Fusion,sim_heart|TCEB2P2--ZNF559	.
+TP	sim_heart	TopHat-Fusion	CLINT1--SUV39H1	64	122	RNU6-260P,CLINT1	AF196970.3,SUV39H1	first encounter of TP TopHat-Fusion,sim_heart|CLINT1--SUV39H1	sim_heart|CLINT1--SUV39H1
+TP	sim_heart	TopHat-Fusion	CD63--EFNA1	66	115	RP11-644F5.11,CD63	EFNA1	first encounter of TP TopHat-Fusion,sim_heart|CD63--EFNA1	sim_heart|CD63--EFNA1
+TP	sim_heart	TopHat-Fusion	PRAMEF12--C6ORF203	50	119	PRAMEF12	C6orf203	first encounter of TP TopHat-Fusion,sim_heart|PRAMEF12--C6ORF203	sim_heart|PRAMEF12--C6ORF203
+TP	sim_heart	TopHat-Fusion	ABCC6--USHBP1	70	98	RP11-517A5.7,ABCC6	USHBP1,AC010646.3,CTD-2278I10.6,BABAM1,ANKLE1	first encounter of TP TopHat-Fusion,sim_heart|ABCC6--USHBP1	sim_heart|ABCC6--USHBP1
+TP	sim_heart	TopHat-Fusion	GOT2--CLNK	72	94	GOT2,RP11-410D17.2	CLNK	first encounter of TP TopHat-Fusion,sim_heart|GOT2--CLNK	sim_heart|GOT2--CLNK
+FP	sim_heart	TopHat-Fusion	SLC6A9--ACADM	157	0	SLC6A9,CCDC24	RABGGTB,SNORD45C,ACADM,RP4-682C21.2	first encounter of FP fusion TopHat-Fusion,sim_heart|SLC6A9--ACADM	.
+TP	sim_heart	TopHat-Fusion	NLRP11--SF3B3	59	92	NLRP11,NLRP4	RP11-49C24.1,SF3B3,SNORD111,SNORD111B	first encounter of TP TopHat-Fusion,sim_heart|NLRP11--SF3B3	sim_heart|NLRP11--SF3B3
+TP	sim_heart	TopHat-Fusion	YME1L1--ZFR	50	92	YME1L1,MASTL	AC008949.1,ZFR,MIR579	first encounter of TP TopHat-Fusion,sim_heart|YME1L1--ZFR	sim_heart|YME1L1--ZFR
+FP	sim_heart	TopHat-Fusion	RP11-8L2.1--SNRPC	139	1	RP11-8L2.1,RP11-274J2.1,RNU6-774P	SNRPC	first encounter of FP fusion TopHat-Fusion,sim_heart|RP11-8L2.1--SNRPC	.
+TP	sim_heart	TopHat-Fusion	LOH12CR2--YPEL3	52	85	LOH12CR2	RP11-455F5.3,YPEL3	first encounter of TP TopHat-Fusion,sim_heart|LOH12CR2--YPEL3	sim_heart|LOH12CR2--YPEL3
+TP	sim_heart	TopHat-Fusion	ECHS1--PYURF	49	81	ECHS1,MIR3944	HERC3,PIGY,PYURF	first encounter of TP TopHat-Fusion,sim_heart|ECHS1--PYURF	sim_heart|ECHS1--PYURF
+TP	sim_heart	TopHat-Fusion	OXT--SETD7	60	69	OXT	SETD7,RP11-342I1.2,FTH1P24	first encounter of TP TopHat-Fusion,sim_heart|OXT--SETD7	sim_heart|OXT--SETD7
+TP	sim_heart	TopHat-Fusion	SCARA3--CCDC85A	56	73	SCARA3	RNA5SP93,CCDC85A,RP11-482H16.1,AC007743.1	first encounter of TP TopHat-Fusion,sim_heart|SCARA3--CCDC85A	sim_heart|SCARA3--CCDC85A
+TP	sim_heart	TopHat-Fusion	KDM2B--PIFO	61	67	RP13-941N14.1,RNF34,KDM2B	PIFO	first encounter of TP TopHat-Fusion,sim_heart|KDM2B--PIFO	sim_heart|KDM2B--PIFO
+TP	sim_heart	TopHat-Fusion	TNFSF13--CDK14	45	80	TNFSF13,TNFSF12,TNFSF12-TNFSF13	CLDN12,TVP23CP1,PTP4A1P3,CDK14,CTB-13L3.1,AC002456.2,AC006153.3	first encounter of TP TopHat-Fusion,sim_heart|TNFSF13--CDK14	sim_heart|TNFSF13--CDK14
 TP	sim_heart	TopHat-Fusion	MS4A2--FBXW12	59	59	MS4A2	FBXW12,RN7SL321P	first encounter of TP TopHat-Fusion,sim_heart|MS4A2--FBXW12	sim_heart|MS4A2--FBXW12
-TP	sim_heart	TopHat-Fusion	SFPQ--KRT25	69	48	SFPQ	KRT25	first encounter of TP TopHat-Fusion,sim_heart|SFPQ--KRT25	sim_heart|SFPQ--KRT25
-TP	sim_heart	TopHat-Fusion	COL5A1--DNAJC16	58	49	COL5A1,COL5A1-AS1	RP4-680D5.2,AGMAT,SCARNA21,DNAJC16,RP4-680D5.8	first encounter of TP TopHat-Fusion,sim_heart|COL5A1--DNAJC16	sim_heart|COL5A1--DNAJC16
-TP	sim_heart	TopHat-Fusion	ZNF785--HYDIN	63	43	ZNF785,ZNF688,AC002310.7	AC027281.1,SNORD112,RP11-23E19.1,HYDIN,RNU6ATAC25P,RP11-23E19.2	first encounter of TP TopHat-Fusion,sim_heart|ZNF785--HYDIN	sim_heart|ZNF785--HYDIN
-TP	sim_heart	TopHat-Fusion	GFM1--COL6A6	60	44	LXN,GFM1	COL6A6	first encounter of TP TopHat-Fusion,sim_heart|GFM1--COL6A6	sim_heart|GFM1--COL6A6
-TP	sim_heart	TopHat-Fusion	MAP7--SLC35D1	50	49	NDUFS5P1,MAP7,7SK,RP3-406A7.3,RP3-406A7.5,RP3-325F22.5	SLC35D1	first encounter of TP TopHat-Fusion,sim_heart|MAP7--SLC35D1	sim_heart|MAP7--SLC35D1
-NA-TP	sim_heart	TopHat-Fusion	CD300A--ALG10	5	93	CD300A	RP11-847H18.2,AC117372.1,ALG10B,AC046130.1,ALG10	already scored TopHat-Fusion,sim_heart|CD300A--ALG10B as TP	.
-TP	sim_heart	TopHat-Fusion	TECTA--C9ORF16	65	31	TECTA	C9orf16	first encounter of TP TopHat-Fusion,sim_heart|TECTA--C9ORF16	sim_heart|TECTA--C9ORF16
-TP	sim_heart	TopHat-Fusion	PFKFB3--PAPOLA	54	39	PFKFB3,RN7SKP78,RP11-414H17.5,MIR3155A	PAPOLA,RP11-872J21.3	first encounter of TP TopHat-Fusion,sim_heart|PFKFB3--PAPOLA	sim_heart|PFKFB3--PAPOLA
-FP	sim_heart	TopHat-Fusion	RP11-14J7.6--C2ORF80	59	34	RNASE12,RNASE11,RP11-14J7.6	C2orf80	first encounter of FP fusion TopHat-Fusion,sim_heart|RP11-14J7.6--C2ORF80	.
-FP	sim_heart	TopHat-Fusion	RFX4--CYTH4	0	92	RP11-144F15.1,RP11-482D24.2,RP11-482D24.3,RFX4	CYTH4	first encounter of FP fusion TopHat-Fusion,sim_heart|RFX4--CYTH4	.
-TP	sim_heart	TopHat-Fusion	APOL5--JAZF1	62	30	APOL5	RN7SL365P,TAX1BP1,JAZF1,RNU6-979P,JAZF1-AS1	first encounter of TP TopHat-Fusion,sim_heart|APOL5--JAZF1	sim_heart|APOL5--JAZF1
-TP	sim_heart	TopHat-Fusion	TMEM132E--TRAV3	56	35	TMEM132E	TRAV3	first encounter of TP TopHat-Fusion,sim_heart|TMEM132E--TRAV3	sim_heart|TMEM132E--TRAV3
-TP	sim_heart	TopHat-Fusion	CFL2--NDUFAF7	56	35	CFL2	CEBPZ,PRKD3,NDUFAF7	first encounter of TP TopHat-Fusion,sim_heart|CFL2--NDUFAF7	sim_heart|CFL2--NDUFAF7
-TP	sim_heart	TopHat-Fusion	ZNF12--MKI67IP	54	35	AC073343.13,ZNF12,AC073343.2	AC018737.1,MKI67IP	first encounter of TP TopHat-Fusion,sim_heart|ZNF12--MKI67IP	sim_heart|ZNF12--MKI67IP
-TP	sim_heart	TopHat-Fusion	C2ORF43--RNF182	43	45	C2orf43	RNF182,MRPL35P1	first encounter of TP TopHat-Fusion,sim_heart|C2ORF43--RNF182	sim_heart|C2ORF43--RNF182
-TP	sim_heart	TopHat-Fusion	TBC1D3H--MCM10	70	16	RNU6-1192P,CCL3L1,TBC1D3H,CCL4L2,CTB-91J4.3,TBC1D3C,TBC1D3G	MCM10	first encounter of TP TopHat-Fusion,sim_heart|CCL3L1--MCM10	sim_heart|CCL3L1--MCM10
-NA-TP	sim_heart	TopHat-Fusion	CCL3L3--MCM10	70	16	CCL3L1,AC131056.3,TBC1D3H,CCL3L3,TBC1D3C	MCM10	already scored TopHat-Fusion,sim_heart|CCL3L1--MCM10 as TP	.
-TP	sim_heart	TopHat-Fusion	ADAMTS12--NOXA1	41	42	RNU6-923P,ADAMTS12	ENTPD8,NOXA1	first encounter of TP TopHat-Fusion,sim_heart|ADAMTS12--NOXA1	sim_heart|ADAMTS12--NOXA1
-TP	sim_heart	TopHat-Fusion	EXOSC2--AGTPBP1	39	38	EXOSC2	AGTPBP1	first encounter of TP TopHat-Fusion,sim_heart|EXOSC2--AGTPBP1	sim_heart|EXOSC2--AGTPBP1
-TP	sim_heart	TopHat-Fusion	TET1--POLR1A	48	29	TET1,COX20P1,RP11-119F7.3	POLR1A	first encounter of TP TopHat-Fusion,sim_heart|TET1--POLR1A	sim_heart|TET1--POLR1A
-TP	sim_heart	TopHat-Fusion	RPSA--UNC93A	41	34	SNORA6,RP11-255H23.3,RPSAP58,RP11-255H23.2,RPSA,RP11-255H23.4,SNORA62	UNC93A	first encounter of TP TopHat-Fusion,sim_heart|RPSA--UNC93A	sim_heart|RPSA--UNC93A
-TP	sim_heart	TopHat-Fusion	AREL1--COL4A5	51	23	RP11-173A8.2,AC007956.1,AREL1,SNORA7	COL4A5	first encounter of TP TopHat-Fusion,sim_heart|AC007956.1--COL4A5	sim_heart|AC007956.1--COL4A5
-TP	sim_heart	TopHat-Fusion	FGD3--KLRB1	43	30	FGD3	KLRB1	first encounter of TP TopHat-Fusion,sim_heart|FGD3--KLRB1	sim_heart|FGD3--KLRB1
-TP	sim_heart	TopHat-Fusion	CARD10--CYP2A7	38	34	MFNG,CARD10	CYP2G1P,CTC-490E21.13,CYP2A7P1,CYP2B7P1,AC092071.1,CYP2B6,CTC-490E21.12,CYP2A7	first encounter of TP TopHat-Fusion,sim_heart|CARD10--CYP2A7	sim_heart|CARD10--CYP2A7
-NA-TP	sim_heart	TopHat-Fusion	CARD10--CYP2A6	38	34	MFNG,CARD10	CYP2A6,CTC-490E21.12,CYP2A7	already scored TopHat-Fusion,sim_heart|CARD10--CYP2A7 as TP	.
-TP	sim_heart	TopHat-Fusion	LRBA--LHPP	41	27	MAB21L2,RP11-174F8.1,LRBA,ZBTB8OSP1,AC110813.1,RNA5SP168,RP11-1336O20.2	RPS10P18,RP11-12J10.3,LHPP	first encounter of TP TopHat-Fusion,sim_heart|LRBA--LHPP	sim_heart|LRBA--LHPP
-TP	sim_heart	TopHat-Fusion	FAM71B--ZNF382	42	25	ITK,FAM71B	ZNF382,ZNF529,CTD-3234P18.2	first encounter of TP TopHat-Fusion,sim_heart|FAM71B--ZNF382	sim_heart|FAM71B--ZNF382
-TP	sim_heart	TopHat-Fusion	KRT19--CUL7	47	18	KRT19	KLC4,CUL7	first encounter of TP TopHat-Fusion,sim_heart|KRT19--CUL7	sim_heart|KRT19--CUL7
-TP	sim_heart	TopHat-Fusion	EP400--ELOVL3	37	26	EP400,SNORA49,AC137590.1,RP13-820C6.2	ELOVL3	first encounter of TP TopHat-Fusion,sim_heart|EP400--ELOVL3	sim_heart|EP400--ELOVL3
-TP	sim_heart	TopHat-Fusion	WNT3--LRRC34	34	27	WNT3	RP11-362K14.7,RP11-362K14.6,LRRC34	first encounter of TP TopHat-Fusion,sim_heart|WNT3--LRRC34	sim_heart|WNT3--LRRC34
-TP	sim_heart	TopHat-Fusion	AKAP12--TMIGD2	33	25	RN7SKP268,AKAP12,RNY4P20,RNU6-1247P	TMIGD2	first encounter of TP TopHat-Fusion,sim_heart|AKAP12--TMIGD2	sim_heart|AKAP12--TMIGD2
-TP	sim_heart	TopHat-Fusion	ANTXR1--RPL31	30	28	RNU6-1216P,RNA5SP96,MIR3126,ANTXR1	AC016738.4,TBC1D8,RPL31	first encounter of TP TopHat-Fusion,sim_heart|ANTXR1--RPL31	sim_heart|ANTXR1--RPL31
-TP	sim_heart	TopHat-Fusion	PPARGC1B--DEFB121	36	20	MIR378A,PPARGC1B	DEFB121	first encounter of TP TopHat-Fusion,sim_heart|PPARGC1B--DEFB121	sim_heart|PPARGC1B--DEFB121
-TP	sim_heart	TopHat-Fusion	ZNF236--PGC	24	32	ZNF236,RPL26P35,RP11-162A12.3	PGC	first encounter of TP TopHat-Fusion,sim_heart|ZNF236--PGC	sim_heart|ZNF236--PGC
-TP	sim_heart	TopHat-Fusion	CHI3L1--NTRK2	27	29	CHI3L1	NTRK2	first encounter of TP TopHat-Fusion,sim_heart|CHI3L1--NTRK2	sim_heart|CHI3L1--NTRK2
-TP	sim_heart	TopHat-Fusion	CLPP--PPP1R14C	23	32	CTB-180A7.3,CLPP	PPP1R14C	first encounter of TP TopHat-Fusion,sim_heart|CLPP--PPP1R14C	sim_heart|CLPP--PPP1R14C
-TP	sim_heart	TopHat-Fusion	DPY19L1--PLCB4	30	22	DPY19L1,MIR548N	PLCB4	first encounter of TP TopHat-Fusion,sim_heart|DPY19L1--PLCB4	sim_heart|DPY19L1--PLCB4
-TP	sim_heart	TopHat-Fusion	DAB2--NUDT22	30	21	DAB2,C9	NUDT22,RP11-783K16.14,DNAJC4,TRPT1	first encounter of TP TopHat-Fusion,sim_heart|DAB2--NUDT22	sim_heart|DAB2--NUDT22
-TP	sim_heart	TopHat-Fusion	BCO2--NDUFAF1	28	23	AP002884.3,RP11-356J5.5,BCO2,MRPS36P4,SDHD,RPS12P21	NDUFAF1	first encounter of TP TopHat-Fusion,sim_heart|BCO2--NDUFAF1	sim_heart|BCO2--NDUFAF1
-FP	sim_heart	TopHat-Fusion	RP11-80A15.1--FBXL4	32	18	RP11-80A15.1,CMA1	FBXL4	first encounter of FP fusion TopHat-Fusion,sim_heart|RP11-80A15.1--FBXL4	.
-FP	sim_heart	TopHat-Fusion	PLCB4--AVL9	28	22	PLCB4	RP11-265E18.1,DPY19L1P1,FKBP9,KBTBD2,SNORA31,NT5C3A,RNU6-388P,ZNRF2P1,MIR550A2,RP11-225B17.2,RP9P,AC083863.5,AC074338.4,AVL9,DPY19L1P2,RP11-225B17.1	first encounter of FP fusion TopHat-Fusion,sim_heart|PLCB4--AVL9	.
-TP	sim_heart	TopHat-Fusion	SERINC4--NUDT2	21	28	MIR1282,AC018512.1,SERF2,HYPK,ELL3,PDIA3,SERINC4,RP11-296A16.1	NUDT2	first encounter of TP TopHat-Fusion,sim_heart|SERINC4--NUDT2	sim_heart|SERINC4--NUDT2
-FP	sim_heart	TopHat-Fusion	CTB-171A8.1--DEFB112	30	18	CEACAM16,CEACAM19,CTB-171A8.1,IGSF23,PVR	DEFB112	first encounter of FP fusion TopHat-Fusion,sim_heart|CTB-171A8.1--DEFB112	.
-TP	sim_heart	TopHat-Fusion	XRN2--KCNMB4	31	17	XRN2	KCNMB4	first encounter of TP TopHat-Fusion,sim_heart|XRN2--KCNMB4	sim_heart|XRN2--KCNMB4
-TP	sim_heart	TopHat-Fusion	ZFP30--ARPC1B	29	19	CTD-2528L19.4,ZFP30,ZNF540,ZNF781	PDAP1,ARPC1A,ARPC1B	first encounter of TP TopHat-Fusion,sim_heart|ZFP30--ARPC1B	sim_heart|ZFP30--ARPC1B
-TP	sim_heart	TopHat-Fusion	REEP4--CUZD1	25	22	REEP4	FAM24B,CUZD1	first encounter of TP TopHat-Fusion,sim_heart|REEP4--CUZD1	sim_heart|REEP4--CUZD1
-TP	sim_heart	TopHat-Fusion	G3BP1--PTCH2	31	16	ATOX1,G3BP1	PTCH2,RNU5E-6P	first encounter of TP TopHat-Fusion,sim_heart|G3BP1--PTCH2	sim_heart|G3BP1--PTCH2
-TP	sim_heart	TopHat-Fusion	SIRT5--TMEM14A	26	20	RP1-223E5.4,SIRT5	TMEM14A	first encounter of TP TopHat-Fusion,sim_heart|SIRT5--TMEM14A	sim_heart|SIRT5--TMEM14A
-TP	sim_heart	TopHat-Fusion	SCG5--GRP	27	18	SCG5,RP11-1000B6.2	GRP	first encounter of TP TopHat-Fusion,sim_heart|SCG5--GRP	sim_heart|SCG5--GRP
+TP	sim_heart	TopHat-Fusion	SFPQ--KRT25	48	69	SFPQ	KRT25	first encounter of TP TopHat-Fusion,sim_heart|SFPQ--KRT25	sim_heart|SFPQ--KRT25
+TP	sim_heart	TopHat-Fusion	COL5A1--DNAJC16	49	58	COL5A1,COL5A1-AS1	RP4-680D5.2,AGMAT,SCARNA21,DNAJC16,RP4-680D5.8	first encounter of TP TopHat-Fusion,sim_heart|COL5A1--DNAJC16	sim_heart|COL5A1--DNAJC16
+TP	sim_heart	TopHat-Fusion	ZNF785--HYDIN	43	63	ZNF785,ZNF688,AC002310.7	AC027281.1,SNORD112,RP11-23E19.1,HYDIN,RNU6ATAC25P,RP11-23E19.2	first encounter of TP TopHat-Fusion,sim_heart|ZNF785--HYDIN	sim_heart|ZNF785--HYDIN
+TP	sim_heart	TopHat-Fusion	GFM1--COL6A6	44	60	LXN,GFM1	COL6A6	first encounter of TP TopHat-Fusion,sim_heart|GFM1--COL6A6	sim_heart|GFM1--COL6A6
+TP	sim_heart	TopHat-Fusion	MAP7--SLC35D1	49	50	NDUFS5P1,MAP7,7SK,RP3-406A7.3,RP3-406A7.5,RP3-325F22.5	SLC35D1	first encounter of TP TopHat-Fusion,sim_heart|MAP7--SLC35D1	sim_heart|MAP7--SLC35D1
+NA-TP	sim_heart	TopHat-Fusion	CD300A--ALG10	93	5	CD300A	RP11-847H18.2,AC117372.1,ALG10B,AC046130.1,ALG10	already scored TopHat-Fusion,sim_heart|CD300A--ALG10B as TP	.
+TP	sim_heart	TopHat-Fusion	TECTA--C9ORF16	31	65	TECTA	C9orf16	first encounter of TP TopHat-Fusion,sim_heart|TECTA--C9ORF16	sim_heart|TECTA--C9ORF16
+TP	sim_heart	TopHat-Fusion	PFKFB3--PAPOLA	39	54	PFKFB3,RN7SKP78,RP11-414H17.5,MIR3155A	PAPOLA,RP11-872J21.3	first encounter of TP TopHat-Fusion,sim_heart|PFKFB3--PAPOLA	sim_heart|PFKFB3--PAPOLA
+FP	sim_heart	TopHat-Fusion	RP11-14J7.6--C2ORF80	34	59	RNASE12,RNASE11,RP11-14J7.6	C2orf80	first encounter of FP fusion TopHat-Fusion,sim_heart|RP11-14J7.6--C2ORF80	.
+FP	sim_heart	TopHat-Fusion	RFX4--CYTH4	92	0	RP11-144F15.1,RP11-482D24.2,RP11-482D24.3,RFX4	CYTH4	first encounter of FP fusion TopHat-Fusion,sim_heart|RFX4--CYTH4	.
+TP	sim_heart	TopHat-Fusion	APOL5--JAZF1	30	62	APOL5	RN7SL365P,TAX1BP1,JAZF1,RNU6-979P,JAZF1-AS1	first encounter of TP TopHat-Fusion,sim_heart|APOL5--JAZF1	sim_heart|APOL5--JAZF1
+TP	sim_heart	TopHat-Fusion	TMEM132E--TRAV3	35	56	TMEM132E	TRAV3	first encounter of TP TopHat-Fusion,sim_heart|TMEM132E--TRAV3	sim_heart|TMEM132E--TRAV3
+TP	sim_heart	TopHat-Fusion	CFL2--NDUFAF7	35	56	CFL2	CEBPZ,PRKD3,NDUFAF7	first encounter of TP TopHat-Fusion,sim_heart|CFL2--NDUFAF7	sim_heart|CFL2--NDUFAF7
+TP	sim_heart	TopHat-Fusion	ZNF12--MKI67IP	35	54	AC073343.13,ZNF12,AC073343.2	AC018737.1,MKI67IP	first encounter of TP TopHat-Fusion,sim_heart|ZNF12--MKI67IP	sim_heart|ZNF12--MKI67IP
+TP	sim_heart	TopHat-Fusion	C2ORF43--RNF182	45	43	C2orf43	RNF182,MRPL35P1	first encounter of TP TopHat-Fusion,sim_heart|C2ORF43--RNF182	sim_heart|C2ORF43--RNF182
+TP	sim_heart	TopHat-Fusion	TBC1D3H--MCM10	16	70	RNU6-1192P,CCL3L1,TBC1D3H,CCL4L2,CTB-91J4.3,TBC1D3C,TBC1D3G	MCM10	first encounter of TP TopHat-Fusion,sim_heart|CCL3L1--MCM10	sim_heart|CCL3L1--MCM10
+NA-TP	sim_heart	TopHat-Fusion	CCL3L3--MCM10	16	70	CCL3L1,AC131056.3,TBC1D3H,CCL3L3,TBC1D3C	MCM10	already scored TopHat-Fusion,sim_heart|CCL3L1--MCM10 as TP	.
+TP	sim_heart	TopHat-Fusion	ADAMTS12--NOXA1	42	41	RNU6-923P,ADAMTS12	ENTPD8,NOXA1	first encounter of TP TopHat-Fusion,sim_heart|ADAMTS12--NOXA1	sim_heart|ADAMTS12--NOXA1
+TP	sim_heart	TopHat-Fusion	EXOSC2--AGTPBP1	38	39	EXOSC2	AGTPBP1	first encounter of TP TopHat-Fusion,sim_heart|EXOSC2--AGTPBP1	sim_heart|EXOSC2--AGTPBP1
+TP	sim_heart	TopHat-Fusion	TET1--POLR1A	29	48	TET1,COX20P1,RP11-119F7.3	POLR1A	first encounter of TP TopHat-Fusion,sim_heart|TET1--POLR1A	sim_heart|TET1--POLR1A
+TP	sim_heart	TopHat-Fusion	RPSA--UNC93A	34	41	SNORA6,RP11-255H23.3,RPSAP58,RP11-255H23.2,RPSA,RP11-255H23.4,SNORA62	UNC93A	first encounter of TP TopHat-Fusion,sim_heart|RPSA--UNC93A	sim_heart|RPSA--UNC93A
+TP	sim_heart	TopHat-Fusion	AREL1--COL4A5	23	51	RP11-173A8.2,AC007956.1,AREL1,SNORA7	COL4A5	first encounter of TP TopHat-Fusion,sim_heart|AC007956.1--COL4A5	sim_heart|AC007956.1--COL4A5
+TP	sim_heart	TopHat-Fusion	FGD3--KLRB1	30	43	FGD3	KLRB1	first encounter of TP TopHat-Fusion,sim_heart|FGD3--KLRB1	sim_heart|FGD3--KLRB1
+TP	sim_heart	TopHat-Fusion	CARD10--CYP2A7	34	38	MFNG,CARD10	CYP2G1P,CTC-490E21.13,CYP2A7P1,CYP2B7P1,AC092071.1,CYP2B6,CTC-490E21.12,CYP2A7	first encounter of TP TopHat-Fusion,sim_heart|CARD10--CYP2A7	sim_heart|CARD10--CYP2A7
+NA-TP	sim_heart	TopHat-Fusion	CARD10--CYP2A6	34	38	MFNG,CARD10	CYP2A6,CTC-490E21.12,CYP2A7	already scored TopHat-Fusion,sim_heart|CARD10--CYP2A7 as TP	.
+TP	sim_heart	TopHat-Fusion	LRBA--LHPP	27	41	MAB21L2,RP11-174F8.1,LRBA,ZBTB8OSP1,AC110813.1,RNA5SP168,RP11-1336O20.2	RPS10P18,RP11-12J10.3,LHPP	first encounter of TP TopHat-Fusion,sim_heart|LRBA--LHPP	sim_heart|LRBA--LHPP
+TP	sim_heart	TopHat-Fusion	FAM71B--ZNF382	25	42	ITK,FAM71B	ZNF382,ZNF529,CTD-3234P18.2	first encounter of TP TopHat-Fusion,sim_heart|FAM71B--ZNF382	sim_heart|FAM71B--ZNF382
+TP	sim_heart	TopHat-Fusion	KRT19--CUL7	18	47	KRT19	KLC4,CUL7	first encounter of TP TopHat-Fusion,sim_heart|KRT19--CUL7	sim_heart|KRT19--CUL7
+TP	sim_heart	TopHat-Fusion	EP400--ELOVL3	26	37	EP400,SNORA49,AC137590.1,RP13-820C6.2	ELOVL3	first encounter of TP TopHat-Fusion,sim_heart|EP400--ELOVL3	sim_heart|EP400--ELOVL3
+TP	sim_heart	TopHat-Fusion	WNT3--LRRC34	27	34	WNT3	RP11-362K14.7,RP11-362K14.6,LRRC34	first encounter of TP TopHat-Fusion,sim_heart|WNT3--LRRC34	sim_heart|WNT3--LRRC34
+TP	sim_heart	TopHat-Fusion	AKAP12--TMIGD2	25	33	RN7SKP268,AKAP12,RNY4P20,RNU6-1247P	TMIGD2	first encounter of TP TopHat-Fusion,sim_heart|AKAP12--TMIGD2	sim_heart|AKAP12--TMIGD2
+TP	sim_heart	TopHat-Fusion	ANTXR1--RPL31	28	30	RNU6-1216P,RNA5SP96,MIR3126,ANTXR1	AC016738.4,TBC1D8,RPL31	first encounter of TP TopHat-Fusion,sim_heart|ANTXR1--RPL31	sim_heart|ANTXR1--RPL31
+TP	sim_heart	TopHat-Fusion	PPARGC1B--DEFB121	20	36	MIR378A,PPARGC1B	DEFB121	first encounter of TP TopHat-Fusion,sim_heart|PPARGC1B--DEFB121	sim_heart|PPARGC1B--DEFB121
+TP	sim_heart	TopHat-Fusion	ZNF236--PGC	32	24	ZNF236,RPL26P35,RP11-162A12.3	PGC	first encounter of TP TopHat-Fusion,sim_heart|ZNF236--PGC	sim_heart|ZNF236--PGC
+TP	sim_heart	TopHat-Fusion	CHI3L1--NTRK2	29	27	CHI3L1	NTRK2	first encounter of TP TopHat-Fusion,sim_heart|CHI3L1--NTRK2	sim_heart|CHI3L1--NTRK2
+TP	sim_heart	TopHat-Fusion	CLPP--PPP1R14C	32	23	CTB-180A7.3,CLPP	PPP1R14C	first encounter of TP TopHat-Fusion,sim_heart|CLPP--PPP1R14C	sim_heart|CLPP--PPP1R14C
+TP	sim_heart	TopHat-Fusion	DPY19L1--PLCB4	22	30	DPY19L1,MIR548N	PLCB4	first encounter of TP TopHat-Fusion,sim_heart|DPY19L1--PLCB4	sim_heart|DPY19L1--PLCB4
+TP	sim_heart	TopHat-Fusion	DAB2--NUDT22	21	30	DAB2,C9	NUDT22,RP11-783K16.14,DNAJC4,TRPT1	first encounter of TP TopHat-Fusion,sim_heart|DAB2--NUDT22	sim_heart|DAB2--NUDT22
+TP	sim_heart	TopHat-Fusion	BCO2--NDUFAF1	23	28	AP002884.3,RP11-356J5.5,BCO2,MRPS36P4,SDHD,RPS12P21	NDUFAF1	first encounter of TP TopHat-Fusion,sim_heart|BCO2--NDUFAF1	sim_heart|BCO2--NDUFAF1
+FP	sim_heart	TopHat-Fusion	RP11-80A15.1--FBXL4	18	32	RP11-80A15.1,CMA1	FBXL4	first encounter of FP fusion TopHat-Fusion,sim_heart|RP11-80A15.1--FBXL4	.
+FP	sim_heart	TopHat-Fusion	PLCB4--AVL9	22	28	PLCB4	RP11-265E18.1,DPY19L1P1,FKBP9,KBTBD2,SNORA31,NT5C3A,RNU6-388P,ZNRF2P1,MIR550A2,RP11-225B17.2,RP9P,AC083863.5,AC074338.4,AVL9,DPY19L1P2,RP11-225B17.1	first encounter of FP fusion TopHat-Fusion,sim_heart|PLCB4--AVL9	.
+TP	sim_heart	TopHat-Fusion	SERINC4--NUDT2	28	21	MIR1282,AC018512.1,SERF2,HYPK,ELL3,PDIA3,SERINC4,RP11-296A16.1	NUDT2	first encounter of TP TopHat-Fusion,sim_heart|SERINC4--NUDT2	sim_heart|SERINC4--NUDT2
+FP	sim_heart	TopHat-Fusion	CTB-171A8.1--DEFB112	18	30	CEACAM16,CEACAM19,CTB-171A8.1,IGSF23,PVR	DEFB112	first encounter of FP fusion TopHat-Fusion,sim_heart|CTB-171A8.1--DEFB112	.
+TP	sim_heart	TopHat-Fusion	XRN2--KCNMB4	17	31	XRN2	KCNMB4	first encounter of TP TopHat-Fusion,sim_heart|XRN2--KCNMB4	sim_heart|XRN2--KCNMB4
+TP	sim_heart	TopHat-Fusion	ZFP30--ARPC1B	19	29	CTD-2528L19.4,ZFP30,ZNF540,ZNF781	PDAP1,ARPC1A,ARPC1B	first encounter of TP TopHat-Fusion,sim_heart|ZFP30--ARPC1B	sim_heart|ZFP30--ARPC1B
+TP	sim_heart	TopHat-Fusion	REEP4--CUZD1	22	25	REEP4	FAM24B,CUZD1	first encounter of TP TopHat-Fusion,sim_heart|REEP4--CUZD1	sim_heart|REEP4--CUZD1
+TP	sim_heart	TopHat-Fusion	G3BP1--PTCH2	16	31	ATOX1,G3BP1	PTCH2,RNU5E-6P	first encounter of TP TopHat-Fusion,sim_heart|G3BP1--PTCH2	sim_heart|G3BP1--PTCH2
+TP	sim_heart	TopHat-Fusion	SIRT5--TMEM14A	20	26	RP1-223E5.4,SIRT5	TMEM14A	first encounter of TP TopHat-Fusion,sim_heart|SIRT5--TMEM14A	sim_heart|SIRT5--TMEM14A
+TP	sim_heart	TopHat-Fusion	SCG5--GRP	18	27	SCG5,RP11-1000B6.2	GRP	first encounter of TP TopHat-Fusion,sim_heart|SCG5--GRP	sim_heart|SCG5--GRP
 TP	sim_heart	TopHat-Fusion	TRIM59--PAX9	22	22	RP11-227J5.3,RP11-432B6.3,TRIM59,RNU7-136P,SMC4	RP11-964E11.2,PAX9,SLC25A21	first encounter of TP TopHat-Fusion,sim_heart|TRIM59--PAX9	sim_heart|TRIM59--PAX9
-FP	sim_heart	TopHat-Fusion	TOM1--USP41	29	14	MIR3909,TOM1,RP3-510H16.3	FAM230A,USP41	first encounter of FP fusion TopHat-Fusion,sim_heart|TOM1--USP41	.
-TP	sim_heart	TopHat-Fusion	TNFSF13--ADH7	24	18	TNFSF13,TNFSF12,TNFSF12-TNFSF13	ADH7	first encounter of TP TopHat-Fusion,sim_heart|TNFSF12--ADH7	sim_heart|TNFSF12--ADH7
-TP	sim_heart	TopHat-Fusion	NCDN--ATP12A	24	18	NCDN,KIAA0319L	RPL26P34,ATP12A,RNY1P7	first encounter of TP TopHat-Fusion,sim_heart|NCDN--ATP12A	sim_heart|NCDN--ATP12A
-TP	sim_heart	TopHat-Fusion	TASP1--CPNE1	32	8	TASP1,GAPDHP2,ISM1	RBM12,RP1-309K20.6,RNU6-759P,CPNE1,RN7SKP271	first encounter of TP TopHat-Fusion,sim_heart|ISM1--CPNE1	sim_heart|ISM1--CPNE1
-TP	sim_heart	TopHat-Fusion	ZNF624--ZSCAN1	24	16	ZNF624	LETM1P2,HNRNPDLP4,ZSCAN1	first encounter of TP TopHat-Fusion,sim_heart|ZNF624--ZSCAN1	sim_heart|ZNF624--ZSCAN1
-TP	sim_heart	TopHat-Fusion	MUC16--AADACL2	27	13	MUC16	RP11-64D22.1,AADACL2,RP11-454C18.2	first encounter of TP TopHat-Fusion,sim_heart|MUC16--AADACL2	sim_heart|MUC16--AADACL2
-TP	sim_heart	TopHat-Fusion	PROK1--DUXA	23	17	RP11-470L19.5,PROK1	CTC-360J11.6,DUXA	first encounter of TP TopHat-Fusion,sim_heart|PROK1--DUXA	sim_heart|PROK1--DUXA
-TP	sim_heart	TopHat-Fusion	KHDRBS1--TOR1AIP2	22	16	KHDRBS1,RP11-277A4.4	TOR1AIP2,IFRG15	first encounter of TP TopHat-Fusion,sim_heart|KHDRBS1--TOR1AIP2	sim_heart|KHDRBS1--TOR1AIP2
-TP	sim_heart	TopHat-Fusion	PSMC4--DNAJC10	20	17	PSMC4	RPL31P15,DNAJC10	first encounter of TP TopHat-Fusion,sim_heart|PSMC4--DNAJC10	sim_heart|PSMC4--DNAJC10
-TP	sim_heart	TopHat-Fusion	ERBB4--TP73	21	15	ERBB4,MIR548F2,AC105921.5,MTND2P23,RNA5SP119	WRAP73,RP5-1092A11.2,TP73-AS1,TP73,RP5-1092A11.5	first encounter of TP TopHat-Fusion,sim_heart|ERBB4--TP73	sim_heart|ERBB4--TP73
-TP	sim_heart	TopHat-Fusion	PDE6C--GABRA1	22	14	PDE6C	GABRA1	first encounter of TP TopHat-Fusion,sim_heart|PDE6C--GABRA1	sim_heart|PDE6C--GABRA1
-TP	sim_heart	TopHat-Fusion	CD7--MYCL	18	17	CD7	MYCL,RP1-118J21.5	first encounter of TP TopHat-Fusion,sim_heart|CD7--MYCL	sim_heart|CD7--MYCL
-TP	sim_heart	TopHat-Fusion	SPATA2L--PAK7	21	14	SPATA2L,CDK10	RP5-986I17.2,PAK7	first encounter of TP TopHat-Fusion,sim_heart|SPATA2L--PAK7	sim_heart|SPATA2L--PAK7
-TP	sim_heart	TopHat-Fusion	SH3RF3--RLN3	24	10	MIR4266,SNRPGP9,MIR4265,SH3RF3	RLN3,CTB-55O6.4	first encounter of TP TopHat-Fusion,sim_heart|SH3RF3--RLN3	sim_heart|SH3RF3--RLN3
-FP	sim_heart	TopHat-Fusion	BMP6--BTNL3	22	12	BMP6,BLOC1S5-TXNDC5,TXNDC5	BTNL3	first encounter of FP fusion TopHat-Fusion,sim_heart|BMP6--BTNL3	.
-TP	sim_heart	TopHat-Fusion	BMP6--BTNL8	22	12	BMP6,BLOC1S5-TXNDC5,TXNDC5	BTNL8,RPS29P12	first encounter of TP TopHat-Fusion,sim_heart|BMP6--BTNL8	sim_heart|BMP6--BTNL8
-TP	sim_heart	TopHat-Fusion	TATDN3--NLGN4Y	16	15	TATDN3	AGKP1,NLGN4Y-AS1,NLGN4Y	first encounter of TP TopHat-Fusion,sim_heart|TATDN3--NLGN4Y	sim_heart|TATDN3--NLGN4Y
-TP	sim_heart	TopHat-Fusion	ZC3H7A--CTC-454I21.3	18	13	ZC3H7A	ZNF585B,CTC-454I21.3,ZNF585A,ZNF420,CTC-454I21.4	first encounter of TP TopHat-Fusion,sim_heart|ZC3H7A--ZNF585A	sim_heart|ZC3H7A--ZNF585A
-TP	sim_heart	TopHat-Fusion	CACNG1--BCL2L2-PABPN1	20	10	CACNG1	AL049829.1,BCL2L2,BCL2L2-PABPN1,PABPN1	first encounter of TP TopHat-Fusion,sim_heart|CACNG1--BCL2L2	sim_heart|CACNG1--BCL2L2
-TP	sim_heart	TopHat-Fusion	CBX3--ZSCAN20	19	11	CBX3,HNRNPA2B1	ZSCAN20	first encounter of TP TopHat-Fusion,sim_heart|CBX3--ZSCAN20	sim_heart|CBX3--ZSCAN20
-TP	sim_heart	TopHat-Fusion	RGL1--TXNL4B	12	18	APOBEC4,RGL1,ARHGAP9,RP11-293B7.1,GLI1,RP11-444D13.1	DHX38,HPR,RP11-384M15.3,TXNL4B,HP	first encounter of TP TopHat-Fusion,sim_heart|RGL1--TXNL4B	sim_heart|RGL1--TXNL4B
-TP	sim_heart	TopHat-Fusion	CYB5R4--IMPA1	10	20	CYB5R4	IMPA1	first encounter of TP TopHat-Fusion,sim_heart|CYB5R4--IMPA1	sim_heart|CYB5R4--IMPA1
-TP	sim_heart	TopHat-Fusion	RAB11FIP1--VTI1A	10	20	RAB11FIP1	RP11-25C19.3,VTI1A,MIR4295,RP11-214N15.5	first encounter of TP TopHat-Fusion,sim_heart|RAB11FIP1--VTI1A	sim_heart|RAB11FIP1--VTI1A
-TP	sim_heart	TopHat-Fusion	PEX6--TNFSF13B	20	9	GNMT,PEX6	TNFSF13B,RNA5SP39	first encounter of TP TopHat-Fusion,sim_heart|PEX6--TNFSF13B	sim_heart|PEX6--TNFSF13B
-TP	sim_heart	TopHat-Fusion	PCDH9--DMTN	8	18	PCDH9,PCDH9-AS3,PCDH9-AS4,PCDH9-AS1,RNU7-87P,PCDH9-AS2	DMTN	first encounter of TP TopHat-Fusion,sim_heart|PCDH9--DMTN	sim_heart|PCDH9--DMTN
-TP	sim_heart	TopHat-Fusion	GPLD1--STAU2	20	6	ALDH5A1,GPLD1,MRS2	RP11-181D18.4,VENTXP6,RP11-463D19.1,RP11-463D19.2,STAU2-AS1,STAU2,RP11-116B19.2	first encounter of TP TopHat-Fusion,sim_heart|GPLD1--STAU2	sim_heart|GPLD1--STAU2
-TP	sim_heart	TopHat-Fusion	HBG2--ACVRL1	11	14	UBQLN3,AC087380.14,OR51J1,OR51B8P,AC104389.32,OR52D1,HBE1,OR51B5,OR51AB1P,OR51A10P,AC015691.13,OR52B5P,OR51I2,OR52V1P,OR52B6,OR51B4,UBQLNL,OR51K1P,AC104389.31,OR51B6,AC104389.28,TRIM34,TRIM6-TRIM34,OR52H2P,HBG2,OR51Q1,HNRNPA1P53,TRIM6,OR51M1,OR51B2,OR51B3P,OR51I1,OR52H1,OR52T1P	ACVRL1	first encounter of TP TopHat-Fusion,sim_heart|HBG2--ACVRL1	sim_heart|HBG2--ACVRL1
-TP	sim_heart	TopHat-Fusion	SP1--RNASE13	18	6	SP1	NDRG2,RNASE13,TPPP2,RP11-998D10.1	first encounter of TP TopHat-Fusion,sim_heart|SP1--RNASE13	sim_heart|SP1--RNASE13
-TP	sim_heart	TopHat-Fusion	NR6A1--IGF1	13	11	RP11-164H5.1,MIR181A2HG,RP11-175D17.3,RN7SL302P,MIR181A2,MIR181B2,NR6A1	IGF1	first encounter of TP TopHat-Fusion,sim_heart|NR6A1--IGF1	sim_heart|NR6A1--IGF1
-TP	sim_heart	TopHat-Fusion	FHIT--BAG4	16	7	U3,NPCDR1,RP11-641C17.4,RP11-641C17.2,FHIT,RP11-641C17.1,RP11-641C17.3	RP11-90P5.1,BAG4,LSM1	first encounter of TP TopHat-Fusion,sim_heart|FHIT--BAG4	sim_heart|FHIT--BAG4
-TP	sim_heart	TopHat-Fusion	SLC25A30--RP11-106M3.2	14	9	SLC25A30-AS1,SLC25A30	RP11-106M3.3,CELF6,HEXA,RP11-106M3.2	first encounter of TP TopHat-Fusion,sim_heart|SLC25A30--CELF6	sim_heart|SLC25A30--CELF6
-TP	sim_heart	TopHat-Fusion	ABCG4--LGR6	14	9	ABCG4,AP002956.1	LGR6	first encounter of TP TopHat-Fusion,sim_heart|ABCG4--LGR6	sim_heart|ABCG4--LGR6
+FP	sim_heart	TopHat-Fusion	TOM1--USP41	14	29	MIR3909,TOM1,RP3-510H16.3	FAM230A,USP41	first encounter of FP fusion TopHat-Fusion,sim_heart|TOM1--USP41	.
+TP	sim_heart	TopHat-Fusion	TNFSF13--ADH7	18	24	TNFSF13,TNFSF12,TNFSF12-TNFSF13	ADH7	first encounter of TP TopHat-Fusion,sim_heart|TNFSF12--ADH7	sim_heart|TNFSF12--ADH7
+TP	sim_heart	TopHat-Fusion	NCDN--ATP12A	18	24	NCDN,KIAA0319L	RPL26P34,ATP12A,RNY1P7	first encounter of TP TopHat-Fusion,sim_heart|NCDN--ATP12A	sim_heart|NCDN--ATP12A
+TP	sim_heart	TopHat-Fusion	TASP1--CPNE1	8	32	TASP1,GAPDHP2,ISM1	RBM12,RP1-309K20.6,RNU6-759P,CPNE1,RN7SKP271	first encounter of TP TopHat-Fusion,sim_heart|ISM1--CPNE1	sim_heart|ISM1--CPNE1
+TP	sim_heart	TopHat-Fusion	ZNF624--ZSCAN1	16	24	ZNF624	LETM1P2,HNRNPDLP4,ZSCAN1	first encounter of TP TopHat-Fusion,sim_heart|ZNF624--ZSCAN1	sim_heart|ZNF624--ZSCAN1
+TP	sim_heart	TopHat-Fusion	MUC16--AADACL2	13	27	MUC16	RP11-64D22.1,AADACL2,RP11-454C18.2	first encounter of TP TopHat-Fusion,sim_heart|MUC16--AADACL2	sim_heart|MUC16--AADACL2
+TP	sim_heart	TopHat-Fusion	PROK1--DUXA	17	23	RP11-470L19.5,PROK1	CTC-360J11.6,DUXA	first encounter of TP TopHat-Fusion,sim_heart|PROK1--DUXA	sim_heart|PROK1--DUXA
+TP	sim_heart	TopHat-Fusion	KHDRBS1--TOR1AIP2	16	22	KHDRBS1,RP11-277A4.4	TOR1AIP2,IFRG15	first encounter of TP TopHat-Fusion,sim_heart|KHDRBS1--TOR1AIP2	sim_heart|KHDRBS1--TOR1AIP2
+TP	sim_heart	TopHat-Fusion	PSMC4--DNAJC10	17	20	PSMC4	RPL31P15,DNAJC10	first encounter of TP TopHat-Fusion,sim_heart|PSMC4--DNAJC10	sim_heart|PSMC4--DNAJC10
+TP	sim_heart	TopHat-Fusion	ERBB4--TP73	15	21	ERBB4,MIR548F2,AC105921.5,MTND2P23,RNA5SP119	WRAP73,RP5-1092A11.2,TP73-AS1,TP73,RP5-1092A11.5	first encounter of TP TopHat-Fusion,sim_heart|ERBB4--TP73	sim_heart|ERBB4--TP73
+TP	sim_heart	TopHat-Fusion	PDE6C--GABRA1	14	22	PDE6C	GABRA1	first encounter of TP TopHat-Fusion,sim_heart|PDE6C--GABRA1	sim_heart|PDE6C--GABRA1
+TP	sim_heart	TopHat-Fusion	CD7--MYCL	17	18	CD7	MYCL,RP1-118J21.5	first encounter of TP TopHat-Fusion,sim_heart|CD7--MYCL	sim_heart|CD7--MYCL
+TP	sim_heart	TopHat-Fusion	SPATA2L--PAK7	14	21	SPATA2L,CDK10	RP5-986I17.2,PAK7	first encounter of TP TopHat-Fusion,sim_heart|SPATA2L--PAK7	sim_heart|SPATA2L--PAK7
+TP	sim_heart	TopHat-Fusion	SH3RF3--RLN3	10	24	MIR4266,SNRPGP9,MIR4265,SH3RF3	RLN3,CTB-55O6.4	first encounter of TP TopHat-Fusion,sim_heart|SH3RF3--RLN3	sim_heart|SH3RF3--RLN3
+FP	sim_heart	TopHat-Fusion	BMP6--BTNL3	12	22	BMP6,BLOC1S5-TXNDC5,TXNDC5	BTNL3	first encounter of FP fusion TopHat-Fusion,sim_heart|BMP6--BTNL3	.
+TP	sim_heart	TopHat-Fusion	BMP6--BTNL8	12	22	BMP6,BLOC1S5-TXNDC5,TXNDC5	BTNL8,RPS29P12	first encounter of TP TopHat-Fusion,sim_heart|BMP6--BTNL8	sim_heart|BMP6--BTNL8
+TP	sim_heart	TopHat-Fusion	TATDN3--NLGN4Y	15	16	TATDN3	AGKP1,NLGN4Y-AS1,NLGN4Y	first encounter of TP TopHat-Fusion,sim_heart|TATDN3--NLGN4Y	sim_heart|TATDN3--NLGN4Y
+TP	sim_heart	TopHat-Fusion	ZC3H7A--CTC-454I21.3	13	18	ZC3H7A	ZNF585B,CTC-454I21.3,ZNF585A,ZNF420,CTC-454I21.4	first encounter of TP TopHat-Fusion,sim_heart|ZC3H7A--ZNF585A	sim_heart|ZC3H7A--ZNF585A
+TP	sim_heart	TopHat-Fusion	CACNG1--BCL2L2-PABPN1	10	20	CACNG1	AL049829.1,BCL2L2,BCL2L2-PABPN1,PABPN1	first encounter of TP TopHat-Fusion,sim_heart|CACNG1--BCL2L2	sim_heart|CACNG1--BCL2L2
+TP	sim_heart	TopHat-Fusion	CBX3--ZSCAN20	11	19	CBX3,HNRNPA2B1	ZSCAN20	first encounter of TP TopHat-Fusion,sim_heart|CBX3--ZSCAN20	sim_heart|CBX3--ZSCAN20
+TP	sim_heart	TopHat-Fusion	RGL1--TXNL4B	18	12	APOBEC4,RGL1,ARHGAP9,RP11-293B7.1,GLI1,RP11-444D13.1	DHX38,HPR,RP11-384M15.3,TXNL4B,HP	first encounter of TP TopHat-Fusion,sim_heart|RGL1--TXNL4B	sim_heart|RGL1--TXNL4B
+TP	sim_heart	TopHat-Fusion	CYB5R4--IMPA1	20	10	CYB5R4	IMPA1	first encounter of TP TopHat-Fusion,sim_heart|CYB5R4--IMPA1	sim_heart|CYB5R4--IMPA1
+TP	sim_heart	TopHat-Fusion	RAB11FIP1--VTI1A	20	10	RAB11FIP1	RP11-25C19.3,VTI1A,MIR4295,RP11-214N15.5	first encounter of TP TopHat-Fusion,sim_heart|RAB11FIP1--VTI1A	sim_heart|RAB11FIP1--VTI1A
+TP	sim_heart	TopHat-Fusion	PEX6--TNFSF13B	9	20	GNMT,PEX6	TNFSF13B,RNA5SP39	first encounter of TP TopHat-Fusion,sim_heart|PEX6--TNFSF13B	sim_heart|PEX6--TNFSF13B
+TP	sim_heart	TopHat-Fusion	PCDH9--DMTN	18	8	PCDH9,PCDH9-AS3,PCDH9-AS4,PCDH9-AS1,RNU7-87P,PCDH9-AS2	DMTN	first encounter of TP TopHat-Fusion,sim_heart|PCDH9--DMTN	sim_heart|PCDH9--DMTN
+TP	sim_heart	TopHat-Fusion	GPLD1--STAU2	6	20	ALDH5A1,GPLD1,MRS2	RP11-181D18.4,VENTXP6,RP11-463D19.1,RP11-463D19.2,STAU2-AS1,STAU2,RP11-116B19.2	first encounter of TP TopHat-Fusion,sim_heart|GPLD1--STAU2	sim_heart|GPLD1--STAU2
+TP	sim_heart	TopHat-Fusion	HBG2--ACVRL1	14	11	UBQLN3,AC087380.14,OR51J1,OR51B8P,AC104389.32,OR52D1,HBE1,OR51B5,OR51AB1P,OR51A10P,AC015691.13,OR52B5P,OR51I2,OR52V1P,OR52B6,OR51B4,UBQLNL,OR51K1P,AC104389.31,OR51B6,AC104389.28,TRIM34,TRIM6-TRIM34,OR52H2P,HBG2,OR51Q1,HNRNPA1P53,TRIM6,OR51M1,OR51B2,OR51B3P,OR51I1,OR52H1,OR52T1P	ACVRL1	first encounter of TP TopHat-Fusion,sim_heart|HBG2--ACVRL1	sim_heart|HBG2--ACVRL1
+TP	sim_heart	TopHat-Fusion	SP1--RNASE13	6	18	SP1	NDRG2,RNASE13,TPPP2,RP11-998D10.1	first encounter of TP TopHat-Fusion,sim_heart|SP1--RNASE13	sim_heart|SP1--RNASE13
+TP	sim_heart	TopHat-Fusion	NR6A1--IGF1	11	13	RP11-164H5.1,MIR181A2HG,RP11-175D17.3,RN7SL302P,MIR181A2,MIR181B2,NR6A1	IGF1	first encounter of TP TopHat-Fusion,sim_heart|NR6A1--IGF1	sim_heart|NR6A1--IGF1
+TP	sim_heart	TopHat-Fusion	FHIT--BAG4	7	16	U3,NPCDR1,RP11-641C17.4,RP11-641C17.2,FHIT,RP11-641C17.1,RP11-641C17.3	RP11-90P5.1,BAG4,LSM1	first encounter of TP TopHat-Fusion,sim_heart|FHIT--BAG4	sim_heart|FHIT--BAG4
+TP	sim_heart	TopHat-Fusion	SLC25A30--RP11-106M3.2	9	14	SLC25A30-AS1,SLC25A30	RP11-106M3.3,CELF6,HEXA,RP11-106M3.2	first encounter of TP TopHat-Fusion,sim_heart|SLC25A30--CELF6	sim_heart|SLC25A30--CELF6
+TP	sim_heart	TopHat-Fusion	ABCG4--LGR6	9	14	ABCG4,AP002956.1	LGR6	first encounter of TP TopHat-Fusion,sim_heart|ABCG4--LGR6	sim_heart|ABCG4--LGR6
 FP	sim_heart	TopHat-Fusion	CBX3P9--ZSCAN20	11	11	CBX3P9	ZSCAN20	first encounter of FP fusion TopHat-Fusion,sim_heart|CBX3P9--ZSCAN20	.
-TP	sim_heart	TopHat-Fusion	NUP155--SERPING1	9	13	RNU7-75P,NUP155	SERPING1	first encounter of TP TopHat-Fusion,sim_heart|NUP155--SERPING1	sim_heart|NUP155--SERPING1
-TP	sim_heart	TopHat-Fusion	DRAXIN--ZNF224	12	9	DRAXIN	AC084219.3,AC084219.4,ZNF224	first encounter of TP TopHat-Fusion,sim_heart|DRAXIN--ZNF224	sim_heart|DRAXIN--ZNF224
-TP	sim_heart	TopHat-Fusion	CATSPER2--KIAA1024	13	8	STRC,AC011330.5,AC011330.6,CATSPER2,RNU6-610P	KIAA1024	first encounter of TP TopHat-Fusion,sim_heart|CATSPER2--KIAA1024	sim_heart|CATSPER2--KIAA1024
-TP	sim_heart	TopHat-Fusion	PDAP1--TBKBP1	13	6	PDAP1,ARPC1B,BUD31	TBKBP1	first encounter of TP TopHat-Fusion,sim_heart|PDAP1--TBKBP1	sim_heart|PDAP1--TBKBP1
-TP	sim_heart	TopHat-Fusion	EQTN--CLLU1OS	9	10	EQTN	CLLU1,RP11-693J15.4,CLLU1OS	first encounter of TP TopHat-Fusion,sim_heart|EQTN--CLLU1OS	sim_heart|EQTN--CLLU1OS
-TP	sim_heart	TopHat-Fusion	ANO10--C1ORF220	9	10	ABHD5,RP11-353H3.1,SNRK,ANO10	C1ORF220,C1orf220,TEX35	first encounter of TP TopHat-Fusion,sim_heart|ANO10--C1ORF220	sim_heart|ANO10--C1ORF220
-TP	sim_heart	TopHat-Fusion	MED14--BRSK1	11	8	MED14,MED14-AS1	CTD-2105E13.14,BRSK1	first encounter of TP TopHat-Fusion,sim_heart|MED14--BRSK1	sim_heart|MED14--BRSK1
-TP	sim_heart	TopHat-Fusion	RP11-67A1.2--COL25A1	13	6	NFATC3,DUS2,RP11-67A1.2	COL25A1	first encounter of TP TopHat-Fusion,sim_heart|DUS2--COL25A1	sim_heart|DUS2--COL25A1
-TP	sim_heart	TopHat-Fusion	COQ10B--UBE2N	0	18	COQ10B	UBE2N	first encounter of TP TopHat-Fusion,sim_heart|COQ10B--UBE2N	sim_heart|COQ10B--UBE2N
-TP	sim_heart	TopHat-Fusion	ZNF69--BLK	0	18	ZNF69	RP11-148O21.6,RP11-148O21.2,RP11-148O21.3,BLK,RP11-148O21.4	first encounter of TP TopHat-Fusion,sim_heart|ZNF69--BLK	sim_heart|ZNF69--BLK
-TP	sim_heart	TopHat-Fusion	LIPM--MLXIPL	11	7	LIPM	MLXIPL	first encounter of TP TopHat-Fusion,sim_heart|LIPM--MLXIPL	sim_heart|LIPM--MLXIPL
-FP	sim_heart	TopHat-Fusion	EDEM2--NECAB1	10	8	RNA5SP483,EDEM2,SNORD56,MT1P3,RP4-614O4.12,RP4-614O4.11,PROCR,MMP24-AS1,AL121753.1,MMP24	RP11-122A3.2,TMEM64,NECAB1,RP11-662G23.1	first encounter of FP fusion TopHat-Fusion,sim_heart|EDEM2--NECAB1	.
-TP	sim_heart	TopHat-Fusion	MAN1A2--GPR26	13	5	MAN1A2	GPR26	first encounter of TP TopHat-Fusion,sim_heart|MAN1A2--GPR26	sim_heart|MAN1A2--GPR26
-TP	sim_heart	TopHat-Fusion	SEC14L6--INPP5E	5	13	SEC14L6,SIRPAP1	INPP5E	first encounter of TP TopHat-Fusion,sim_heart|SEC14L6--INPP5E	sim_heart|SEC14L6--INPP5E
-TP	sim_heart	TopHat-Fusion	CCDC125--EEA1	12	6	CCDC125,CFL1P5	PLEKHG7,HNRNPA1P50,EEA1,RP11-603K19.1	first encounter of TP TopHat-Fusion,sim_heart|CCDC125--EEA1	sim_heart|CCDC125--EEA1
-TP	sim_heart	TopHat-Fusion	SLTM--SMEK1	15	3	SLTM,RNF111,AC025918.2	SMEK1	first encounter of TP TopHat-Fusion,sim_heart|SLTM--SMEK1	sim_heart|SLTM--SMEK1
-TP	sim_heart	TopHat-Fusion	PCSK1--AC131097.4	7	11	PCSK1,CTD-2337A12.1	AC131097.4,AC131097.3	first encounter of TP TopHat-Fusion,sim_heart|PCSK1--AC131097.4	sim_heart|PCSK1--AC131097.4
-TP	sim_heart	TopHat-Fusion	NFKBID--ZNF3	6	10	NFKBID	ZNF3,ZSCAN21	first encounter of TP TopHat-Fusion,sim_heart|NFKBID--ZNF3	sim_heart|NFKBID--ZNF3
+TP	sim_heart	TopHat-Fusion	NUP155--SERPING1	13	9	RNU7-75P,NUP155	SERPING1	first encounter of TP TopHat-Fusion,sim_heart|NUP155--SERPING1	sim_heart|NUP155--SERPING1
+TP	sim_heart	TopHat-Fusion	DRAXIN--ZNF224	9	12	DRAXIN	AC084219.3,AC084219.4,ZNF224	first encounter of TP TopHat-Fusion,sim_heart|DRAXIN--ZNF224	sim_heart|DRAXIN--ZNF224
+TP	sim_heart	TopHat-Fusion	CATSPER2--KIAA1024	8	13	STRC,AC011330.5,AC011330.6,CATSPER2,RNU6-610P	KIAA1024	first encounter of TP TopHat-Fusion,sim_heart|CATSPER2--KIAA1024	sim_heart|CATSPER2--KIAA1024
+TP	sim_heart	TopHat-Fusion	PDAP1--TBKBP1	6	13	PDAP1,ARPC1B,BUD31	TBKBP1	first encounter of TP TopHat-Fusion,sim_heart|PDAP1--TBKBP1	sim_heart|PDAP1--TBKBP1
+TP	sim_heart	TopHat-Fusion	EQTN--CLLU1OS	10	9	EQTN	CLLU1,RP11-693J15.4,CLLU1OS	first encounter of TP TopHat-Fusion,sim_heart|EQTN--CLLU1OS	sim_heart|EQTN--CLLU1OS
+TP	sim_heart	TopHat-Fusion	ANO10--C1ORF220	10	9	ABHD5,RP11-353H3.1,SNRK,ANO10	C1ORF220,C1orf220,TEX35	first encounter of TP TopHat-Fusion,sim_heart|ANO10--C1ORF220	sim_heart|ANO10--C1ORF220
+TP	sim_heart	TopHat-Fusion	MED14--BRSK1	8	11	MED14,MED14-AS1	CTD-2105E13.14,BRSK1	first encounter of TP TopHat-Fusion,sim_heart|MED14--BRSK1	sim_heart|MED14--BRSK1
+TP	sim_heart	TopHat-Fusion	RP11-67A1.2--COL25A1	6	13	NFATC3,DUS2,RP11-67A1.2	COL25A1	first encounter of TP TopHat-Fusion,sim_heart|DUS2--COL25A1	sim_heart|DUS2--COL25A1
+TP	sim_heart	TopHat-Fusion	COQ10B--UBE2N	18	0	COQ10B	UBE2N	first encounter of TP TopHat-Fusion,sim_heart|COQ10B--UBE2N	sim_heart|COQ10B--UBE2N
+TP	sim_heart	TopHat-Fusion	ZNF69--BLK	18	0	ZNF69	RP11-148O21.6,RP11-148O21.2,RP11-148O21.3,BLK,RP11-148O21.4	first encounter of TP TopHat-Fusion,sim_heart|ZNF69--BLK	sim_heart|ZNF69--BLK
+TP	sim_heart	TopHat-Fusion	LIPM--MLXIPL	7	11	LIPM	MLXIPL	first encounter of TP TopHat-Fusion,sim_heart|LIPM--MLXIPL	sim_heart|LIPM--MLXIPL
+FP	sim_heart	TopHat-Fusion	EDEM2--NECAB1	8	10	RNA5SP483,EDEM2,SNORD56,MT1P3,RP4-614O4.12,RP4-614O4.11,PROCR,MMP24-AS1,AL121753.1,MMP24	RP11-122A3.2,TMEM64,NECAB1,RP11-662G23.1	first encounter of FP fusion TopHat-Fusion,sim_heart|EDEM2--NECAB1	.
+TP	sim_heart	TopHat-Fusion	MAN1A2--GPR26	5	13	MAN1A2	GPR26	first encounter of TP TopHat-Fusion,sim_heart|MAN1A2--GPR26	sim_heart|MAN1A2--GPR26
+TP	sim_heart	TopHat-Fusion	SEC14L6--INPP5E	13	5	SEC14L6,SIRPAP1	INPP5E	first encounter of TP TopHat-Fusion,sim_heart|SEC14L6--INPP5E	sim_heart|SEC14L6--INPP5E
+TP	sim_heart	TopHat-Fusion	CCDC125--EEA1	6	12	CCDC125,CFL1P5	PLEKHG7,HNRNPA1P50,EEA1,RP11-603K19.1	first encounter of TP TopHat-Fusion,sim_heart|CCDC125--EEA1	sim_heart|CCDC125--EEA1
+TP	sim_heart	TopHat-Fusion	SLTM--SMEK1	3	15	SLTM,RNF111,AC025918.2	SMEK1	first encounter of TP TopHat-Fusion,sim_heart|SLTM--SMEK1	sim_heart|SLTM--SMEK1
+TP	sim_heart	TopHat-Fusion	PCSK1--AC131097.4	11	7	PCSK1,CTD-2337A12.1	AC131097.4,AC131097.3	first encounter of TP TopHat-Fusion,sim_heart|PCSK1--AC131097.4	sim_heart|PCSK1--AC131097.4
+TP	sim_heart	TopHat-Fusion	NFKBID--ZNF3	10	6	NFKBID	ZNF3,ZSCAN21	first encounter of TP TopHat-Fusion,sim_heart|NFKBID--ZNF3	sim_heart|NFKBID--ZNF3
 NA-TP	sim_heart	TopHat-Fusion	C6ORF132--ZNF33B	8	8	C6orf132	RNU6-1170P,AL022345.9,AL022345.7,AL022345.8,RNU6-795P,ZNF33A,ZNF33B	already scored TopHat-Fusion,sim_heart|C6ORF132--ZNF33A as TP	.
-TP	sim_heart	TopHat-Fusion	CCL22--CCDC74A	11	4	CCL22	CCDC74A	first encounter of TP TopHat-Fusion,sim_heart|CCL22--CCDC74A	sim_heart|CCL22--CCDC74A
-TP	sim_heart	TopHat-Fusion	C1ORF94--APOL1	9	6	C1orf94,AC115286.1	APOL1	first encounter of TP TopHat-Fusion,sim_heart|C1ORF94--APOL1	sim_heart|C1ORF94--APOL1
-TP	sim_heart	TopHat-Fusion	KCNQ5--BAZ1B	11	3	KCNQ5-IT1,MIR4282,KNOP1P4,KCNQ5,PGAM1P10,RP11-257K9.3,KCNQ5-AS1	RNU6-1198P,BAZ1B	first encounter of TP TopHat-Fusion,sim_heart|KCNQ5--BAZ1B	sim_heart|KCNQ5--BAZ1B
-FP	sim_heart	TopHat-Fusion	SEC14L4--INPP5E	1	13	SEC14L4,RP4-539M6.14	INPP5E	first encounter of FP fusion TopHat-Fusion,sim_heart|SEC14L4--INPP5E	.
-TP	sim_heart	TopHat-Fusion	CALU--TMEM194A	5	9	CALU,RN7SL81P	TMEM194A	first encounter of TP TopHat-Fusion,sim_heart|CALU--TMEM194A	sim_heart|CALU--TMEM194A
-TP	sim_heart	TopHat-Fusion	FAXC--FAM161A	6	8	FAXC	FAM161A	first encounter of TP TopHat-Fusion,sim_heart|FAXC--FAM161A	sim_heart|FAXC--FAM161A
-TP	sim_heart	TopHat-Fusion	FDXR--TPRG1L	9	5	FDXR	TPRG1L	first encounter of TP TopHat-Fusion,sim_heart|FDXR--TPRG1L	sim_heart|FDXR--TPRG1L
-TP	sim_heart	TopHat-Fusion	TOM1--USP18	0	13	MIR3909,TOM1,RP3-510H16.3	AC008079.9,USP18	first encounter of TP TopHat-Fusion,sim_heart|TOM1--USP18	sim_heart|TOM1--USP18
-FP	sim_heart	TopHat-Fusion	CTD-2533K21.2--CDC5L	4	9	CTD-2533K21.2,CTD-2533K21.3	CDC5L,AL133262.1,MIR4642	first encounter of FP fusion TopHat-Fusion,sim_heart|CTD-2533K21.2--CDC5L	.
-TP	sim_heart	TopHat-Fusion	OTOP2--LCT	5	8	OTOP2	AC011893.3,LCT	first encounter of TP TopHat-Fusion,sim_heart|OTOP2--LCT	sim_heart|OTOP2--LCT
-TP	sim_heart	TopHat-Fusion	MTIF2--TBX21	9	4	MTIF2	TBX21	first encounter of TP TopHat-Fusion,sim_heart|MTIF2--TBX21	sim_heart|MTIF2--TBX21
-TP	sim_heart	TopHat-Fusion	ZNF318--TPMT	7	5	CRIP3,RP11-480N24.4,ZNF318,RPS2P28,RP11-213N20.1,RP11-480N24.3	TPMT	first encounter of TP TopHat-Fusion,sim_heart|ZNF318--TPMT	sim_heart|ZNF318--TPMT
+TP	sim_heart	TopHat-Fusion	CCL22--CCDC74A	4	11	CCL22	CCDC74A	first encounter of TP TopHat-Fusion,sim_heart|CCL22--CCDC74A	sim_heart|CCL22--CCDC74A
+TP	sim_heart	TopHat-Fusion	C1ORF94--APOL1	6	9	C1orf94,AC115286.1	APOL1	first encounter of TP TopHat-Fusion,sim_heart|C1ORF94--APOL1	sim_heart|C1ORF94--APOL1
+TP	sim_heart	TopHat-Fusion	KCNQ5--BAZ1B	3	11	KCNQ5-IT1,MIR4282,KNOP1P4,KCNQ5,PGAM1P10,RP11-257K9.3,KCNQ5-AS1	RNU6-1198P,BAZ1B	first encounter of TP TopHat-Fusion,sim_heart|KCNQ5--BAZ1B	sim_heart|KCNQ5--BAZ1B
+FP	sim_heart	TopHat-Fusion	SEC14L4--INPP5E	13	1	SEC14L4,RP4-539M6.14	INPP5E	first encounter of FP fusion TopHat-Fusion,sim_heart|SEC14L4--INPP5E	.
+TP	sim_heart	TopHat-Fusion	CALU--TMEM194A	9	5	CALU,RN7SL81P	TMEM194A	first encounter of TP TopHat-Fusion,sim_heart|CALU--TMEM194A	sim_heart|CALU--TMEM194A
+TP	sim_heart	TopHat-Fusion	FAXC--FAM161A	8	6	FAXC	FAM161A	first encounter of TP TopHat-Fusion,sim_heart|FAXC--FAM161A	sim_heart|FAXC--FAM161A
+TP	sim_heart	TopHat-Fusion	FDXR--TPRG1L	5	9	FDXR	TPRG1L	first encounter of TP TopHat-Fusion,sim_heart|FDXR--TPRG1L	sim_heart|FDXR--TPRG1L
+TP	sim_heart	TopHat-Fusion	TOM1--USP18	13	0	MIR3909,TOM1,RP3-510H16.3	AC008079.9,USP18	first encounter of TP TopHat-Fusion,sim_heart|TOM1--USP18	sim_heart|TOM1--USP18
+FP	sim_heart	TopHat-Fusion	CTD-2533K21.2--CDC5L	9	4	CTD-2533K21.2,CTD-2533K21.3	CDC5L,AL133262.1,MIR4642	first encounter of FP fusion TopHat-Fusion,sim_heart|CTD-2533K21.2--CDC5L	.
+TP	sim_heart	TopHat-Fusion	OTOP2--LCT	8	5	OTOP2	AC011893.3,LCT	first encounter of TP TopHat-Fusion,sim_heart|OTOP2--LCT	sim_heart|OTOP2--LCT
+TP	sim_heart	TopHat-Fusion	MTIF2--TBX21	4	9	MTIF2	TBX21	first encounter of TP TopHat-Fusion,sim_heart|MTIF2--TBX21	sim_heart|MTIF2--TBX21
+TP	sim_heart	TopHat-Fusion	ZNF318--TPMT	5	7	CRIP3,RP11-480N24.4,ZNF318,RPS2P28,RP11-213N20.1,RP11-480N24.3	TPMT	first encounter of TP TopHat-Fusion,sim_heart|ZNF318--TPMT	sim_heart|ZNF318--TPMT
 TP	sim_heart	TopHat-Fusion	MTTP--LZTS1	6	6	TRMT10A,RP11-766F14.1,MTTP	LZTS1,LZTS1-AS1	first encounter of TP TopHat-Fusion,sim_heart|MTTP--LZTS1	sim_heart|MTTP--LZTS1
-TP	sim_heart	TopHat-Fusion	ZFYVE9--DYX1C1-CCPG1	7	5	RN7SL788P,RP4-800M22.2,DNAJC19P7,RP4-800M22.4,RP4-800M22.1,PDCL3P6,ANAPC10P1,ZFYVE9,CC2D1B	CCPG1,MIR628,RP11-178D12.2,C15orf65,DYX1C1,DYX1C1-CCPG1,PIGB	first encounter of TP TopHat-Fusion,sim_heart|ZFYVE9--CCPG1	sim_heart|ZFYVE9--CCPG1
-TP	sim_heart	TopHat-Fusion	GSTT2B--LGALS2	0	10	GSTT2B	LGALS2	first encounter of TP TopHat-Fusion,sim_heart|GSTT2B--LGALS2	sim_heart|GSTT2B--LGALS2
-TP	sim_heart	TopHat-Fusion	ZNF620--RHOXF2	9	1	ZNF620	NKAPP1,RHOXF2,RHOXF2B,RP4-755D9.1	first encounter of TP TopHat-Fusion,sim_heart|ZNF620--RHOXF2	sim_heart|ZNF620--RHOXF2
-FP	sim_heart	TopHat-Fusion	ZNF620--RP4-755D9.1	9	1	ZNF620	GS1-421I3.4,NKAPP1,RHOXF1,RHOXF2B,RP4-755D9.1	first encounter of FP fusion TopHat-Fusion,sim_heart|ZNF620--RP4-755D9.1	.
+TP	sim_heart	TopHat-Fusion	ZFYVE9--DYX1C1-CCPG1	5	7	RN7SL788P,RP4-800M22.2,DNAJC19P7,RP4-800M22.4,RP4-800M22.1,PDCL3P6,ANAPC10P1,ZFYVE9,CC2D1B	CCPG1,MIR628,RP11-178D12.2,C15orf65,DYX1C1,DYX1C1-CCPG1,PIGB	first encounter of TP TopHat-Fusion,sim_heart|ZFYVE9--CCPG1	sim_heart|ZFYVE9--CCPG1
+TP	sim_heart	TopHat-Fusion	GSTT2B--LGALS2	10	0	GSTT2B	LGALS2	first encounter of TP TopHat-Fusion,sim_heart|GSTT2B--LGALS2	sim_heart|GSTT2B--LGALS2
+TP	sim_heart	TopHat-Fusion	ZNF620--RHOXF2	1	9	ZNF620	NKAPP1,RHOXF2,RHOXF2B,RP4-755D9.1	first encounter of TP TopHat-Fusion,sim_heart|ZNF620--RHOXF2	sim_heart|ZNF620--RHOXF2
+FP	sim_heart	TopHat-Fusion	ZNF620--RP4-755D9.1	1	9	ZNF620	GS1-421I3.4,NKAPP1,RHOXF1,RHOXF2B,RP4-755D9.1	first encounter of FP fusion TopHat-Fusion,sim_heart|ZNF620--RP4-755D9.1	.
 TP	sim_heart	TopHat-Fusion	QKI--UNC5A	5	5	QKI	UNC5A,HK3	first encounter of TP TopHat-Fusion,sim_heart|QKI--UNC5A	sim_heart|QKI--UNC5A
-TP	sim_heart	TopHat-Fusion	LEPROTL1--MGAT4C	6	4	RP11-51J9.5,RPS15AP24,RP11-51J9.4,MBOAT4,DCTN6,LEPROTL1	MGAT4C,RP11-202H2.1,AC010196.1,RP11-18J9.3,RP11-812D23.1	first encounter of TP TopHat-Fusion,sim_heart|LEPROTL1--MGAT4C	sim_heart|LEPROTL1--MGAT4C
-TP	sim_heart	TopHat-Fusion	SLC3A2--DNAJB12	6	4	SLC3A2	DNAJB12	first encounter of TP TopHat-Fusion,sim_heart|SLC3A2--DNAJB12	sim_heart|SLC3A2--DNAJB12
-TP	sim_heart	TopHat-Fusion	CD79A--AP1S3	7	3	CD79A	AP1S3	first encounter of TP TopHat-Fusion,sim_heart|CD79A--AP1S3	sim_heart|CD79A--AP1S3
-TP	sim_heart	TopHat-Fusion	DENND5A--FTSJ2	6	3	DENND5A,RP11-5L12.1	FTSJ2	first encounter of TP TopHat-Fusion,sim_heart|DENND5A--FTSJ2	sim_heart|DENND5A--FTSJ2
-TP	sim_heart	TopHat-Fusion	SPATA22--HS3ST3A1	5	4	ASPA,SPATA22,TRPV3	HS3ST3A1,AC005375.1,MIR548H3	first encounter of TP TopHat-Fusion,sim_heart|SPATA22--HS3ST3A1	sim_heart|SPATA22--HS3ST3A1
-TP	sim_heart	TopHat-Fusion	SACM1L--NUDT15	3	6	LIMD1-AS1,SACM1L,RN7SL145P	NUDT15,SUCLA2	first encounter of TP TopHat-Fusion,sim_heart|SACM1L--NUDT15	sim_heart|SACM1L--NUDT15
-TP	sim_heart	TopHat-Fusion	EMILIN1--NDC80	5	4	EMILIN1	NDC80,KATNBL1P3	first encounter of TP TopHat-Fusion,sim_heart|EMILIN1--NDC80	sim_heart|EMILIN1--NDC80
-TP	sim_heart	TopHat-Fusion	MTA3--TEX26	4	5	AC074375.1,MTA3,RNU6-137P,AC025750.7	TEX26,RP11-252M21.6,TEX26-AS1	first encounter of TP TopHat-Fusion,sim_heart|MTA3--TEX26	sim_heart|MTA3--TEX26
-TP	sim_heart	TopHat-Fusion	NFIA--PACSIN1	8	1	RP4-802A10.1,RP5-833A20.1,NFIA,AC096534.1,RP4-668G5.1	BX255972.1,PACSIN1	first encounter of TP TopHat-Fusion,sim_heart|NFIA--PACSIN1	sim_heart|NFIA--PACSIN1
-TP	sim_heart	TopHat-Fusion	CHST9--MSANTD1	7	2	RP11-526I8.2,AQP4-AS1,CHST9	MSANTD1	first encounter of TP TopHat-Fusion,sim_heart|CHST9--MSANTD1	sim_heart|CHST9--MSANTD1
-TP	sim_heart	TopHat-Fusion	SLC7A3--RCOR2	5	4	SLC7A3	RCOR2	first encounter of TP TopHat-Fusion,sim_heart|SLC7A3--RCOR2	sim_heart|SLC7A3--RCOR2
-FP	sim_heart	TopHat-Fusion	ZCCHC17--ART3	5	4	RP11-266K22.2,ZCCHC17	CXCL10,RP11-630D6.1,ART3,CXCL11,AC112719.1	first encounter of FP fusion TopHat-Fusion,sim_heart|ZCCHC17--ART3	.
-TP	sim_heart	TopHat-Fusion	PYCARD--LSM11	5	4	C16orf98,PYCARD	LSM11,CTC-370J7.1	first encounter of TP TopHat-Fusion,sim_heart|PYCARD--LSM11	sim_heart|PYCARD--LSM11
-FP	sim_heart	TopHat-Fusion	ZNF20--BLK	0	8	ZNF625-ZNF20,ZNF20,CTC-359D24.3,ZNF625,RNA5SP467,ZNF788,RSL24D1P8	RP11-148O21.6,RP11-148O21.2,RP11-148O21.3,BLK,RP11-148O21.4	first encounter of FP fusion TopHat-Fusion,sim_heart|ZNF20--BLK	.
-FP	sim_heart	TopHat-Fusion	PTTG2--WASF1	2	6	TBC1D1,PTTG2,AC021106.1	WASF1	first encounter of FP fusion TopHat-Fusion,sim_heart|PTTG2--WASF1	.
-TP	sim_heart	TopHat-Fusion	TOR3A--FABP4	3	5	TOR3A	RP11-157I4.4,FABP4	first encounter of TP TopHat-Fusion,sim_heart|TOR3A--FABP4	sim_heart|TOR3A--FABP4
-TP	sim_heart	TopHat-Fusion	TLR7--WDR38	5	3	TLR7	WDR38,RPL35	first encounter of TP TopHat-Fusion,sim_heart|TLR7--WDR38	sim_heart|TLR7--WDR38
+TP	sim_heart	TopHat-Fusion	LEPROTL1--MGAT4C	4	6	RP11-51J9.5,RPS15AP24,RP11-51J9.4,MBOAT4,DCTN6,LEPROTL1	MGAT4C,RP11-202H2.1,AC010196.1,RP11-18J9.3,RP11-812D23.1	first encounter of TP TopHat-Fusion,sim_heart|LEPROTL1--MGAT4C	sim_heart|LEPROTL1--MGAT4C
+TP	sim_heart	TopHat-Fusion	SLC3A2--DNAJB12	4	6	SLC3A2	DNAJB12	first encounter of TP TopHat-Fusion,sim_heart|SLC3A2--DNAJB12	sim_heart|SLC3A2--DNAJB12
+TP	sim_heart	TopHat-Fusion	CD79A--AP1S3	3	7	CD79A	AP1S3	first encounter of TP TopHat-Fusion,sim_heart|CD79A--AP1S3	sim_heart|CD79A--AP1S3
+TP	sim_heart	TopHat-Fusion	DENND5A--FTSJ2	3	6	DENND5A,RP11-5L12.1	FTSJ2	first encounter of TP TopHat-Fusion,sim_heart|DENND5A--FTSJ2	sim_heart|DENND5A--FTSJ2
+TP	sim_heart	TopHat-Fusion	SPATA22--HS3ST3A1	4	5	ASPA,SPATA22,TRPV3	HS3ST3A1,AC005375.1,MIR548H3	first encounter of TP TopHat-Fusion,sim_heart|SPATA22--HS3ST3A1	sim_heart|SPATA22--HS3ST3A1
+TP	sim_heart	TopHat-Fusion	SACM1L--NUDT15	6	3	LIMD1-AS1,SACM1L,RN7SL145P	NUDT15,SUCLA2	first encounter of TP TopHat-Fusion,sim_heart|SACM1L--NUDT15	sim_heart|SACM1L--NUDT15
+TP	sim_heart	TopHat-Fusion	EMILIN1--NDC80	4	5	EMILIN1	NDC80,KATNBL1P3	first encounter of TP TopHat-Fusion,sim_heart|EMILIN1--NDC80	sim_heart|EMILIN1--NDC80
+TP	sim_heart	TopHat-Fusion	MTA3--TEX26	5	4	AC074375.1,MTA3,RNU6-137P,AC025750.7	TEX26,RP11-252M21.6,TEX26-AS1	first encounter of TP TopHat-Fusion,sim_heart|MTA3--TEX26	sim_heart|MTA3--TEX26
+TP	sim_heart	TopHat-Fusion	NFIA--PACSIN1	1	8	RP4-802A10.1,RP5-833A20.1,NFIA,AC096534.1,RP4-668G5.1	BX255972.1,PACSIN1	first encounter of TP TopHat-Fusion,sim_heart|NFIA--PACSIN1	sim_heart|NFIA--PACSIN1
+TP	sim_heart	TopHat-Fusion	CHST9--MSANTD1	2	7	RP11-526I8.2,AQP4-AS1,CHST9	MSANTD1	first encounter of TP TopHat-Fusion,sim_heart|CHST9--MSANTD1	sim_heart|CHST9--MSANTD1
+TP	sim_heart	TopHat-Fusion	SLC7A3--RCOR2	4	5	SLC7A3	RCOR2	first encounter of TP TopHat-Fusion,sim_heart|SLC7A3--RCOR2	sim_heart|SLC7A3--RCOR2
+FP	sim_heart	TopHat-Fusion	ZCCHC17--ART3	4	5	RP11-266K22.2,ZCCHC17	CXCL10,RP11-630D6.1,ART3,CXCL11,AC112719.1	first encounter of FP fusion TopHat-Fusion,sim_heart|ZCCHC17--ART3	.
+TP	sim_heart	TopHat-Fusion	PYCARD--LSM11	4	5	C16orf98,PYCARD	LSM11,CTC-370J7.1	first encounter of TP TopHat-Fusion,sim_heart|PYCARD--LSM11	sim_heart|PYCARD--LSM11
+FP	sim_heart	TopHat-Fusion	ZNF20--BLK	8	0	ZNF625-ZNF20,ZNF20,CTC-359D24.3,ZNF625,RNA5SP467,ZNF788,RSL24D1P8	RP11-148O21.6,RP11-148O21.2,RP11-148O21.3,BLK,RP11-148O21.4	first encounter of FP fusion TopHat-Fusion,sim_heart|ZNF20--BLK	.
+FP	sim_heart	TopHat-Fusion	PTTG2--WASF1	6	2	TBC1D1,PTTG2,AC021106.1	WASF1	first encounter of FP fusion TopHat-Fusion,sim_heart|PTTG2--WASF1	.
+TP	sim_heart	TopHat-Fusion	TOR3A--FABP4	5	3	TOR3A	RP11-157I4.4,FABP4	first encounter of TP TopHat-Fusion,sim_heart|TOR3A--FABP4	sim_heart|TOR3A--FABP4
+TP	sim_heart	TopHat-Fusion	TLR7--WDR38	3	5	TLR7	WDR38,RPL35	first encounter of TP TopHat-Fusion,sim_heart|TLR7--WDR38	sim_heart|TLR7--WDR38
 FP	sim_heart	TopHat-Fusion	SPATA22--HS3ST3B1	4	4	ASPA,SPATA22,TRPV3	RP11-214O1.3,HS3ST3B1,RP11-214O1.2	first encounter of FP fusion TopHat-Fusion,sim_heart|SPATA22--HS3ST3B1	.
-TP	sim_heart	TopHat-Fusion	SIAH3--CA6	6	1	SIAH3	CA6	first encounter of TP TopHat-Fusion,sim_heart|SIAH3--CA6	sim_heart|SIAH3--CA6
-TP	sim_heart	TopHat-Fusion	PRDM15--CA2	4	3	AP001619.3,AP001619.2,PRDM15	RP11-317J10.2,CA2	first encounter of TP TopHat-Fusion,sim_heart|PRDM15--CA2	sim_heart|PRDM15--CA2
-TP	sim_heart	TopHat-Fusion	TFAP2D--TNNI1	5	2	TFAP2D	TNNI1,RP11-134G8.2	first encounter of TP TopHat-Fusion,sim_heart|TFAP2D--TNNI1	sim_heart|TFAP2D--TNNI1
-FP	sim_heart	TopHat-Fusion	TRIM5--B4GALT1	1	6	OR52N3P,OR52P1P,OR52E6,OR52N5,TRIM22,OR52U1P,OR52N1,OR52N4,OR56B1,TRIM5,OR52E8,OR52N2,OR52E7P,OR52E4,OR56B2P	RP11-326F20.5,B4GALT1	first encounter of FP fusion TopHat-Fusion,sim_heart|TRIM5--B4GALT1	.
-TP	sim_heart	TopHat-Fusion	RASAL1--URAD	5	2	RASAL1	URAD	first encounter of TP TopHat-Fusion,sim_heart|RASAL1--URAD	sim_heart|RASAL1--URAD
+TP	sim_heart	TopHat-Fusion	SIAH3--CA6	1	6	SIAH3	CA6	first encounter of TP TopHat-Fusion,sim_heart|SIAH3--CA6	sim_heart|SIAH3--CA6
+TP	sim_heart	TopHat-Fusion	PRDM15--CA2	3	4	AP001619.3,AP001619.2,PRDM15	RP11-317J10.2,CA2	first encounter of TP TopHat-Fusion,sim_heart|PRDM15--CA2	sim_heart|PRDM15--CA2
+TP	sim_heart	TopHat-Fusion	TFAP2D--TNNI1	2	5	TFAP2D	TNNI1,RP11-134G8.2	first encounter of TP TopHat-Fusion,sim_heart|TFAP2D--TNNI1	sim_heart|TFAP2D--TNNI1
+FP	sim_heart	TopHat-Fusion	TRIM5--B4GALT1	6	1	OR52N3P,OR52P1P,OR52E6,OR52N5,TRIM22,OR52U1P,OR52N1,OR52N4,OR56B1,TRIM5,OR52E8,OR52N2,OR52E7P,OR52E4,OR56B2P	RP11-326F20.5,B4GALT1	first encounter of FP fusion TopHat-Fusion,sim_heart|TRIM5--B4GALT1	.
+TP	sim_heart	TopHat-Fusion	RASAL1--URAD	2	5	RASAL1	URAD	first encounter of TP TopHat-Fusion,sim_heart|RASAL1--URAD	sim_heart|RASAL1--URAD
 TP	sim_heart	TopHat-Fusion	SOHLH1--TIMM10B	3	3	SOHLH1	TIMM10B,CTD-2010I16.1,DNHD1	first encounter of TP TopHat-Fusion,sim_heart|SOHLH1--TIMM10B	sim_heart|SOHLH1--TIMM10B
-TP	sim_heart	TopHat-Fusion	AADACL4--CATSPERD	2	4	AADACL4	CATSPERD	first encounter of TP TopHat-Fusion,sim_heart|AADACL4--CATSPERD	sim_heart|AADACL4--CATSPERD
+TP	sim_heart	TopHat-Fusion	AADACL4--CATSPERD	4	2	AADACL4	CATSPERD	first encounter of TP TopHat-Fusion,sim_heart|AADACL4--CATSPERD	sim_heart|AADACL4--CATSPERD
 TP	sim_heart	TopHat-Fusion	CCDC170--TLR9	3	3	CCDC170,RNU6-813P	TLR9,TWF2	first encounter of TP TopHat-Fusion,sim_heart|CCDC170--TLR9	sim_heart|CCDC170--TLR9
 TP	sim_heart	TopHat-Fusion	GREB1L--LYPD5	3	3	RP11-296E23.2,SNORD23,GREB1L,RP11-296E23.1	LYPD5	first encounter of TP TopHat-Fusion,sim_heart|GREB1L--LYPD5	sim_heart|GREB1L--LYPD5
 FP	sim_heart	TopHat-Fusion	AC006378.2--CCDC146	3	3	AC006378.2,BET1	FGL2,GSAP,CCDC146,RP11-467H10.2,AC073635.5	first encounter of FP fusion TopHat-Fusion,sim_heart|AC006378.2--CCDC146	.
-FP	sim_heart	TopHat-Fusion	SMAGP--RPLP0P7	0	5	SMAGP,DAZAP2	RPLP0P7	first encounter of FP fusion TopHat-Fusion,sim_heart|SMAGP--RPLP0P7	.
-FP	sim_heart	TopHat-Fusion	COQ10B--UBE2NL	0	5	COQ10B	UBE2NL	first encounter of FP fusion TopHat-Fusion,sim_heart|COQ10B--UBE2NL	.
-TP	sim_heart	TopHat-Fusion	C1ORF116--KPNA2	0	5	C1orf116	KPNA2	first encounter of TP TopHat-Fusion,sim_heart|C1ORF116--KPNA2	sim_heart|C1ORF116--KPNA2
-TP	sim_heart	TopHat-Fusion	SYT9--SOGA3	3	2	CTD-2516F10.2,SYT9	SOGA3,KIAA0408	first encounter of TP TopHat-Fusion,sim_heart|SYT9--SOGA3	sim_heart|SYT9--SOGA3
-FP	sim_heart	TopHat-Fusion	CCL22--CCDC74B	1	4	CCL22	MED15P9,CCDC74B	first encounter of FP fusion TopHat-Fusion,sim_heart|CCL22--CCDC74B	.
-TP	sim_heart	TopHat-Fusion	CST2--LTC4S	4	1	CST2	MAML1,LTC4S	first encounter of TP TopHat-Fusion,sim_heart|CST2--LTC4S	sim_heart|CST2--LTC4S
-TP	sim_heart	TopHat-Fusion	SEC23B--ZNF165	2	3	SEC23B,AL121893.1	RP1-313I6.12,ZNF165	first encounter of TP TopHat-Fusion,sim_heart|SEC23B--ZNF165	sim_heart|SEC23B--ZNF165
-TP	sim_heart	TopHat-Fusion	TUBB--P2RY13	3	2	TUBB,XXbac-BPG252P9.9	P2RY13,MED12L	first encounter of TP TopHat-Fusion,sim_heart|TUBB--P2RY13	sim_heart|TUBB--P2RY13
-TP	sim_heart	TopHat-Fusion	CCDC85C--METAP2	3	2	RP11-688G15.3,CCDC85C,CCNK	METAP2	first encounter of TP TopHat-Fusion,sim_heart|CCDC85C--METAP2	sim_heart|CCDC85C--METAP2
-TP	sim_heart	TopHat-Fusion	HLTF--LOH12CR1	4	1	HLTF,HLTF-AS1	RP11-253I19.4,LOH12CR1	first encounter of TP TopHat-Fusion,sim_heart|HLTF--LOH12CR1	sim_heart|HLTF--LOH12CR1
-TP	sim_heart	TopHat-Fusion	ODC1--BRS3	3	2	SNORA80B,ODC1	BRS3	first encounter of TP TopHat-Fusion,sim_heart|ODC1--BRS3	sim_heart|ODC1--BRS3
-TP	sim_heart	TopHat-Fusion	FGF22--UBQLN3	2	3	FGF22	UBQLN3,HBG2	first encounter of TP TopHat-Fusion,sim_heart|FGF22--UBQLN3	sim_heart|FGF22--UBQLN3
-TP	sim_heart	TopHat-Fusion	DCBLD1--PORCN	4	1	DCBLD1,RNU6-253P,GOPC	PORCN	first encounter of TP TopHat-Fusion,sim_heart|DCBLD1--PORCN	sim_heart|DCBLD1--PORCN
-TP	sim_heart	TopHat-Fusion	S1PR5--SFRP2	4	1	S1PR5	SFRP2	first encounter of TP TopHat-Fusion,sim_heart|S1PR5--SFRP2	sim_heart|S1PR5--SFRP2
-FP	sim_heart	TopHat-Fusion	PARK7--CTC-559E9.6	0	4	PARK7	CTC-559E9.4,CTC-559E9.6,ZNF506,CTC-559E9.5	first encounter of FP fusion TopHat-Fusion,sim_heart|PARK7--CTC-559E9.6	.
-TP	sim_heart	TopHat-Fusion	CREB3L2--PNMA3	1	3	CREB3L2,AC022173.2	PNMA3	first encounter of TP TopHat-Fusion,sim_heart|CREB3L2--PNMA3	sim_heart|CREB3L2--PNMA3
-TP	sim_heart	TopHat-Fusion	CRB3--GPR143	3	1	DENND1C,SLC25A23,CRB3	GPR143	first encounter of TP TopHat-Fusion,sim_heart|CRB3--GPR143	sim_heart|CRB3--GPR143
+FP	sim_heart	TopHat-Fusion	SMAGP--RPLP0P7	5	0	SMAGP,DAZAP2	RPLP0P7	first encounter of FP fusion TopHat-Fusion,sim_heart|SMAGP--RPLP0P7	.
+FP	sim_heart	TopHat-Fusion	COQ10B--UBE2NL	5	0	COQ10B	UBE2NL	first encounter of FP fusion TopHat-Fusion,sim_heart|COQ10B--UBE2NL	.
+TP	sim_heart	TopHat-Fusion	C1ORF116--KPNA2	5	0	C1orf116	KPNA2	first encounter of TP TopHat-Fusion,sim_heart|C1ORF116--KPNA2	sim_heart|C1ORF116--KPNA2
+TP	sim_heart	TopHat-Fusion	SYT9--SOGA3	2	3	CTD-2516F10.2,SYT9	SOGA3,KIAA0408	first encounter of TP TopHat-Fusion,sim_heart|SYT9--SOGA3	sim_heart|SYT9--SOGA3
+FP	sim_heart	TopHat-Fusion	CCL22--CCDC74B	4	1	CCL22	MED15P9,CCDC74B	first encounter of FP fusion TopHat-Fusion,sim_heart|CCL22--CCDC74B	.
+TP	sim_heart	TopHat-Fusion	CST2--LTC4S	1	4	CST2	MAML1,LTC4S	first encounter of TP TopHat-Fusion,sim_heart|CST2--LTC4S	sim_heart|CST2--LTC4S
+TP	sim_heart	TopHat-Fusion	SEC23B--ZNF165	3	2	SEC23B,AL121893.1	RP1-313I6.12,ZNF165	first encounter of TP TopHat-Fusion,sim_heart|SEC23B--ZNF165	sim_heart|SEC23B--ZNF165
+TP	sim_heart	TopHat-Fusion	TUBB--P2RY13	2	3	TUBB,XXbac-BPG252P9.9	P2RY13,MED12L	first encounter of TP TopHat-Fusion,sim_heart|TUBB--P2RY13	sim_heart|TUBB--P2RY13
+TP	sim_heart	TopHat-Fusion	CCDC85C--METAP2	2	3	RP11-688G15.3,CCDC85C,CCNK	METAP2	first encounter of TP TopHat-Fusion,sim_heart|CCDC85C--METAP2	sim_heart|CCDC85C--METAP2
+TP	sim_heart	TopHat-Fusion	HLTF--LOH12CR1	1	4	HLTF,HLTF-AS1	RP11-253I19.4,LOH12CR1	first encounter of TP TopHat-Fusion,sim_heart|HLTF--LOH12CR1	sim_heart|HLTF--LOH12CR1
+TP	sim_heart	TopHat-Fusion	ODC1--BRS3	2	3	SNORA80B,ODC1	BRS3	first encounter of TP TopHat-Fusion,sim_heart|ODC1--BRS3	sim_heart|ODC1--BRS3
+TP	sim_heart	TopHat-Fusion	FGF22--UBQLN3	3	2	FGF22	UBQLN3,HBG2	first encounter of TP TopHat-Fusion,sim_heart|FGF22--UBQLN3	sim_heart|FGF22--UBQLN3
+TP	sim_heart	TopHat-Fusion	DCBLD1--PORCN	1	4	DCBLD1,RNU6-253P,GOPC	PORCN	first encounter of TP TopHat-Fusion,sim_heart|DCBLD1--PORCN	sim_heart|DCBLD1--PORCN
+TP	sim_heart	TopHat-Fusion	S1PR5--SFRP2	1	4	S1PR5	SFRP2	first encounter of TP TopHat-Fusion,sim_heart|S1PR5--SFRP2	sim_heart|S1PR5--SFRP2
+FP	sim_heart	TopHat-Fusion	PARK7--CTC-559E9.6	4	0	PARK7	CTC-559E9.4,CTC-559E9.6,ZNF506,CTC-559E9.5	first encounter of FP fusion TopHat-Fusion,sim_heart|PARK7--CTC-559E9.6	.
+TP	sim_heart	TopHat-Fusion	CREB3L2--PNMA3	3	1	CREB3L2,AC022173.2	PNMA3	first encounter of TP TopHat-Fusion,sim_heart|CREB3L2--PNMA3	sim_heart|CREB3L2--PNMA3
+TP	sim_heart	TopHat-Fusion	CRB3--GPR143	1	3	DENND1C,SLC25A23,CRB3	GPR143	first encounter of TP TopHat-Fusion,sim_heart|CRB3--GPR143	sim_heart|CRB3--GPR143
 TP	sim_heart	TopHat-Fusion	TEX33--ACSF3	2	2	TEX33	CTD-2555A7.3,ACSF3	first encounter of TP TopHat-Fusion,sim_heart|TEX33--ACSF3	sim_heart|TEX33--ACSF3
-TP	sim_heart	TopHat-Fusion	TMEM134--C19ORF69	3	1	TMEM134,CTC-1337H24.2	C19orf69	first encounter of TP TopHat-Fusion,sim_heart|TMEM134--C19ORF69	sim_heart|TMEM134--C19ORF69
-FP	sim_heart	TopHat-Fusion	SMAGP--RP1-140J1.4	0	3	SMAGP,DAZAP2	RP1-140J1.4	first encounter of FP fusion TopHat-Fusion,sim_heart|SMAGP--RP1-140J1.4	.
-FP	sim_heart	TopHat-Fusion	GPLD1--RP13-140E4.1	0	3	ALDH5A1,GPLD1,MRS2	RP13-140E4.1	first encounter of FP fusion TopHat-Fusion,sim_heart|GPLD1--RP13-140E4.1	.
-TP	sim_heart	TopHat-Fusion	TRIM14--ATXN7L3	0	3	TRIM14,NANS	ATXN7L3,CTB-175E5.7	first encounter of TP TopHat-Fusion,sim_heart|TRIM14--ATXN7L3	sim_heart|TRIM14--ATXN7L3
-FP	sim_heart	TopHat-Fusion	ZFYVE9P1--DYX1C1-CCPG1	0	3	ZFYVE9P1	CCPG1,MIR628,RP11-178D12.2,C15orf65,DYX1C1,DYX1C1-CCPG1,PIGB	first encounter of FP fusion TopHat-Fusion,sim_heart|ZFYVE9P1--DYX1C1-CCPG1	.
-FP	sim_heart	TopHat-Fusion	CNST--CRLF1	0	3	RP11-439E19.1,RP11-452J6.2,CNST	UBA52,TMEM59L,C19orf60,CRLF1	first encounter of FP fusion TopHat-Fusion,sim_heart|CNST--CRLF1	.
-FP	sim_heart	TopHat-Fusion	NDUFA5P12--SSPN	0	3	RP11-1134I14.2,NDUFA5P12	RP11-283G6.3,RP11-283G6.5,SSPN,BHLHE41,RP11-283G6.4	first encounter of FP fusion TopHat-Fusion,sim_heart|NDUFA5P12--SSPN	.
-TP	sim_heart	TopHat-Fusion	C5ORF17--TMEM190	0	3	CTD-2015B23.2,SNORA40,CTD-2138O14.1,C5orf17	TMEM190,CTD-2105E13.15	first encounter of TP TopHat-Fusion,sim_heart|C5ORF17--TMEM190	sim_heart|C5ORF17--TMEM190
-TP	sim_heart	TopHat-Fusion	BLOC1S6--PRSS3	0	3	RP11-96O20.4,BLOC1S6	PRSS3P2,PRSS3,RP11-133O22.6,TRBV29OR9-2	first encounter of TP TopHat-Fusion,sim_heart|BLOC1S6--PRSS3	sim_heart|BLOC1S6--PRSS3
-FP	sim_heart	TopHat-Fusion	C4B--TMPRSS11E	0	3	C4B-AS1,C4B	TMPRSS11E	first encounter of FP fusion TopHat-Fusion,sim_heart|C4B--TMPRSS11E	.
-TP	sim_heart	TopHat-Fusion	C4A--TMPRSS11E	0	3	C4B-AS1,C4B,STK19,C4A,C4A-AS1	TMPRSS11E	first encounter of TP TopHat-Fusion,sim_heart|C4A--TMPRSS11E	sim_heart|C4A--TMPRSS11E
-TP	sim_heart	TopHat-Fusion	PCDHGA1--ZBTB25	0	3	PCDHGB2,PCDHGA9,PCDHGA7,PCDHGB4,PCDHGA2,PCDHGA11,PCDHGA12,PCDHGA6,PCDHGC4,PCDHGA1,PCDHGB7,RN7SL68P,PCDHGA10,PCDHGA8,PCDHGB6,PCDHGA4,PCDHGB8P,PCDHGB1,PCDHGA3,PCDHGB3,PCDHGC3,PCDHGA5,PCDHGC5	AKAP5,MTHFD1,ZBTB25,CTD-2555O16.3,ZBTB1	first encounter of TP TopHat-Fusion,sim_heart|PCDHGB3--ZBTB25	sim_heart|PCDHGB3--ZBTB25
-TP	sim_heart	TopHat-Fusion	MARCH10--INO80C	2	1	MARCH10,RP11-156L14.1	RP11-322E11.5,INO80C,RP11-322E11.6	first encounter of TP TopHat-Fusion,sim_heart|MARCH10--INO80C	sim_heart|MARCH10--INO80C
-TP	sim_heart	TopHat-Fusion	ATP6V0D2--CXCR1	2	1	RP11-216N21.2,ATP6V0D2,RP11-216N21.1,PSKH2,CTD-3118D11.2	CXCR1	first encounter of TP TopHat-Fusion,sim_heart|ATP6V0D2--CXCR1	sim_heart|ATP6V0D2--CXCR1
-TP	sim_heart	TopHat-Fusion	NSUN4--RP11-968A15.8	2	1	NSUN4	CBX5,RP11-968A15.2,NFE2,RP11-968A15.8,RN7SL744P,MIR148B,COPZ1,RNU6-950P,HNRNPA1	first encounter of TP TopHat-Fusion,sim_heart|NSUN4--NFE2	sim_heart|NSUN4--NFE2
-TP	sim_heart	TopHat-Fusion	ATP13A5--C12ORF39	2	1	ATP13A5-AS1,ATP13A5,HRASLS	GYS2,C12orf39	first encounter of TP TopHat-Fusion,sim_heart|ATP13A5--C12ORF39	sim_heart|ATP13A5--C12ORF39
-TP	sim_heart	TopHat-Fusion	DLK1--C20ORF196	1	2	RP11-566J3.4,DLK1	C20orf196	first encounter of TP TopHat-Fusion,sim_heart|DLK1--C20ORF196	sim_heart|DLK1--C20ORF196
-FP	sim_heart	TopHat-Fusion	CAP1P2--IQCB1	0	2	CAP1P2	IQCB1	first encounter of FP fusion TopHat-Fusion,sim_heart|CAP1P2--IQCB1	.
-FP	sim_heart	TopHat-Fusion	RP11-64B16.2--TBKBP1	0	2	RP11-64B16.2,HSPB8	TBKBP1	first encounter of FP fusion TopHat-Fusion,sim_heart|RP11-64B16.2--TBKBP1	.
-TP	sim_heart	TopHat-Fusion	PDCD6--C1ORF54	0	2	AHRR,PDCD6,CTD-2083E4.5	APH1A,C1orf54	first encounter of TP TopHat-Fusion,sim_heart|PDCD6--C1ORF54	sim_heart|PDCD6--C1ORF54
-TP	sim_heart	TopHat-Fusion	C2--NUTF2	0	2	ZBTB12,CFB,C2	NUTF2,CTC-479C5.11,CENPT	first encounter of TP TopHat-Fusion,sim_heart|C2--NUTF2	sim_heart|C2--NUTF2
-FP	sim_heart	TopHat-Fusion	WNT3--ADAM2	0	2	WNT3	ADAM2,AC136365.1	first encounter of FP fusion TopHat-Fusion,sim_heart|WNT3--ADAM2	.
-FP	sim_heart	TopHat-Fusion	WNT3A--ADAM2	0	2	WNT3A	ADAM2,AC136365.1	first encounter of FP fusion TopHat-Fusion,sim_heart|WNT3A--ADAM2	.
+TP	sim_heart	TopHat-Fusion	TMEM134--C19ORF69	1	3	TMEM134,CTC-1337H24.2	C19orf69	first encounter of TP TopHat-Fusion,sim_heart|TMEM134--C19ORF69	sim_heart|TMEM134--C19ORF69
+FP	sim_heart	TopHat-Fusion	SMAGP--RP1-140J1.4	3	0	SMAGP,DAZAP2	RP1-140J1.4	first encounter of FP fusion TopHat-Fusion,sim_heart|SMAGP--RP1-140J1.4	.
+FP	sim_heart	TopHat-Fusion	GPLD1--RP13-140E4.1	3	0	ALDH5A1,GPLD1,MRS2	RP13-140E4.1	first encounter of FP fusion TopHat-Fusion,sim_heart|GPLD1--RP13-140E4.1	.
+TP	sim_heart	TopHat-Fusion	TRIM14--ATXN7L3	3	0	TRIM14,NANS	ATXN7L3,CTB-175E5.7	first encounter of TP TopHat-Fusion,sim_heart|TRIM14--ATXN7L3	sim_heart|TRIM14--ATXN7L3
+FP	sim_heart	TopHat-Fusion	ZFYVE9P1--DYX1C1-CCPG1	3	0	ZFYVE9P1	CCPG1,MIR628,RP11-178D12.2,C15orf65,DYX1C1,DYX1C1-CCPG1,PIGB	first encounter of FP fusion TopHat-Fusion,sim_heart|ZFYVE9P1--DYX1C1-CCPG1	.
+FP	sim_heart	TopHat-Fusion	CNST--CRLF1	3	0	RP11-439E19.1,RP11-452J6.2,CNST	UBA52,TMEM59L,C19orf60,CRLF1	first encounter of FP fusion TopHat-Fusion,sim_heart|CNST--CRLF1	.
+FP	sim_heart	TopHat-Fusion	NDUFA5P12--SSPN	3	0	RP11-1134I14.2,NDUFA5P12	RP11-283G6.3,RP11-283G6.5,SSPN,BHLHE41,RP11-283G6.4	first encounter of FP fusion TopHat-Fusion,sim_heart|NDUFA5P12--SSPN	.
+TP	sim_heart	TopHat-Fusion	C5ORF17--TMEM190	3	0	CTD-2015B23.2,SNORA40,CTD-2138O14.1,C5orf17	TMEM190,CTD-2105E13.15	first encounter of TP TopHat-Fusion,sim_heart|C5ORF17--TMEM190	sim_heart|C5ORF17--TMEM190
+TP	sim_heart	TopHat-Fusion	BLOC1S6--PRSS3	3	0	RP11-96O20.4,BLOC1S6	PRSS3P2,PRSS3,RP11-133O22.6,TRBV29OR9-2	first encounter of TP TopHat-Fusion,sim_heart|BLOC1S6--PRSS3	sim_heart|BLOC1S6--PRSS3
+FP	sim_heart	TopHat-Fusion	C4B--TMPRSS11E	3	0	C4B-AS1,C4B	TMPRSS11E	first encounter of FP fusion TopHat-Fusion,sim_heart|C4B--TMPRSS11E	.
+TP	sim_heart	TopHat-Fusion	C4A--TMPRSS11E	3	0	C4B-AS1,C4B,STK19,C4A,C4A-AS1	TMPRSS11E	first encounter of TP TopHat-Fusion,sim_heart|C4A--TMPRSS11E	sim_heart|C4A--TMPRSS11E
+TP	sim_heart	TopHat-Fusion	PCDHGA1--ZBTB25	3	0	PCDHGB2,PCDHGA9,PCDHGA7,PCDHGB4,PCDHGA2,PCDHGA11,PCDHGA12,PCDHGA6,PCDHGC4,PCDHGA1,PCDHGB7,RN7SL68P,PCDHGA10,PCDHGA8,PCDHGB6,PCDHGA4,PCDHGB8P,PCDHGB1,PCDHGA3,PCDHGB3,PCDHGC3,PCDHGA5,PCDHGC5	AKAP5,MTHFD1,ZBTB25,CTD-2555O16.3,ZBTB1	first encounter of TP TopHat-Fusion,sim_heart|PCDHGB3--ZBTB25	sim_heart|PCDHGB3--ZBTB25
+TP	sim_heart	TopHat-Fusion	MARCH10--INO80C	1	2	MARCH10,RP11-156L14.1	RP11-322E11.5,INO80C,RP11-322E11.6	first encounter of TP TopHat-Fusion,sim_heart|MARCH10--INO80C	sim_heart|MARCH10--INO80C
+TP	sim_heart	TopHat-Fusion	ATP6V0D2--CXCR1	1	2	RP11-216N21.2,ATP6V0D2,RP11-216N21.1,PSKH2,CTD-3118D11.2	CXCR1	first encounter of TP TopHat-Fusion,sim_heart|ATP6V0D2--CXCR1	sim_heart|ATP6V0D2--CXCR1
+TP	sim_heart	TopHat-Fusion	NSUN4--RP11-968A15.8	1	2	NSUN4	CBX5,RP11-968A15.2,NFE2,RP11-968A15.8,RN7SL744P,MIR148B,COPZ1,RNU6-950P,HNRNPA1	first encounter of TP TopHat-Fusion,sim_heart|NSUN4--NFE2	sim_heart|NSUN4--NFE2
+TP	sim_heart	TopHat-Fusion	ATP13A5--C12ORF39	1	2	ATP13A5-AS1,ATP13A5,HRASLS	GYS2,C12orf39	first encounter of TP TopHat-Fusion,sim_heart|ATP13A5--C12ORF39	sim_heart|ATP13A5--C12ORF39
+TP	sim_heart	TopHat-Fusion	DLK1--C20ORF196	2	1	RP11-566J3.4,DLK1	C20orf196	first encounter of TP TopHat-Fusion,sim_heart|DLK1--C20ORF196	sim_heart|DLK1--C20ORF196
+FP	sim_heart	TopHat-Fusion	CAP1P2--IQCB1	2	0	CAP1P2	IQCB1	first encounter of FP fusion TopHat-Fusion,sim_heart|CAP1P2--IQCB1	.
+FP	sim_heart	TopHat-Fusion	RP11-64B16.2--TBKBP1	2	0	RP11-64B16.2,HSPB8	TBKBP1	first encounter of FP fusion TopHat-Fusion,sim_heart|RP11-64B16.2--TBKBP1	.
+TP	sim_heart	TopHat-Fusion	PDCD6--C1ORF54	2	0	AHRR,PDCD6,CTD-2083E4.5	APH1A,C1orf54	first encounter of TP TopHat-Fusion,sim_heart|PDCD6--C1ORF54	sim_heart|PDCD6--C1ORF54
+TP	sim_heart	TopHat-Fusion	C2--NUTF2	2	0	ZBTB12,CFB,C2	NUTF2,CTC-479C5.11,CENPT	first encounter of TP TopHat-Fusion,sim_heart|C2--NUTF2	sim_heart|C2--NUTF2
+FP	sim_heart	TopHat-Fusion	WNT3--ADAM2	2	0	WNT3	ADAM2,AC136365.1	first encounter of FP fusion TopHat-Fusion,sim_heart|WNT3--ADAM2	.
+FP	sim_heart	TopHat-Fusion	WNT3A--ADAM2	2	0	WNT3A	ADAM2,AC136365.1	first encounter of FP fusion TopHat-Fusion,sim_heart|WNT3A--ADAM2	.
 TP	sim_heart	TopHat-Fusion	PAPLN--UGGT1	1	1	RP4-647C14.3,RNU6-419P,PAPLN,RP4-647C14.2	AC108059.4,UGGT1,RN7SL206P,AC108059.2	first encounter of TP TopHat-Fusion,sim_heart|PAPLN--UGGT1	sim_heart|PAPLN--UGGT1
 TP	sim_heart	TopHat-Fusion	HDAC9--FBN1	1	1	RN7SKP266,AC010082.2,AC004744.3,NPM1P13,MIR1302-6,HDAC9,AC091697.1	FBN1	first encounter of TP TopHat-Fusion,sim_heart|HDAC9--FBN1	sim_heart|HDAC9--FBN1
 TP	sim_heart	TopHat-Fusion	TRIM35--INO80B	1	1	TRIM35	INO80B,WBP1	first encounter of TP TopHat-Fusion,sim_heart|TRIM35--INO80B	sim_heart|TRIM35--INO80B
-TP	sim_heart	TopHat-Fusion	RHOC--NOL4	0	1	RP11-426L16.10,RHOC	NOL4,RP11-379L18.1	first encounter of TP TopHat-Fusion,sim_heart|RHOC--NOL4	sim_heart|RHOC--NOL4
-FP	sim_heart	TopHat-Fusion	EFCAB5--SGOL1-AS1	0	1	RP11-1148O4.2,SSH2,RP11-338L22.3,RP11-1148O4.1,AC104996.1,AC104984.4,RNY4P13,EFCAB5	RNY4P22,RNU6-815P,SGOL1,RP11-669C19.1,SGOL1-AS1,AC104441.1,RNU6-822P,AC107622.1	first encounter of FP fusion TopHat-Fusion,sim_heart|EFCAB5--SGOL1-AS1	.
-TP	sim_heart	TopHat-Fusion	MLLT3--C2ORF83	0	1	RNU4-26P,AL163193.1,MLLT3,MIR4474,MIR4473,RP11-73E6.2	AC064853.2,C2orf83,AC064853.3	first encounter of TP TopHat-Fusion,sim_heart|MLLT3--C2ORF83	sim_heart|MLLT3--C2ORF83
+TP	sim_heart	TopHat-Fusion	RHOC--NOL4	1	0	RP11-426L16.10,RHOC	NOL4,RP11-379L18.1	first encounter of TP TopHat-Fusion,sim_heart|RHOC--NOL4	sim_heart|RHOC--NOL4
+FP	sim_heart	TopHat-Fusion	EFCAB5--SGOL1-AS1	1	0	RP11-1148O4.2,SSH2,RP11-338L22.3,RP11-1148O4.1,AC104996.1,AC104984.4,RNY4P13,EFCAB5	RNY4P22,RNU6-815P,SGOL1,RP11-669C19.1,SGOL1-AS1,AC104441.1,RNU6-822P,AC107622.1	first encounter of FP fusion TopHat-Fusion,sim_heart|EFCAB5--SGOL1-AS1	.
+TP	sim_heart	TopHat-Fusion	MLLT3--C2ORF83	1	0	RNU4-26P,AL163193.1,MLLT3,MIR4474,MIR4473,RP11-73E6.2	AC064853.2,C2orf83,AC064853.3	first encounter of TP TopHat-Fusion,sim_heart|MLLT3--C2ORF83	sim_heart|MLLT3--C2ORF83
 TP	sim_heart	FusionCatcher	FARS2--KIR3DL2	17	3754	RP1-232P20.1,HNRNPA1P37,FARS2,RP1-256G22.2,RP3-520B18.1	KIR3DL1,KIR3DL2	first encounter of TP FusionCatcher,sim_heart|FARS2--KIR3DL2	sim_heart|FARS2--KIR3DL2
 TP	sim_heart	FusionCatcher	SEC24A--FAM180B	17	3713	RNU6-1164P,SEC24A,RNU6-757P,SAR1B	FAM180B	first encounter of TP FusionCatcher,sim_heart|SEC24A--FAM180B	sim_heart|SEC24A--FAM180B
 TP	sim_heart	FusionCatcher	PMF1--LRRC55	17	3699	PMF1,BGLAP,PMF1-BGLAP	LRRC55	first encounter of TP FusionCatcher,sim_heart|PMF1--LRRC55	sim_heart|PMF1--LRRC55
