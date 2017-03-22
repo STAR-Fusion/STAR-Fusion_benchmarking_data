@@ -15,7 +15,6 @@ RUN apt-get update && apt-get install -y gcc g++ perl python automake make \
                    && apt-get clean
 
 
-
 ENV SRC /usr/local/src
 ENV BIN /usr/local/bin
 
@@ -46,6 +45,16 @@ RUN Rscript -e 'source("http://bioconductor.org/biocLite.R");library(BiocInstall
 RUN Rscript -e 'source("http://bioconductor.org/biocLite.R");library(BiocInstaller); biocLite("qvalue", dep = TRUE)'
 
 
+#########
+# Install FusionAnnotator
+
+RUN git clone https://github.com/FusionAnnotator/FusionAnnotator.git && \
+    cd FusionAnnotator && \
+    git checkout 6e6c3b4 && \
+    make
+
+ENV FUSION_ANNOTATOR ${SRC}/FusionAnnotator
+
 ########
 # Install Trinity (just for plotting utilities)
 
@@ -60,27 +69,19 @@ ENV TRINITY_HOME ${SRC}/trinityrnaseq
 
 RUN git clone https://github.com/FusionSimulatorToolkit/FusionSimulatorToolkit.git && \
     cd FusionSimulatorToolkit && \
-    git checkout abe0d40
+    git checkout 54985b9
 
 ENV FUSION_SIMULATOR ${SRC}/FusionSimulatorToolkit
-
-#########
-# Install FusionAnnotator
-
-RUN git clone https://github.com/FusionAnnotator/FusionAnnotator.git && \
-    cd FusionAnnotator && \
-    git checkout 6e6c3b4 && \
-    make
-
-ENV FUSION_ANNOTATOR ${SRC}/FusionAnnotator
-
 
 #######
 # Install STAR-Fusion benchmark data
 
 RUN git clone https://github.com/STAR-Fusion/STAR-Fusion_benchmarking_data.git && \
     cd STAR-Fusion_benchmarking_data && \
-    git checkout 674ab23
+    git checkout fec9f09
+
+
+ENV LC_ALL=C
 
 
 COPY run_eval.sh /
