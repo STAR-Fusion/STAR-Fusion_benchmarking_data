@@ -2,6 +2,8 @@
 
 use strict;
 use warnings;
+use File::Basename;
+
 
 my $usage = "usage: $0 search_dir token \n\n";
 
@@ -18,13 +20,17 @@ foreach my $file (@files) {
 
     print STDERR "-processing $file\n";
     open (my $fh, $file) or die "Error, cannot open file: $file";
+    
+    my $data_set_name = basename(dirname($file));
+
+
     my $header = <$fh>;
     unless ($printed_header_flag) {
-        print join("\t", "data_set", $header);
+        print join("\t", "read_set", "data_set", $header);
         $printed_header_flag = 1;
     }
     while (<$fh>) {
-        print join("\t", $token, $_);
+        print join("\t", $token, $data_set_name, $_);
     }
 
     close $fh;
