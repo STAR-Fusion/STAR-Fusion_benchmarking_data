@@ -1,81 +1,81 @@
-data_set	progname	AUC
-sim_101	STAR-Fusion	0.93
-sim_101	nFuse	0.84
-sim_101	JAFFA-Direct	0.83
-sim_101	ChimeraScan	0.82
-sim_101	InFusion	0.82
-sim_101	ChimPipe	0.81
-sim_101	TopHat-Fusion	0.80
-sim_101	deFuse	0.80
-sim_101	MapSplice	0.77
-sim_101	FusionCatcher	0.75
-sim_101	JAFFA-Hybrid	0.70
-sim_101	EricScript	0.67
-sim_101	PRADA	0.67
-sim_101	JAFFA-Assembly	0.64
-sim_101	SOAP-fuse	0.63
-sim_101	FusionHunter	0.44
-sim_101	STAR-Fusion	0.94
-sim_101	nFuse	0.87
-sim_101	InFusion	0.85
-sim_101	TopHat-Fusion	0.85
-sim_101	ChimPipe	0.84
-sim_101	MapSplice	0.82
-sim_101	deFuse	0.81
-sim_101	ChimeraScan	0.80
-sim_101	FusionCatcher	0.80
-sim_101	JAFFA-Direct	0.80
-sim_101	JAFFA-Hybrid	0.73
-sim_101	PRADA	0.73
-sim_101	SOAP-fuse	0.72
-sim_101	EricScript	0.70
-sim_101	JAFFA-Assembly	0.62
-sim_101	FusionHunter	0.50
-sim_101	STAR-Fusion	0.90
-sim_101	ChimeraScan	0.85
-sim_101	TopHat-Fusion	0.83
-sim_101	nFuse	0.83
-sim_101	JAFFA-Direct	0.82
-sim_101	ChimPipe	0.80
-sim_101	InFusion	0.80
-sim_101	MapSplice	0.77
-sim_101	deFuse	0.77
-sim_101	FusionCatcher	0.75
-sim_101	EricScript	0.69
-sim_101	SOAP-fuse	0.69
-sim_101	JAFFA-Hybrid	0.65
-sim_101	JAFFA-Assembly	0.64
-sim_101	PRADA	0.64
-sim_101	FusionHunter	0.44
-sim_101	STAR-Fusion	0.91
-sim_101	InFusion	0.84
-sim_101	nFuse	0.84
-sim_101	ChimPipe	0.82
-sim_101	MapSplice	0.80
-sim_101	ChimeraScan	0.79
-sim_101	JAFFA-Direct	0.79
-sim_101	TopHat-Fusion	0.79
-sim_101	deFuse	0.77
-sim_101	FusionCatcher	0.74
-sim_101	JAFFA-Hybrid	0.71
-sim_101	EricScript	0.69
-sim_101	PRADA	0.68
-sim_101	SOAP-fuse	0.66
-sim_101	JAFFA-Assembly	0.64
-sim_101	FusionHunter	0.43
-sim_101	STAR-Fusion	0.83
-sim_101	ChimeraScan	0.80
-sim_101	nFuse	0.80
-sim_101	JAFFA-Direct	0.78
-sim_101	TopHat-Fusion	0.78
-sim_101	deFuse	0.76
-sim_101	MapSplice	0.73
-sim_101	InFusion	0.72
-sim_101	FusionCatcher	0.68
-sim_101	JAFFA-Hybrid	0.68
-sim_101	EricScript	0.66
-sim_101	SOAP-fuse	0.64
-sim_101	JAFFA-Assembly	0.62
-sim_101	ChimPipe	0.56
-sim_101	PRADA	0.56
-sim_101	FusionHunter	0.37
+read_set	data_set	progname	AUC
+sim_101	sim2_reads	STAR-Fusion	0.93
+sim_101	sim2_reads	nFuse	0.84
+sim_101	sim2_reads	JAFFA-Direct	0.83
+sim_101	sim2_reads	ChimeraScan	0.82
+sim_101	sim2_reads	InFusion	0.82
+sim_101	sim2_reads	ChimPipe	0.81
+sim_101	sim2_reads	TopHat-Fusion	0.80
+sim_101	sim2_reads	deFuse	0.80
+sim_101	sim2_reads	MapSplice	0.77
+sim_101	sim2_reads	FusionCatcher	0.75
+sim_101	sim2_reads	JAFFA-Hybrid	0.70
+sim_101	sim2_reads	EricScript	0.67
+sim_101	sim2_reads	PRADA	0.67
+sim_101	sim2_reads	JAFFA-Assembly	0.64
+sim_101	sim2_reads	SOAP-fuse	0.63
+sim_101	sim2_reads	FusionHunter	0.44
+sim_101	sim3_reads	STAR-Fusion	0.94
+sim_101	sim3_reads	nFuse	0.87
+sim_101	sim3_reads	InFusion	0.85
+sim_101	sim3_reads	TopHat-Fusion	0.85
+sim_101	sim3_reads	ChimPipe	0.84
+sim_101	sim3_reads	MapSplice	0.82
+sim_101	sim3_reads	deFuse	0.81
+sim_101	sim3_reads	ChimeraScan	0.80
+sim_101	sim3_reads	FusionCatcher	0.80
+sim_101	sim3_reads	JAFFA-Direct	0.80
+sim_101	sim3_reads	JAFFA-Hybrid	0.73
+sim_101	sim3_reads	PRADA	0.73
+sim_101	sim3_reads	SOAP-fuse	0.72
+sim_101	sim3_reads	EricScript	0.70
+sim_101	sim3_reads	JAFFA-Assembly	0.62
+sim_101	sim3_reads	FusionHunter	0.50
+sim_101	sim1_reads	STAR-Fusion	0.90
+sim_101	sim1_reads	ChimeraScan	0.85
+sim_101	sim1_reads	TopHat-Fusion	0.83
+sim_101	sim1_reads	nFuse	0.83
+sim_101	sim1_reads	JAFFA-Direct	0.82
+sim_101	sim1_reads	ChimPipe	0.80
+sim_101	sim1_reads	InFusion	0.80
+sim_101	sim1_reads	MapSplice	0.77
+sim_101	sim1_reads	deFuse	0.77
+sim_101	sim1_reads	FusionCatcher	0.75
+sim_101	sim1_reads	EricScript	0.69
+sim_101	sim1_reads	SOAP-fuse	0.69
+sim_101	sim1_reads	JAFFA-Hybrid	0.65
+sim_101	sim1_reads	JAFFA-Assembly	0.64
+sim_101	sim1_reads	PRADA	0.64
+sim_101	sim1_reads	FusionHunter	0.44
+sim_101	sim4_reads	STAR-Fusion	0.91
+sim_101	sim4_reads	InFusion	0.84
+sim_101	sim4_reads	nFuse	0.84
+sim_101	sim4_reads	ChimPipe	0.82
+sim_101	sim4_reads	MapSplice	0.80
+sim_101	sim4_reads	ChimeraScan	0.79
+sim_101	sim4_reads	JAFFA-Direct	0.79
+sim_101	sim4_reads	TopHat-Fusion	0.79
+sim_101	sim4_reads	deFuse	0.77
+sim_101	sim4_reads	FusionCatcher	0.74
+sim_101	sim4_reads	JAFFA-Hybrid	0.71
+sim_101	sim4_reads	EricScript	0.69
+sim_101	sim4_reads	PRADA	0.68
+sim_101	sim4_reads	SOAP-fuse	0.66
+sim_101	sim4_reads	JAFFA-Assembly	0.64
+sim_101	sim4_reads	FusionHunter	0.43
+sim_101	sim5_reads	STAR-Fusion	0.83
+sim_101	sim5_reads	ChimeraScan	0.80
+sim_101	sim5_reads	nFuse	0.80
+sim_101	sim5_reads	JAFFA-Direct	0.78
+sim_101	sim5_reads	TopHat-Fusion	0.78
+sim_101	sim5_reads	deFuse	0.76
+sim_101	sim5_reads	MapSplice	0.73
+sim_101	sim5_reads	InFusion	0.72
+sim_101	sim5_reads	FusionCatcher	0.68
+sim_101	sim5_reads	JAFFA-Hybrid	0.68
+sim_101	sim5_reads	EricScript	0.66
+sim_101	sim5_reads	SOAP-fuse	0.64
+sim_101	sim5_reads	JAFFA-Assembly	0.62
+sim_101	sim5_reads	ChimPipe	0.56
+sim_101	sim5_reads	PRADA	0.56
+sim_101	sim5_reads	FusionHunter	0.37

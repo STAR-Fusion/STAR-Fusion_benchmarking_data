@@ -1,71 +1,71 @@
-data_set	progname	AUC
-sim_50	STAR-Fusion	0.80
-sim_50	nFuse	0.80
-sim_50	deFuse	0.79
-sim_50	ChimPipe	0.77
-sim_50	SOAP-fuse	0.76
-sim_50	InFusion	0.75
-sim_50	ChimeraScan	0.74
-sim_50	PRADA	0.74
-sim_50	FusionCatcher	0.66
-sim_50	MapSplice	0.66
-sim_50	FusionHunter	0.65
-sim_50	TopHat-Fusion	0.65
-sim_50	EricScript	0.58
-sim_50	JAFFA-Assembly	0.54
-sim_50	STAR-Fusion	0.76
-sim_50	nFuse	0.73
-sim_50	ChimPipe	0.72
-sim_50	InFusion	0.71
-sim_50	ChimeraScan	0.70
-sim_50	SOAP-fuse	0.68
-sim_50	PRADA	0.67
-sim_50	deFuse	0.67
-sim_50	FusionHunter	0.62
-sim_50	MapSplice	0.62
-sim_50	FusionCatcher	0.60
-sim_50	TopHat-Fusion	0.60
-sim_50	EricScript	0.59
-sim_50	JAFFA-Assembly	0.48
-sim_50	STAR-Fusion	0.75
-sim_50	nFuse	0.70
-sim_50	ChimPipe	0.69
-sim_50	ChimeraScan	0.67
-sim_50	InFusion	0.67
-sim_50	PRADA	0.67
-sim_50	deFuse	0.66
-sim_50	SOAP-fuse	0.65
-sim_50	MapSplice	0.64
-sim_50	TopHat-Fusion	0.62
-sim_50	FusionCatcher	0.60
-sim_50	EricScript	0.56
-sim_50	FusionHunter	0.53
-sim_50	JAFFA-Assembly	0.44
-sim_50	STAR-Fusion	0.77
-sim_50	ChimPipe	0.71
-sim_50	InFusion	0.70
-sim_50	SOAP-fuse	0.69
-sim_50	nFuse	0.67
-sim_50	ChimeraScan	0.64
-sim_50	PRADA	0.64
-sim_50	MapSplice	0.63
-sim_50	TopHat-Fusion	0.63
-sim_50	deFuse	0.63
-sim_50	FusionCatcher	0.59
-sim_50	EricScript	0.58
-sim_50	FusionHunter	0.55
-sim_50	JAFFA-Assembly	0.51
-sim_50	STAR-Fusion	0.72
-sim_50	nFuse	0.72
-sim_50	ChimPipe	0.70
-sim_50	ChimeraScan	0.69
-sim_50	InFusion	0.68
-sim_50	SOAP-fuse	0.68
-sim_50	deFuse	0.68
-sim_50	PRADA	0.67
-sim_50	MapSplice	0.63
-sim_50	FusionCatcher	0.62
-sim_50	TopHat-Fusion	0.62
-sim_50	FusionHunter	0.57
-sim_50	EricScript	0.55
-sim_50	JAFFA-Assembly	0.50
+read_set	data_set	progname	AUC
+sim_50	sim_adipose	STAR-Fusion	0.80
+sim_50	sim_adipose	nFuse	0.80
+sim_50	sim_adipose	deFuse	0.79
+sim_50	sim_adipose	ChimPipe	0.77
+sim_50	sim_adipose	SOAP-fuse	0.76
+sim_50	sim_adipose	InFusion	0.75
+sim_50	sim_adipose	ChimeraScan	0.74
+sim_50	sim_adipose	PRADA	0.74
+sim_50	sim_adipose	FusionCatcher	0.66
+sim_50	sim_adipose	MapSplice	0.66
+sim_50	sim_adipose	FusionHunter	0.65
+sim_50	sim_adipose	TopHat-Fusion	0.65
+sim_50	sim_adipose	EricScript	0.58
+sim_50	sim_adipose	JAFFA-Assembly	0.54
+sim_50	sim_brain	STAR-Fusion	0.76
+sim_50	sim_brain	nFuse	0.73
+sim_50	sim_brain	ChimPipe	0.72
+sim_50	sim_brain	InFusion	0.71
+sim_50	sim_brain	ChimeraScan	0.70
+sim_50	sim_brain	SOAP-fuse	0.68
+sim_50	sim_brain	PRADA	0.67
+sim_50	sim_brain	deFuse	0.67
+sim_50	sim_brain	FusionHunter	0.62
+sim_50	sim_brain	MapSplice	0.62
+sim_50	sim_brain	FusionCatcher	0.60
+sim_50	sim_brain	TopHat-Fusion	0.60
+sim_50	sim_brain	EricScript	0.59
+sim_50	sim_brain	JAFFA-Assembly	0.48
+sim_50	sim_colon	STAR-Fusion	0.75
+sim_50	sim_colon	nFuse	0.70
+sim_50	sim_colon	ChimPipe	0.69
+sim_50	sim_colon	ChimeraScan	0.67
+sim_50	sim_colon	InFusion	0.67
+sim_50	sim_colon	PRADA	0.67
+sim_50	sim_colon	deFuse	0.66
+sim_50	sim_colon	SOAP-fuse	0.65
+sim_50	sim_colon	MapSplice	0.64
+sim_50	sim_colon	TopHat-Fusion	0.62
+sim_50	sim_colon	FusionCatcher	0.60
+sim_50	sim_colon	EricScript	0.56
+sim_50	sim_colon	FusionHunter	0.53
+sim_50	sim_colon	JAFFA-Assembly	0.44
+sim_50	sim_heart	STAR-Fusion	0.77
+sim_50	sim_heart	ChimPipe	0.71
+sim_50	sim_heart	InFusion	0.70
+sim_50	sim_heart	SOAP-fuse	0.69
+sim_50	sim_heart	nFuse	0.67
+sim_50	sim_heart	ChimeraScan	0.64
+sim_50	sim_heart	PRADA	0.64
+sim_50	sim_heart	MapSplice	0.63
+sim_50	sim_heart	TopHat-Fusion	0.63
+sim_50	sim_heart	deFuse	0.63
+sim_50	sim_heart	FusionCatcher	0.59
+sim_50	sim_heart	EricScript	0.58
+sim_50	sim_heart	FusionHunter	0.55
+sim_50	sim_heart	JAFFA-Assembly	0.51
+sim_50	sim_testis	STAR-Fusion	0.72
+sim_50	sim_testis	nFuse	0.72
+sim_50	sim_testis	ChimPipe	0.70
+sim_50	sim_testis	ChimeraScan	0.69
+sim_50	sim_testis	InFusion	0.68
+sim_50	sim_testis	SOAP-fuse	0.68
+sim_50	sim_testis	deFuse	0.68
+sim_50	sim_testis	PRADA	0.67
+sim_50	sim_testis	MapSplice	0.63
+sim_50	sim_testis	FusionCatcher	0.62
+sim_50	sim_testis	TopHat-Fusion	0.62
+sim_50	sim_testis	FusionHunter	0.57
+sim_50	sim_testis	EricScript	0.55
+sim_50	sim_testis	JAFFA-Assembly	0.50
