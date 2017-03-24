@@ -142,7 +142,11 @@ The fusion predictions for each method and sample were scored accordingly:
 
 *  FN: a 'truth set' fusion prediction that was not identified as a TP.
 
-We refer to the above mode of scoring as 'strict'.  In addition, we applied alternative scoring methods 	Allow reverse:  Gene prediction A--B is considered a TP if the truth set includes either A--B or B--	Allow paralogs:  Gene prediction A--B is additionally considered a TP if the truth set includes A'--B' where A' is identified as a putative paralog of A, and likewise for B and B'.
+We refer to the above mode of scoring as 'strict'.  In addition, we applied alternative scoring methods
+
+* Allow reverse:  Gene prediction A--B is considered a TP if the truth set includes either A--B or B--A.
+
+*  Allow paralogs:  Gene prediction A--B is additionally considered a TP if the truth set includes A'--B' where A' is identified as a putative paralog of A, and likewise for B and B'.
 
 
 Results described in the STAR-Fusion manuscript for the simulated data are based on  'allow reverse' and 'allow reverse & allow paralogs', the latter providing for the most liberal assessment of fusion prediction accuracy.  For the cancer cell line accuracy, we report based on 'allow reverse', but results based on 'allow reverse & allow paralogs' are provided here as well.
