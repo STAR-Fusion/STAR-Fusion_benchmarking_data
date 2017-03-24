@@ -4,7 +4,7 @@
 
 Both simulated and genuine RNA-Seq data were leveraged for benchmarking fusion detection accuracy. Each data set is described below as an extension to the methods described in the STAR-Fusion manuscript.
 
-Simulated reads
+### Simulated reads
 
 Simulated chimeric transcripts were generated using custom scripts, developed and released as the Fusion Simulator Toolkit (https://FusionSimulatorToolkit.github.io).
 
