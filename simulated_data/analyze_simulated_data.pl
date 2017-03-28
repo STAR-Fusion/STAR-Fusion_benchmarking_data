@@ -74,7 +74,7 @@ main: {
     # map fusion predictions to gencode gene symbols based on identifiers or chromosomal coordinates.
     $cmd = "$benchmark_toolkit_basedir/map_gene_symbols_to_gencode.pl "
         . " preds.collected "
-        . " $benchmark_data_basedir/resources/genes.coords "
+        . " $benchmark_data_basedir/resources/genes.coords.gz "
         . " $benchmark_data_basedir/resources/genes.aliases "
         . " > preds.collected.gencode_mapped ";
 
