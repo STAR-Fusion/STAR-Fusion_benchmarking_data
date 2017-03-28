@@ -92,7 +92,9 @@ Here, J = number of junction (split) reads, and S = number of spanning fragments
 Many of the fusion prediction tools come with their own bundle of genome and annotation resources, which may contain gene symbols or coordinates that do not match up directly to the genome resources being used by the benchmarking analysis suite (Hg19 and Gencode v19).  In addition, it is sometimes the case that certain genes may overlap each other on the same genomic coordinates, and different programs may report different fusion partners based on similar if not identical fusion events.  To allow for more amenable comparisons among tools, we map gene fusion partners based on recognizable gene identifiers or based on Hg19 coordinate mappings to all overlapping genes in the Gencode v19 annotation set.  Any such overlapping gene is then allowed as an acceptable proxy for the 'true' fusion partner and scored as a TP.
 
 Gene coordinates were extracted from the genome resource bundles provided with the different fusion predictors and provided along with the reference Gencode v19 coordinates at: <https://github.com/STAR-Fusion/STAR-Fusion_benchmarking_data/blob/master/resources/genes.coords>
-For those genome bundles leveraging Hg38, coordinates were transformed to the Hg19 coordinate system using the UCSC LiftOver <https://genome-store.ucsc.edu/> utility.
+For those genome bundles leveraging Hg38, coordinates were transformed to the Hg19 coordinate system using the UCSC LiftOver <https://genome-store.ucsc.edu/> utility like so:
+
+     liftOver -gff hg38annotations.gtf hg38ToHg19.over.chain.gz liftover_to_Hg19.gtf unmapped.gtf
 
 In addition, Ensembl (ENSG-style) gene identifiers were converted to the more recognizable gene symbols (see file: <https://github.com/STAR-Fusion/STAR-Fusion_benchmarking_data/blob/master/resources/genes.aliases> ).
 
