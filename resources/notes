@@ -1,4 +1,11 @@
 
+## hg19 coordinate liftovers and gene symbol aliases:
+
+using: /home/unix/bhaas/FUS/util/make_hg19_gene_coords_file.pl  to extract liftover coords.
+
+
+## paralog clustering
+
 RepeatMasker-open-4-0-3/RepeatMasker/RepeatMasker -pa 6 -s -species human -xsmall ref_annot.cdna
 
 makeblastdb -in ref_annot.cdna.masked -dbtype nucl
