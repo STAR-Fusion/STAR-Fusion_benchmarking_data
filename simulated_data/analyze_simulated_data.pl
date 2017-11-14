@@ -47,10 +47,10 @@ my $usage = "\n\n\tusage: $0  sim.truth.dat sim.fusion_TPM_values.dat\n\n";
 
 
 my $sim_truth_set = $ARGV[0] or die $usage;
-my $sim_fusion_TPM_values = $ARGV[1] or die $usage;
+my $sim_fusion_TPM_values = $ARGV[1];
 
 $sim_truth_set = &ensure_full_path($sim_truth_set);
-$sim_fusion_TPM_values = &ensure_full_path($sim_fusion_TPM_values);
+$sim_fusion_TPM_values = &ensure_full_path($sim_fusion_TPM_values) if ($sim_fusion_TPM_values);
 
 
 my $benchmark_data_basedir = "$FindBin::Bin/..";
@@ -188,18 +188,21 @@ sub score_and_plot_replicates {
     &ROC_and_PR("all.scored");
         
     # examine sensitivity vs. expression level
-    
-    $cmd = "$benchmark_toolkit_basedir/fusion_preds_sensitivity_vs_expr.avg_replicates.pl all.scored $fusion_TPMs > all.scored.sensitivity_vs_expr.dat";
-    $pipeliner->add_commands(new Command($cmd, "sens_vs_expr.avg_reps.ok"));
 
-    $cmd = "$trinity_home/Analysis/DifferentialExpression/PtR  "
-        . " -m all.scored.sensitivity_vs_expr.dat "
-        . " --heatmap "
-        . " --sample_clust none --gene_clust ward "
-        . " --heatmap_colorscheme 'black,purple,yellow'";
-    $pipeliner->add_commands(new Command($cmd, "sens_expr_heatmap.ok"));
+    if ($fusion_TPMs) {
+        $cmd = "$benchmark_toolkit_basedir/fusion_preds_sensitivity_vs_expr.avg_replicates.pl all.scored $fusion_TPMs > all.scored.sensitivity_vs_expr.dat";
+        $pipeliner->add_commands(new Command($cmd, "sens_vs_expr.avg_reps.ok"));
         
-    $pipeliner->run();
+        $cmd = "$trinity_home/Analysis/DifferentialExpression/PtR  "
+            . " -m all.scored.sensitivity_vs_expr.dat "
+            . " --heatmap "
+            . " --sample_clust none --gene_clust ward "
+            . " --heatmap_colorscheme 'black,purple,yellow'";
+        $pipeliner->add_commands(new Command($cmd, "sens_expr_heatmap.ok"));
+        
+        $pipeliner->run();
+    }
+
     
     chdir $base_workdir or die "Error, cannot cd back to $base_workdir";
         
