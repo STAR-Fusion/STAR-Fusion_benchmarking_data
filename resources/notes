@@ -3,6 +3,15 @@
 
 using: /home/unix/bhaas/FUS/util/make_hg19_gene_coords_file.pl  to extract liftover coords.
 
+ie.
+
+    liftOver -gff ref_annot.gtf  /home/unix/bhaas/utilities/hg38ToHg19.over.chain.gz mapped unmapped
+    ~/GITHUB/CTAT_FUSIONS/FusionFilter/util/gtf_to_gene_spans.pl mapped > mapped.coords
+
+    then aggregate all coords across all hg19-transposed annotations:
+    Remake the coords and aliases files:
+    /home/unix/bhaas/FUS/util/make_hg19_gene_coords_file.pl
+
 
 ## paralog clustering
 
