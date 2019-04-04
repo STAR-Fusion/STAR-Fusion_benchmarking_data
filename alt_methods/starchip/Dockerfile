@@ -121,3 +121,15 @@ WORKDIR SRC
 RUN wget https://mafft.cbrc.jp/alignment/software/mafft_7.427-1_amd64.deb && \
     dpkg -i mafft_7.427-1_amd64.deb
 
+#########
+# Bedtools:
+
+RUN apt-get update && apt-get install -y python && apt-get clean
+
+WORKDIR SRC
+RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.28.0/bedtools-2.28.0.tar.gz && \
+     tar xvf bedtools-2.28.0.tar.gz && \
+     cd bedtools2 && \
+     make install
+
+
