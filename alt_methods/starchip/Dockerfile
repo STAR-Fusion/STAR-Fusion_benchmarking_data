@@ -114,3 +114,10 @@ RUN SAMTOOLS_URL="https://github.com/samtools/samtools/releases/download/${SAMTO
    cd ../ && ./configure --without-curses && make && make install
 
 
+#########
+# MAFFT
+
+WORKDIR SRC
+RUN wget https://mafft.cbrc.jp/alignment/software/mafft_7.427-1_amd64.deb && \
+    dpkg -i mafft_7.427-1_amd64.deb
+
