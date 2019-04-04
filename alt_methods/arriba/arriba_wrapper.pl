@@ -13,11 +13,17 @@ my $usage = <<__EOUSAGE__;
 
 #########################################################################
 #
+# Required:
+#
 # --left_reads <string>               left reads file (reads1.fastq.gz)
 # --right_reads <string>              right reads file (reads2.fastq.gz)
 # --arriba_singularity_img <string>   arriba singularity img
 # --arriba_references_dir <string>    arriba references directory
 # --output_dir <string>               output directory
+#
+# Optional:
+#
+# --mount <string>                    dirctory to mount
 #
 ########################################################################
 
@@ -34,7 +40,7 @@ my $right_reads;
 my $arriba_singularity_img;
 my $arriba_references_dir;
 my $output_dir;
-
+my $mount = "";
 
 &GetOptions ( 'h' => \$help_flag,
 
@@ -44,7 +50,9 @@ my $output_dir;
               'arriba_singularity_img=s' => \$arriba_singularity_img,
               'arriba_references_dir=s' => \$arriba_references_dir,
               'output_dir=s' => \$output_dir,
-              
+
+              # optional
+              'mount=s' => \$mount,
     );
 
 
@@ -56,6 +64,10 @@ unless($left_reads && $right_reads && $arriba_singularity_img && $arriba_referen
     die $usage;
 }
 
+if ($mount) {
+    $mount = &ensure_full_path($mount);
+    $mount = " -B $mount ";
+}
 
 $left_reads = &ensure_full_path($left_reads);
 $right_reads = &ensure_full_path($right_reads);
@@ -70,12 +82,12 @@ main: {
         &process_cmd("mkdir -p $output_dir");
     }
     
-    my $cmd = "singularity exec -e "
+    my $cmd = "singularity exec -e $mount"
             . " -B $output_dir:/output "
             . " -B $arriba_references_dir:/references:ro "
             . " -B $left_reads:/read1.fastq.gz:ro "
             . " -B $right_reads:/read2.fastq.gz:ro "
-            . " ../SINGULARITY/arriba-1.1.0.simg arriba.sh ";
+            . " $arriba_singularity_img arriba.sh ";
     
     &process_cmd($cmd);
     
