@@ -77,8 +77,19 @@ main: {
     }
     chdir($output_dir) or die "Error, cannot cd to $output_dir";
 
-    ## Run STAR:
-    my $cmd = "STAR --genomeDir $star_index_dir "
+    &Pipeliner::process_cmd("ln -sf /usr/local/src/reference .");
+
+
+    {
+        #############################
+        ## mini pipeline for starchip
+        #############################
+        
+        my $chkpt_dir = "__starchip_chkpts";
+        my $pipeliner = new Pipeliner( '-checkpoint_dir' => $chkpt_dir );
+        
+        ## Run STAR:
+        my $cmd = "STAR --genomeDir $star_index_dir "
             . " --readFilesIn $left_fq $right_fq "
             . " --outReadsUnmapped Fastx "
             . " --quantMode GeneCounts "
@@ -87,20 +98,22 @@ main: {
             . " --outSAMstrandField intronMotif "
             . " --readFilesCommand zcat "
             . " --outSAMtype BAM Unsorted ";
+        
+        
+        $pipeliner->add_commands( new Command($cmd, "star_align.ok") );
+        
+        ## run STARChip
+        
+        $cmd = "/usr/local/src/starchip-1.3e/starchip-fusions.pl $output_token Chimeric.out.junction $starchip_reference_dirname/hg19.parameters.txt";
+        
+        $pipeliner->add_commands( new Command($cmd, "starchip.ok") );
+        
+        $pipeliner->run();
+    }
 
-    my $chkpt_dir = "__starchip_chkpts";
-    my $pipeliner = new Pipeliner( '-checkpoint_dir' => $chkpt_dir );
     
-    $pipeliner->add_commands( new Command($cmd, "star_align.ok") );
-
-    ## run STARChip
+    unlink("reference");
     
-    $cmd = "/usr/local/src/starchip-1.3e/starchip-fusions.pl $output_token Chimeric.out.junction $starchip_reference_dirname/hg19.parameters.txt";
-    
-    $pipeliner->add_commands( new Command($cmd, "starchip.ok") );
-
-    $pipeliner->run();
-
     exit(0);
 
 }
