@@ -146,3 +146,5 @@ RUN STAR_URL="https://github.com/alexdobin/STAR/archive/${STAR_VERSION}.tar.gz" 
 
 RUN apt-get clean
 
+COPY starchip_wrapper.pl Pipeliner.pm /usr/local/bin/
+

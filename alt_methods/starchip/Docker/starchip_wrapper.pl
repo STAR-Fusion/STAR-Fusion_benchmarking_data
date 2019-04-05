@@ -6,7 +6,7 @@ use Carp;
 use Getopt::Long qw(:config posix_default no_ignore_case bundling pass_through);
 use File::Basename;
 use FindBin;
-use lib ("$FindBin::Bin/PerlLib");
+use lib ("$FindBin::Bin");
 use Pipeliner;
 
 
@@ -70,10 +70,10 @@ main: {
     
     my $starchip_reference_dirname = dirname($starchip_parameters_file);
      
-    my $star_index_dir = "$starchip_parameters_file/ref_genome.fa.star.idx";
+    my $star_index_dir = "$starchip_reference_dirname/ref_genome.fa.star.idx";
     
     if (! -d $output_dir) {
-        &process_cmd("mkdir -p $output_dir");
+        &Pipeliner::process_cmd("mkdir -p $output_dir");
     }
     chdir($output_dir) or die "Error, cannot cd to $output_dir";
 
