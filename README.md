@@ -28,6 +28,21 @@ Cancer cell line RNA-Seq data were obtained from the Cancer Cell Line Encycloped
 20M PE reads were randomly sampled from each data set using reservoir sampling (as implemented in: <https://github.com/trinityrnaseq/trinityrnaseq/blob/master/util/misc/fastQ_rand_subset.pl> ), and all reads evaluated as part of this study are available here:
 <https://data.broadinstitute.org/Trinity/STAR_FUSION_PAPER/SupplementaryData/cancer_cell_lines/FASTQ/>
 
+```
+Note, above data moved to Zenodo
+
+Simulated and cancer cell line reads and related predictions are uploaded to Zenodo at:
+
+sim50 PE reads: https://zenodo.org/records/13354907
+sim101 PE reads: https://zenodo.org/records/13359589
+
+>note, the sim50 site includes the template full-length fusion target transcript sequences.
+
+cancer cell lines: https://zenodo.org/records/13363154
+
+```
+
+
 
 ### Benchmarking scripts and computational methods
 
